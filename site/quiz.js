@@ -10,7 +10,7 @@ const { statements, keys: ALL_KEYS, dolls } = DATA;
 // Tuning, kept identical to quiz.py.
 const ALPHA = 0.35;
 const MIN_QUESTIONS = 10;
-const MAX_QUESTIONS = 25;
+const MAX_QUESTIONS = 40;
 const LEAD_RATIO = 10.0;
 
 /* ---------- algorithm ---------- */
