@@ -171,6 +171,16 @@ function answer(value) {
   nextQuestion();
 }
 
+// Neutral / skip: mark the question as asked so it won't recur, but never write
+// it to `answered`. Distance is summed only over answered keys, so a skip stays
+// out of the math entirely and the probabilities are unchanged.
+function skip() {
+  const q = state.currentQ;
+  state.asked.add(q);
+  state.history.push(q);
+  nextQuestion();
+}
+
 function goBack() {
   if (state.history.length === 0) return;
   const last = state.history.pop();
@@ -234,7 +244,7 @@ document.getElementById("btn-restart").addEventListener("click", startQuiz);
 document.getElementById("btn-restart-q").addEventListener("click", startQuiz);
 document.getElementById("btn-back").addEventListener("click", goBack);
 
-document.querySelectorAll(".ans").forEach(btn => {
+document.querySelectorAll(".ans[data-value]").forEach(btn => {
   btn.addEventListener("click", () => {
     btn.classList.add("flash");
     setTimeout(() => btn.classList.remove("flash"), 320);
@@ -242,12 +252,22 @@ document.querySelectorAll(".ans").forEach(btn => {
   });
 });
 
-// Keyboard: 1-4 to answer, Backspace to go back.
+const skipBtn = document.getElementById("btn-skip");
+skipBtn.addEventListener("click", () => {
+  skipBtn.classList.add("flash");
+  setTimeout(() => skipBtn.classList.remove("flash"), 320);
+  skip();
+});
+
+// Keyboard: 1-4 to answer, 0/space to skip, Backspace to go back.
 document.addEventListener("keydown", (e) => {
   if (!screens.quiz.classList.contains("is-active")) return;
   if (["1", "2", "3", "4"].includes(e.key)) {
     const btn = document.querySelector(`.ans[data-value="${e.key}"]`);
     if (btn) btn.click();
+  } else if (e.key === "0" || e.key === " ") {
+    e.preventDefault();
+    skipBtn.click();
   } else if (e.key === "Backspace") {
     e.preventDefault();
     goBack();
