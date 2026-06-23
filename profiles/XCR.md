@@ -1,3 +1,0 @@
-## XCR
-
-*No quotes available.*

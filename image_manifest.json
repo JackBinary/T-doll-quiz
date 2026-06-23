@@ -1,0 +1,1594 @@
+{
+  "43M": {
+    "local": "doll_images/43M.png",
+    "source": "local_cg"
+  },
+  "6P62": {
+    "local": "doll_images/6P62.png",
+    "source": "local_cg"
+  },
+  "9A-91": {
+    "local": "doll_images/9A-91.png",
+    "source": "local_cg"
+  },
+  "A-545": {
+    "local": "doll_images/A-545.png",
+    "source": "local_cg"
+  },
+  "A-91": {
+    "local": "doll_images/A-91.png",
+    "source": "local_cg"
+  },
+  "AA-12": {
+    "local": "doll_images/AA-12_(Lind).png",
+    "source": "local_cg"
+  },
+  "AAT-52": {
+    "local": "doll_images/AAT-52.png",
+    "source": "local_cg"
+  },
+  "ACR": {
+    "local": "doll_images/ACR.png",
+    "source": "local_cg"
+  },
+  "ADS": {
+    "local": "doll_images/ADS.png",
+    "source": "local_cg"
+  },
+  "AEK-999": {
+    "local": "doll_images/AEK-999.png",
+    "source": "local_cg"
+  },
+  "AK-12": {
+    "local": "doll_images/AK-12.png",
+    "source": "local_cg"
+  },
+  "AK-15": {
+    "local": "doll_images/AK-15_(Voymastina).png",
+    "source": "local_cg"
+  },
+  "AK-47": {
+    "local": "doll_images/AK-47.png",
+    "source": "local_cg"
+  },
+  "AK-74M": {
+    "local": "doll_images/AK-74M.png",
+    "source": "local_cg"
+  },
+  "AK-74U": {
+    "local": "doll_images/AK-74U.png",
+    "source": "local_cg"
+  },
+  "AK-Alfa": {
+    "local": "doll_images/AK-Alfa_(Tololo).png",
+    "source": "local_cg"
+  },
+  "AN-94": {
+    "local": "doll_images/AN-94_(Alva).png",
+    "source": "local_cg"
+  },
+  "APC556": {
+    "local": "doll_images/APC556.png",
+    "source": "local_cg"
+  },
+  "APC9K": {
+    "local": "doll_images/APC9K.png",
+    "source": "local_cg"
+  },
+  "AR-18": {
+    "local": "doll_images/AR-18.png",
+    "source": "local_cg"
+  },
+  "AR-57": {
+    "local": "doll_images/AR-57.png",
+    "source": "local_cg"
+  },
+  "AR70": {
+    "local": "doll_images/AR70.png",
+    "source": "local_cg"
+  },
+  "ART556": {
+    "local": "doll_images/ART556.png",
+    "source": "local_cg"
+  },
+  "ARX-160": {
+    "local": "doll_images/ARX-160.png",
+    "source": "local_cg"
+  },
+  "AS Val": {
+    "local": "doll_images/AS_Val.png",
+    "source": "local_cg"
+  },
+  "ASh-12.7": {
+    "local": "doll_images/ASh-12.7.png",
+    "source": "local_cg"
+  },
+  "AUG Para": {
+    "local": "doll_images/AUG_Para.png",
+    "source": "local_cg"
+  },
+  "AUG": {
+    "local": "doll_images/AUG.png",
+    "source": "local_cg"
+  },
+  "Ak 5": {
+    "local": "doll_images/Ak_5.png",
+    "source": "local_cg"
+  },
+  "Ameli": {
+    "local": "doll_images/Ameli.png",
+    "source": "local_cg"
+  },
+  "Astra Revolver": {
+    "local": "doll_images/Astra_Revolver.png",
+    "source": "local_cg"
+  },
+  "BM59": {
+    "local": "doll_images/BM59.png",
+    "source": "local_cg"
+  },
+  "Ballista": {
+    "local": "doll_images/Ballista.png",
+    "source": "local_cg"
+  },
+  "Beowulf": {
+    "local": "doll_images/Beowulf.png",
+    "source": "local_cg"
+  },
+  "Beretta Model 38": {
+    "local": "doll_images/Beretta_Model_38.png",
+    "source": "local_cg"
+  },
+  "Boys AT Rifle": {
+    "local": "doll_images/Boys_AT_Rifle.png",
+    "source": "local_cg"
+  },
+  "Bren Ten": {
+    "local": "doll_images/Bren_Ten.png",
+    "source": "local_cg"
+  },
+  "Bren": {
+    "local": "doll_images/Bren_Ten.png",
+    "source": "local_cg"
+  },
+  "C-93": {
+    "local": "doll_images/C-93.png",
+    "source": "local_cg"
+  },
+  "C-MS": {
+    "local": "doll_images/C-MS.png",
+    "source": "local_cg"
+  },
+  "C14": {
+    "local": "doll_images/C14.png",
+    "source": "local_cg"
+  },
+  "C96": {
+    "local": "doll_images/C96.png",
+    "source": "local_cg"
+  },
+  "CAR": {
+    "local": "doll_images/CAR.png",
+    "source": "local_cg"
+  },
+  "CAWS": {
+    "local": "doll_images/CAWS.png",
+    "source": "local_cg"
+  },
+  "CF05": {
+    "local": "doll_images/CF05.png",
+    "source": "local_cg"
+  },
+  "CM901": {
+    "local": "doll_images/CM901.png",
+    "source": "local_cg"
+  },
+  "CMR-30": {
+    "local": "doll_images/CMR-30.png",
+    "source": "local_cg"
+  },
+  "CR-21": {
+    "local": "doll_images/CR-21.png",
+    "source": "local_cg"
+  },
+  "CZ 100": {
+    "local": "doll_images/CZ_100.png",
+    "source": "local_cg"
+  },
+  "CZ-805": {
+    "local": "doll_images/CZ-805.png",
+    "source": "local_cg"
+  },
+  "CZ2000": {
+    "local": "doll_images/CZ2000.png",
+    "source": "local_cg"
+  },
+  "CZ52": {
+    "local": "doll_images/CZ52.png",
+    "source": "local_cg"
+  },
+  "CZ75": {
+    "local": "doll_images/CZ75_(Faye).png",
+    "source": "local_cg"
+  },
+  "Carcano M1891": {
+    "local": "doll_images/Carcano_M1891.png",
+    "source": "local_cg"
+  },
+  "Chauchat": {
+    "local": "doll_images/Chauchat.png",
+    "source": "local_cg"
+  },
+  "Colt M1851N": {
+    "local": "doll_images/Colt_M1851N.png",
+    "source": "local_cg"
+  },
+  "Colt Revolver": {
+    "local": "doll_images/Colt_Revolver.png",
+    "source": "local_cg"
+  },
+  "Colt Walker": {
+    "local": "doll_images/Colt_Walker.png",
+    "source": "local_cg"
+  },
+  "Contender": {
+    "local": "doll_images/Contender.png",
+    "source": "local_cg"
+  },
+  "Cx4 Storm": {
+    "local": "doll_images/Cx4_Storm.png",
+    "source": "local_cg"
+  },
+  "DP-12": {
+    "local": "doll_images/DP-12_(Helen).png",
+    "source": "local_cg"
+  },
+  "DP28": {
+    "local": "doll_images/DP28.png",
+    "source": "local_cg"
+  },
+  "DSR-50": {
+    "local": "doll_images/DSR-50.png",
+    "source": "local_cg"
+  },
+  "De Lisle": {
+    "local": "doll_images/De_Lisle.png",
+    "source": "local_cg"
+  },
+  "Defender": {
+    "local": "doll_images/Defender.png",
+    "source": "local_cg"
+  },
+  "Derringer": {
+    "local": "doll_images/Derringer.png",
+    "source": "local_cg"
+  },
+  "Desert Eagle": {
+    "local": "doll_images/Desert_Eagle.png",
+    "source": "local_cg"
+  },
+  "EM-2": {
+    "local": "doll_images/EM-2.png",
+    "source": "local_cg"
+  },
+  "EVO 3": {
+    "local": "doll_images/EVO_3.png",
+    "source": "local_cg"
+  },
+  "Erma": {
+    "local": "doll_images/Erma.png",
+    "source": "local_cg"
+  },
+  "F1": {
+    "local": "doll_images/F1.png",
+    "source": "local_cg"
+  },
+  "F2000": {
+    "local": "doll_images/F2000.png",
+    "source": "local_cg"
+  },
+  "FAL": {
+    "local": "doll_images/FAL.png",
+    "source": "local_cg"
+  },
+  "FAMAS": {
+    "local": "doll_images/FAMAS.png",
+    "source": "local_cg"
+  },
+  "FARA 83": {
+    "local": "doll_images/FARA_83.png",
+    "source": "local_cg"
+  },
+  "FG42": {
+    "local": "doll_images/FG42.png",
+    "source": "local_cg"
+  },
+  "FM24": {
+    "local": "doll_images/FM24.png",
+    "source": "local_cg"
+  },
+  "FMG-9": {
+    "local": "doll_images/FMG-9.png",
+    "source": "local_cg"
+  },
+  "FN-49": {
+    "local": "doll_images/FN-49.png",
+    "source": "local_cg"
+  },
+  "FNC": {
+    "local": "doll_images/FNC.png",
+    "source": "local_cg"
+  },
+  "FNP-9": {
+    "local": "doll_images/FNP-9.png",
+    "source": "local_cg"
+  },
+  "FO-12": {
+    "local": "doll_images/FO-12.png",
+    "source": "local_cg"
+  },
+  "FP-6": {
+    "local": "doll_images/FP-6.png",
+    "source": "local_cg"
+  },
+  "FX-05": {
+    "local": "doll_images/FX-05.png",
+    "source": "local_cg"
+  },
+  "Falcon": {
+    "local": "doll_images/Falcon.png",
+    "source": "local_cg"
+  },
+  "Fedorov": {
+    "local": "doll_images/Fedorov.png",
+    "source": "local_cg"
+  },
+  "Five-seveN": {
+    "local": "doll_images/Five-seveN.png",
+    "source": "local_cg"
+  },
+  "G11": {
+    "local": "doll_images/G11_(Mechty).png",
+    "source": "local_cg"
+  },
+  "G28": {
+    "local": "doll_images/G28_(Belka).png",
+    "source": "local_cg"
+  },
+  "G3": {
+    "local": "doll_images/G3.png",
+    "source": "local_cg"
+  },
+  "G36": {
+    "local": "doll_images/G36_(Centaureissi).png",
+    "source": "local_cg"
+  },
+  "G36C": {
+    "local": "doll_images/G36C.png",
+    "source": "local_cg"
+  },
+  "G41": {
+    "local": "doll_images/G41.png",
+    "source": "local_cg"
+  },
+  "G43": {
+    "local": "doll_images/G43.png",
+    "source": "local_cg"
+  },
+  "GM6 Lynx": {
+    "local": "doll_images/GM6_Lynx.png",
+    "source": "local_cg"
+  },
+  "GSh-18": {
+    "local": "doll_images/GSh-18.png",
+    "source": "local_cg"
+  },
+  "Galil": {
+    "local": "doll_images/Galil.png",
+    "source": "local_cg"
+  },
+  "General Liu": {
+    "local": "doll_images/General_Liu.png",
+    "source": "local_cg"
+  },
+  "Gepard M1": {
+    "local": "doll_images/Gepard_M1.png",
+    "source": "local_cg"
+  },
+  "Glock 17": {
+    "local": "doll_images/Glock_17.png",
+    "source": "local_cg"
+  },
+  "Grizzly MkV": {
+    "local": "doll_images/Grizzly_MkV.png",
+    "source": "local_cg"
+  },
+  "HK21": {
+    "local": "doll_images/HK21.png",
+    "source": "local_cg"
+  },
+  "HK23": {
+    "local": "doll_images/HK23.png",
+    "source": "local_cg"
+  },
+  "HK33": {
+    "local": "doll_images/HK33.png",
+    "source": "local_cg"
+  },
+  "HK416": {
+    "local": "doll_images/HK416_(Klukai).png",
+    "source": "local_cg"
+  },
+  "HK433": {
+    "local": "doll_images/HK433.png",
+    "source": "local_cg"
+  },
+  "HK45": {
+    "local": "doll_images/HK45.png",
+    "source": "local_cg"
+  },
+  "HK512": {
+    "local": "doll_images/HK512.png",
+    "source": "local_cg"
+  },
+  "HP-35": {
+    "local": "doll_images/HP-35.png",
+    "source": "local_cg"
+  },
+  "HS.50": {
+    "local": "doll_images/HS.50.png",
+    "source": "local_cg"
+  },
+  "HS2000": {
+    "local": "doll_images/HS2000.png",
+    "source": "local_cg"
+  },
+  "HSM10": {
+    "local": "doll_images/HSM10.png",
+    "source": "local_cg"
+  },
+  "Hanyang Type 88": {
+    "local": "doll_images/Hanyang_Type_88.png",
+    "source": "local_cg"
+  },
+  "Hecate II": {
+    "local": "doll_images/Hecate_II.png",
+    "source": "local_cg"
+  },
+  "Honey Badger": {
+    "local": "doll_images/Honey_Badger.png",
+    "source": "local_cg"
+  },
+  "Howa Type 64": {
+    "local": "doll_images/Howa_Type_64.png",
+    "source": "local_cg"
+  },
+  "Howa Type 89": {
+    "local": "doll_images/Howa_Type_89.png",
+    "source": "local_cg"
+  },
+  "IDW": {
+    "local": "doll_images/IDW.png",
+    "source": "local_cg"
+  },
+  "INSAS": {
+    "local": "doll_images/INSAS.png",
+    "source": "local_cg"
+  },
+  "IWS 2000": {
+    "local": "doll_images/IWS_2000.png",
+    "source": "local_cg"
+  },
+  "JS 9": {
+    "local": "doll_images/JS_9.png",
+    "source": "local_cg"
+  },
+  "JS05": {
+    "local": "doll_images/JS05.png",
+    "source": "local_cg"
+  },
+  "Jatimatic": {
+    "local": "doll_images/Jatimatic.png",
+    "source": "local_cg"
+  },
+  "Jericho": {
+    "local": "doll_images/Jericho.png",
+    "source": "local_cg"
+  },
+  "K11": {
+    "local": "doll_images/K11.png",
+    "source": "local_cg"
+  },
+  "K2": {
+    "local": "doll_images/K2_(Yoohee).png",
+    "source": "local_cg"
+  },
+  "K3": {
+    "local": "doll_images/K3.png",
+    "source": "local_cg"
+  },
+  "K31": {
+    "local": "doll_images/K31.png",
+    "source": "local_cg"
+  },
+  "K5": {
+    "local": "doll_images/K5.png",
+    "source": "local_cg"
+  },
+  "KAC-PDW": {
+    "local": "doll_images/KAC-PDW.png",
+    "source": "local_cg"
+  },
+  "KH2002": {
+    "local": "doll_images/KH2002.png",
+    "source": "local_cg"
+  },
+  "KLIN": {
+    "local": "doll_images/KLIN.png",
+    "source": "local_cg"
+  },
+  "KS-23": {
+    "local": "doll_images/KS-23.png",
+    "source": "local_cg"
+  },
+  "KSG": {
+    "local": "doll_images/KSG.png",
+    "source": "local_cg"
+  },
+  "KSVK": {
+    "local": "doll_images/KSVK.png",
+    "source": "local_cg"
+  },
+  "Kar98k": {
+    "local": "doll_images/Kar98k.png",
+    "source": "local_cg"
+  },
+  "Kolibri": {
+    "local": "doll_images/Kolibri.png",
+    "source": "local_cg"
+  },
+  "Kord": {
+    "local": "doll_images/Kord.png",
+    "source": "local_cg"
+  },
+  "L85A1": {
+    "local": "doll_images/L85A1.png",
+    "source": "local_cg"
+  },
+  "LAMG": {
+    "local": "doll_images/LAMG.png",
+    "source": "local_cg"
+  },
+  "LS26": {
+    "local": "doll_images/LS26.png",
+    "source": "local_cg"
+  },
+  "LTLX 7000": {
+    "local": "doll_images/LTLX_7000.png",
+    "source": "local_cg"
+  },
+  "LWMMG": {
+    "local": "doll_images/LWMMG.png",
+    "source": "local_cg"
+  },
+  "Lee-Enfield": {
+    "local": "doll_images/Lee-Enfield.png",
+    "source": "local_cg"
+  },
+  "Lewis": {
+    "local": "doll_images/Lewis.png",
+    "source": "local_cg"
+  },
+  "Liberator": {
+    "local": "doll_images/Liberator.png",
+    "source": "local_cg"
+  },
+  "Lusa": {
+    "local": "doll_images/Lusa.png",
+    "source": "local_cg"
+  },
+  "M1 Garand": {
+    "local": "doll_images/M1_Garand.png",
+    "source": "local_cg"
+  },
+  "M1014": {
+    "local": "doll_images/M1014.png",
+    "source": "local_cg"
+  },
+  "M110": {
+    "local": "doll_images/M110.png",
+    "source": "local_cg"
+  },
+  "M12": {
+    "local": "doll_images/M12.png",
+    "source": "local_cg"
+  },
+  "M14": {
+    "local": "doll_images/M14.png",
+    "source": "local_cg"
+  },
+  "M16A1": {
+    "local": "doll_images/M16A1.png",
+    "source": "local_cg"
+  },
+  "M1887": {
+    "local": "doll_images/M1887.png",
+    "source": "local_cg"
+  },
+  "M1895 CB": {
+    "local": "doll_images/M1895_CB.png",
+    "source": "local_cg"
+  },
+  "M1897": {
+    "local": "doll_images/M1897.png",
+    "source": "local_cg"
+  },
+  "M1911": {
+    "local": "doll_images/M1911.png",
+    "source": "local_cg"
+  },
+  "M1918": {
+    "local": "doll_images/M1918.png",
+    "source": "local_cg"
+  },
+  "M1919A4": {
+    "local": "doll_images/M1919A4.png",
+    "source": "local_cg"
+  },
+  "M1A1": {
+    "local": "doll_images/M1A1.png",
+    "source": "local_cg"
+  },
+  "M200": {
+    "local": "doll_images/M200.png",
+    "source": "local_cg"
+  },
+  "M21": {
+    "local": "doll_images/M21.png",
+    "source": "local_cg"
+  },
+  "M240L": {
+    "local": "doll_images/M240L.png",
+    "source": "local_cg"
+  },
+  "M249 SAW": {
+    "local": "doll_images/M249_SAW.png",
+    "source": "local_cg"
+  },
+  "M26-MASS": {
+    "local": "doll_images/M26-MASS.png",
+    "source": "local_cg"
+  },
+  "M2HB": {
+    "local": "doll_images/M2HB.png",
+    "source": "local_cg"
+  },
+  "M3": {
+    "local": "doll_images/M327.png",
+    "source": "local_cg"
+  },
+  "M327": {
+    "local": "doll_images/M327.png",
+    "source": "local_cg"
+  },
+  "M37": {
+    "local": "doll_images/M37.png",
+    "source": "local_cg"
+  },
+  "M4 SOPMOD II": {
+    "local": "doll_images/M4_SOPMOD_II.png",
+    "source": "local_cg"
+  },
+  "M4A1": {
+    "local": "doll_images/M4A1.png",
+    "source": "local_cg"
+  },
+  "M500": {
+    "local": "doll_images/M500.png",
+    "source": "local_cg"
+  },
+  "M590": {
+    "local": "doll_images/M590.png",
+    "source": "local_cg"
+  },
+  "M6 ASW": {
+    "local": "doll_images/M6_ASW.png",
+    "source": "local_cg"
+  },
+  "M60": {
+    "local": "doll_images/M60.png",
+    "source": "local_cg"
+  },
+  "M82": {
+    "local": "doll_images/M82.png",
+    "source": "local_cg"
+  },
+  "M82A1": {
+    "local": "doll_images/M82A1.png",
+    "source": "local_cg"
+  },
+  "M870": {
+    "local": "doll_images/M870.png",
+    "source": "local_cg"
+  },
+  "M9": {
+    "local": "doll_images/M9.png",
+    "source": "local_cg"
+  },
+  "M950A": {
+    "local": "doll_images/M950A.png",
+    "source": "local_cg"
+  },
+  "M99": {
+    "local": "doll_images/M99.png",
+    "source": "local_cg"
+  },
+  "MAC-10": {
+    "local": "doll_images/MAC-10.png",
+    "source": "local_cg"
+  },
+  "MAG-7": {
+    "local": "doll_images/MAG-7.png",
+    "source": "local_cg"
+  },
+  "MAS-38": {
+    "local": "doll_images/MAS-38.png",
+    "source": "local_cg"
+  },
+  "MAT-49": {
+    "local": "doll_images/MAT-49.png",
+    "source": "local_cg"
+  },
+  "MDR": {
+    "local": "doll_images/MDR.png",
+    "source": "local_cg"
+  },
+  "MG3": {
+    "local": "doll_images/MG3.png",
+    "source": "local_cg"
+  },
+  "MG338": {
+    "local": "doll_images/MG338.png",
+    "source": "local_cg"
+  },
+  "MG34": {
+    "local": "doll_images/MG34.png",
+    "source": "local_cg"
+  },
+  "MG36": {
+    "local": "doll_images/MG36.png",
+    "source": "local_cg"
+  },
+  "MG4": {
+    "local": "doll_images/MG4.png",
+    "source": "local_cg"
+  },
+  "MG42": {
+    "local": "doll_images/MG42.png",
+    "source": "local_cg"
+  },
+  "MG5": {
+    "local": "doll_images/MG5.png",
+    "source": "local_cg"
+  },
+  "MK3A1": {
+    "local": "doll_images/MK3A1.png",
+    "source": "local_cg"
+  },
+  "MP-443": {
+    "local": "doll_images/MP-443.png",
+    "source": "local_cg"
+  },
+  "MP-446": {
+    "local": "doll_images/MP-446.png",
+    "source": "local_cg"
+  },
+  "MP-448": {
+    "local": "doll_images/MP-448.png",
+    "source": "local_cg"
+  },
+  "MP40": {
+    "local": "doll_images/MP40.png",
+    "source": "local_cg"
+  },
+  "MP41": {
+    "local": "doll_images/MP41.png",
+    "source": "local_cg"
+  },
+  "MP5": {
+    "local": "doll_images/MP5_(Peri).png",
+    "source": "local_cg"
+  },
+  "MP7": {
+    "local": "doll_images/MP7_(Cheeta).png",
+    "source": "local_cg"
+  },
+  "MPK": {
+    "local": "doll_images/MPK.png",
+    "source": "local_cg"
+  },
+  "MPL": {
+    "local": "doll_images/MPL.png",
+    "source": "local_cg"
+  },
+  "MSBS": {
+    "local": "doll_images/MSBS.png",
+    "source": "local_cg"
+  },
+  "MT-9": {
+    "local": "doll_images/MT-9.png",
+    "source": "local_cg"
+  },
+  "Magal": {
+    "local": "doll_images/Magal.png",
+    "source": "local_cg"
+  },
+  "Makarov": {
+    "local": "doll_images/Makarov.png",
+    "source": "local_cg"
+  },
+  "Martini-Henry": {
+    "local": "doll_images/Martini-Henry.png",
+    "source": "local_cg"
+  },
+  "Maxim 9": {
+    "local": "doll_images/Maxim_9.png",
+    "source": "local_cg"
+  },
+  "Micro Uzi": {
+    "local": "doll_images/Micro_Uzi.png",
+    "source": "local_cg"
+  },
+  "Mini-14": {
+    "local": "doll_images/Mini-14.png",
+    "source": "local_cg"
+  },
+  "Mk 12": {
+    "local": "doll_images/Mk_12.png",
+    "source": "local_cg"
+  },
+  "Mk.18": {
+    "local": "doll_images/Mk.18.png",
+    "source": "local_cg"
+  },
+  "Mk23": {
+    "local": "doll_images/Mk23.png",
+    "source": "local_cg"
+  },
+  "Mk46": {
+    "local": "doll_images/Mk46.png",
+    "source": "local_cg"
+  },
+  "Mk48": {
+    "local": "doll_images/Mk48.png",
+    "source": "local_cg"
+  },
+  "Model L": {
+    "local": "doll_images/Model_L.png",
+    "source": "local_cg"
+  },
+  "Mondragon": {
+    "local": "doll_images/Mondragon.png",
+    "source": "local_cg"
+  },
+  "Mosin-Nagant": {
+    "local": "doll_images/Mosin-Nagant.png",
+    "source": "local_cg"
+  },
+  "NS2000": {
+    "local": "doll_images/NS2000.png",
+    "source": "local_cg"
+  },
+  "NTW-20": {
+    "local": "doll_images/NTW-20.png",
+    "source": "local_cg"
+  },
+  "NZ75": {
+    "local": "doll_images/NZ75.png",
+    "source": "local_cg"
+  },
+  "Nagant Revolver": {
+    "local": "doll_images/Nagant_Revolver.png",
+    "source": "local_cg"
+  },
+  "Negev": {
+    "local": "doll_images/Negev.png",
+    "source": "local_cg"
+  },
+  "OBR": {
+    "local": "doll_images/OBR.png",
+    "source": "local_cg"
+  },
+  "OTs-12": {
+    "local": "doll_images/OTs-12.png",
+    "source": "local_cg"
+  },
+  "OTs-14": {
+    "local": "doll_images/OTs-14_(Groza).png",
+    "source": "local_cg"
+  },
+  "OTs-39": {
+    "local": "doll_images/OTs-39.png",
+    "source": "local_cg"
+  },
+  "OTs-44": {
+    "local": "doll_images/OTs-44.png",
+    "source": "local_cg"
+  },
+  "Owen": {
+    "local": "doll_images/Owen.png",
+    "source": "local_cg"
+  },
+  "P08": {
+    "local": "doll_images/P08.png",
+    "source": "local_cg"
+  },
+  "P10C": {
+    "local": "doll_images/P10C.png",
+    "source": "local_cg"
+  },
+  "P2000": {
+    "local": "doll_images/P2000.png",
+    "source": "local_cg"
+  },
+  "P22": {
+    "local": "doll_images/P22.png",
+    "source": "local_cg"
+  },
+  "P226": {
+    "local": "doll_images/P226.png",
+    "source": "local_cg"
+  },
+  "P290": {
+    "local": "doll_images/P290.png",
+    "source": "local_cg"
+  },
+  "P30": {
+    "local": "doll_images/P30.png",
+    "source": "local_cg"
+  },
+  "P38": {
+    "local": "doll_images/P38.png",
+    "source": "local_cg"
+  },
+  "P50": {
+    "local": "doll_images/P50.png",
+    "source": "local_cg"
+  },
+  "P7": {
+    "local": "doll_images/P7.png",
+    "source": "local_cg"
+  },
+  "P90": {
+    "local": "doll_images/P90.png",
+    "source": "local_cg"
+  },
+  "P99": {
+    "local": "doll_images/P99.png",
+    "source": "local_cg"
+  },
+  "PA-15": {
+    "local": "doll_images/PA-15_(Florence).png",
+    "source": "local_cg"
+  },
+  "PK": {
+    "local": "doll_images/PK.png",
+    "source": "local_cg"
+  },
+  "PKP": {
+    "local": "doll_images/PKP.png",
+    "source": "local_cg"
+  },
+  "PM-06": {
+    "local": "doll_images/PM-06.png",
+    "source": "local_cg"
+  },
+  "PM-9": {
+    "local": "doll_images/PM-9.png",
+    "source": "local_cg"
+  },
+  "PM1910": {
+    "local": "doll_images/PM1910.png",
+    "source": "local_cg"
+  },
+  "PP-19-01": {
+    "local": "doll_images/PP-19-01.png",
+    "source": "local_cg"
+  },
+  "PP-19": {
+    "local": "doll_images/PP-19.png",
+    "source": "local_cg"
+  },
+  "PP-2000": {
+    "local": "doll_images/PP-2000.png",
+    "source": "local_cg"
+  },
+  "PP-90": {
+    "local": "doll_images/PP-90.png",
+    "source": "local_cg"
+  },
+  "PPD-40": {
+    "local": "doll_images/PPD-40.png",
+    "source": "local_cg"
+  },
+  "PPK": {
+    "local": "doll_images/PPK.png",
+    "source": "local_cg"
+  },
+  "PPQ": {
+    "local": "doll_images/PPQ.png",
+    "source": "local_cg"
+  },
+  "PPS-43": {
+    "local": "doll_images/PPS-43.png",
+    "source": "local_cg"
+  },
+  "PPSh-41": {
+    "local": "doll_images/PPSh-41_(Papasha).png",
+    "source": "local_cg"
+  },
+  "PSG-1": {
+    "local": "doll_images/PSG-1.png",
+    "source": "local_cg"
+  },
+  "PSM": {
+    "local": "doll_images/PSM.png",
+    "source": "local_cg"
+  },
+  "PTRD": {
+    "local": "doll_images/PTRD.png",
+    "source": "local_cg"
+  },
+  "Px4 Storm": {
+    "local": "doll_images/Px4_Storm.png",
+    "source": "local_cg"
+  },
+  "Python": {
+    "local": "doll_images/Python.png",
+    "source": "local_cg"
+  },
+  "PzB 39": {
+    "local": "doll_images/PzB_39.png",
+    "source": "local_cg"
+  },
+  "QBU-191": {
+    "local": "doll_images/QBU-191.png",
+    "source": "local_cg"
+  },
+  "QBU-88": {
+    "local": "doll_images/QBU-88.png",
+    "source": "local_cg"
+  },
+  "QBZ-191": {
+    "local": "doll_images/QBZ-191_(Qiongjiu).png",
+    "source": "local_cg"
+  },
+  "QSB-91": {
+    "local": "doll_images/QSB-91.png",
+    "source": "local_cg"
+  },
+  "R5": {
+    "local": "doll_images/R5.png",
+    "source": "local_cg"
+  },
+  "R93": {
+    "local": "doll_images/R93.png",
+    "source": "local_cg"
+  },
+  "RFB": {
+    "local": "doll_images/RFB.png",
+    "source": "local_cg"
+  },
+  "RMB-93": {
+    "local": "doll_images/RMB-93.png",
+    "source": "local_cg"
+  },
+  "RO635": {
+    "local": "doll_images/RO635_(Robella).png",
+    "source": "local_cg"
+  },
+  "RPD": {
+    "local": "doll_images/RPD.png",
+    "source": "local_cg"
+  },
+  "RPK-16": {
+    "local": "doll_images/RPK-16.png",
+    "source": "local_cg"
+  },
+  "RPK-203": {
+    "local": "doll_images/RPK-203.png",
+    "source": "local_cg"
+  },
+  "RT-20": {
+    "local": "doll_images/RT-20.png",
+    "source": "local_cg"
+  },
+  "Rex Zero 1": {
+    "local": "doll_images/Rex_Zero_1.png",
+    "source": "local_cg"
+  },
+  "Rhino": {
+    "local": "doll_images/Rhino.png",
+    "source": "local_cg"
+  },
+  "Ribeyrolles": {
+    "local": "doll_images/Ribeyrolles.png",
+    "source": "local_cg"
+  },
+  "S.A.T.8": {
+    "local": "doll_images/S.A.T.8.png",
+    "source": "local_cg"
+  },
+  "SAF": {
+    "local": "doll_images/SAF.png",
+    "source": "local_cg"
+  },
+  "SAR-21": {
+    "local": "doll_images/SAR-21.png",
+    "source": "local_cg"
+  },
+  "SCAR-H": {
+    "local": "doll_images/SCAR-H.png",
+    "source": "local_cg"
+  },
+  "SCAR-L": {
+    "local": "doll_images/SCAR-L.png",
+    "source": "local_cg"
+  },
+  "SCR": {
+    "local": "doll_images/SCR.png",
+    "source": "local_cg"
+  },
+  "SCW": {
+    "local": "doll_images/SCW.png",
+    "source": "local_cg"
+  },
+  "SIG CROSS": {
+    "local": "doll_images/SIG_CROSS.png",
+    "source": "local_cg"
+  },
+  "SIG M400": {
+    "local": "doll_images/SIG_M400.png",
+    "source": "local_cg"
+  },
+  "SIG MCX": {
+    "local": "doll_images/SIG_MCX.png",
+    "source": "local_cg"
+  },
+  "SIG-510": {
+    "local": "doll_images/SIG-510.png",
+    "source": "local_cg"
+  },
+  "SIG-556": {
+    "local": "doll_images/SIG-556.png",
+    "source": "local_cg"
+  },
+  "SL8": {
+    "local": "doll_images/SL8.png",
+    "source": "local_cg"
+  },
+  "SM-1": {
+    "local": "doll_images/SM-1.png",
+    "source": "local_cg"
+  },
+  "SP9": {
+    "local": "doll_images/SP9.png",
+    "source": "local_cg"
+  },
+  "SPAS-12": {
+    "local": "doll_images/SPAS-12_(Sabrina).png",
+    "source": "local_cg"
+  },
+  "SPAS-15": {
+    "local": "doll_images/SPAS-15.png",
+    "source": "local_cg"
+  },
+  "SPP-1": {
+    "local": "doll_images/SPP-1.png",
+    "source": "local_cg"
+  },
+  "SPR A3G": {
+    "local": "doll_images/SPR_A3G.png",
+    "source": "local_cg"
+  },
+  "SR-2": {
+    "local": "doll_images/SR-2.png",
+    "source": "local_cg"
+  },
+  "SR-3MP": {
+    "local": "doll_images/SR-3MP.png",
+    "source": "local_cg"
+  },
+  "SRS": {
+    "local": "doll_images/SRS.png",
+    "source": "local_cg"
+  },
+  "SSG 3000": {
+    "local": "doll_images/SSG_3000.png",
+    "source": "local_cg"
+  },
+  "SSG 69": {
+    "local": "doll_images/SSG_69.png",
+    "source": "local_cg"
+  },
+  "ST AR-15": {
+    "local": "doll_images/ST_AR-15.png",
+    "source": "local_cg"
+  },
+  "SUB-2000": {
+    "local": "doll_images/SUB-2000.png",
+    "source": "local_cg"
+  },
+  "SV-98": {
+    "local": "doll_images/SV-98.png",
+    "source": "local_cg"
+  },
+  "SVCh": {
+    "local": "doll_images/SVCh.png",
+    "source": "local_cg"
+  },
+  "SVD": {
+    "local": "doll_images/SVD.png",
+    "source": "local_cg"
+  },
+  "SVT-38": {
+    "local": "doll_images/SVT-38.png",
+    "source": "local_cg"
+  },
+  "Saiga 308": {
+    "local": "doll_images/Saiga_308.png",
+    "source": "local_cg"
+  },
+  "Saiga-12": {
+    "local": "doll_images/Saiga-12.png",
+    "source": "local_cg"
+  },
+  "Savage 99": {
+    "local": "doll_images/Savage_99.png",
+    "source": "local_cg"
+  },
+  "Serdyukov": {
+    "local": "doll_images/Serdyukov.png",
+    "source": "local_cg"
+  },
+  "Shipka": {
+    "local": "doll_images/Shipka.png",
+    "source": "local_cg"
+  },
+  "Simonov": {
+    "local": "doll_images/Simonov.png",
+    "source": "local_cg"
+  },
+  "Six12": {
+    "local": "doll_images/Six12.png",
+    "source": "local_cg"
+  },
+  "Skorpion": {
+    "local": "doll_images/Skorpion.png",
+    "source": "local_cg"
+  },
+  "Spectre M4": {
+    "local": "doll_images/Spectre_M4.png",
+    "source": "local_cg"
+  },
+  "Spitfire": {
+    "local": "doll_images/Spitfire.png",
+    "source": "local_cg"
+  },
+  "Springfield": {
+    "local": "doll_images/Springfield.png",
+    "source": "local_cg"
+  },
+  "StG-940": {
+    "local": "doll_images/StG-940.png",
+    "source": "local_cg"
+  },
+  "StG44": {
+    "local": "doll_images/StG44.png",
+    "source": "local_cg"
+  },
+  "Sten MkII": {
+    "local": "doll_images/Sten_MkII.png",
+    "source": "local_cg"
+  },
+  "Sterling": {
+    "local": "doll_images/Sterling.png",
+    "source": "local_cg"
+  },
+  "Stevens M620": {
+    "local": "doll_images/Stevens_M620.png",
+    "source": "local_cg"
+  },
+  "Steyr ACR": {
+    "local": "doll_images/Steyr_ACR.png",
+    "source": "local_cg"
+  },
+  "Steyr Scout": {
+    "local": "doll_images/Steyr_Scout.png",
+    "source": "local_cg"
+  },
+  "Suomi": {
+    "local": "doll_images/Suomi.png",
+    "source": "local_cg"
+  },
+  "Super SASS": {
+    "local": "doll_images/Super_SASS.png",
+    "source": "local_cg"
+  },
+  "Super-Shorty": {
+    "local": "doll_images/Super-Shorty.png",
+    "source": "local_cg"
+  },
+  "Supernova": {
+    "local": "doll_images/Supernova.png",
+    "source": "local_cg"
+  },
+  "T-5000": {
+    "local": "doll_images/T-5000.png",
+    "source": "local_cg"
+  },
+  "T-CMS": {
+    "local": "doll_images/T-CMS.png",
+    "source": "local_cg"
+  },
+  "T65": {
+    "local": "doll_images/T65.png",
+    "source": "local_cg"
+  },
+  "T77": {
+    "local": "doll_images/T77.png",
+    "source": "local_cg"
+  },
+  "T91": {
+    "local": "doll_images/T91.png",
+    "source": "local_cg"
+  },
+  "TAC-50": {
+    "local": "doll_images/TAC-50.png",
+    "source": "local_cg"
+  },
+  "TAR-21": {
+    "local": "doll_images/TAR-21.png",
+    "source": "local_cg"
+  },
+  "TEC-9": {
+    "local": "doll_images/TEC-9.png",
+    "source": "local_cg"
+  },
+  "TF-Q": {
+    "local": "doll_images/TF-Q.png",
+    "source": "local_cg"
+  },
+  "TKB-408": {
+    "local": "doll_images/TKB-408.png",
+    "source": "local_cg"
+  },
+  "TMP": {
+    "local": "doll_images/TMP.png",
+    "source": "local_cg"
+  },
+  "TPS": {
+    "local": "doll_images/TPS.png",
+    "source": "local_cg"
+  },
+  "TS12": {
+    "local": "doll_images/TS12.png",
+    "source": "local_cg"
+  },
+  "Tabuk": {
+    "local": "doll_images/Tabuk.png",
+    "source": "local_cg"
+  },
+  "Thompson": {
+    "local": "doll_images/Thompson.png",
+    "source": "local_cg"
+  },
+  "Thunder": {
+    "local": "doll_images/Thunder.png",
+    "source": "local_cg"
+  },
+  "Tokarev": {
+    "local": "doll_images/Tokarev.png",
+    "source": "local_cg"
+  },
+  "Type 03": {
+    "local": "doll_images/Type_03.png",
+    "source": "local_cg"
+  },
+  "Type 100": {
+    "local": "doll_images/Type_100.png",
+    "source": "local_cg"
+  },
+  "Type 4": {
+    "local": "doll_images/Type_4.png",
+    "source": "local_cg"
+  },
+  "Type 56-1": {
+    "local": "doll_images/Type_56-1.png",
+    "source": "local_cg"
+  },
+  "Type 56": {
+    "local": "doll_images/Type_56-1.png",
+    "source": "local_cg"
+  },
+  "Type 59": {
+    "local": "doll_images/Type_59.png",
+    "source": "local_cg"
+  },
+  "Type 62": {
+    "local": "doll_images/Type_62.png",
+    "source": "local_cg"
+  },
+  "Type 63": {
+    "local": "doll_images/Type_63.png",
+    "source": "local_cg"
+  },
+  "Type 64": {
+    "local": "doll_images/Type_64.png",
+    "source": "local_cg"
+  },
+  "Type 79": {
+    "local": "doll_images/Type_79.png",
+    "source": "local_cg"
+  },
+  "Type 80": {
+    "local": "doll_images/Type_80.png",
+    "source": "local_cg"
+  },
+  "Type 81 Carbine": {
+    "local": "doll_images/Type_81_Carbine.png",
+    "source": "local_cg"
+  },
+  "Type 82": {
+    "local": "doll_images/Type_82.png",
+    "source": "local_cg"
+  },
+  "Type 88": {
+    "local": "doll_images/Type_88.png",
+    "source": "local_cg"
+  },
+  "Type 92": {
+    "local": "doll_images/Type_92.png",
+    "source": "local_cg"
+  },
+  "Type 95": {
+    "local": "doll_images/Type_95.png",
+    "source": "local_cg"
+  },
+  "Type 97 Shotgun": {
+    "local": "doll_images/Type_97_Shotgun.png",
+    "source": "local_cg"
+  },
+  "Type 97": {
+    "local": "doll_images/Type_97_Shotgun.png",
+    "source": "local_cg"
+  },
+  "UKM-2000": {
+    "local": "doll_images/UKM-2000.png",
+    "source": "local_cg"
+  },
+  "UMP40": {
+    "local": "doll_images/UMP40.png",
+    "source": "local_cg"
+  },
+  "UMP45": {
+    "local": "doll_images/UMP45.png",
+    "source": "local_cg"
+  },
+  "UMP9": {
+    "local": "doll_images/UMP9.png",
+    "source": "local_cg"
+  },
+  "USAS-12": {
+    "local": "doll_images/USAS-12.png",
+    "source": "local_cg"
+  },
+  "USP Compact": {
+    "local": "doll_images/USP_Compact.png",
+    "source": "local_cg"
+  },
+  "UTS-15": {
+    "local": "doll_images/UTS-15.png",
+    "source": "local_cg"
+  },
+  "V-PM5": {
+    "local": "doll_images/V-PM5.png",
+    "source": "local_cg"
+  },
+  "VHS": {
+    "local": "doll_images/VHS.png",
+    "source": "local_cg"
+  },
+  "VP1915": {
+    "local": "doll_images/VP1915.png",
+    "source": "local_cg"
+  },
+  "VP70": {
+    "local": "doll_images/VP70.png",
+    "source": "local_cg"
+  },
+  "VP9": {
+    "local": "doll_images/VP9.png",
+    "source": "local_cg"
+  },
+  "VRB": {
+    "local": "doll_images/VRB.png",
+    "source": "local_cg"
+  },
+  "VSK-94": {
+    "local": "doll_images/VSK-94_(Niketa).png",
+    "source": "local_cg"
+  },
+  "Vector": {
+    "local": "doll_images/Vector.png",
+    "source": "local_cg"
+  },
+  "Vepr": {
+    "local": "doll_images/Vepr.png",
+    "source": "local_cg"
+  },
+  "Vigneron M2": {
+    "local": "doll_images/Vigneron_M2.png",
+    "source": "local_cg"
+  },
+  "WA2000": {
+    "local": "doll_images/WA2000_(Makiatto).png",
+    "source": "local_cg"
+  },
+  "WKp": {
+    "local": "doll_images/WKp.png",
+    "source": "local_cg"
+  },
+  "Webley": {
+    "local": "doll_images/Webley.png",
+    "source": "local_cg"
+  },
+  "Welrod MkII": {
+    "local": "doll_images/Welrod_MkII.png",
+    "source": "local_cg"
+  },
+  "X95": {
+    "local": "doll_images/X95.png",
+    "source": "local_cg"
+  },
+  "XM3": {
+    "local": "doll_images/XM3.png",
+    "source": "local_cg"
+  },
+  "XM556": {
+    "local": "doll_images/XM556.png",
+    "source": "local_cg"
+  },
+  "XM8": {
+    "local": "doll_images/XM8.png",
+    "source": "local_cg"
+  },
+  "Z-62": {
+    "local": "doll_images/Z-62.png",
+    "source": "local_cg"
+  },
+  "ZB-26": {
+    "local": "doll_images/ZB-26.png",
+    "source": "local_cg"
+  },
+  "Zas M21": {
+    "local": "doll_images/Zas_M21.png",
+    "source": "local_cg"
+  },
+  "Zas M76": {
+    "local": "doll_images/Zas_M76.png",
+    "source": "local_cg"
+  },
+  "ZiP .22": {
+    "local": "doll_images/ZiP_.22.png",
+    "source": "local_cg"
+  },
+  "m45": {
+    "local": "doll_images/m45.png",
+    "source": "local_cg"
+  },
+  "wz.29": {
+    "local": "doll_images/wz.29.png",
+    "source": "local_cg"
+  }
+}

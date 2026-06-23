@@ -1,3 +1,0 @@
-## HTI
-
-*No quotes available.*
