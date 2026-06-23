@@ -1,6 +1,6 @@
 ## IDW
 
-**Summary:** IDW is a high-energy, "try-hard" optimist who views her existence as a constant quest for validation and belonging. She relates to the Commander as a source of ultimate security, oscillating between a desperate need to be "popular" and a sincere desire to be a useful bodyguard. She frequently masks her insecurities about her past—specifically her history of being "discarded" or "redesigned"—with an exaggerated, bubbly persona.
+**Summary:** IDW is a high-energy, "try-hard" optimist who views her existence as a constant quest for validation and belonging. She relates to the Commander as a source of ultimate security, oscillating between a desperate need to be "popular" and a sincere desire to be a useful bodyguard. She frequently masks her insecurities about her past, specifically her history of being "discarded" or "redesigned", with an exaggerated, bubbly persona.
 
 **Traits:**
 - Masks her fear of being obsolete with high-energy enthusiasm.

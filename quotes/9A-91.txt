@@ -19,7 +19,7 @@
 [Retreat] I don't want to leave the battlefield like this...
 [MVP] Commander, please look! This victory is for you! Please, watch me more from here on!
 [Restoration] Commander, could you stay by me a bit longer?
-[Halloween] Trick or Treat!~ Actually, tricks will be played even when treated , Commander~ Could I stay by your side for tonight?
+[Halloween] Trick or Treat!~ Actually, tricks will be played even when treated, Commander~ Could I stay by your side for tonight?
 [Christmas] С Рождеством! (Merry Christmas!) I'm helping AS-VAL finding something she lost. Have you seen her teddy bear?
 [New Year's Day] Commander, Happy New Year! Please be by my side next year, too.
 [Valentine's day] Um, Commander, please take this! How is it, receiving a Valentines chocolate? Surely I'm a special person to you, right?

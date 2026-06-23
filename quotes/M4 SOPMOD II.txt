@@ -3,17 +3,17 @@
 [Secretary] Commander, what are we gonna play this time?
 [Secretary (post OATH)] Commander, how do you like my handiwork? Both collecting and producing these is very hard, but we do it for fun, hehe...
 [OATH] Hehehehe...I've waited a long time, and you have to admit, we've been through so much together, right? Please hold me a little more, together with my all, closer than ever before...
-[Greeting] Uwaa—— Commander you're here! Hurry hurry, let's start a new battle!
+[Greeting] Uwaa... Commander you're here! Hurry hurry, let's start a new battle!
 [T-Doll Produced] Hahaha, new comrade, let's shake hands~.
 [Joining an echelon] Hehehe... Let's start, let's hurry up and start already!
-[Enhancement] HYPER EVOLVE! CHRIST—MAS—TREE!!!!
+[Enhancement] HYPER EVOLVE! CHRIST, MAS, TREE!!!!
 [Dummy-linking] Nooo~ Commander, if you do this I might end them faster than I want to!
 [Logistics (start)] I'm taking off, Commander!
 [Logistics (end)] I'm back Commander. Come and give me a hug~!
 [Autobattle] Sisters, I've arrived!
 [Title] Girls' Frontline!
-[Starting a combat mission] Better hide carefully now you fools——Hahahaha!
-[Starting a battle] I'VE——FOUND——YOU!!
+[Starting a combat mission] Better hide carefully now you fools... Hahahaha!
+[Starting a battle] I'VE... FOUND... YOU!!
 [Skill activation] Shall I start from the fingernails... Or... Should I rip out your wires one by one?
 [Heavily damaged] Uwahhh~ You really did a number on me, didn't you?
 [Retreat] Sisters are you all ok? ... That's good at least...

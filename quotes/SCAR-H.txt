@@ -3,7 +3,7 @@
 [Secretary (post OATH)] All my friends have passed on, all of my enemies have perished. I thought I couldn't care less, thought that I wasn't afraid of being alone, and thought I always managed to keep it all under wraps. Alas, Commander, please grant me this tiny request. Let me just... lean on you a little, just for a moment.
 [OATH] Holding someone else's memory is a heavy burden; it's like beig a theif stealing happiness  that never belonged to you. Now, you and I can safeguard this secret together, since we're accomplices after all.
 [Greeting] Today and yesterday are much the same, just like the new world and the old world.
-[T-Doll Produced] Yo—Rookie, Rookie, ready to set foot for battle?
+[T-Doll Produced] Yo, Rookie, Rookie, ready to set foot for battle?
 [Joining an echelon] I hope everyone here is reliable so that my laziness won't stand out.
 [Enhancement] Huh... I've gotten stronger? I don't feel like anything changed. Must that I've always been this strong.
 [Dummy-linking] Nice, another one to share the workload with.

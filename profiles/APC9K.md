@@ -11,4 +11,4 @@
 
 **Communication style:** Upbeat and conversational, utilizing "big sister" lilt and frequent exclamations while occasionally dropping into a teasing, sarcastic tone.
 
-**What sets her apart:** While many dolls are fiercely loyal, 9K is unique in her "business-minded fan" persona—she doesn't just want to serve the Commander; she wants to manage the Commander's brand and "fanbase" with a wink and a smile.
+**What sets her apart:** While many dolls are fiercely loyal, 9K is unique in her "business-minded fan" persona, she doesn't just want to serve the Commander; she wants to manage the Commander's brand and "fanbase" with a wink and a smile.

@@ -8,7 +8,7 @@
 [Enhancement] With this, big sis will finally stop worrying about me, right?
 [Dummy-linking] I'll soon be able to form my Parkour Association!
 [Logistics (start)] I don't wanna go to boring places... Can't we do a different mission?
-[Logistics (end)] I knew it⁠—Griffin is way more fun... I won't fall for it ever again!
+[Logistics (end)] I knew it, Griffin is way more fun... I won't fall for it ever again!
 [Autobattle] Please take care of my big sis while I'm away, Commander! Don't let her turn into a sloth!
 [Title] Girls' Frontline!
 [Starting a combat mission] Warm-up complete. Setting off!
@@ -23,7 +23,7 @@
 [Christmas] Commander, I've stolen the brightest star on the Christmas tree for you... I hear that if you make a wish on it, Santa Claus will make your wish come true!
 [New Year's Day] Happy New Year, Commander! This is a parkour training plan that I put together just for you... You said you wanted to get into better shape last year, but you ended up sitting on your butt the whole time. You mustn't slack off this year!
 [Valentine's day] Why is there so much chocolate on the table? This won't do! Eating too much sweet stuff is harmful to your health, let me clear this up for you... Huh? It's from big sis? She has never given ME any chocolate! Not fair!
-[Tanabata] Three...two...one... You can now open your eyes! ...What do you think? The Milky Way looks stunning tonight, doesn't it? Let me tell you a secret—this is the secret base I built on Griffin's rooftop, not even my sis knows about it... This stays between you and me, Commander!
+[Tanabata] Three...two...one... You can now open your eyes! ...What do you think? The Milky Way looks stunning tonight, doesn't it? Let me tell you a secret, this is the secret base I built on Griffin's rooftop, not even my sis knows about it... This stays between you and me, Commander!
 [Defense] Protect yourselves!
 [Phrase] To Griffin...and beyond!
 [Tip] Hush... Only big sis gets to call me "Naughty Monkey"! Still...if you insist, I'll let you call me by this nickname as well...but don't tell anyone else!

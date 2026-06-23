@@ -1,5 +1,5 @@
 [Acquisition] Hi, Boss! I’m the new staff, QSB-91! I’m a multi-purpose Doll who knows a bit of everything! You can call me by my nickname, Multi!
-[Secretary] Feeling unhappy, Boss? Here, look at my silly face! Huh, still sulking? Then let me perform my special trick – opening a bottle of wine while doing a handstand! Th-That didn’t work either? Looks like I’ll just have to beat up the culprit...
+[Secretary] Feeling unhappy, Boss? Here, look at my silly face! Huh, still sulking? Then let me perform my special trick, opening a bottle of wine while doing a handstand! Th-That didn’t work either? Looks like I’ll just have to beat up the culprit...
 [Secretary (post OATH)] Don’t look at me like that, Boss! I said I’d upgrade your service, and I will deliver! This pumpkin feast is made from pumpkins that I grew myself...
 [OATH] Boss, are you giving this to me instead of paying my wages?  Huh? No? You gave me something so valuable out of the blue... Guess I’ll have to upgrade your service package! ♪
 [Greeting] Hel-loooo, Boss! Multi, at your service today! I’m full of energy, as always! ♪
@@ -21,7 +21,7 @@
 [Attack] Not a single one of you is getting away!
 [Halloween] Heheh, pumpkins are left all over the place! What a glorious festival! Who are you? Why do you keep staring at me? Gr G36! I’m so sorry! My bad... (Sobs)
 [Christmas] Hush... Don’t tell anyone I’m here, Boss! The drunkards are having a party tonight. If they find me, they’ll bound me to the Christmas tree and use me as a bottle opener!
-[New Year's Day] Hello, Boss! I’m here on my New Year visit! I wish you success in all your endeavors in the coming ye— What?! You’ve run out of red packets?!
+[New Year's Day] Hello, Boss! I’m here on my New Year visit! I wish you success in all your endeavors in the coming ye, What?! You’ve run out of red packets?!
 [Valentine's day] You’ve received so much chocolate! That’s the Boss for you! But surely you can’t finish all that, right? Let me sort that out for you!
 [Tanabata] Beer and edamame are a must on a cool and breezy night! Wanna join us, Boss?
 [Defense] This is a trap to lure the enemy in!

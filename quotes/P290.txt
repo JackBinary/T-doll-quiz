@@ -26,5 +26,5 @@
 [Tanabata] If I had the ability to summon magpies as well, I'm sure I'd have a much broader field of vision... Ahem, I said nothing.
 [Defense] Protect yourselves!
 [Phrase] I'm here, by your side.
-[Tip] Shhh—Commander, don't disturb this showdown... Who's fighting who? The skinny one is a black cat from the Rescue Station, while the fat one is a tabby cat from the outside. I've been waiting a long time to witness this battle.
+[Tip] Shhh, Commander, don't disturb this showdown... Who's fighting who? The skinny one is a black cat from the Rescue Station, while the fat one is a tabby cat from the outside. I've been waiting a long time to witness this battle.
 [Loading] You can disguise yourself as an escape log while you're waiting. Want to try it?

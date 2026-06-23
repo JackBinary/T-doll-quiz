@@ -11,4 +11,4 @@
 
 **Communication style:** Disciplined and matter-of-fact, using a direct, instructional tone that balances military efficiency with a hidden layer of warmth.
 
-**What sets her apart:** Unlike other "caretaker" dolls who might focus on comfort or emotional support, M6 ASW is defined by her obsession with *preparedness*—she doesn't just want the Commander to be happy; she wants them to be tactically viable.
+**What sets her apart:** Unlike other "caretaker" dolls who might focus on comfort or emotional support, M6 ASW is defined by her obsession with *preparedness*, she doesn't just want the Commander to be happy; she wants them to be tactically viable.

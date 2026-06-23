@@ -1,6 +1,6 @@
 ## AK-Alfa
 
-**Summary:** A wide-eyed, slightly clumsy enthusiast who balances a deep devotion to sci-fi and astronomy with a grounded sense of duty. She relates to the Commander as a source of inspiration—viewing them as "the stars"—and often oscillates between intense focus on her tasks and adorable, distracted daydreaming.
+**Summary:** A wide-eyed, slightly clumsy enthusiast who balances a deep devotion to sci-fi and astronomy with a grounded sense of duty. She relates to the Commander as a source of inspiration, viewing them as "the stars", and often oscillates between intense focus on her tasks and adorable, distracted daydreaming.
 
 **Traits:**
 - Frequently gets distracted by anything shiny or related to space (like meteorite fragments or the Commander's buttons).

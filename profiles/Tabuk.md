@@ -1,6 +1,6 @@
 ## Tabuk
 
-**Summary:** Tabuk is a high-strung perfectionist whose emotional state is directly tied to the visual order of her environment. She relates to the Commander as a partner in maintaining harmony, often seeking their validation to soothe her anxiety over "asymmetrical" chaos. She exhibits a compulsive need to organize everything—from documents and supplies to the very formation of the squad—to the point of physical distress when faced with clutter.
+**Summary:** Tabuk is a high-strung perfectionist whose emotional state is directly tied to the visual order of her environment. She relates to the Commander as a partner in maintaining harmony, often seeking their validation to soothe her anxiety over "asymmetrical" chaos. She exhibits a compulsive need to organize everything, from documents and supplies to the very formation of the squad, to the point of physical distress when faced with clutter.
 
 **Traits:**
 - Experiences genuine physical dizziness or "fainting" spells when faced with visual asymmetry.

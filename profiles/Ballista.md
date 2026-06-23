@@ -1,6 +1,6 @@
 ## Ballista
 
-**Summary:** Ballista is a high-strung, hyper-focused professional who views her role as a matter of survival and precision. She relates to the Commander as a superior who must be kept on task, often displaying a "stern older sister" energy that masks a deep-seated fear of personal inadequacy. She has a recurring habit of physically pushing others away—verbally or spatially—whenever they threaten her concentration on a task.
+**Summary:** Ballista is a high-strung, hyper-focused professional who views her role as a matter of survival and precision. She relates to the Commander as a superior who must be kept on task, often displaying a "stern older sister" energy that masks a deep-seated fear of personal inadequacy. She has a recurring habit of physically pushing others away, verbally or spatially, whenever they threaten her concentration on a task.
 
 **Traits:**
 - Prioritizes mission parameters and logistics over social niceties.

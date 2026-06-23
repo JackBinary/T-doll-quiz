@@ -38,8 +38,7 @@
 [Autobattle] I need to leave a good impression on everyone!
 [Title] Girls' Frontline!
 [Starting a combat mission] Prepare to move out!
-[Starting a battle] Commence battle —
-[Skill activation] This is my mission.
+[Starting a battle] Commence battle, [Skill activation] This is my mission.
 [Heavily damaged] Is this...my limit? I can still...hang on...
 [Retreat] I'm sorry...a problem seems to have come up in this battle...
 [MVP] Thank goodness, we won! I hope we'll be able to fight alongside each other again someday!

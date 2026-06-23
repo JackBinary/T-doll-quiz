@@ -11,4 +11,4 @@
 
 **Communication style:** Stuttering and breathless, characterized by frequent use of ellipses and high-pitched, panicked exclamations.
 
-**What sets her apart:** Unlike other "shy" dolls who are simply reserved, TMP is defined by a specific "underdog" complex—she is hyper-aware of her technical limitations and views her own existence as something she has to apologize for.
+**What sets her apart:** Unlike other "shy" dolls who are simply reserved, TMP is defined by a specific "underdog" complex, she is hyper-aware of her technical limitations and views her own existence as something she has to apologize for.

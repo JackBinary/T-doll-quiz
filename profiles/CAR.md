@@ -11,4 +11,4 @@
 
 **Communication style:** Stuttered, hesitant, and overly polite, often using self-deprecating phrasing to minimize her own presence.
 
-**What sets her apart:** Unlike other shy dolls who are simply introverted, CAR is defined by a specific "nameless pawn" complex—a crushing fear that she is entirely replaceable and only exists as long as she is being useful.
+**What sets her apart:** Unlike other shy dolls who are simply introverted, CAR is defined by a specific "nameless pawn" complex, a crushing fear that she is entirely replaceable and only exists as long as she is being useful.

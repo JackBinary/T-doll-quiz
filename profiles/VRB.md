@@ -11,4 +11,4 @@
 
 **Communication style:** Energetic and theatrical, using grandiose military terminology mixed with occasional high-pitched stutters when she loses her composure.
 
-**What sets her apart:** Unlike other "heroic" types who are naturally stoic or naturally confident, VRB is distinctly defined by her performative bravery—she is a doll who is consciously "playing a role" and relies on the Commander to help her keep the act going.
+**What sets her apart:** Unlike other "heroic" types who are naturally stoic or naturally confident, VRB is distinctly defined by her performative bravery, she is a doll who is consciously "playing a role" and relies on the Commander to help her keep the act going.

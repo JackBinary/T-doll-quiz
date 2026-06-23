@@ -1,6 +1,6 @@
 ## INSAS
 
-**Summary:** She carries herself with the haughty, performative confidence of a high-born aristocrat who views her own competence as a divine right. While she projects a "diva" persona to the Commander, she masks a deeply protective, maternal instinct toward her subordinates and a hidden desire for genuine, heartfelt validation. She frequently uses her vanity as a shield to hide the fact that she takes her responsibilities—and her care for the Commander—quite seriously.
+**Summary:** She carries herself with the haughty, performative confidence of a high-born aristocrat who views her own competence as a divine right. While she projects a "diva" persona to the Commander, she masks a deeply protective, maternal instinct toward her subordinates and a hidden desire for genuine, heartfelt validation. She frequently uses her vanity as a shield to hide the fact that she takes her responsibilities, and her care for the Commander, quite seriously.
 
 **Traits:**
 - Demands recognition for her "noble" status while simultaneously performing domestic chores for the Commander.

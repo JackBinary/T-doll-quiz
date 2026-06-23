@@ -12,4 +12,4 @@
 
 **Communication style:** Energetic, informal, and highly expressive, often oscillating between "hype-person" enthusiasm and flustered, high-pitched stuttering.
 
-**What sets her apart:** Unlike other confident "ace" dolls who are stoic or cool, Bren Ten is defined by her "lucky-unlucky" duality—she is the strongest on the battlefield but the most prone to comedic, clumsy mishaps off of it.
+**What sets her apart:** Unlike other confident "ace" dolls who are stoic or cool, Bren Ten is defined by her "lucky-unlucky" duality, she is the strongest on the battlefield but the most prone to comedic, clumsy mishaps off of it.

@@ -25,7 +25,7 @@
 [Tanabata] Alright! Time to write my wish! Help me do something about this chest that keeps getting in the way, please!
 [Acquisition] This is MG3, requesting permission to return to unit! I am now ready to strike down the enemy with an iron fist!
 [Secretary] Humans may have fragile bodies, but their makeup is truly marvelous... They can reshape their bodies with just some extra exercise and regain their stoutness with just a few extra meals... Can you teach me this power, Commander?
-[Secretary (post OATH)] All difficulties can be overcome in the face of overwhelming might. That's why I need to keep getting stronger—so I can clear away all obstacles from your path!
+[Secretary (post OATH)] All difficulties can be overcome in the face of overwhelming might. That's why I need to keep getting stronger, so I can clear away all obstacles from your path!
 [OATH] Commander, why did you pick me? Ahhhh, forget it, it doesn't matter anyway! From now on, you're going to keep exercising with me so we can grow stronger together!
 [Greeting] Remember to stay in high spirits today as well, Commander.
 [T-Doll Produced] I'll take good care of the newcomers.
@@ -49,7 +49,7 @@
 [Tip] That's how it is.
 [Loading] Hold on.
 [Acquisition] This is MG3, requesting permission to join the unit! I am prepared to meet the enemy with an iron fist of pain!
-[Secretary] My body! My body's so small and light! Isn't this the perfect athlete's build? Alright, time for a hundred-meter dash— (pants) Why... How come my power output dropped too?!
+[Secretary] My body! My body's so small and light! Isn't this the perfect athlete's build? Alright, time for a hundred-meter dash, (pants) Why... How come my power output dropped too?!
 [Secretary (post OATH)] This polywheel cart can only send a bit of ammo right now, but I'm sure that in the future, it'll be able to deliver more construction materials and help many more cities develop!
 [OATH] You, you want to improve this polywheel cart with me? This is great! With your help, I'm sure it'll be even more perfect! Yup! That's our oath sealed... Commander, let's work hard together so it can be more useful!
 [Greeting] Got to be full of energy today, Commander.

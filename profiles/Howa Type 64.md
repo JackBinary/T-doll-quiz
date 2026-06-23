@@ -1,6 +1,6 @@
 ## Howa Type 64
 
-**Summary:** She is defined by a palpable sense of social anxiety masked by a proactive, almost desperate desire to be useful. She views the Commander as a necessary anchor in a world that feels overwhelming and alien, often oscillating between wanting to be seen and retreating into self-consciousness. She has a specific habit of over-preparing for interactions—like making cards or cooking—only to express extreme hesitation about actually presenting them.
+**Summary:** She is defined by a palpable sense of social anxiety masked by a proactive, almost desperate desire to be useful. She views the Commander as a necessary anchor in a world that feels overwhelming and alien, often oscillating between wanting to be seen and retreating into self-consciousness. She has a specific habit of over-preparing for interactions, like making cards or cooking, only to express extreme hesitation about actually presenting them.
 
 **Traits:**
 - Brushes off social awkwardness with a "do your best" attitude to hide internal nerves.

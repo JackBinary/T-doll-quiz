@@ -1,6 +1,6 @@
 ## SCAR-H
 
-**Summary:** SCAR-H projects a facade of breezy, slightly lazy competence, often using humor to deflect from the weight of her past. She treats the Commander as a confidant who is privy to her "secret" burden—the heavy responsibility of carrying memories that aren't her own. Her emotional register is one of weary melancholy masked by a "cool" exterior, occasionally cracking to reveal a deep-seated fear of loneliness.
+**Summary:** SCAR-H projects a facade of breezy, slightly lazy competence, often using humor to deflect from the weight of her past. She treats the Commander as a confidant who is privy to her "secret" burden, the heavy responsibility of carrying memories that aren't her own. Her emotional register is one of weary melancholy masked by a "cool" exterior, occasionally cracking to reveal a deep-seated fear of loneliness.
 
 **Traits:**
 - Masks her profound loneliness with a "lazy" persona to avoid being relied upon too heavily.

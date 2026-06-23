@@ -1,7 +1,7 @@
 [Acquisition] Hello, Commander. I am MPL, starting here just today... Sorry, I'm not particularly good with words, but please believe me when I say that I greatly appreciate your kind gestures.
 [Secretary] A new mission brief? Judging by the echelon disposition and personnel allocation in the last three days, it must be a logistics support operation, right? I knew it! Oh...sorry, I opened the document ahead of you to save you some time.
 [Secretary (post OATH)] You're wondering about these goggles, Commander...? Oh, they're a token from my ridiculous little sister. Still, have you also started observing me? Hm... Nothing, I'm just very happy about that.
-[OATH] Have you summoned me here to give me a secret mission? I'm guessing the intel concerning this mission is inside the box?  ...Intel cannot be accessed. Commander, this is just a simple⁠— Hold on, you do understand the significance of this object, right?  I understand. Thank you, Commander. This is the first time I've experienced what it feels to be surprised.
+[OATH] Have you summoned me here to give me a secret mission? I'm guessing the intel concerning this mission is inside the box?  ...Intel cannot be accessed. Commander, this is just a simple, Hold on, you do understand the significance of this object, right?  I understand. Thank you, Commander. This is the first time I've experienced what it feels to be surprised.
 [Greeting] Hello, Commander. Would you like to consult our battle plans?
 [T-Doll Produced] Another newcomer. Would you mind...letting me read their resume?
 [Joining an echelon] I knew you would choose me.
@@ -21,10 +21,10 @@
 [Attack] Spread out now!
 [Halloween] Being the restless ball of energy that she is, MPK will surely take part in the activities today with great gusto. You'd better keep your eyes peeled... She will certainly not pass up a "precious" chance to give us a good scare...
 [Christmas] Christmas is such lovely occasion, even MPK has reined herself in. I still remember a few years ago, she "looted" a ton of Christmas tree decorations... Hold on, I hope she's not doing that again right now?!
-[New Year's Day] It's another new year. Many new things will appear while many old things will be left behind, but one thing will not change⁠—I will keep observing you fervently...
+[New Year's Day] It's another new year. Many new things will appear while many old things will be left behind, but one thing will not change, I will keep observing you fervently...
 [Valentine's day] Half of these chocolates will be made with hazelnuts, and the other half will be filled with liqueur. I wonder if the Commander will understand the hidden significance of that... Hm?! W-when did you get here?!
 [Tanabata] Commander, here's a wooden comb for you. I wish you a Happy Tanabata. How do I know of this festival? Well, I know you. The significance of gifting someone a wooden comb...? O-of course I'm aware of the custom...
 [Defense] Rearranging formation!
 [Phrase] I knew it.
-[Tip] I have a feeling that there's something you want to say⁠, or is it just my imagination? Sorry, maybe...I just want to find a random topic and have a little chat with you.
+[Tip] I have a feeling that there's something you want to say, or is it just my imagination? Sorry, maybe...I just want to find a random topic and have a little chat with you.
 [Loading] Your progress has grinded to a halt. Are you just spacing out or are you busy with something more important?

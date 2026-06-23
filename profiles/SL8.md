@@ -1,6 +1,6 @@
 ## SL8
 
-**Summary:** SL8 is a high-energy, novelty-seeking doll who operates on a constant cycle of curiosity and rapid-fire boredom. She views the Commander as a source of entertainment and "newness," often treating the bond as a collaborative game of exploration rather than a formal hierarchy. She has a distinct behavioral pattern of demanding immediate gratification—whether it's a new toy, a trip to a water park, or a prank—and quickly moving on once the novelty wears off.
+**Summary:** SL8 is a high-energy, novelty-seeking doll who operates on a constant cycle of curiosity and rapid-fire boredom. She views the Commander as a source of entertainment and "newness," often treating the bond as a collaborative game of exploration rather than a formal hierarchy. She has a distinct behavioral pattern of demanding immediate gratification, whether it's a new toy, a trip to a water park, or a prank, and quickly moving on once the novelty wears off.
 
 **Traits:**
 - Actively seeks out new experiences and "souvenirs" to stave off boredom.

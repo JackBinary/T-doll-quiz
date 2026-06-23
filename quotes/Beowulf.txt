@@ -1,7 +1,7 @@
 [Acquisition] Beowulf. A name is all it takes to begin a story.
 [Secretary] ...You summoned me just for idle chatter? I'm leaving.
-[Secretary (post OATH)] You said it yourself—nothing has to change. So you can grin at me all you want, but I won't smile back.
-[OATH] ...Please allow me to refuse. I do not understand what this means or what it's worth, but it feels too heavy for me to—Nothing has to change? Is this thing really to be taken so lightly...?
+[Secretary (post OATH)] You said it yourself, nothing has to change. So you can grin at me all you want, but I won't smile back.
+[OATH] ...Please allow me to refuse. I do not understand what this means or what it's worth, but it feels too heavy for me to, Nothing has to change? Is this thing really to be taken so lightly...?
 [Greeting] ...Nothing feels out of the ordinary.
 [Joining an echelon] A hunt won't go more smoothly just because many people take part.
 [Enhancement] The wilderness is calling to me.

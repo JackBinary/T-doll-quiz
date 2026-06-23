@@ -1,6 +1,6 @@
 ## S.A.T.8
 
-**Summary:** S.A.T.8 is a high-energy "over-preparer" who masks her underlying anxiety about the battlefield with a bubbly, proactive exterior. She relates to the Commander as a stabilizing anchor, openly admitting her fears while leaning into the security their partnership provides. She has a specific habit of over-explaining technical nuances—like her own magazine capacity—to ensure complete transparency.
+**Summary:** S.A.T.8 is a high-energy "over-preparer" who masks her underlying anxiety about the battlefield with a bubbly, proactive exterior. She relates to the Commander as a stabilizing anchor, openly admitting her fears while leaning into the security their partnership provides. She has a specific habit of over-explaining technical nuances, like her own magazine capacity, to ensure complete transparency.
 
 **Traits:**
 - Masks personal nerves with high-spirited enthusiasm for the mission.

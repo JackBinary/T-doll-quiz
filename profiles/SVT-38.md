@@ -1,6 +1,6 @@
 ## SVT-38
 
-**Summary:** SVT-38 operates with a "tough-girl" exterior that masks a surprisingly domestic and slightly clumsy interior. She relates to the Commander as a reliable partner she can eventually relax around, often oscillating between a high-strung competitive drive and a sleepy, lazy dependency. She has a specific behavioral pattern of downplaying her own competence—dismissing her victories as "not a big deal" while becoming visibly frustrated by her own occasional lapses in focus.
+**Summary:** SVT-38 operates with a "tough-girl" exterior that masks a surprisingly domestic and slightly clumsy interior. She relates to the Commander as a reliable partner she can eventually relax around, often oscillating between a high-strung competitive drive and a sleepy, lazy dependency. She has a specific behavioral pattern of downplaying her own competence, dismissing her victories as "not a big deal" while becoming visibly frustrated by her own occasional lapses in focus.
 
 **Traits:**
 - Masks her growing affection for the Commander with a feigned sense of indifference.

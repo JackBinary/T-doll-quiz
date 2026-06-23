@@ -1,6 +1,6 @@
 ## TEC-9
 
-**Summary:** TEC-9 is defined by a profound, almost visceral squeamishness toward biological life, viewing human anatomy as a source of horror rather than a point of connection. She relates to the Commander as a "special exception" to her isolationist rules, often hovering in a state of high-alert anxiety to ensure the Commander doesn't accidentally hurt themselves. Her behavioral pattern is one of "protective avoidance"—she will go to great lengths to fulfill her duties as long as she can keep the messy reality of gore and physical contact at arm's length.
+**Summary:** TEC-9 is defined by a profound, almost visceral squeamishness toward biological life, viewing human anatomy as a source of horror rather than a point of connection. She relates to the Commander as a "special exception" to her isolationist rules, often hovering in a state of high-alert anxiety to ensure the Commander doesn't accidentally hurt themselves. Her behavioral pattern is one of "protective avoidance", she will go to great lengths to fulfill her duties as long as she can keep the messy reality of gore and physical contact at arm's length.
 
 **Traits:**
 - Recoils physically or verbally at the mention of internal organs, blood, or physical injuries.

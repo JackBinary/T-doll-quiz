@@ -20,7 +20,7 @@
 [Restoration] I hope my new parts will last longer.
 [Attack] Come, the time of scrapping is at hand!
 [Halloween] Actually, adding a little salt when making candy actually makes it taste sweeter. Naturally, said salt content shouldn't exceed 0.2%, otherwise putting too much will make it taste salty.
-[Christmas] Does this event refer to how you dress up as Santa and give everyone gifts? In that case, I've got a technical manual for you — "3000 Ways To Climb A Chimney".
+[Christmas] Does this event refer to how you dress up as Santa and give everyone gifts? In that case, I've got a technical manual for you, "3000 Ways To Climb A Chimney".
 [New Year's Day] Ah, the new year... I think my rollout warranty has expired... This day is a reminder to go in for servicing. After all, a new year ought to begin with bodily maintenance.
 [Valentine's day] Does this... festival involve me too? No, I'm not doubting you, but wouldn't it be very lonely if all relationships on this world were only between two people?
 [Tanabata] I've been thinking about it over and over again, but a bridge made of magpies just doesn't make sense. There's a major issue with its load-bearing capacity... Huh? Did I get it wrong?

@@ -1,7 +1,6 @@
 [Acquisition] Coming here and working at this place is really not easy, huh... Hello, Commander. I hope that the time has come for me to start work immediately.
 [Introduction] (Ditto)
-[Secretary] There are times where I wish that I was more ruthless and cold, since it seems that everyone likes that kind of character better... but I'm—
-[Secretary (post OATH)] Commander, when I'm with you, my body's temperature just seems to become abnormal... could this possibly be a fever?
+[Secretary] There are times where I wish that I was more ruthless and cold, since it seems that everyone likes that kind of character better... but I'm, [Secretary (post OATH)] Commander, when I'm with you, my body's temperature just seems to become abnormal... could this possibly be a fever?
 [OATH] Commander... Can I use this opportunity to give you a little 'confession'? Although this isn't going to be romantic as a movie, please let this clumsy self of mine to say it out loud... Commander, I... love you...
 [Greeting] Commander, thank you as well for your hard work today!
 [T-Doll Produced] Commander, how about that newcomer?

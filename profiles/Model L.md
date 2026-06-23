@@ -5,7 +5,7 @@
 **Traits:**
 - Translates her sense of duty into a "service-first" mindset where her power is framed as a gift to the Commander.
 - Seeks out quiet, intimate moments of physical proximity (like leaning on a shoulder) to recharge from her social and professional burdens.
-- Expresses her personal desires—like playing or going out—only in the context of seeking permission or "cooperation."
+- Expresses her personal desires, like playing or going out, only in the context of seeking permission or "cooperation."
 - Internalizes her frustration regarding her work-life balance, often reacting with visible gloom when she feels trapped by her responsibilities.
 - Displays a slight insecurity regarding her own limitations, occasionally reacting with shock or vulnerability when pushed to her physical breaking point.
 

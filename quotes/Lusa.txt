@@ -8,7 +8,7 @@
 [OATH] Huh? What's this, Coach? So it means I have your permission to be fielded? All right! I'll do my best to be a top-rate player, so don't worry, Coach!
 [Greeting] Oh, you're back! Let's play some soccer, Coach! ...Ah, yeah, we still have work to do.
 [Joining an echelon] Everyone, we can't slack off even if we're on the junior squad!
-[Enhancement] My legs feel stronger now, yahoooo —Ahhh! I didn't mean to do that!
+[Enhancement] My legs feel stronger now, yahoooo, Ahhh! I didn't mean to do that!
 [Title] Girls' Frontline!
 [Starting a combat mission] Let's go, let's go!
 [Starting a battle] What'll it be, soccer or battle? Lusa won't lose in either of them.

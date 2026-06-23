@@ -16,7 +16,7 @@
 [Starting a battle] The enemy is right there !
 [Skill activation] Here I shooooot~
 [Heavily damaged] As long as I have my love for Darling, I am invincible!
-[Retreat] Impossible... My power for Commander was not enough... ?
+[Retreat] Impossible... My power for Commander was not enough...?
 [MVP] I did it! Darling~ ♥
 [Restoration] Are you done with emergency care? Commander, please be gentle with me.
 [Halloween] Trick or Treat! Come play together!

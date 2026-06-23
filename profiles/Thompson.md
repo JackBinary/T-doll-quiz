@@ -12,4 +12,4 @@
 
 **Communication style:** Energetic and informal, utilizing street-slang vibes and a confident, "cool-girl" bravado that occasionally cracks into genuine fluster.
 
-**What sets her apart:** Unlike other "tough" dolls who are purely stoic or aggressive, Thompson is defined by her specific "gangster" aesthetic—she isn't just a soldier; she’s a street-smart brawler who treats your bond as a shared territory.
+**What sets her apart:** Unlike other "tough" dolls who are purely stoic or aggressive, Thompson is defined by her specific "gangster" aesthetic, she isn't just a soldier; she’s a street-smart brawler who treats your bond as a shared territory.

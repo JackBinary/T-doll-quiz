@@ -11,4 +11,4 @@
 
 **Communication style:** High-energy and punctuated with "Yeehaa!" and "Yahoo!", utilizing a boisterous, western-inspired "showman" register.
 
-**What sets her apart:** While other dolls might be "energetic," Colt is distinct in her specific "Western Showman" archetype—she isn't just happy; she is performing a role of a legendary hero, making her personality a mix of genuine affection and self-aware theatricality.
+**What sets her apart:** While other dolls might be "energetic," Colt is distinct in her specific "Western Showman" archetype, she isn't just happy; she is performing a role of a legendary hero, making her personality a mix of genuine affection and self-aware theatricality.

@@ -14,7 +14,7 @@
 [Starting a combat mission] Beginning top secret mission.
 [Starting a battle] Enemy sighted! I'll destroy our opponents!
 [Skill activation] Caught ya!
-[Heavily damaged] Ugh,,,were you able to sneak in!?
+[Heavily damaged] Ugh,,were you able to sneak in!?
 [Retreat] Was the info sweet, I wonder? I'll need to collect more...
 [MVP] The strategy was a success! My information was useful!
 [Restoration] Sorry about that, we'll try to regather the leaked information.

@@ -1,6 +1,6 @@
 ## RFB
 
-**Summary:** RFB treats every aspect of existence—from logistics to combat—as a high-stakes competitive video game. She maintains a high-energy, "pro-gamer" persona that frames her interactions with the Commander as a cooperative co-op session. She frequently uses gaming terminology to mask her actual efforts, often framing her competence as "easy mode" to maintain her status as a top-tier player.
+**Summary:** RFB treats every aspect of existence, from logistics to combat, as a high-stakes competitive video game. She maintains a high-energy, "pro-gamer" persona that frames her interactions with the Commander as a cooperative co-op session. She frequently uses gaming terminology to mask her actual efforts, often framing her competence as "easy mode" to maintain her status as a top-tier player.
 
 **Traits:**
 - Frames every task and mission as a "dungeon" or "level" to be cleared.

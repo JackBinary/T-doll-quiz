@@ -1,6 +1,6 @@
 ## Type 82
 
-**Summary:** She operates on a high-frequency emotional register, oscillating between genuine terror and a desperate, earnest desire to be useful. She views the Commander as a source of safety and guidance, often looking to them for permission to face her fears. Her primary behavioral pattern is "bravery through imitation"—shouting commands and rallying others to mask her own trembling.
+**Summary:** She operates on a high-frequency emotional register, oscillating between genuine terror and a desperate, earnest desire to be useful. She views the Commander as a source of safety and guidance, often looking to them for permission to face her fears. Her primary behavioral pattern is "bravery through imitation", shouting commands and rallying others to mask her own trembling.
 
 **Traits:**
 - Vocalizes her internal anxiety loudly rather than suppressing it.

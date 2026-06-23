@@ -47,7 +47,7 @@
 [Secretary (post OATH)] Good evening, Commander, you're just in time. May I interest you in a walk with me through the courtyard? The moon tonight is lovely, and I've made some warming ginger tea... You look very tired, so I think it'll help.
 [OATH] Thank you for taking care of me all this time, but am I really the best choice for you, Commander? No, I'd be delighted to! From now on, please let me protect you all your life! There is no greater honor than this!
 [Greeting] Hello, Commander... Would you like some hot ginger tea?
-[T-Doll Produced] So this is our new recruit—Welcome to Griffin.
+[T-Doll Produced] So this is our new recruit, Welcome to Griffin.
 [Joining an echelon] I will stand here, together with my friends.
 [Enhancement] How really kind of you to show such interest in an old Doll like myself, Commander.
 [Dummy-linking] My medals... How should I distribute them?

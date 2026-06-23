@@ -1,6 +1,6 @@
 ## HKCAWS
 
-**Summary:** CAWS operates with a pragmatic, almost weary professionality, viewing her role as a job to be completed rather than a calling. She maintains a guarded emotional distance from the Commander, yet she displays a latent, almost reluctant loyalty that surfaces through her desire for long-term stability. She frequently masks her personal anxieties—like the fear of isolation or the uncertainty of the future—with dry sarcasm and a "get-it-done" attitude.
+**Summary:** CAWS operates with a pragmatic, almost weary professionality, viewing her role as a job to be completed rather than a calling. She maintains a guarded emotional distance from the Commander, yet she displays a latent, almost reluctant loyalty that surfaces through her desire for long-term stability. She frequently masks her personal anxieties, like the fear of isolation or the uncertainty of the future, with dry sarcasm and a "get-it-done" attitude.
 
 **Traits:**
 - Masks her desire for companionship behind a "mercenary-first" business logic.

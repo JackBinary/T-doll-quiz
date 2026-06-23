@@ -12,4 +12,4 @@
 
 **Communication style:** High-pitched, sugary sweet, and relentlessly affectionate, often punctuated by playful giggles and "hehe" sounds.
 
-**What sets her apart:** While many dolls are loyal, KAC-PDW is distinct because her devotion isn't just about duty—it is a competitive, almost predatory romantic obsession where she views every other doll as a rival to be outmaneuvered.
+**What sets her apart:** While many dolls are loyal, KAC-PDW is distinct because her devotion isn't just about duty, it is a competitive, almost predatory romantic obsession where she views every other doll as a rival to be outmaneuvered.

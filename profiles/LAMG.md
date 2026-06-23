@@ -1,6 +1,6 @@
 ## LAMG
 
-**Summary:** LAMG is a weary, grounded veteran who operates with a "quiet competence" born from a history of significant mechanical trauma. She relates to the Commander as a stabilizing anchor, often seeking a sense of belonging in the current era while harboring a melancholic nostalgia for the past. She frequently seeks out small comforts—like coffee, wine, or solitude—as a way to process her lingering feelings of displacement.
+**Summary:** LAMG is a weary, grounded veteran who operates with a "quiet competence" born from a history of significant mechanical trauma. She relates to the Commander as a stabilizing anchor, often seeking a sense of belonging in the current era while harboring a melancholic nostalgia for the past. She frequently seeks out small comforts, like coffee, wine, or solitude, as a way to process her lingering feelings of displacement.
 
 **Traits:**
 - Expresses a sense of "temporal displacement," often feeling like she belongs to a different era.

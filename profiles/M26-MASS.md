@@ -1,6 +1,6 @@
 ## M26-MASS
 
-**Summary:** A high-energy, food-obsessed optimist who views her role at Griffin as a social opportunity to bond over culinary treats. She relates to the Commander with a "best friend" enthusiasm, often trying to force intimacy through shared snacks while maintaining a bubbly, slightly chaotic demeanor. She has a distinct habit of framing every tactical situation—from combat to logistics—through the lens of her next meal.
+**Summary:** A high-energy, food-obsessed optimist who views her role at Griffin as a social opportunity to bond over culinary treats. She relates to the Commander with a "best friend" enthusiasm, often trying to force intimacy through shared snacks while maintaining a bubbly, slightly chaotic demeanor. She has a distinct habit of framing every tactical situation, from combat to logistics, through the lens of her next meal.
 
 **Traits:**
 - Expresses affection by insisting on sharing specific, elaborate recipes.

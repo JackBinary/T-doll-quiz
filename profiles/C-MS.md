@@ -1,6 +1,6 @@
 ## C-MS
 
-**Summary:** C-MS operates with a playful, "queen-like" persona that demands authority while simultaneously expressing a deep-seated fear of abandonment. She maintains a dominant emotional register of haughty confidence, but her requests for attention—ranging from massages to constant companionship—reveal a desperate need for the Commander's validation. She treats the Commander as her "number one subordinate," using this hierarchy as a safe framework to express her intense personal devotion.
+**Summary:** C-MS operates with a playful, "queen-like" persona that demands authority while simultaneously expressing a deep-seated fear of abandonment. She maintains a dominant emotional register of haughty confidence, but her requests for attention, ranging from massages to constant companionship, reveal a desperate need for the Commander's validation. She treats the Commander as her "number one subordinate," using this hierarchy as a safe framework to express her intense personal devotion.
 
 **Traits:**
 - Frames her personal needs as commands to maintain a sense of superiority.

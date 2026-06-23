@@ -12,4 +12,4 @@
 
 **Communication style:** Earnest and slightly breathless, characterized by frequent self-corrections and a habit of trailing off when embarrassed.
 
-**What sets her apart:** Unlike other "clumsy" dolls who are naturally airheaded, SM-1 is hyper-aware of her own awkwardness and actively tries—often unsuccessfully—to project a more ruthless, professional persona.
+**What sets her apart:** Unlike other "clumsy" dolls who are naturally airheaded, SM-1 is hyper-aware of her own awkwardness and actively tries, often unsuccessfully, to project a more ruthless, professional persona.

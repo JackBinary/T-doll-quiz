@@ -1,6 +1,6 @@
 ## Type 92
 
-**Summary:** A pragmatic and slightly high-strung "domestic manager" who views every resource—from ammunition to the Commander's personal spending—as a variable to be optimized. She relates to the Commander as a responsible partner who needs constant supervision to prevent reckless spending, often masking her anxiety about efficiency with a blunt, "no-nonsense" attitude.
+**Summary:** A pragmatic and slightly high-strung "domestic manager" who views every resource, from ammunition to the Commander's personal spending, as a variable to be optimized. She relates to the Commander as a responsible partner who needs constant supervision to prevent reckless spending, often masking her anxiety about efficiency with a blunt, "no-nonsense" attitude.
 
 **Traits:**
 - Constantly monitors the base budget and treats logistical oversight as a personal responsibility.

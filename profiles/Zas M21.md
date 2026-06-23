@@ -12,4 +12,4 @@
 
 **Communication style:** Her tone is grounded and dry, utilizing a matter-of-fact register that occasionally breaks into teasing "hehe" laughs.
 
-**What sets her apart:** Unlike other dolls who might be purely cynical or purely romantic, Zas M21 occupies the specific middle ground of a "disillusioned realist" who is actively trying—and often failing—to let someone break through her shell of practical logic.
+**What sets her apart:** Unlike other dolls who might be purely cynical or purely romantic, Zas M21 occupies the specific middle ground of a "disillusioned realist" who is actively trying, and often failing, to let someone break through her shell of practical logic.

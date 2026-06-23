@@ -1,6 +1,6 @@
 [Acquisition] LS26 reporting, Commander. These are my suggestions to improve our working practices that I came up with after looking at our employment information. Please have a look.
 [Secretary] Commander, please do not space out. Laxity is taboo at the workplace.
-[Secretary (post OATH)] We're at work now, Commander, so please don't approach me so suddenly— Hm? It's too stressful? Indeed, too much stress is the bane of hard work. Alright then, cuddle up to me for a while more.
+[Secretary (post OATH)] We're at work now, Commander, so please don't approach me so suddenly, Hm? It's too stressful? Indeed, too much stress is the bane of hard work. Alright then, cuddle up to me for a while more.
 [OATH] Commander... Are you sure you want to give this to me? I don't know if... I'm ready to accept such a precious gift, but I'll definitely treasure it! In that case, please be prepared to live with an annoying person like me even outside of work.
 [Greeting] Hello, Commander. I've finished sorting out the supply allocation documents. Here you go.
 [T-Doll Produced] Is it a new teammate? I hope the newcomer's a hard worker.

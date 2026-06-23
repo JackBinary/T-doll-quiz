@@ -12,4 +12,4 @@
 
 **Communication style:** Professional and direct during duty, transitioning into a smooth, sophisticated, and slightly playful tone in private.
 
-**What sets her apart:** Unlike other "cool" archetypes who are purely stoic, Groza possesses a distinct "secret service" maturity—she is intentionally sophisticated and enjoys the "game" of romance just as much as the reality of combat.
+**What sets her apart:** Unlike other "cool" archetypes who are purely stoic, Groza possesses a distinct "secret service" maturity, she is intentionally sophisticated and enjoys the "game" of romance just as much as the reality of combat.

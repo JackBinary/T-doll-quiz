@@ -20,7 +20,7 @@
 [MVP] As a reward for victory, I shall tell you an interesting story tonight, Betty.
 [Restoration] It's alright, Betty. it's just a scratch, we can fix it up soon enough.
 [Attack] Crush them in a single blow.
-[Halloween] Trick or treat—Hoho, we were just kidding. Betty says that we should be good kids. But if anyone tries to harm you or Betty... I don't mind showing them just how bad I can be.
+[Halloween] Trick or treat, Hoho, we were just kidding. Betty says that we should be good kids. But if anyone tries to harm you or Betty... I don't mind showing them just how bad I can be.
 [Christmas] Will Santa Claus really come to visit? But a Doll like me who's plagued with nightmares... probably won't get any warm or nice presents.
 [New Year's Day] The bell of the new year has rung. Hopefully, our lives and that of the Lord Commander will be more peaceful and orderly... free of separation and pain.
 [Valentine's day] At first, I wanted to make my chocolate look like a little teddy bear, just like Betty, but I accidentally burnt it and it changed shape. To make up for it, I added part of myself to it... Hoho, that was just a joke. Did you actually take that seriously?

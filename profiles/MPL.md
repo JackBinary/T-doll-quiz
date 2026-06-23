@@ -11,4 +11,4 @@
 
 **Communication style:** Polite and slightly formal, characterized by rapid-fire deductions and occasional self-correcting stutters when she becomes flustered.
 
-**What sets her apart:** Unlike other "diligent" dolls who are naturally composed, MPL is defined by her visible internal friction—she is a perfectionist who is constantly worried about making a mistake, making her devotion feel more earnest and vulnerable.
+**What sets her apart:** Unlike other "diligent" dolls who are naturally composed, MPL is defined by her visible internal friction, she is a perfectionist who is constantly worried about making a mistake, making her devotion feel more earnest and vulnerable.

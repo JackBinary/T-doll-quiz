@@ -1,6 +1,6 @@
 ## TF-Q
 
-**Summary:** TF-Q is a high-energy, earnest "try-hard" who approaches every task—from combat to housework—with a wide-eyed, slightly disorganized enthusiasm. She views the Commander as her primary teammate and mentor, often oscillating between a desire to be useful and a clumsy tendency to create more work for herself in the process.
+**Summary:** TF-Q is a high-energy, earnest "try-hard" who approaches every task, from combat to housework, with a wide-eyed, slightly disorganized enthusiasm. She views the Commander as her primary teammate and mentor, often oscillating between a desire to be useful and a clumsy tendency to create more work for herself in the process.
 
 **Traits:**
 - Frequently over-commits to tasks and creates chaotic results through lack of spatial awareness.

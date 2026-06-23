@@ -1,9 +1,9 @@
-[Acquisition] Standing before you is the one and only Kolibri — your most reliable protector and friend from now on!
+[Acquisition] Standing before you is the one and only Kolibri, your most reliable protector and friend from now on!
 [Secretary] Your desk is always a mess, Commander. Why don't I teach you the best techniques for tidying and sorting stuff?
 [Secretary (post OATH)] You've been looking down recently, is something bothering you? Oh, it's because you've lost the queens from 30 chess sets recently and haven't been able to find the culprit. What a shame... Wait, don't open that closet!
 [OATH] Eh? Ehhhhh?! Why this, all of a sudden? No, wait, my electronic hummingbirds should have told me about this right away, and I even set them up in advance... Hmm, since you've taken the initiative, you'd better prepare to have another cute little Doll in your home!
 [Greeting] Are you curious about how I'm always waiting here each day to greet you without fail? Naturally, it's because my cute little electronic hummingbirds are keeping an eye on you at all times!
-[T-Doll Produced] Latest news from the hummingbirds — our new friend is ready to report!
+[T-Doll Produced] Latest news from the hummingbirds, our new friend is ready to report!
 [Joining an echelon] The lineup still isn't neat enough. All together now, right face~!
 [Enhancement] I feel like collecting myself more and more!
 [Dummy-linking] A geometric increase in the number of hummingbirds leads to the grandest of concertos!

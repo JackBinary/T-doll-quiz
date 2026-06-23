@@ -20,7 +20,7 @@
 [Restoration] Sorry, I can't take off my mask... Can you fix me while leaving it on?
 [Attack] Get me the pesticide!
 [Halloween] Assholes! Don't go wasting my produce! Give me back my pumpkins!
-[Christmas] Commander~ This basket of apples is for you—I hand-picked them all! I wish you health and protection in the upcoming year!
+[Christmas] Commander~ This basket of apples is for you, I hand-picked them all! I wish you health and protection in the upcoming year!
 [New Year's Day] Happy New Year, Commander. With the new year upon us, spring is also fast approaching. Would you consider my suggestion of creating an orchard here at Griffin? I promise I'll take good care of it, pretty please~?
 [Valentine's day] Commander, chocolate for you! Sorry, but if I don't go online today, my fans will definitely get the wrong idea, so I've got to be on live the whole day. Sorry again!
 [Tanabata] Happy Tanabata, Commander! Miss 100 Shiki and the others have already put up the bamboos, are you also going to hang up a tanzaku? My wish? ...Hm, I wish for even more followers.

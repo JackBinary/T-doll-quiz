@@ -14,7 +14,7 @@
 [Title] Girls' Frontline!
 [Starting a combat mission] In this battle, let's prove your ability, Commander.
 [Starting a battle] I'll kick you out of here soon!
-[Skill activation] Got it , I can use this!
+[Skill activation] Got it, I can use this!
 [Heavily damaged] Ugh... Commander's order... is it really okay?
 [Retreat] Commander... you've disappoint me.
 [MVP] If it's you, I believe you can do it, Commander. Let's keep this up.
@@ -37,7 +37,7 @@
 [Logistics (end)] Commander, everything went very well. Please have a look.
 [Autobattle] Have you finished checking the tactical plan?
 [Title] Girls' Frontline!
-[Starting a combat mission] I'll make sure everyone comes back alive — but try not to hold me back too much, okay?
+[Starting a combat mission] I'll make sure everyone comes back alive, but try not to hold me back too much, okay?
 [Starting a battle] Sssh... Quiet now. Rather than let them see us, we should let them see our bullets first.
 [Skill activation] One shot, one kill.
 [Heavily damaged] It's stronger than that time, right...

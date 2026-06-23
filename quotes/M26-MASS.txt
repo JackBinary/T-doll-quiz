@@ -5,7 +5,7 @@
 [Greeting] What are we eating today, Commander?
 [T-Doll Produced] Wow, lemme check out which new friend is here... Hey, I know I've seen you somewhere!
 [Joining an echelon] Everyone behind me! I'm full of energy now that my belly is full!
-[Enhancement] Hm, that felt satisfying – like eating two slices of pineapple and lobster pizza!
+[Enhancement] Hm, that felt satisfying, like eating two slices of pineapple and lobster pizza!
 [Dummy-linking] Come, my dear friends!
 [Logistics (start)] Wow, looks like we'll be traveling pretty far, but that's alright, I'll prepare food for everyone!
 [Logistics (end)] Commander, I've brought back everything you need!
@@ -21,7 +21,7 @@
 [Attack] Heheh, this is my area of expertise!
 [Halloween] Jack-o'-lanterns... Candy corn... Hold on, I've got a brilliant idea! I'm gonna make a special Halloween pizza!
 [Christmas] How on earth does Santa Claus get inside people's homes? I could use that kind of skill. That way, I'll know what to do next time I get a door shut in my face!
-[New Year's Day] Huhhhhh? New Year? Will there be a celebration? There must be pizza at a celebration, right? I can help out in the kitchen— No, I won't sneak fruit in while it's baking in the oven, I swear!
+[New Year's Day] Huhhhhh? New Year? Will there be a celebration? There must be pizza at a celebration, right? I can help out in the kitchen, No, I won't sneak fruit in while it's baking in the oven, I swear!
 [Valentine's day] Valentine's Day, huh. Sounds like the perfect time to exchange presents! I'll start preparing 300 durian king crab pizza right away!
 [Tanabata] They only get to meet once a year? What do they eat to mark such an occasion?
 [Defense] Hm, we should proceed with more caution.

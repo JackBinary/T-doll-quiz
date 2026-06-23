@@ -1,6 +1,6 @@
 ## SCR
 
-**Summary:** SCR is a high-energy, hyper-focused content creator who views her life at Griffin as a brand to be curated and shared with her "Cherry Bombs." She maintains a bubbly, professional persona for her audience while exhibiting a protective, almost obsessive streak regarding her personal interests—specifically agriculture and fruit. She treats the Commander as her primary partner and "co-star," seeking to integrate them into her public and private milestones.
+**Summary:** SCR is a high-energy, hyper-focused content creator who views her life at Griffin as a brand to be curated and shared with her "Cherry Bombs." She maintains a bubbly, professional persona for her audience while exhibiting a protective, almost obsessive streak regarding her personal interests, specifically agriculture and fruit. She treats the Commander as her primary partner and "co-star," seeking to integrate them into her public and private milestones.
 
 **Traits:**
 - Frames every interaction through the lens of content creation and audience engagement.

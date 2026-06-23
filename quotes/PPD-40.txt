@@ -17,7 +17,7 @@
 [Heavily damaged] ...This, this is impossible!
 [Retreat] We just met the enemy at the wrong time.
 [MVP] Perfect, we finished just before knocking off from work.
-[Restoration] The more intricate the Doll, the more carefully you need to — hey! Quit messing up my hair!
+[Restoration] The more intricate the Doll, the more carefully you need to, hey! Quit messing up my hair!
 [Attack] Let the enemy witness our firepower!
 [Halloween] Please close the door, Commander. It took me a lot of effort to find a place where I could drink in peace. If those troublemakers outside found out, my last bastion of solace would be gone too.
 [Christmas] Ah, it's you, Commander. Merry Christmas. I'm preparing gifts for those two. We're sisters, after all, so I need to discharge my sisterly obligations even if I dislike them, don't I?

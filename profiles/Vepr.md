@@ -12,4 +12,4 @@
 
 **Communication style:** Polished and respectful, yet prone to becoming breathless and earnest when the topic of animals is broached.
 
-**What sets her apart:** Unlike other "nature-loving" dolls who might be serene or aloof, Vepr is defined by her active, organizational zeal—she doesn't just watch nature; she wants to build a formal movement to save it.
+**What sets her apart:** Unlike other "nature-loving" dolls who might be serene or aloof, Vepr is defined by her active, organizational zeal, she doesn't just watch nature; she wants to build a formal movement to save it.

@@ -20,7 +20,7 @@
 [Restoration] You're leaving me here all by myself? Stay with me for a bit!
 [Attack] Piece of cake. A bang-bang-bang is all it takes to sort out enemies of this caliber!
 [Halloween] Just dressing up as monsters is no fun at all. Why don't we switch places as well? I'm sure everyone will get a massive scare when they see me sitting in your office~!
-[Christmas] Where's my present, Commander? You're still rushing to put everything together because there are just too many Dolls at the base? Can't be helped then. I guess I'll spare you the trouble and just take a present that's ready-to-do as is—you, of course! Now come with me~!
+[Christmas] Where's my present, Commander? You're still rushing to put everything together because there are just too many Dolls at the base? Can't be helped then. I guess I'll spare you the trouble and just take a present that's ready-to-do as is, you, of course! Now come with me~!
 [New Year's Day] To tell the truth, I kinda wanna spend the New Years on the battlefield, but you prefer a more peaceful environment, don't you? So let's just have a New Year's Eve dinner and spend the last few hours of this year in peace~!
 [Valentine's day] Here, I've made this chocolate especially for you. You'd better accept it with gratitude~! A return gift? In that case... How about a date?
 [Tanabata] I wish the Commander can be with me forever... Is that a strange wish? It's much more achievable than winning the lottery though, isn't it? All you have to do is say yes~!

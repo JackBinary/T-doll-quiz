@@ -12,4 +12,4 @@
 
 **Communication style:** High-energy, rapid-fire, and extremely polite, often using exclamation points and proactive questions.
 
-**What sets her apart:** While many dolls are loyal, GSh-18 is distinct because her devotion is fueled by a specific "striving" complex—she isn't just a soldier following orders, she is a girl desperately trying to earn a "reliable smile" through sheer, relentless effort.
+**What sets her apart:** While many dolls are loyal, GSh-18 is distinct because her devotion is fueled by a specific "striving" complex, she isn't just a soldier following orders, she is a girl desperately trying to earn a "reliable smile" through sheer, relentless effort.

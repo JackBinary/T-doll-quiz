@@ -11,4 +11,4 @@
 
 **Communication style:** Professional, direct, and obedient, using a polite but slightly formal register that softens only during personal holidays.
 
-**What sets her apart:** While other dolls might be defined by their confidence or their trauma, FAMAS is defined by her "export-grade" reliability—she is a perfected instrument of war who is constantly struggling with the weight of her own functional perfection.
+**What sets her apart:** While other dolls might be defined by their confidence or their trauma, FAMAS is defined by her "export-grade" reliability, she is a perfected instrument of war who is constantly struggling with the weight of her own functional perfection.

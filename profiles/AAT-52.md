@@ -11,4 +11,4 @@
 
 **Communication style:** Bright, bubbly, and formal, often peppered with enthusiastic exclamations and a "polite-but-eager" French flair.
 
-**What sets her apart:** While many dolls are simply "cheerful," AAT-52 is defined specifically by her clumsy perseverance—she isn't just happy; she is a girl who is constantly falling down and choosing to get back up until she is perfect.
+**What sets her apart:** While many dolls are simply "cheerful," AAT-52 is defined specifically by her clumsy perseverance, she isn't just happy; she is a girl who is constantly falling down and choosing to get back up until she is perfect.

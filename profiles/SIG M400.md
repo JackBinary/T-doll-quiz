@@ -1,6 +1,6 @@
 ## SIG M400 (Hertha)
 
-**Summary:** Hertha is a pragmatic opportunist who treats the world as a series of items to be claimed or obstacles to be cleared. She maintains a blunt, "no-nonsense" emotional register, viewing the Commander primarily as a source of logistical support rather than a figure of authority. She has a specific behavioral pattern of claiming ownership over things she finds useful—like office furniture—without asking for permission.
+**Summary:** Hertha is a pragmatic opportunist who treats the world as a series of items to be claimed or obstacles to be cleared. She maintains a blunt, "no-nonsense" emotional register, viewing the Commander primarily as a source of logistical support rather than a figure of authority. She has a specific behavioral pattern of claiming ownership over things she finds useful, like office furniture, without asking for permission.
 
 **Traits:**
 - Claims territory or belongings with immediate, unearned confidence.

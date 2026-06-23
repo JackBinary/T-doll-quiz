@@ -5,7 +5,7 @@
 [Greeting] You're quite punctual, Commander.
 [T-Doll Produced] If new arrivals are joining us, they have to pass the test.
 [Joining an echelon] Everyone, don't panic, listen to my analysis of the battle plan.
-[Enhancement] Huaah — feels as comfortable as an outdoors breeze blowing by.
+[Enhancement] Huaah, feels as comfortable as an outdoors breeze blowing by.
 [Dummy-linking] Is this a one-man forest?
 [Logistics (start)] Objective data summary complete, just wait for my good news.
 [Logistics (end)] I'm back, these are the items you wanted, right? Not a single thing is missing.

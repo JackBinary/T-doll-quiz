@@ -41,12 +41,11 @@
 [Autobattle] Leave it all to me. I won't disappoint you.
 [Title] Girls' Frontline!
 [Starting a combat mission] Let's go! Onward to the dawn!
-[Starting a battle] Beepbeep — I'm riding, anyone blocking my path will be knocked away!
+[Starting a battle] Beepbeep, I'm riding, anyone blocking my path will be knocked away!
 [Skill activation] Guns are so cool!
 [Heavily damaged] I, I need to bear with this (sobs)
 [Retreat] If we can't keep going, how about next time? Okay?
 [MVP] We can't stop here, we need to keep heading forward!
 [Restoration] Please fix my dress along with me.
-[Attack] Go—
-[Defense] Ehhhhh, it's a red light, better stop.
+[Attack] Go, [Defense] Ehhhhh, it's a red light, better stop.
 [Loading] A moment please.

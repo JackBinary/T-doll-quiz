@@ -4,8 +4,8 @@
 [OATH] Commander, can we move to somewhere tidier first? Hold on, you mean...oh! As if I could pay attention to my surroundings when you drop this on me... I know I'm a fussy person, but if you're willing...I have no reason to refuse!
 [Title] Girls' Frontline!
 [Acquisition] Good heavens, why is this receiving room so asymmetrical? I'm sorry, I think I'm going to faint...
-[Secretary] After changing into a child's body, I started craving snacks~ Huh? You want to try some too? Of course it's fine, I happen to have some right here— Huh? How come I brought dog food cans out with me?!
-[Secretary (post OATH)] Ah, Commander! I'm learning how to make delicious bentos... P-please wait, this isn't the time to taste them yet, let me arrange the dishes neatly first— Uwaaaaahhhh! I spilled dog food on it!
+[Secretary] After changing into a child's body, I started craving snacks~ Huh? You want to try some too? Of course it's fine, I happen to have some right here, Huh? How come I brought dog food cans out with me?!
+[Secretary (post OATH)] Ah, Commander! I'm learning how to make delicious bentos... P-please wait, this isn't the time to taste them yet, let me arrange the dishes neatly first, Uwaaaaahhhh! I spilled dog food on it!
 [OATH] Hm? This ring is... Do you want to take care of the doggies with me from now on? Yup, two people and two doggies is definitely more symmetrical, and I... I mean, they like you a lot too! Alright then! Hehe, since chances like these don't come by often, let's go out on a walk!
 [Greeting] Good morning, nice weather we're having today.
 [T-Doll Produced] I hope the newcomer isn't the kind who only wears one stocking.

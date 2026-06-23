@@ -12,4 +12,4 @@
 
 **Communication style:** Upbeat, bubbly, and informal, punctuated by frequent nervous stammers and high-pitched "Ehehe" giggles.
 
-**What sets her apart:** While many dolls are cheerful, Lewis is distinguished by her specific "outsider" complex—a poignant, underlying fear of being emotionally excluded that drives her intense, almost desperate need to be "in the Commander's heart."
+**What sets her apart:** While many dolls are cheerful, Lewis is distinguished by her specific "outsider" complex, a poignant, underlying fear of being emotionally excluded that drives her intense, almost desperate need to be "in the Commander's heart."

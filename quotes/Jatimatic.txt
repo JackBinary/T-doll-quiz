@@ -1,4 +1,4 @@
-[Acquisition] Jatimatic — that's my name. You can also call me Jati. Whichever you prefer.
+[Acquisition] Jatimatic, that's my name. You can also call me Jati. Whichever you prefer.
 [Secretary] You want me to make you a coffee? Commander, humans have been developing technology for the purpose of freeing up their hands. I think we can leave the coffee-making to the coffee machine. Ah, please get me a cup too. Thanks.
 [Secretary (post OATH)] Oh? The fully-automatic meal-prep machine is broken? Hm, I was hoping I could just lie down while it prepared a meal all by itself... Can't be helped. You'll have to do something about dinner tonight.
 [OATH] Hm... Does this give me complete access to all of Griffin's resources? No? That's a shame. And here I thought I wouldn't have to work so hard anymore... But at least I can rely on you now. This feels like an even better deal than the former... So it's decided then~!
@@ -25,5 +25,5 @@
 [Tanabata] I hope I'll master the technique of using more tools. Only by using tools well will my work efficiency increase~!
 [Defense] This is quite challenging. Let me try blocking that.
 [Phrase] Tools are what leads to improvement~!
-[Tip] You like the flowers on my clothes? Heheh, they're actually camouflaged bulletproof armor – they're more useful than they look.
+[Tip] You like the flowers on my clothes? Heheh, they're actually camouflaged bulletproof armor, they're more useful than they look.
 [Loading] We get more rest, isn't that nice?

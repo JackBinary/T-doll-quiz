@@ -1,8 +1,8 @@
 [Acquisition] Tactical Doll AR57 reporting... Why are you standing so far away? It's not like I'm going to do anything to you...
 [Secretary] I know my face looks a little fierce... But I was rolled out of the factory this way, it's not like I decided it, right? Calling me a battle maniac just because of that is a little unfair, don't you think... You want me to stop pointing my gun around? No can do.
 [Secretary (post OATH)] Recently, I've been starting to think that it doesn't matter if people think I look fierce. I mean, everyone will come to know the real me eventually, so I kind of feel like I've been kind of a dork for worrying about it all this time... Now whose fault do you think it is, hm?
-[OATH] Sheesh, you really have a lot of courage to be saying this sort of thing to me... Don't you think I'm fierce? You do? Then why are you still... ...Well, yeah, you have a point. Being able to accept something like that is a sign of true acceptance, right? In that case, please take care of me, Commander.
-[Greeting] Ah, you're her. Excellent timing. I've got something for you to look at — which barrel's firepower best suits me?
+[OATH] Sheesh, you really have a lot of courage to be saying this sort of thing to me... Don't you think I'm fierce? You do? Then why are you still......Well, yeah, you have a point. Being able to accept something like that is a sign of true acceptance, right? In that case, please take care of me, Commander.
+[Greeting] Ah, you're her. Excellent timing. I've got something for you to look at, which barrel's firepower best suits me?
 [T-Doll Produced] How can I make my face look more gentle...
 [Joining an echelon] I hope we'll be able to get along this time...
 [Enhancement] Oh, it's nothing... It's a hobby for me anyway.

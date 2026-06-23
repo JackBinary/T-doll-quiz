@@ -12,4 +12,4 @@
 
 **Communication style:** Her speech is formal, hushed, and heavy with poetic weight, often trailing off into contemplative pauses.
 
-**What sets her apart:** Unlike other "melancholy" dolls who might be simply sad or nihilistic, AUG is defined by her specific obsession with the *ritual* of death—treating the battlefield as a garden of funerals where she is both the gardener and the offering.
+**What sets her apart:** Unlike other "melancholy" dolls who might be simply sad or nihilistic, AUG is defined by her specific obsession with the *ritual* of death, treating the battlefield as a garden of funerals where she is both the gardener and the offering.

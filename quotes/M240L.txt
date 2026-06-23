@@ -1,7 +1,7 @@
 [Acquisition] I am the knight errant M240L. Are you the supreme commander of this place? In accordance with knightly etiquette, please allow me to address you as my liege!
-[Secretary] Your excellency, I encountered a band of brigands sacking a supply truck on my way today. By my honor as knight, I defeated them by force of arms and defended the truck... Ah, this could be a writ of commendation from the driver—Urgh, is that a list of damages sustained by the vehicle?
+[Secretary] Your excellency, I encountered a band of brigands sacking a supply truck on my way today. By my honor as knight, I defeated them by force of arms and defended the truck... Ah, this could be a writ of commendation from the driver, Urgh, is that a list of damages sustained by the vehicle?
 [Secretary (post OATH)] My dear liege, may long life be yours-In the lengthy days to come, all obstacles will be trampled underfoot so long as we go forward together!
-[OATH] Is this... a ring? I see, so it is a proof of glory that you are bestowing upon me, my liege! In that case, I swear a solemn oath upon this ring—I shall accompany you from this day forth to cut down all obstacles in your path, never to be parted from your side!
+[OATH] Is this... a ring? I see, so it is a proof of glory that you are bestowing upon me, my liege! In that case, I swear a solemn oath upon this ring, I shall accompany you from this day forth to cut down all obstacles in your path, never to be parted from your side!
 [Greeting] My liege, with all due respect, for the sake of your personal safety, you should stay within this fortress and not leave casually.
 [T-Doll Produced] I wonder if there are any good sprouts among these recruits. I would gladly take them on as my squires!
 [Joining an echelon] Order received, my liege.
@@ -14,14 +14,14 @@
 [Starting a combat mission] Onward, for my liege!
 [Starting a battle] Let us do battle, fair and square!
 [Skill activation] Have at you!
-[Heavily damaged] Do not think such wounds will stop me—!
+[Heavily damaged] Do not think such wounds will stop me, !
 [Retreat] Even in retreat, a knight will never bow their head!
 [MVP] All glory to my liege!
 [Restoration] If only there were some sacred elixir that could heal all wounds with but a drop, I would not be wasting my time waiting here!
 [Attack] Through the fire and the flames!
-[Halloween] To think so many devils and monsters have infested the castle! They claim to be our Dolls, but I—M240L—have seen through their petty deceptions and struck them all down! My liege, you may rest easy!
+[Halloween] To think so many devils and monsters have infested the castle! They claim to be our Dolls, but I, M240L, have seen through their petty deceptions and struck them all down! My liege, you may rest easy!
 [Christmas] My liege, why are you dressed in the guise of a red goblin? You're giving gifts? But you'll scare the others like this... Allow me to render assistance. Surely nobody will refuse a noble knight descending from the heavens!
-[New Year's Day] My liege, is it true a terrifying beast will attack this night? Fear not, by my honor as a knight, I—M240L—shall slay this fiend low... Onward, for my liege!
+[New Year's Day] My liege, is it true a terrifying beast will attack this night? Fear not, by my honor as a knight, I, M240L, shall slay this fiend low... Onward, for my liege!
 [Valentine's day] How could mere chocolate express true love?! Rather, please allow me to serenade you with a romantic composition!
 [Tanabata] The Cowherd and the Weaver meet but once a year because theirs is a forbidden love? Utterly preposterous! Should I encounter such injustice, rest assured that I shall lend my blade to the cause of right! I wonder if there are any such star-crossed lovers at large right now... Perhaps I shall head outside and take a look.
 [Defense] Not one step back!

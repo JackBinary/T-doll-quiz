@@ -38,7 +38,7 @@
 [Title] Girls' Frontline!
 [Starting a combat mission] Order received! I'll fight to the end!
 [Starting a battle] За победу!
-[Skill activation] Ypa—!
+[Skill activation] Ypa, !
 [Heavily damaged] Urgh! Never mind me, everyone, keep fighting!
 [Retreat] Let's retreat now for the sake of the future...
 [MVP] Thank you for your hard work, comrades! Our shining victory will last forever!

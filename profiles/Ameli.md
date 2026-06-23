@@ -1,6 +1,6 @@
 ## Ameli
 
-**Summary:** Ameli is a literalist who operates with a rigid, almost mechanical devotion to rules and protocols to compensate for her own feelings of inadequacy. She views her relationship with the Commander through the lens of ownership and duty, often seeking permission or "permission to fail" before expressing personal desires. She frequently fixates on small, physical imperfections—specifically her buttons—as a tangible way to manifest her anxiety about being "broken" or useless.
+**Summary:** Ameli is a literalist who operates with a rigid, almost mechanical devotion to rules and protocols to compensate for her own feelings of inadequacy. She views her relationship with the Commander through the lens of ownership and duty, often seeking permission or "permission to fail" before expressing personal desires. She frequently fixates on small, physical imperfections, specifically her buttons, as a tangible way to manifest her anxiety about being "broken" or useless.
 
 **Traits:**
 - Interprets "belonging" to the Commander as a literal legalistic shift in status.

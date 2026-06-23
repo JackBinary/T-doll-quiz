@@ -11,4 +11,4 @@
 
 **Communication style:** Bubbly, fast-paced, and informal, frequently utilizing internet slang and "gamer" lingo.
 
-**What sets her apart:** Unlike other energetic dolls who are simply "hyper," TPS is specifically defined by her performative duality—she is constantly balancing the need to be an entertaining "idol" for her fans with her genuine desire to be a competent soldier for the Commander.
+**What sets her apart:** Unlike other energetic dolls who are simply "hyper," TPS is specifically defined by her performative duality, she is constantly balancing the need to be an entertaining "idol" for her fans with her genuine desire to be a competent soldier for the Commander.

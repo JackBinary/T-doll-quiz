@@ -12,7 +12,7 @@
 [Autobattle] I can do it if I just imitate your tactics.
 [Title] Girls' Frontline!
 [Starting a combat mission] Let's go. Advance carefully.
-[Starting a battle] Wipe them all out and let none survive — that's it, right?
+[Starting a battle] Wipe them all out and let none survive, that's it, right?
 [Skill activation] What can be seen can be learned.
 [Heavily damaged] Ah, why does my body feel so light...
 [Retreat] This is just like how you can get stuck when trying to solve a Rubik's Cube. Calm down and try again later.

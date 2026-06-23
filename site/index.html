@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Which T-Doll Are You?</title>
+<link rel="icon" type="image/png" href="assets/favicon.png">
+<link rel="icon" type="image/x-icon" href="assets/favicon.ico">
+<link rel="apple-touch-icon" href="assets/butterfly.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;500;600;700&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- Ambient layers -->
+<div class="bg-grid" aria-hidden="true"></div>
+<div class="bg-scanlines" aria-hidden="true"></div>
+<div class="bg-vignette" aria-hidden="true"></div>
+<div id="butterfly-field" aria-hidden="true"></div>
+
+
+<main class="hud">
+
+  <!-- ============ INTRO ============ -->
+  <section id="screen-intro" class="screen is-active">
+    <div class="frame">
+      <span class="corner tl"></span><span class="corner tr"></span>
+      <span class="corner bl"></span><span class="corner br"></span>
+
+      <div class="intro-emblem">
+        <img class="butterfly-emblem" src="assets/butterfly.png" alt="" aria-hidden="true">
+      </div>
+
+      <p class="kicker">NEURAL CLOUD // PERSONALITY CALIBRATION</p>
+      <h1 class="title">WHICH T&#8209;DOLL<br>ARE YOU?</h1>
+      <p class="lede">
+        Rate statements about yourself, from strongly disagree to strongly agree, and we'll do all the fancy math to find your closest T-Doll match.
+      </p>
+
+      <button id="btn-begin" class="btn btn-primary">
+        <span class="btn-label">Let's Go</span>
+        <span class="btn-glow"></span>
+      </button>
+
+      <p class="readout"><em>This is a fan project and not affiliated with Sunborn or the official Girls' Frontline game. All T-Doll images are property of Sunborn and used here for non-commercial fan purposes only.</em></p>
+    </div>
+  </section>
+
+  <!-- ============ QUIZ ============ -->
+  <section id="screen-quiz" class="screen">
+    <header class="quiz-top">
+      <div class="quiz-meta">
+        <span class="quiz-q-index">QUERY <b id="q-num">01</b></span>
+        <span class="quiz-q-sep">/</span>
+        <span class="quiz-q-total" id="q-total">~16</span>
+      </div>
+
+      <div class="confidence">
+        <div class="confidence-label">
+          <span>SIGNAL LOCK</span><span id="conf-pct">0%</span>
+        </div>
+        <div class="confidence-bar"><div id="conf-fill" class="confidence-fill"></div></div>
+      </div>
+
+      <div class="analyzing">
+        <div class="analyzing-thumb">
+          <img class="butterfly-mini" src="assets/butterfly.png" alt="" aria-hidden="true">
+        </div>
+        <div class="analyzing-text">
+          <span class="analyzing-kicker">IN CONTENTION</span>
+          <span class="analyzing-name" id="contention-count">&bull;&bull;&bull;</span>
+        </div>
+      </div>
+    </header>
+
+    <div class="frame statement-frame">
+      <span class="corner tl"></span><span class="corner tr"></span>
+      <span class="corner bl"></span><span class="corner br"></span>
+      <p class="statement-kicker">STATEMENT</p>
+      <p class="statement" id="statement-text">&hellip;</p>
+    </div>
+
+    <div class="answers">
+      <button class="ans" data-value="1"><b>STRONGLY</b><span>DISAGREE</span></button>
+      <button class="ans" data-value="2"><b>DISAGREE</b><span>somewhat</span></button>
+      <button class="ans" data-value="3"><b>AGREE</b><span>somewhat</span></button>
+      <button class="ans" data-value="4"><b>STRONGLY</b><span>AGREE</span></button>
+    </div>
+
+    <div class="quiz-controls">
+      <button id="btn-back" class="btn btn-ghost" disabled>&#8592; BACK</button>
+      <button id="btn-restart-q" class="btn btn-ghost">RESET</button>
+    </div>
+  </section>
+
+  <!-- ============ RESULT ============ -->
+  <section id="screen-result" class="screen">
+    <div class="result-grid">
+      <div class="result-portrait frame">
+        <span class="corner tl"></span><span class="corner tr"></span>
+        <span class="corner bl"></span><span class="corner br"></span>
+        <div class="portrait-glow"></div>
+        <img id="result-img" alt="" />
+        <div class="portrait-tag">
+          <span class="portrait-tag-kicker">MATCH</span>
+          <span class="portrait-tag-pct" id="result-pct">&bull;</span>
+        </div>
+      </div>
+
+      <div class="result-body">
+        <p class="kicker">YOU ARE MOST LIKE</p>
+        <h2 class="result-name" id="result-name">&bull;&bull;&bull;</h2>
+
+        <div class="result-section">
+          <p class="result-section-head"><img class="butterfly-bullet" src="assets/butterfly.png" alt=""> WHAT SHE'S LIKE</p>
+          <p class="result-text" id="result-what">&hellip;</p>
+        </div>
+
+        <div class="result-section result-section--accent">
+          <p class="result-section-head"><img class="butterfly-bullet" src="assets/butterfly.png" alt=""> I SEE YOU</p>
+          <p class="result-text" id="result-isee">&hellip;</p>
+        </div>
+
+        <div class="result-section">
+          <p class="result-section-head">SIGNAL DISTRIBUTION</p>
+          <ul class="ranklist" id="result-ranklist"></ul>
+        </div>
+
+        <button id="btn-restart" class="btn btn-primary">
+          <span class="btn-label">Try Again</span>
+          <span class="btn-glow"></span>
+        </button>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer class="site-foot">
+  <span>UNOFFICIAL FAN PROJECT</span><span class="dot">&middot;</span><span id="foot-count">&hellip; T-DOLLS INDEXED</span>
+</footer>
+
+<script src="quiz_data.js"></script>
+<script src="quiz.js"></script>
+</body>
+</html>

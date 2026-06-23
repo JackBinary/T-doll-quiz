@@ -41,7 +41,7 @@
 [Starting a battle] Preparing to intercept the enemy. All units, take cover.
 [Skill activation] Understood.
 [Heavily damaged] ...I'm fine. Please take care of the other team members.
-[Retreat] Don't lose yourself in battle — a momentary setback means nothing!
+[Retreat] Don't lose yourself in battle, a momentary setback means nothing!
 [MVP] It isn't time to celebrate yet. We're a long way off from true victory.
 [Restoration] I'm sure AK-12 would have done it better...
 [Attack] Maintain current speed. I'll cover you.

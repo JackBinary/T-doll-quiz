@@ -1,4 +1,4 @@
-[Acquisition] Rejoice! The one standing before you is none after than the elite T-Doll ZIP22. With my help, you will never have to worry about anything again— Huh? I was five minutes late? Th-That's not possible!
+[Acquisition] Rejoice! The one standing before you is none after than the elite T-Doll ZIP22. With my help, you will never have to worry about anything again, Huh? I was five minutes late? Th-That's not possible!
 [Secretary] Cola Kid and I were from the same batch. She's quite an impatient one, isn't she? That's why I must keep an eye on her. That's how it's always been. I don't really understand why people keep telling her, "thanks for the good work."
 [Secretary (post OATH)] As an elite, it's normal to be respected by your colleagues, right? So why does everyone look at me kinda dotingly instead of respectfully...? That's it, right there! You're looking at me in the exact same way! But why?!
 [OATH] You're too late! You should have asked the first time you set eyes on me. I'm perfection incarnate, after all... Still, I most probably would have rejected you back then if you had asked.  Rejoice! You have now earned my recognition. From today onwards... I will always be by your side.
@@ -20,11 +20,11 @@
 [Restoration] Everyone makes mistakes...
 [Attack] Wipe them out!
 [Halloween] Commander, answer me honestly! Those monsters out there...are actually Dolls in disguise, right? You're not lying to me, are you? There are no monsters, right?
-[Christmas] I love Christmas! There are glamorous and beautiful decorations everywhere—it's exactly my style! I helped make a lot of the decorations you see around Griffin today! Oh, it's nothing—just doing my job as an elite Doll... If you're pleased with them, come take a walk with me.
+[Christmas] I love Christmas! There are glamorous and beautiful decorations everywhere, it's exactly my style! I helped make a lot of the decorations you see around Griffin today! Oh, it's nothing, just doing my job as an elite Doll... If you're pleased with them, come take a walk with me.
 [New Year's Day] Happy New Year, Commander. Congratulations on still having an elite like me by your side this year... I've tried making some Chinese-style jewelry. This is a kind of Chinese knot, right? It's for you. You don't have to thank me, just keep following me in the upcoming year.
 [Valentine's day] This so-called Valentine's Day is basically a festival for popular people to obtain presents from their fans, right? Then I allow you, Commander, to buy me some gemstones!
 [Tanabata] Such a plain and dull festival really doesn't suit an elite like me... But since you all seem to be having such a good time, I'll humor you just a bit. Uh, do I hang my wish strip here?
 [Defense] ...Elites should know when to pull back.
 [Phrase] Leave it to me!
 [Tip] Say, you always look kinda homely... You're my boss, so this won't do! I'll make you something nice next time, make sure you wear it.
-[Loading] Red... blue... Alright, final decision—pink!
+[Loading] Red... blue... Alright, final decision, pink!

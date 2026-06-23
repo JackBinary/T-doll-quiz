@@ -12,4 +12,4 @@
 
 **Communication style:** Confident and assertive with a playful, "spunky" edge that occasionally cracks into flustered stammering when she is truly embarrassed.
 
-**What sets her apart:** Unlike other confident snipers who are naturally cool and composed, SVD is defined by her "try-hard" energy—she is actively trying to *earn* the title of elite through constant validation and proactive service.
+**What sets her apart:** Unlike other confident snipers who are naturally cool and composed, SVD is defined by her "try-hard" energy, she is actively trying to *earn* the title of elite through constant validation and proactive service.

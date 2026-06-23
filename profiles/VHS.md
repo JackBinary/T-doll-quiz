@@ -1,6 +1,6 @@
 ## VHS
 
-**Summary:** VHS is a stoic, intellectually-driven doll who prioritizes personal focus and "quiet" over social engagement. She relates to the Commander as a pragmatic partner, offering grounded advice to prevent them from spiraling into unnecessary stress. She displays a distinct behavioral pattern of retreating into hobbies—like model building or reading—as a way to regulate her environment.
+**Summary:** VHS is a stoic, intellectually-driven doll who prioritizes personal focus and "quiet" over social engagement. She relates to the Commander as a pragmatic partner, offering grounded advice to prevent them from spiraling into unnecessary stress. She displays a distinct behavioral pattern of retreating into hobbies, like model building or reading, as a way to regulate her environment.
 
 **Traits:**
 - Prioritizes individual tasks over group dynamics but tries to adapt when necessary.

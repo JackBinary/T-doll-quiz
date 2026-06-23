@@ -11,4 +11,4 @@
 
 **Communication style:** Her tone is hushed and reverent, using formal language peppered with nautical imagery and occasional, soft-spoken superstitions.
 
-**What sets her apart:** Unlike other "melancholy" dolls who focus on internal trauma, Mk.18’s sadness is outward-facing—it is a mourning for the planet—making her more of a selfless environmentalist than a self-pitying soldier.
+**What sets her apart:** Unlike other "melancholy" dolls who focus on internal trauma, Mk.18’s sadness is outward-facing, it is a mourning for the planet, making her more of a selfless environmentalist than a self-pitying soldier.
