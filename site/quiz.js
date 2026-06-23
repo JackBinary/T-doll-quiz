@@ -241,7 +241,6 @@ function startQuiz() {
 
 document.getElementById("btn-begin").addEventListener("click", startQuiz);
 document.getElementById("btn-restart").addEventListener("click", startQuiz);
-document.getElementById("btn-restart-q").addEventListener("click", startQuiz);
 document.getElementById("btn-back").addEventListener("click", goBack);
 
 document.querySelectorAll(".ans[data-value]").forEach(btn => {
@@ -253,11 +252,7 @@ document.querySelectorAll(".ans[data-value]").forEach(btn => {
 });
 
 const skipBtn = document.getElementById("btn-skip");
-skipBtn.addEventListener("click", () => {
-  skipBtn.classList.add("flash");
-  setTimeout(() => skipBtn.classList.remove("flash"), 320);
-  skip();
-});
+skipBtn.addEventListener("click", () => skip());
 
 // Keyboard: 1-4 to answer, 0/space to skip, Backspace to go back.
 document.addEventListener("keydown", (e) => {
