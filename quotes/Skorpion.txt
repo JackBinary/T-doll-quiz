@@ -1,0 +1,25 @@
+[Acquisition] Skorpion submachine gun is here! Give me a royal welcome! ...Don't be afraid, I'm really harmless.
+[Secretary] Commander, if you keep touching me, I'll shoot you into a beehive.
+[Secretary (post OATH)] Commander, come look at this! I drew this picture of you! ...Looks just like you, doesn't it? I can make fine things too!
+[OATH] Commander, to make such a decision is... do you understand me? ...Alright, if that's the case, then there's not much to say. What's happened in the past will stay in the past, please allow me to accompany you in the future!
+[Greeting] Commander! Nice timing, let's go train.
+[T-Doll Produced] A new comrade has arrived! Are you as strong as I am?
+[Joining an echelon] Do your best and I'll do mine!
+[Enhancement] Woohoo! I'm definitely not gonna lose now!
+[Dummy-linking] Dummy-linking complete, let's fight this quickly!
+[Logistics (start)] I'm leaving, I'll be okay.
+[Logistics (end)] I'm back! I told you I'd be okay.
+[Autobattle] Everyone~, I'm heading out now, please pay attention!
+[Title] Girls' Frontline!
+[Starting a combat mission] I've waited forever! Advance!
+[Starting a battle] It's THE ENEMY! Go get 'em, alright?
+[Skill activation] Found you!
+[Heavily damaged] Just getting banged up like this... no big deal, right?
+[Retreat] This... Can't be happening...
+[MVP] Ahaha~ I'm really strong, aren't I?
+[Restoration] Wuu~uuuh, yeeeah, that was kinda rough. BUT! You learn from everything, y'know?
+[Halloween] Commander~ I want candy~
+[Christmas] Merry~ Christmas~! A beautiful tree, a delicious cake! This is the best!
+[New Year's Day] It's New Year's! I'll do my best this year too!
+[Valentine's day] It's a special day~, so a chocolate for you, Commander!
+[Tanabata] Commander~...buy me a candy apple~! It's a festival and I want something sweet to eat...

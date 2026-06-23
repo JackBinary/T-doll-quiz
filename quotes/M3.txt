@@ -1,0 +1,23 @@
+[Acquisition] He-hello, commander, I'm... M3 submachine gun... P-please take care of me!
+[Secretary] G-grease gun? You aren't talking about me, are you?
+[Secretary (post OATH)] Sorry, did I disturb you? I'll be over here... Just kidding, since we have a contract, I won't leave you no matter what.
+[OATH] Commander, can I help you with something? Are you trying to trick me? Eh? What's this? For me? ...Giving this to someone like me? Really... I'm so happy...
+[Greeting] Commander, I've been waiting for you. Welcome back.
+[T-Doll Produced] It seems new comrade is coming. A strong girl will be good.
+[Joining an echelon] A-Are you fine with me?
+[Enhancement] With this, my salary is paid off now.
+[Dummy-linking] Multiplying again, won't it be a laughingstock?
+[Logistics (start)] M3, going out. Please don't talk bad on my back.
+[Logistics (end)] M3 have returned. Nobody talked bad on my back, didn't they?
+[Autobattle] Once in a while, there is a good place I want to see!
+[Title] Girls' Frontline!
+[Starting a combat mission] I-I'll do my best!
+[Starting a battle] E-enemy spotted!
+[Skill activation] I-I'm opening fire!
+[Heavily damaged] They got me...
+[Retreat] I-I'm sorry...
+[MVP] I'm glad I won!
+[Restoration] A-Appearance is not a problem.
+[Halloween] J-Jack O' Lanterns will really come out?! Commander, don't scare me like that!
+[New Year's Day] H-Happy New Year. Is it fine? I'm getting the new year money...
+[Valentine's day] You are pleased, even from chocolate bar.

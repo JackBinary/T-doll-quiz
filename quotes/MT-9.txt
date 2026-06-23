@@ -1,0 +1,31 @@
+[Acquisition] I'm Taurus MT-9! Please guide me to victory, Commander!
+[Introduction] (same as above)
+[Secretary] Commander, are the sortie preparations OK?
+[Secretary (post OATH)] People didn't dislike my food the other day, right? You've always been encouraging me, so I should start having a bit more confidence as well...
+[OATH] (JP) Commander, you've never even once given up on me [(CN) because of my origin]... even when I'm feeling down, you've always been at my side. Without your support, I'd have already lost faith in myself... And that's why I will not yield! I'll puff my chest with pride and carry on together with you!
+[Greeting] Commander! Cheer up, a new day has started!
+[T-Doll Produced] I was waiting for you!
+[Joining an echelon] Taurus MT-9, right now joining in!
+[Enhancement] Thanks! I will strive more!
+[Dummy-linking] Thanks for believing me! I'll give it my all!
+[Logistics (start)] Then, I'm off!
+[Logistics (end)] Commander! Without a hitch, mission complete!
+[Autobattle] Everyone! Just check out the results of my effort!
+[Title] Girls' Frontline!
+[Starting a combat mission] A chance! I'm departing!
+[Starting a battle] Alright, let's go!
+[Skill activation] I won't lose!
+[Heavily damaged] Guh... To be defeated, in a place like this...
+[Retreat] Sorry, Commander... Because of my... lack of strength...
+[MVP] We won! YEEEAH! Everyone, let's shout our lungs out and celebrate all we can!
+[Restoration] Sorry... I must do more...
+[Attack] Now's my turn!
+[Halloween] Commander, was that fun? Just wait for my dance later on, too!
+[Christmas] Merry Christmas, Commander! I still got training to do, so please have my present in advance!
+[New Year's Day] Commander, Happy New Year! This year too I will do my best with training, without slacking off!
+[Valentine's day] Commander, please have my chocolate... I tried my best to decorate it, so I'll be glad if you like it...
+[Tanabata] Night looks so pretty... After I'm done with training, let's go out somewhere!
+[Defense] Watch out!
+[Phrase] I'll give it my best!
+[Tip] Commander, just hear this!
+[Loading] I'm training now, so just wait a bit!

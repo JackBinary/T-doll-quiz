@@ -1,0 +1,30 @@
+[Acquisition] Yo, Overseer... Uh, I mean, Commander. I am Vigneron. I'll be working under you starting from today.
+[Secretary] As a mechanic, of course I always have a spanner and hammer on me. My gun... Huh?! Where did I put my gun?!
+[Secretary (post OATH)] I keep telling you, my models are different from those garage kits out there. I made all the parts out of metal myself. The quality is not even in the same league. Look, I've also made a miniature of myself. Put it on your desk when I'm not around.
+[OATH] To be honest, I'd much rather have a screw nut... Just kidding! Don't be sad!  I just didn't expect you'd accept a Doll like me... Wait, doesn't this mean I now have three partners?  My spanner, my hammer, and you.
+[Greeting] (Tinkers) Oh, Commander, you're here? I've modified your chair and added a new massage feature. Wanna try it out?
+[T-Doll Produced] Newbies reporting for duty... Now that I think about it, that's how I walked through the door as well. The thought is getting me all fired up.
+[Joining an echelon] Huh...? Can't I just keep running logistics? Alright, alright, I'll do my best.
+[Enhancement] Was the enhancement a success...? Really? Maybe I should take care of it myself? ...Did it really work?
+[Dummy-linking] Can I modify them? ...I suppose not.
+[Logistics (start)] Time to gather more materials! ...It's not picking up trash!
+[Logistics (end)] Commander, I've gathered lots of useful parts! Just you wait, this time I'll surely build something astonishing!
+[Autobattle] I'll be off, then!
+[Title] Girls' Frontline!
+[Starting a combat mission] Guys, if you come across any interesting parts on the way, please collect them for me. Doesn't matter if they're broken, I can fix them.
+[Starting a battle] I could use some of your parts.
+[Skill activation] Fortified!
+[Heavily damaged] Ow... I suppose someone else will have to fix me...
+[Retreat] I still prefer a good old hammer...
+[MVP] This is the might of an engineer. Now you know.
+[Restoration] Even I can't fix myself... I'll have to trouble you with that.
+[Attack] Take them apart!
+[Halloween] Commander, I have some very important news for you. At Miss MDR's enthusiastic invitation, I have taken charge of designing and building the automated mechanisms in the haunted house for Halloween. I am now inviting you to be the first to experience it, please follow me... You're going the wrong way! Commander?!
+[Christmas] I've been thinking, Commander... Say, if I ask Miss Springfield for permission to modify the Christmas tree into a robot that can move around and maybe even equip it with cannons, do you think she'll say yes? ...I'd better not? Okay.
+[New Year's Day] Happy New Year, Commander. I just finished servicing the New Year float for Miss Helian... I'm exhausted. Got any soda pop? Oh, this is yours? Let me take a sip.
+[Valentine's day] My Valentine? That'd be my spanner and hammer, of course. The smell of machine oil is the most romantic thing for an engineer... Still, chocolate is good for replenishing energy, so get some for me, Commander.
+[Tanabata] I have an idea, Commander. If I build a spacecraft that can reach the moon and deliver our tanzakus there directly, won't that greatly increase the chances of our wishes coming true... Hey, don't go yet?!
+[Defense] Build fortifications!
+[Phrase] We strive for excellence!
+[Tip] One sec... Let me just screw in this one last nut... Be there with you soon...
+[Loading] Not much to do...

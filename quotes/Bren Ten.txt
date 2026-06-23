@@ -1,0 +1,31 @@
+[Acquisition] The Star of Hope of the handgun world, Bren Ten! Here I am! Commander, look forward to my first battle!
+[Introduction] Bren Ten, the strongest weapon, with both revolver fire and semi-automatic fire! Also equipped with a 10mm pistol bomb specially developed for me! I'm just not very lucky though, every company that picks me up ends up bankrupt...
+[Secretary] Commander, did you call for me? I'm here!
+[Secretary (post OATH)] That's okay, Commander! No matter if we go bankrupt or not, I'm never leaving your side!
+[OATH] Commander, so you couldn't hide it any longer and you called me over to tell me the truth, to say that we're bankrupt... right? Eh? Eeeh?? Fo-For real?! Then, I... Aaah! Commander, you're too friggin' kind!
+[Greeting] Commander, today'll be another busy day!
+[T-Doll Produced] A new comrade has arrived, I'm really glad to meet them!
+[Joining an echelon] Fufufufun! Just look forward to it!
+[Enhancement] Ehehe! There's no limit to my power!
+[Dummy-linking] Ahaha! As expected from the talk of the town, the Star of Hope!
+[Logistics (start)] I'm off! Bye-bye!
+[Logistics (end)] I'm home! It got really awful out there!
+[Autobattle] I've analysed the situation, there's no way we can lose!
+[Title] Girls' Frontline!
+[Starting a combat mission] Right! Here we go!
+[Starting a battle] Dem goons have come! Battle start!
+[Skill activation] Please watch out!
+[Heavily damaged] Aaah! What should I do, what should I do?!
+[Retreat] Uuh... That was just an accident! I'm serious!
+[MVP] Ehehehe! This is the true power of the Star of Hope! I'm not lying, y'know?
+[Restoration] Sorry, I've been a nuisance again...
+[Attack] Right! Moving forward!
+[Halloween] Grooowl! Eh? I'm not a dinosaur! Please get it right!
+[Christmas] Mister Santa? Of course he exists! I'm behaving myself today!
+[New Year's Day] Big cleaning in progress! Let's enter the new year with everything tidy!
+[Valentine's day] I made this to the best of my ability! Surely the taste is... Uh? C-Commander! Are you okay?!
+[Tanabata] Wow! Those fireworks are so cool! You think they're sending a message to aliens...?
+[Defense] Don't stop, pull back!
+[Phrase] Easy, easy!
+[Tip] Commander, please watch me!
+[Loading] Eh? Isn't it too early for that?

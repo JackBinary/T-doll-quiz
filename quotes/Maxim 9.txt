@@ -1,0 +1,31 @@
+[Acquisition] Greetings, Lord Commander. I am Maxim 9, and this is Betty... She is a little afraid of strangers and we are both in your care.
+[Introduction] Greetings, Commander. I am Maxim 9, and this is Betty... She is a little afraid of strangers and we are both in your care.
+[Secretary] Betty's been fussing about getting new clothes lately.  Lord Commander, what do you think about something in crimson?
+[Secretary (post OATH)] I sewed a little pocket on Betty, and inside it I put every word you've ever said. That way, even if you forget, I can take them out and read them. I hope these peaceful days will last forever...
+[OATH] Lord Commander, are... are you serious? Betty, you heard that too, right? We can be with the Lord Commander forever now... I will commit this oath to heart. Now, please take my hand...
+[Greeting] Welcome back, Lord Commander. Betty and I have been waiting a long time for you.
+[T-Doll Produced] A new friend... Will you give her a kind name? Please do not give her a cold, unfeeling designation like me.
+[Joining an echelon] Betty says she likes this position.
+[Enhancement] This is a new power... Betty, we've become stronger.
+[Dummy-linking] Everyone, get along with Betty, okay?
+[Logistics (start)] Are we heading out? Then I guess these things should be useful.
+[Logistics (end)] We've returned, Lord Commander. Betty says she misses you.
+[Autobattle] Is this missio na special one? I won't be scared with Betty by my side.
+[Title] Girls' Frontline
+[Starting a combat mission] Betty, it's time to showcase our teamwork.
+[Starting a battle] I thought they'd be stronger.
+[Skill activation] How fragile.
+[Heavily damaged] No... Betty... Don't leave me...
+[Retreat] Let's go, Betty. I will bear your share of the pain.
+[MVP] As a reward for victory, I shall tell you an interesting story tonight, Betty.
+[Restoration] It's alright, Betty. it's just a scratch, we can fix it up soon enough.
+[Attack] Crush them in a single blow.
+[Halloween] Trick or treat—Hoho, we were just kidding. Betty says that we should be good kids. But if anyone tries to harm you or Betty... I don't mind showing them just how bad I can be.
+[Christmas] Will Santa Claus really come to visit? But a Doll like me who's plagued with nightmares... probably won't get any warm or nice presents.
+[New Year's Day] The bell of the new year has rung. Hopefully, our lives and that of the Lord Commander will be more peaceful and orderly... free of separation and pain.
+[Valentine's day] At first, I wanted to make my chocolate look like a little teddy bear, just like Betty, but I accidentally burnt it and it changed shape. To make up for it, I added part of myself to it... Hoho, that was just a joke. Did you actually take that seriously?
+[Tanabata] Wishing upon a star... Does that actually work? Betty says that if you're sincere enough, your wish will be granted. In that case, I wish that I'll be able to stay by your side forever, even if it means giving everything I have...
+[Defense] Understood, Betty, take cover behind me.
+[Phrase] Oh?
+[Tip] Lord Commander, please remember to take good care of yourself even as you protect others... Hoho, Betty often tells me that.
+[Loading] It's alright if you tell me to stand aside and wait, no matter how long it takes... Because I will always, always be watching you.

@@ -1,0 +1,26 @@
+[Acquisition] Don't worry commander. No one can escape from my bullet.
+[Introduction] In between wars, the union started researching anti armour weapons, but progressed very slowly. After the war was declared they renamed the prototype as PTRD-41 and order me to be in service right away. Actually performed pretty good on the battlefield, this honour of course is not without the courage of our soldiers. So Sir, please do keep this in mind while using me.
+[Secretary] Aah, don't you think war is troublesome?
+[Secretary (post OATH)] You've worked hard today too Commander, I learned some new massage techniques, wanna try it later after work?~
+[OATH] Oh my, you went that straight. Are you sure? But it's not like I hate it, it's good to save effort. I wonder if I can thank you later.
+[Greeting] You're so late. What were you doing.
+[T-Doll Produced] Seems like she's been completed. Why we don't go and take a look?
+[Joining an echelon] Don't just rely on me.
+[Enhancement] Perfect isn't it.
+[Dummy-linking] Squadron expanded, have the firing range have increased with it?
+[Logistics (start)] Oh my, it's my turn to go? Alright then.
+[Logistics (end)] I'm back... Aah, so tired~
+[Autobattle] That's pretty far. I prefer the nearer one... Ehehe, i'm just joking.
+[Title] Girls' Frontline!
+[Starting a combat mission] Everyone, come with me!
+[Starting a battle] Finish them in one go!
+[Skill activation] Prepare for attack!
+[Heavily damaged] I won't fall to something like that!
+[Retreat] Failure is the beginning of success...
+[MVP] It's finally over! Go home go home!
+[Restoration] Nnggh, let me sleep some more...
+[Halloween] The party dress is ready now. But I will give it to the others if it's too annoying to wear.
+[Christmas] I wonder if I should get serious about Christmas this year? Let's put a seal on that for now...
+[New Year's Day] Happy New Year, Commander. I'll count on you again this year.
+[Valentine's day] Today is Valentines, Commander, then please accept my feelings. Otherwise...
+[Tanabata] On this day of wishes...I would love to have a day off. Commander...will this wish be granted?

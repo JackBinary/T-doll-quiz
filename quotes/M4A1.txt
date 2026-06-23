@@ -1,0 +1,52 @@
+[Acquisition] Commander, please take care of me.
+[Introduction] The M4A1 follows a modular design philosophy, and continues to improve on the foundation of M16A2's M4 variant as a carbine weapon. My primary use is in the arsenals of special forces. Although I've had a tumultuous adoption history, my light weight and close-range stopping power eventually let to my popularity on many battlefields. War is ever changing, right Commander?
+[Secretary] Yes, commander...
+[Secretary (post OATH)] Here is the operation plan for today, commander. As always, I have complete faith in your judgment. Let us lead everyone to victory.
+[OATH] Commander... it's a privilege to fight for you. Umm... What I mean to say is that. After this, please let me stay by your side forever.
+[Greeting] Welcome back.
+[T-Doll Produced] Production... complete.
+[Joining an echelon] Thank you!
+[Enhancement] With this, I wonder if I got closer to nee-san.
+[Dummy-linking] Reorganization complete, can I sortie now?
+[Logistics (start)] Then, I'll be going ahead.
+[Logistics (end)] Operation complete. No, no problems at all.
+[Autobattle] M16 nee-san. Finally, I can be useful.
+[Title] Girls' Frontline!
+[Starting a combat mission] Sortieing!
+[Starting a battle] Enemy sighted!
+[Skill activation] Attack!
+[Heavily damaged] Uu... ghhh!
+[Retreat] Uu... ghhh!
+[MVP] V... Victory!
+[Restoration] Understood. Next time... I'll be more careful.
+[Halloween] You're going to give me treats?
+[Christmas] Christmas cake... so tasty.
+[New Year's Day] Happy new year.
+[Valentine's day] Here... obligatory chocolate.
+[Tanabata] The festival was... fun.
+[Acquisition] Commander, please take care of me from now on.
+[Introduction] The M4A1 follows a modular design philosophy, and continues to improve on the foundation of M16A2's M4 variant as a carbine weapon. My primary use is in the arsenals of special forces. Although I've had a tumultuous adoption history, my light weight and close-range stopping power eventually let to my popularity on many battlefields. War is ever changing, right Commander?
+[Secretary] Commander, shall we confirm the countersign?
+[Secretary (post OATH)] Commander, I have some suggestions for the upcoming mission, would you like to hear them? ...Please rely on me sometimes too.
+[OATH] Commander, thank you for keeping me company all this time... If I had kept being depressed, I don't know what I'd have done... It's your heartfelt love that has brought me out of that abyss, that has allowed me to face myself again. Please don't worry anymore.
+[Greeting] Good morning. If there's nothing else, I'll be returning to work.
+[T-Doll Produced] A new teammate has been constructed.
+[Joining an echelon] Roger, please leave it to me.
+[Enhancement] This... is this the power I've been seeking?
+[Dummy-linking] Which one of these is the real me?
+[Logistics (start)] Commander, I'll be going ahead.
+[Logistics (end)] I'm back, Commander. I brought you a souvenir.
+[Autobattle] M16 nee-san. Finally, I can be useful.
+[Title] Girls' Frontline!
+[Starting a combat mission] Finally, it's starting.
+[Starting a battle] Revenge!
+[Skill activation] A chance for revenge!
+[Heavily damaged] Tsk! Even if I'm awakened, it's still not enough?...
+[Retreat] Why... I'm not done... but... there's no time left!
+[MVP] Yay! M16-neesan, I was of some use again!
+[Restoration] I understand. I don't think there'll be another chance.
+[Halloween] Why are there pumpkins everywhere? ...Halloween? Ah, does that mean I'll get some candy? That's good.
+[Christmas] Merry Christmas. I've prepared wine for tonight's festivities... Hurry up and hide it. It'll be a problem if someone sees it.
+[New Year's Day] Happy New Years, Commander. I was just going to the first shrine visit. You want to go with me? ...Yes, that'd be nice.
+[Valentine's day] Here, Commander. A token of my gratefulness, please accept it. The others will misunderstand this? ...Well, that's fine.
+[Tanabata] Something I wish for? ...To become a more dependable person, I guess. Ah! Commander! W-Were you eavesdropping on me?

@@ -1,0 +1,26 @@
+[Acquisition] Commander, I'm Spitfire. I might not be as good as big sister 75, but I will still do my best to bring you triumph.
+[Introduction] I'm Spitfire, produced by JSL Company designed in reference to CZ75. As an offspring aspiring to big sister 75, I will not disappoint her. So please count on me Commander, let me perform my best.
+[Secretary] 75 big sis are you here? ...Commander is fine too I guess, come help me with this.
+[Secretary (post OATH)] Commander, please accompany me for my singing exercise today. I've been waiting for this moment you know...
+[OATH] Commander, you are quite charming today... Couldn't you have done this earlier so I didn't have to wait for so long? But it's alright, I'll have plenty of time to reveal your true self from today...
+[Greeting] Commander, are we prepared for the meeting?
+[T-Doll Produced] Junior, please greet your senior members properly, understood?
+[Joining an echelon] Thank you for enlisting me in this echelon Commander.
+[Enhancement] Will sis 75 be proud of me?
+[Dummy-linking] Amazing, now I can achieve 3D audio effects.
+[Logistics (start)] Then, off I go, Commander
+[Logistics (end)] Commander, please help me check over the supplies.
+[Autobattle] Let us bring back victory.
+[Title] Girls' Frontline!
+[Starting a combat mission] We're ready! Let us defeat them!
+[Starting a battle] This song is from me!
+[Skill activation] Hear my voice!
+[Heavily damaged] How dare you do this to a lady... Unforgivable!
+[Retreat] Commander, sis 75, I'm sorry...
+[MVP] Sis 75! Did you see my active performance!?
+[Restoration] I must learn more from sis 75...
+[Halloween] Worry not, I will handle the death metal for tonight's party.
+[Christmas] Commander, how about we try to put this Santa's beard together? I've prepared it.
+[New Year's Day] Commander, I will be under your care again this year. Please watch my and 75 onee-san's growth!
+[Valentine's day] Commander, did you receive chocolate from 75 onee-san? Then, take mine too.
+[Tanabata] You write your wish too, Commander? Lady first? Alright, I'll write mine first then.

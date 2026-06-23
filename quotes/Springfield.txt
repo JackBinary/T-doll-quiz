@@ -1,0 +1,26 @@
+[Acquisition] Commander, if there is anything that I can do for you, just give the order.
+[Introduction] Hi there, M1903 Springfield, named after manufacturer. The name itself means "field in springtime". I have served long, been to a lot, experienced countless wars, and gained much glory. Now I have the honor to serve you. Commander, let's enjoy each other's company.
+[Secretary] I‘ve baked some muffins, shall we eat together ?
+[Secretary (post OATH)] Commander, Springfield is about to march. You’re OK with your team? Call my name if you miss me, I’ll hear it for sure.
+[OATH] Commander, why did you choose me? Someone who's as gentle as you, shall be my shelter...... If so, please allow me, to be your most trusted backup forever !
+[Greeting] Ehehe, good morning.
+[T-Doll Produced] Oh my, production is completed. Ehehe, what kind of girl will come I wonder?
+[Joining an echelon] Ehehe, I'll do my best.
+[Enhancement] Ehehe, equipment maintenance is over.
+[Dummy-linking] Everyone, I came back, and I become even stronger.
+[Logistics (start)] Springfield, off I go!
+[Logistics (end)] Springfield, has come back safely.
+[Autobattle] Do not worry. I will protect you all.
+[Title] Girls' Frontline!
+[Starting a combat mission] Everyone! Begin sortie!
+[Starting a battle] Encountering enemy troops, preparing battle...
+[Skill activation] Ready! Shoot!
+[Heavily damaged] I'm fine, sorry to make you worried.
+[Retreat] It can't be helped, let's retreat this time.
+[MVP] Ehehe, it's a big victory!
+[Restoration] I'm sorry, please take care of me today.
+[Halloween] Hmm, it’s Halloween. M14 is all excited again.
+[Christmas] Hehe, it's Christmas. I wonder what dishes should I make ?
+[New Year's Day] Commander, Happy new year.
+[Valentine's day] This is my handmade chocolate, please taste some.
+[Tanabata] Ufufu, this was a fun festival. The fireworks were simply beautiful, Commander.

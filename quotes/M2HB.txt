@@ -1,0 +1,26 @@
+[Acquisition] Hey there~ Commander, are you ready to rain a hail of lead onto the enemy? I know I am~
+[Introduction] As early as in the first world-class war of mankind, our army gained inspiration from the enemy's anti-tank weapons, and gradually improved on this basis, which eventually led to the birth of me, M2HB. Don't look at me like this. I'm also a veteran who has served for more than half a century. Oops... It is also appropriate to enjoy the blessings occasionally.
+[Secretary] Ahhh~ I'm so tired. Hey, can you massage my shoulders?
+[Secretary (post OATH)] I don't want to do anything today... but I guess I have to since I'm everybody's role model, haha...
+[OATH] Commander, where are we going? Eh? R-really? Haha, then does that mean I get to ride in your car every day,Commander?
+[Greeting] Welcome back.
+[T-Doll Produced] It looks like the production is complete.
+[Joining an echelon] Leave it to me.
+[Enhancement] I can not fight if I get hungry.
+[Dummy-linking] Is dummy link completed? Let's go to the car meet.
+[Logistics (start)] I'm leaving soon but the car is coming
+[Logistics (end)] I'm back, ha~ so tired.
+[Autobattle] If I am there, let's go to peace already
+[Title] Girls' Frontline!
+[Starting a combat mission] Bad but sweaty
+[Starting a battle] Get in the way
+[Skill activation] Commencing clean up!
+[Heavily damaged] Shoot...T-this won't happen again next time.
+[Retreat] I lost it
+[MVP] That was easy.
+[Restoration] I'm glad I finally got a nap
+[Halloween] How bothersome. It's just candy, just give me already!
+[Christmas] It's a good time to eat Christmas cake by yourself.
+[New Year's Day] Happy New Year.
+[Valentine's day] Please put up with this chocolate bar.
+[Tanabata] Eeh?! We need to walk to the festival? I'll pass then.

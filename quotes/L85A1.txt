@@ -1,0 +1,26 @@
+[Acquisition] Hello, I am L85A1. Care for a cup of tea, Commander?
+[Introduction] L85A1 is what the military calls me, I've got another name, SA80, means the light weapon of that era, even though my development project can be traced back to a long time ago. Light weight and precise are what I can be proud of, but the interior is so complex, it would requires regular maintenance, otherwise it will have risks of failures... Really can't be perfect can we...
+[Secretary] Just went bathing with my glasses on...
+[Secretary (post OATH)] Commander I made some red tea, this was a special brew prepared just for you, hope you enjoy it.
+[OATH] Ehh? Commander this isn't a joke is it? Even though I'm still so far away from the target criteria, but you've chosen me already... How can I repay you for this... Emm, let us find the answer to that together then.
+[Greeting] Good Morningafternoonevening to you~
+[T-Doll Produced] it's complete~!
+[Joining an echelon] It's my turn now.
+[Enhancement] Full power~
+[Dummy-linking] Expansion complete, wait which one am I?!
+[Logistics (start)] We're going now, everyone is alright?
+[Logistics (end)] I'm back, What is everyone gossiping about again?
+[Autobattle] Then let's start, I shall set an example for everyone.
+[Title] Girls' Frontline!
+[Starting a combat mission] Hooah~
+[Starting a battle] Awawawawa, please don't scare me.
+[Skill activation] Ready! Here!
+[Heavily damaged] Aaaaaahhh, violence is bad~
+[Retreat] (´・ω・｀)
+[MVP] This moment is the reason for living~
+[Restoration] Ohh... Did I let everyone down? Eh? It's alright?
+[Halloween] The children are playing! They're having so much fun~
+[Christmas] Merry Christmas, commander. I hope it'll snow.
+[New Year's Day] It's new year. Please take care of me again this year.
+[Valentine's day] It's a day to repay the commander. There is no unpleasant meaning
+[Tanabata] I made tanabata decorations. The festival atmosphere is so much fun.

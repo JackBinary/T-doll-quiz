@@ -1,0 +1,25 @@
+[Acquisition] I wonder if the Commander is coming up with something for this RT-20's turn? I'll be looking forward to it.
+[Secretary] Whatever it is, if I bite it, I can tell you if it's true or false.
+[Secretary (post OATH)] Commander, I've picked our next dating spot. Where is it? Fufu, that's a secret.
+[OATH] Commander, am I perhaps an irreplaceable part of your plan? I still can't get a read on what you're thinking. What I can tell you, though, is that the proof of your pledge is pure and genuine.
+[Greeting] Lookie lookie, the big one has arrived.
+[T-Doll Produced] A mysterious transfer student? Heh~ just kidding.
+[Joining an echelon] Isn't there anyone familiar here?
+[Enhancement] The Commander is a pretty ambitious person to be asking for that much power.
+[Dummy-linking] Could it be, that I also might be a dummy?
+[Logistics (start)] Another shady deal? Sure. I'll try not to get tired afterwards.
+[Logistics (end)] Commander, what do you use this for? Or, perhaps I shouldn't dig any deeper than that?
+[Autobattle] Are they up to something again? Sure, leave it to me.
+[Title] Girls' Frontline!
+[Starting a combat mission] I'm looking forward to the Commander's schemes.
+[Starting a battle] At least give me a head start.
+[Skill activation] I'm looking forward to seeing what kind of trouble they're brewing up.
+[Heavily damaged] Oops...ugh...my hand slipped...
+[Retreat] Commander, you still have stuff to do, right?
+[MVP] Even the Commander wouldn't get this much, right?
+[Restoration] It's not a big injury. but it might be better to re-wrap the leg bandage again.
+[Halloween] That doll over there...her bandages are loose. Ah...I'm getting really impatient...I really want to fix them.
+[Christmas] I think that the best type of present is the one that looks back. Isn't that mysterious feeling more beautiful than anything?
+[New Year's Day] Commander, how far ahead are you planning this year? Surely you must also be secretly setting some big goal, right?
+[Valentine's day] The cocoa butter used for this chocolate looks a lot like it would be used for breathing products. No doubt about it since I learned that from just pure observation.
+[Tanabata] This kind of holiday seems like one big conspiracy. It's possible that aliens might be collecting data on human wishes.

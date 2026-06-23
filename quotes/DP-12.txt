@@ -1,0 +1,56 @@
+[Acquisition] DP-12, here to provide physical and mental protection. Hmm... Want to hear the story my name, Commander?
+[Introduction] (As above)
+[Secretary] Are you interested in folklore? Every place has a different culture and different legends. Studying how the same legend has changed as it spread to different places is like tracing a human's veins to the heart... What do you think?
+[Secretary (post OATH)] I don't want to stop reading or writing here at Griffin. Even though we'll leave the world behind one day, legends are eternal... I mean, would you like to be the protagonist in my novel?
+[OATH] Gotcha, Commander. Now where's my reward? ...I didn't expect it to be this. I thought it'd take you longer to give it to me... Still, I'm not giving it back. Then let's stay together and witness how all stories end...
+[Greeting] As always, you showed up at work on time.
+[T-Doll Produced] A new companion, a new story.
+[Joining an echelon] Leave it to me. I'll bring everyone in one piece.
+[Enhancement] This way, I'll have more stories to tell.
+[Dummy-linking] It looks just like the fabled doppleganger... Or should I say, a mehrganger?
+[Logistics (start)] Will we be operating at night? I want to show off what I can do.
+[Logistics (end)] I'm back. (sigh) One of the dolls was crying so tragically, she was almost inconsolable.
+[Autobattle] Leave it to us. We'll give you a satisfactory outcome.
+[Title] Girls' Frontline!
+[Starting a combat mission] We're heading out. I'll try to make the combat report more exciting.
+[Starting a battle] Here, surprise.
+[Skill activation] Stop.
+[Heavily damaged] Holy... They really do pack a punch.
+[Retreat] Sorry, this is the best I can do... Will you forgive me?
+[MVP] That was a memorable victory, don't you think?
+[Restoration] The way I look now, I'll probably scare the next person who comes in.
+[Halloween] Oh my, isn't this the first time in a thousand years? How nostalgic. Shall I bring you home like this, or...may I perhaps give you some sweets?
+[Christmas] Christmas Eve and Christmas is a peaceful time that should be spent with family. I'll be taking a vacation with KSVK once this job is done, but would you be interested in joining us?
+[New Year's Day] Wherever you may be, the new year is something that makes people quiver. Let us stop with the ghost stories today, and tell a story of hope instead.
+[Valentine's day] Almost all countries have Valentine's Day, but the reasons and customs of each Valentine's Day event is different. Griffin also appears to have its own customs, so will you accept this? This chocolate is filled with wasabi...just kidding, ufufu.
+[Tanabata] What should I write? "Whatever you do, don't turn around after reading this. Otherwise, you'll die... " sounds good, right? No? I guess you have a point...this is Tanabata after all...
+[Acquisition] I'm very glad you could you see me like this... I am DP-12, here to provide you with kinder and more reliable all-round protection.
+[Secretary] (Chuckles) ...You look so adorable when you're blushing... Does my presence here make you feel stifled? In that case, shall I leave for a bit? —Teehee, I was just kidding.
+[Secretary (post OATH)] This morning, I received a freshly-bloomed rose, and I suddenly thought of a story where a little prince and a rose came to tame each other... I'm curious; between us, who will be the little prince who is willing to be tamed by the rose?
+[OATH] I've got you at last, Commander. Isn't it time you gave me my prize? ...I can't believe it was something like this. I thought you'd only give it to me later... However, I won't be returning it to you. So please, come witness the end of all stories with me...
+[Greeting] Would you like a cup of coffee before you begin your labours?
+[T-Doll Produced] The encounter of one soul with another not only tells a brand new story, but gives rise to a bond that was never there before.
+[Joining an echelon] I am honored to be working alongside all of you and keeping everyone safe.
+[Enhancement] As I advance my body's capabilities, the boundaries of the world and its boundless possibilities open up to me as well.
+[Dummy-linking] It looks just like the doppelganger of legend... Perhaps even a Mehrereganger?
+[Logistics (start)] Will we going abroad at night? I'd like to stretch my limbs.
+[Logistics (end)] I'm back. (Sigh) Someone ended up crying very badly. They were inconsolable.
+[Autobattle] Leave it to me. I will give you a happy ending.
+[Title] Girls' Frontline!
+[Starting a combat mission] Is it time to fight alongside you again? How exciting.
+[Starting a battle] Oh? The villains have appeared, as expected.
+[Skill activation] This is it.
+[Heavily damaged] This is... the last of my strength...
+[Retreat] I'm sorry you had to witness this imperfect ending.
+[MVP] More material for a story to stir the spirit~
+[Restoration] This ought to be able to scare the next person who comes in, right?
+[Attack] I'm here, so rain down your firepower as you wish!
+[Halloween] Oh my, I haven't seen a face like this in ages. How nostalgic. I'll be taking you with me then... Or you could give me some candy instead.
+[Christmas] Christmas Eve and Christmas ought to be peaceful events spent with one's family. I'll be applying for vacation with KSVK once I finish this work. Would you like to come with us, Commander?
+[New Year's Day] No matter where you go, the new year always cheers people up. In that case, I won't tell ghost stories today, but tales of love and hope.
+[Valentine's day] It seems every country celebrates Valentine's Day, but for different reasons and in different ways. Still, Griffin has its own practices, so would you please accept this chocolate for me? ...They're filled with mustard. Hehe, I was just kidding.
+[Tanabata] Now, what should I write... "Do not turn back when you see these words, or you will die." How's that? ...It's no good? That's true. It IS Tanabata, after all.
+[Defense] Save your strength! I'll cover you!
+[Phrase] Hehe~ I was just kidding.
+[Tip] These little things help a lot with progressing your work.
+[Loading] A good workplace needs to be carefully prepared, so please wait a little.

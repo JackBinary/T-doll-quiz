@@ -1,0 +1,52 @@
+[G36C] Live2D
+[Acquisition] Greetings, I'm G36C, very pleased to meet you. Ummm... is G36 nee-san here too?
+[Introduction] G36C is the a short assault rifle model of the G36 series, main purpose being close quarter assault. The C in my name stand for "Compact", meaning that I'm both shorter and lighter. You can see from these characteristics that I'm an expert of CQC, while I sacrificed accuracy and stealth, I'm a bit more comfortable to hold than G36 nee-san.
+[Secretary] Commander, what's on your mind? Would you like to tell me?
+[Secretary (post OATH)] Commander, What did you think of my performance today? If there are some inadequacies... This here? Is it really?
+[OATH] Eh? Commander, what's this for? You've always taken care of me, it's... embarrassing. Looks like I have to become more reliable, to be able to meet your expectations♪
+[Greeting] Ahh, Commander, are you starting your work now?
+[T-Doll Produced] A new companion is here.
+[Joining an echelon] Everyone, I will be in your care now.
+[Enhancement] Danke! Looks like I will have to work harder from now on.
+[Dummy-linking] When can I repay this kindness?
+[Logistics (start)] Begin operation.
+[Logistics (end)] Work completed. Please have a look at result.
+[Autobattle] Please have faith in me. I've been training for this!
+[Title] Girls' Frontline!
+[Starting a combat mission] Push forward with courage.
+[Starting a battle] Enemy contact, prepare for assault!
+[Skill activation] Well, excuse me.
+[Heavily damaged] Uuuu... Wasn't expecting that.
+[Retreat] Apologies Commander. I will take responsibilities, please punish me accordingly.
+[MVP] Victory! This is the result of everyone's hard work.
+[Restoration] Can you forgive me for this, Commander?
+[Halloween] I'm not very good with this type of atmosphere. However, if you give me some sweets, everything will be alright.
+[Christmas] Even though this is a winter festival, I feel warm. I'm certain it's because you are here. Merry Christmas, Commander
+[New Year's Day] Thank you for past year, Commander. Let us continue to do our best with our friends.
+[Valentine's day] For you, Commander...please accept it. Ah...did you receive one from big sis G36 as well? I'm glad.
+[Tanabata] Today is the day to make a wish. Have you put any serious thought into yours, Commander?
+[Acquisition] Commander, G36 says she prefers how I look now. Do you think so too? Ah, please stop staring at my shield generator...
+[Secretary] Commander, please take a look at me... Do you see another other places where I could improve?
+[Secretary (post OATH)] Commander, the truth is that I've always wanted to meet everyone's expectations, but perhaps that's placed a lot of limits on me. But if it's your wish for me to lift these limits... then be prepared, because my shield will grow to embrace you too.
+[OATH] Hm? Commander, what are you doing? You've always been taking care of me, and it makes me feel... quite embarrassed. It looks like I'll have to become more trustworthy to meet your expectations♪
+[Greeting] Commander, you wanted to give me a suggestion? Um... As long as I don't have to go back into that neural cloud space again...
+[T-Doll Produced] Welcome, welcome, I'll be protecting you as well from now onwards!
+[Joining an echelon] There shouldn't be any attacks here that I can't block.
+[Enhancement] I get closer to victory with every attack I block!
+[Dummy-linking] Such kindness... When will I be abe to repay you for it?
+[Logistics (start)] I'm heading out.
+[Logistics (end)] My work is done, please take a look.
+[Autobattle] Please believe me, I've practiced this seriously in the past!
+[Title] Girls' Frontline!
+[Starting a combat mission] Let's go, I'll protect my friends.
+[Starting a battle] Although I'm not quite sure if the enemy can even harm me, let's head out with everything we've got!
+[Skill activation] From now on, there is no chance anything can break through.
+[Heavily damaged] Urgh... I shouldn't have been so rash. I need to calm down.
+[Retreat] Everyone, you go first... I'll cover the rear.
+[MVP] Exactly as I predicted.
+[Restoration] Commander, can you forgive me?
+[Attack] Charge!
+[Defense] Forcefield, deploy! I mustn't relax, not even for a bit!
+[Phrase] Please leave it to me.
+[Tip] Commander, this is very important, you know.
+[Loading] Commander, we'll be able to see each other soon.

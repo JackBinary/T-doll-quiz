@@ -1,0 +1,22 @@
+[Acquisition] Ta-daaah~ Borchardt C-93, reporting! Ohhh— I know you, you're famous! Hehe, there ought to be a lot of chances for me to make a name for myself here...
+[Secretary] Hehe♪~ Why am I so happy, you ask? I finally figured out what I'm going to say when the media interviews me. Want to hear? Then I'll make an exception and tell you, Commander! "I'd like to thank the Fatherland, my Commander, and..." hey, why are you walking off, Commander?
+[Secretary (post OATH)] Although I've always wanted to make a name for myself... the truth is that I was afraid of being lost among countless other Dolls. Perhaps I wanted someone to find someone as unremarkable as me. ...I'm the best? Thank you, my beloved.
+[OATH] This place is so pretty... did you call me here for a reason, Commander? ...! Is, is this really for me? Although I'm not that famous, the look in your eyes is serious... Yeah, I do. I also want to know you much, much better... I'll be in your care from now on.
+[Greeting] Commander, has the media arrived to conduct any interviews?
+[T-Doll Produced] A newcomer has arrived! Is she famous?
+[Joining an echelon] That unit is quite famous! Commander, I want to go there!
+[Enhancement] Yes! Just a little closer to my goal! Hm? What is my goal, you ask? Of course, to become the world's most famous doll!
+[Logistics (start)] Wait right there! I'll be sure to bring back excellent results!
+[Logistics (end)] Well? Did the results of the report make the headlines?
+[Autobattle] I was asked by the Commander! I guess I have no choice but to use my brilliant record and lead the team!
+[Title] Girls' Frontline!
+[Starting a combat mission] Watch me sparkle!
+[Starting a battle] Let us perform brilliantly!
+[Skill activation] You make a good springboard!
+[Heavily damaged] It's alright! The main monitor hasn't been destroyed yet!
+[Retreat] Ugh...I wonder if I was too quick...
+[MVP] Ehehe, now I'll become even more famous!
+[Restoration] My claim to fame...failure...
+[Halloween] Commander! How about a Halloween idol project? No plans? Is that right...then let's get Griffin hyped up for Halloween! Eh? Absolutely not? But why?!
+[Valentine's day] 1...2...3...right! Commander, got a sec? Listen up. You can only open this box when you're in your room! A bomb? No! This is a chocolate made by the famous me...Ahhh! Bullet!
+[Tanabata] It doesn't seem to be a very famous day today, let me find out. Ah! Is it Valentine's Day in the East? How do I become famous today? That's it! You should take me on a date!

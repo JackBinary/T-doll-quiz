@@ -1,0 +1,30 @@
+[Acquisition] So you're my Commander... Joined Griffin & Kryuger PMC in 2062, assigned to Sector S09... Don't worry, this isn't a background check, I just want to know more about my new superior officer... Nice to meet you, I'm P10C~!
+[Secretary] So you're saying everyone gets nervous around me? Hehehe, what a kidder you are~ I've always been a sincere and honest companion to my friends... Don't you think so? Please look me in the eye when you answer.
+[Secretary (post OATH)] Finally, I've locked up all those villains who've escaped judgement. Go, us! Alright, now let's think about breakfast!
+[OATH] In the past, I did my best to avoid becoming close to anyone, because my job might cause them to be targeted by my enemies. But there's no way someone as wise and brave as you would fall victim to that sort of fate. That's also why I decided to accept you. Now that you mention it, and given your skills, won't you consider rendering judgement upon the wicked with me?
+[Greeting] Commander, I've been waiting a long time for you. These are the organized work reports. There are countless wrongdoers out there awaiting judgement. We mustn't waste time delivering it to them.
+[T-Doll Produced] I've already vetted the cuties who've just arrived. They'll be an excellent addition to our forces.
+[Joining an echelon] Hello, cuties~ Looking forward to working closely with you all~
+[Enhancement] Thank you~ Now I've got more options to choose from when dealing with wrongdoers~!
+[Dummy-linking] There aren't a lot of me, but it'll be enough for me to take action.
+[Logistics (start)] The best thing that could come of this is taking care of the lawbreakers out there.
+[Logistics (end)] Come see what we brought back, Commander... You want to know what our greatest accomplishment was out there? Unfortunately, it no longer exists.
+[Autobattle] I'll take care of all this in secret~!
+[Title] Girls' Frontline!
+[Starting a combat mission] No traces. No mercy.
+[Starting a battle] Commencing judgement.
+[Skill activation] Executing sentence!
+[Heavily damaged] ...You think you can turn the tables on me? You're far too naive!
+[Retreat] Was I still too soft on them...
+[MVP] The wicked have been punished, and that's enough for me~!
+[Restoration] I wasn't expecting to come out unscathed after encountering those lawless maniacs out there, so there's no need to worry about me!
+[Attack] The evildoers haven't realized that this is the end for them, hehehe.
+[Halloween] Is it true that a bunch of prank-loving cuties are dressed up as monsters? Hehehe, if they come to me, it would be best if they set their sights on the candy alone...
+[Christmas] Santa and I do the same kind of work. He visits good kids in the middle of the night to give them presents, while I dispense justice among the wicked in the darkness. We might work in different ways, but our goals are the same—to make the world a better place.
+[New Year's Day] Happy New Year~ You should put aside your work for today and properly celebrate the occasion. Is there something you'd like to do? I can keep you company.
+[Valentine's day] I've never worked so hard on a batch of chocolate before. I guess I shouldn't hope for much when it comes to the taste... Wait, you said it tastes good? Hehehe, looks like my hard work didn't go to waste after all.
+[Tanabata] So I can make a wish for a pair of nimble hands today? Now that's interesting. If that wish really came true, then making more intricate bombs or traps would be a piece of cake.
+[Defense] This is nothing more than their last hope! I will stamp it out!
+[Phrase] Evildoers have no future.
+[Tip] I've never felt burdened by my work before. Everything I've done is merely to mete out the proper judgement to evildoers. That's very fair, don't you think?
+[Loading] Ah, want to go for a drink after work? You pick the place.

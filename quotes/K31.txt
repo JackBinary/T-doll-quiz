@@ -1,0 +1,21 @@
+[Acquisition] Very good,  this is just as planned. Meeting me now is the luckiest moment of your life, Commander.
+[Secretary] Usually when I'm bored, I'll go see what other people are doing, but it seems you're actually quite boring, Commander.
+[Secretary (post OATH)] Commander, has your internal clock deviated recently? No worries, I’ll help you adjust it back to normal.
+[OATH] Commander, us two are completely prepared… right? Were today’s events made possible by your careful arrangements, or was it just a fluke? I don’t know… but what I do know is that this moment was destined to occur.
+[Greeting] Commander, time is precious. Be sure you don't waste it.
+[T-Doll Produced] Who could it be at a time like this?
+[Joining an echelon] Looks like I'll have to practice readjusting the timing.
+[Enhancement] I feel like updating my mission time record.
+[Dummy-linking] Listen closely, everyone here should be synced up to my watch. I won't allow even a femtosecond's difference.
+[Logistics (start)] So that I won't forget, notice me to withdrawing on time.
+[Logistics (end)] At least let me withdraw on time. That way I won't forget.
+[Autobattle] For a mission like this, it's okay to take it easy, isn't it.
+[Title] Girls' Frontline!
+[Starting a combat mission] It's time. Let's move.
+[Starting a battle] First, let's see how things are over there.
+[Skill activation] You got 35 seconds left, what's your final wish?
+[Retreat] Give it up. You can't turn back time.
+[MVP] What's the time record this time? I could do it faster!
+[Restoration] I can't do anything during this time... I'll think about something
+[Christmas] If you want a christmas present, go to bed on time! Santa dislikes bad girl who don't go to bed on time!
+[Valentine's day] Commander, did you see my gold paper-wrapped chocolate? I'm sure I put it around here... That... what did you just eat?

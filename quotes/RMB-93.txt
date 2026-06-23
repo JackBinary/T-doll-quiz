@@ -1,0 +1,51 @@
+[Acquisition] RMB-93, happy to serve, but before that lets talk about the servicing cost.
+[Introduction] RMb-93 combat shotgun was originally meant to be procured by policing units after development, further developed variants were also sent for export and entered civilian markets of other countries. Despite having both light weight and tough weapon frame, the unusual operations of the weapon did create difficulties during the sales... Seems to impossible to make everyone happy.
+[Secretary] Are things going smoothly? Maybe you should listen to some of my advices.
+[Secretary (post OATH)] Commander would you like to go on a date this weekend? I chose far away restaurant, romantic too, won't be anyone there to bother us this time~
+[OATH] Can't believe in the end you still did something as outrageous as this... But since we've know each other for a long time, I suppose I can turn a blind eye and make an exception this time, just for you. But just this one time, and don't you dare regret ok!
+[Greeting] Kept you waiting for long Commander? Let's start working right away.
+[T-Doll Produced] New member of our company? Obey the rules ok?
+[Joining an echelon] It's an honour to join everyone.
+[Enhancement] Hehe, I can get even better at this.
+[Dummy-linking] So kind, I'm starting to like you.
+[Logistics (start)] Ehh? Do I really have to go?
+[Logistics (end)] Have you finally missed me?
+[Autobattle] See this? Looks like my presence is needed once again.
+[Title] Girls' Frontline!
+[Starting a combat mission] Roger! I've been looking forward to this operation.
+[Starting a battle] Safety first!
+[Skill activation] No use in struggling now!
+[Heavily damaged] Ahhh!? Somebody help me, please!
+[Retreat] I'm really not responsible this time.
+[MVP] Everyone's done well, I'm enjoying this.
+[Restoration] Ahh noo, don't be mad, I will be more obedient next time.
+[Halloween] Am I going to get overtime pay today? No, sweets don't count.
+[Christmas] A Christmas present? I wasn't expecting one, but... I won't say no.
+[New Year's Day] Today you're being pretty lazy huh. You better not forget this year's bonus pay...
+[Valentine's day] Tonight I've prepared a room, flowers, and a feast. And also...this chocolate, please take it.
+[Tanabata] You want to know where will I enjoy the festival? I don't mind telling you, but in exchange, will you tell me your wish?
+[Acquisition] Commander, the modifications were most impressive, and the new terms of my contract have allowed me to excel even more than before.
+[Secretary] Commander, I'm sure you'll get a big bonus for working so hard.
+[Secretary (post OATH)] Commander, your wishes are growing more and more out of line, does that mean you want better service from me? Still, I guess I should offer myself since I finally have the chance to repay you. What? No, I'm not blushing at all...
+[OATH] I didn't expect that in the end, you still ended up doing something beyond the bounds of propriety anyway... Still, considering we've known each other for so long, I guess I should make an exception to my principles just this once and accommodate you. But it's only once, and I won't let you take it back.
+[Greeting] Commander, are you ready to witness my elegant form when I take the field?
+[T-Doll Produced] Quick, take me to see our new colleague! Ah, no, I mean our new friend.
+[Joining an echelon] I'm in position. This is a good place for me to protect my friends.
+[Enhancement] There won't be any other variables in my work, I'll only get better.
+[Dummy-linking] You're being pretty good to me, I'm starting to like you now.
+[Logistics (start)] (Groan) Must I go?
+[Logistics (end)] Oh? Did you finally think of me?
+[Autobattle] How's that? You need me after all, don't you?
+[Title] Girls' Frontline!
+[Starting a combat mission] Let's move out, I'll protect our friends.
+[Starting a battle] Stay alert, don't lower your guard.
+[Skill activation] Still not falling back? Then I'll have you show up in my work report.
+[Heavily damaged] Somewhat tricky, but still within the scope of the plan.
+[Retreat] This is just a temporary retreat. I'll help protect everyone.
+[MVP] With faith in one's friends, victory was an inevitable outcome.
+[Restoration] Don't get mad, I'll be good next time...
+[Attack] Charge!
+[Defense] Come test yourself against my shield!
+[Phrase] If you insist...
+[Tip] You should do this over here.
+[Loading] A moment please...

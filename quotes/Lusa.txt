@@ -1,0 +1,27 @@
+[Acquisition] Commander! You look pretty fit, wanna play soccer with me? Oh, I forgot to introduce myself. Pleased to meet you, I'm Lusa! Lusa the soccer player!
+[Secretary] Coach! Have you heard of the "Black Panther of Soccer"? Uh...no, it's not me. It's a really famous soccer player and my idol! If only I were as good at soccer as he was.
+[Secretary (post OATH)] (Sobs) I'll definitely win next time. Just you wait, Coach, I'll surely return with the Mules Rimet Trophy!
+[OATH] ...A-Are you serious? I thought you summoned me for some kind of secret training, but it's actually for this? N-Not that I actually mind... It's just...don't people usually do this after they win a championship? Don't think so much? You're right! Thanks, Coach! Keep playing soccer with me, okay?!
+[Title] Girls' Frontline!
+[Acquisition] Commander! You look pretty fit, want to play soccer with me? Ah, I forgot to say that it's nice to meet you! I'm Lusa! Lusa the soccer player!
+[Secretary (post OATH)] Ah! Coach, I scored a game-winning point in the match! Hehe, won't you praise me?
+[OATH] Huh? What's this, Coach? So it means I have your permission to be fielded? All right! I'll do my best to be a top-rate player, so don't worry, Coach!
+[Greeting] Oh, you're back! Let's play some soccer, Coach! ...Ah, yeah, we still have work to do.
+[Joining an echelon] Everyone, we can't slack off even if we're on the junior squad!
+[Enhancement] My legs feel stronger now, yahoooo —Ahhh! I didn't mean to do that!
+[Title] Girls' Frontline!
+[Starting a combat mission] Let's go, let's go!
+[Starting a battle] What'll it be, soccer or battle? Lusa won't lose in either of them.
+[Heavily damaged] I don't get to go on the pitch often, but I lost again... No, I can't let that bring me down!
+[Retreat] Hurry! Hurry up and shift the goalposts!
+[MVP] Yay! First point to Lusa!
+[Attack] 4-3-3 formation!
+[Halloween] You know, I've been wondering for a while now, about those ghosts with detachable heads. Will they die if you kick their heads high into the sky?
+[Christmas] Feliz Natal, Coach! Sometimes, there are days like these when I don't feel like doing anything; I just want to laze around the room with you, watching the snow fall outside the window... No, I don't have a fever! You really don't know how to read the mood at all, do you?!
+[New Year's Day] Happy New Year, Coach! In my hometown, people used to welcome the new year with bullfighting... Hm, although given your physique, maybe I should look for a calf instead, Coach?
+[Valentine's day] Yo! Happy Valentine's Day, Coach! ...Chocolate? Nope, I don't have any! Haha, don't be sad. Have some grilled sardines instead, I made them myself!
+[Tanabata] This is bad, I accidentally broke the bamboo slip. I, I guess I can put a pot of basil here as a substitute, right? ...Ah! I'm sorry, Coach!
+[Defense] 5-4-1 formation!
+[Phrase] Lusa!
+[Tip] Don't pass up any good techniques!
+[Loading] Lusa's running over now! Three! Two! One!

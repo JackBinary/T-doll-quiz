@@ -1,0 +1,30 @@
+[Acquisition] I'm PM1910! Make sure you remember to call me out when it's time for a fight!
+[Secretary] If you want to say something then say it, don't beat around the bush!
+[Secretary (post OATH)] Oi, get on, I'm taking you on a ride! Why so nervous? I told you right, the seat behind me is yours... Come on, come on, where do you want to go today?
+[OATH] Not long ago, I had a dream. In that dream, I saw a forest. While I don't know why I had a dream like that, I saw you in it too. Do you know what that means? It means I'm going to beat the crap out of you for daring to show up in my dream!
+[Greeting] Oi, where the hell did you go? Dragging your feet and all that!
+[T-Doll Produced] I don't care about the newbie, go look yourself!
+[Joining an echelon] Put me in the best attacking position!
+[Enhancement] It's good, but I barely felt that! Give me another!
+[Dummy-linking] That's right, war has never gone easy on the weak.
+[Logistics (start)] Can't you find someone else to do this small potatoes stuff?
+[Logistics (end)] That was like a walk in the park, isn't there a more exciting op I could be on!?
+[Autobattle] Let's go make a mess of things!
+[Title] Girls' Frontline!
+[Starting a combat mission] Let them fear our names from Griffin to every single enemy camp!
+[Starting a battle] Don't you dare die before I've had my fun!
+[Skill activation] Rip and tear!
+[Heavily damaged] Those bastards over there actually know a thing or two, but after this it'll be too late for them to regret it!
+[Retreat] Don't think it's over!
+[MVP] You're actually proud of that little bit of endurance?
+[Restoration] This is nothing compared to what happened in the past.
+[Attack] Just in time, now get out of my way!
+[Halloween] Trick? Or treat? You think I'm three or something?
+[Christmas] In the past, I used to like the snow, but now I prefer presents... So, what did you get for me?
+[New Year's Day] Happy New Year? It's a bloody waste of time, get over here and empty this glass!
+[Valentine's day] Oi, where the hell do you think you're going with that chocolate, oh wait, this is... Huh, it's pretty good. They're mine now! You want to give them to somebody else? Then make more!
+[Tanabata] Tanabata? Never heard of it. If you're feeling lonely, then you can go fix up my bike, and make sure you wash it clean after!
+[Defense] I've been through more hopeless things than this, so hang in there, all of you!
+[Phrase] Hah?
+[Tip] Listen up and do as I say!
+[Loading] Quit spacing out, hurry up!

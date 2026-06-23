@@ -1,0 +1,26 @@
+[Acquisition] Yo, it's M16. Leave the mission to me.
+[Introduction] To replace the M14 poorly suited for jungle warfare, I embarked into the darkest battlefield my nation has ever faced. My service has been remarkable, but it wasn't without problems. Good thing is that my issues were all eventually resolved, and many new models resulted from that. Having a few little sisters ain't bad, the saving grace of those past misfortunes.
+[Secretary] What's my thing? Jack Daniels, for sure.
+[Secretary (post OATH)] Let's go get a drink after work, Commander. However, don't tell M4 behind my back this time, I'm the one getting scolded after all.
+[OATH] Ah, Commander, have you finally realized my strength? But, uh, I'm not used to being this close. I... Can I tell my sister M4 about this?
+[Greeting] Ooh, welcome back. Should I accompany you for a drink?
+[T-Doll Produced] Good, a new sister has come.
+[Joining an echelon] Yeah! Finish the mission quickly and go to drink.
+[Enhancement] Best gift for me is... alcohol of course.
+[Dummy-linking] Sometimes, extension is good for me, and beers.
+[Logistics (start)] If the mission is only this level, I'll be back quickly.
+[Logistics (end)] I'm back commander, you got a beer ready for me?
+[Autobattle] Everyone, it'll be okay since I came!
+[Title] Girls' Frontline!
+[Starting a combat mission] No need to get nervous. Just calmly follow us.
+[Starting a battle] I feel it, enemy's scent.
+[Skill activation] Prepare! Shoot!
+[Heavily damaged] You got a nerve there...
+[Retreat] Sorry... My bad, let's retreat!
+[MVP] Yeah! Let's do celebration tonight! No stop until morning!
+[Restoration] Stop that M4, I'm fine.
+[Halloween] Oh, so Halloween is this kind of holiday? It's a shame I can't be drinking for it.
+[Christmas] Oh, chicken is perfect food with beer, That's good!
+[New Year's Day] It's already new year huh. Commander, let's go drink together again.
+[Valentine's day] Honestly I'm not too interested, but please take one.
+[Tanabata] Tanabata huh... I should write one then! I want to keep drinking alcohol.

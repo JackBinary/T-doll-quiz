@@ -1,0 +1,30 @@
+[Acquisition] Yup~ Before you stands the M110 who has refined the art of baking to its zenith—namely, me! Commander, are you ready to have your tastebuds conquered?
+[Secretary] Are you having difficulty at work? Well, you're just in time to try my award-winning Brainwave Creme Brulee... How is it? Is the 100% sweetness enough to get your braincells going... Wait, why did you pass out? Eeeeek, it's the 1000% sweetness version!
+[Secretary (post OATH)] If there's no more war in the future, I'd like to open a sweets shop. Who knows, I might be able to make a worldwide franchise out of it. After all, I am just that skilled!
+[OATH] Commander... You really have been the person I valued most from the beginning! There's no greater joy for me than gaining your trust! Believe that this joy will carry on for every day after this, so let us join our hands... Huh? Wait a minute, you mean you didn't ask anyone else to witness this moment for us? Um, do you think it's too late to invite them over now?
+[Greeting] You're here at last! There were a lot of people here just now wanting to eat the desserts I made for you. After all, not many people can resist such sweet temptation~ Come, have some, and then we'll start the day's work~!
+[T-Doll Produced] Commander, it's time to host a little welcome party!
+[Joining an echelon] Hello everyone, would you like to try the gateau opera I made with all of my skill?
+[Enhancement] I can only show how much I've gotten stronger by being in battle, right? But there haven't been any combat missions recently, have there?
+[Dummy-linking] Quantity has a quality all of its own. Sounds pretty good, doesn't it... Ah, I was talking about baked goods~!
+[Logistics (start)] So we're heading out, huh... It feels like I might accidentally get a reputation as a genius baker somewhere!
+[Logistics (end)] I'm baaaaack~ I collected lots of rare ingredients while I was on the road. Time to try out some new dessert recipes!
+[Autobattle] As a doll standing at the apex of the baking arts, fighting strength is a piece of cake, naturally~!
+[Title] Girls' Frontline!
+[Starting a combat mission] Prepare to welcome us back, all covered in glory!
+[Starting a battle] We need to achieve dazzling results...!
+[Skill activation] Found you~!
+[Heavily damaged] (winces) I can't believe they pushed me this far... At the very least... I need to strike back at least once!
+[Retreat] How am I going to explain this failure to the Commander...
+[MVP] Oh, this was a piece of cake, but I'd love to have a medal to commemorate this~!
+[Restoration] If we had an oven here, I could make some treats to pass the time...
+[Attack] Do your best, everyone! Once we beat the enemy, we'll have my delicious desserts as a reward!
+[Halloween] I've handed out pretty much all the candy I've prepared for tonight. Haha, kids really are the best taste testers of all, the little angels~! Huh? Everyone went to the Cafe in the end? Oh well, kids are immature, after all!~
+[Christmas] If Santa Claus really exists, I'd like him to try some of my hand-made baked goods. That way, he'll know who should get better presents~!
+[New Year's Day] Happy New Year, Commander~! Since the new year is all about throwing out the old and ringing in the new, I figured we could change our food and drink too—Tadaaah~ This is my newly-invented Dreams-Come-True Brownie! Eat it quick so you can realize all the well-wishes we have for the new year!
+[Valentine's day] Commander? About your Valentine's Day chocolates... What, you've already gotten so many? And they all look pretty good too... Huh? You want to know where my chocolates are? I... I think I need to polish them up a little more! Please give me a bit!
+[Tanabata] So I heard you can wish for deft hands during Tanabata? But my hands are already pretty deft, aren't they? I'd rather wish to be able to make more treats with these nimble hands of mine and build my rep~!
+[Defense] It's okay, if the enemy gets past us, the only damage will be to our reputations... No, no, we mustn't take a single step back.
+[Phrase] Taking aim at your tastebuds!
+[Tip] I recently learned how to make apple pies. They're a very multipurpose dish—not only do they satisfy your tastebuds, but you can even use them as weapons when throwing them into people's faces... Of course, I would never do that as a believer in fair play!
+[Loading] It's taking so long... Want some of my specially made Infinite Patience Macarons?

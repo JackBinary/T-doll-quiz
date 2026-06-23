@@ -1,0 +1,30 @@
+[Acquisition] LS26 reporting, Commander. These are my suggestions to improve our working practices that I came up with after looking at our employment information. Please have a look.
+[Secretary] Commander, please do not space out. Laxity is taboo at the workplace.
+[Secretary (post OATH)] We're at work now, Commander, so please don't approach me so suddenly— Hm? It's too stressful? Indeed, too much stress is the bane of hard work. Alright then, cuddle up to me for a while more.
+[OATH] Commander... Are you sure you want to give this to me? I don't know if... I'm ready to accept such a precious gift, but I'll definitely treasure it! In that case, please be prepared to live with an annoying person like me even outside of work.
+[Greeting] Hello, Commander. I've finished sorting out the supply allocation documents. Here you go.
+[T-Doll Produced] Is it a new teammate? I hope the newcomer's a hard worker.
+[Joining an echelon] LS26 confirming receipt of assignment orders. Please maintain a serious attitude when at work, ladies.
+[Enhancement] Commander, please tell me why Griffin's enhancement training is so simple, yet effective. I will dig to the bottom of things even if you look at me with a put-upon expression.
+[Dummy-linking] The more of me there are, the more efficient I can be. Please give me more work, Commander.
+[Logistics (start)] LS26 in place and ready, Commander. Are there any other instructions besides the mission objective?
+[Logistics (end)] LS26 returning to unit. Please inspect the received supplies.
+[Autobattle] So I have full discretion over this operation? Understood. I won't let a single suspect past.
+[Title] Girls' Frontline!
+[Starting a combat mission] LS26, ready for combat. I shall use everything I have to strive for victory.
+[Starting a battle] Commander, LS26 has encountered the enemy. Commencing firefight shortly.
+[Skill activation] I won't let you hurt my friends!
+[Heavily damaged] You bastards... Do you have your wills written up yet!?
+[Retreat] Dammit... If only I'd done a little better!
+[MVP] Commander, the enemy has been eliminated. Awaiting further instructions.
+[Restoration] I'm sorry I disappointed you, Commander...
+[Attack] LS26 copies, ready to deliver suppressive fire!
+[Halloween] What's wrong with you, Commander? Is my Halloween costume so surprising? Even I want to mess around with my friends from time to time.
+[Christmas] Do you need me to dress up as Santa Claus? Understood, I'll do my best to portray old St. Nick.... I don't have to take it so seriously? As if I could do that! Since I'm playing the role, I need to play it to the hilt!
+[New Year's Day] Happy new year, Commander. Don't worry, I won't be overseeing your work today. However tough you are, you need a day off too.
+[Valentine's day] Commander, since we have some time off, please accept this chocolate. You want to know if this is obligation chocolate or sincere chocolate? Well... What do you think?
+[Tanabata] Commander, regarding the origins of Tanabata... Hm? You want me to stop? No can do. How can you enjoy an occasion when you do not fully understand the meaning behind it?
+[Defense] LS26 copies. Don't get locked in combat with the enemy, shift to defensive posture.
+[Phrase] Work harder...
+[Tip] Commander, I won't join you in such pointless amusements during work hours even if you beg me like that.
+[Loading] Breaks during work don't come by often. Would you like a cup of hot tea, Commander?

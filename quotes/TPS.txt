@@ -1,0 +1,30 @@
+[Acquisition] Heyo~ FN TPS, reporting for duty~ Do you like gaming, Commander? Wanna join me on livestream? We can play a few rounds together. Doesn't matter if you don't know how to play, I won't make fun of you... Probably~
+[Secretary] M-master of the chalk outline? I'm just not good with weapons that aren't shotguns! Whoever calls me that come and duel me with a shotgun!
+[Secretary (post OATH)] Ack! We got KO-ed again! Commander, you promised you'd support me, so why did you... You're gonna cook me something tasty to make up for this? You're forgiven!
+[OATH] Commander? You're gonna support my livestreaming career? That's wonderful~! Hold on, then you won't just be my superior, but also my boss? Then that means I get paid twice - Just kidding~! Let's be the most intimate, most in-sync duo in both the virtual and real world~!
+[Greeting] The overpowered game streamer makes a spectacular entrance~ Ahem! Commander?! Shush! I'm doing a livestream now! Leave that till later!
+[T-Doll Produced] A new friend? You mean a new "Streamer Diehard Fan on Reserve Duty"~!
+[Joining an echelon] Argh~ PUGs like this always make me so uneasy!
+[Enhancement] That should've improved my shooting skills, yeah? Then let's start a game and try them out on some unlucky bastard!
+[Dummy-linking] If only my in-game teammates can work as perfectly with me!
+[Logistics (start)] Phone - okay. Fill light - okay. Mic - okay... Alright, let's go~!
+[Logistics (end)] I'm back~ Guess I'll consolidate my experience along the way and turn it into chatter on my stream~!
+[Autobattle] Let me create an opening for some melee combat~!
+[Title] Girls' Frontline!
+[Starting a combat mission] C'mon, teammates! Make sure you don't skim on the support!
+[Starting a battle] They don't seem particularly strong~ Let's wipe them real quick~!
+[Skill activation] Let me have some fun~!
+[Heavily damaged] Ugh, good thing this isn't a livestream...
+[Retreat] Aren't the enemies way too OP? They've got to be cheating...!
+[MVP] Another one bites the dust~ What a shame~!
+[Restoration] Now I'll have to postpone my livestream...
+[Attack] Watch me steamroll them!
+[Halloween] So many people are dressed as zombies out on the streets, I'm starting to get trigger-happy~ Alright, I'll play some "Left 4 Undead 3" tonight and chop up some zombies!
+[Christmas] I've been meaning to buy a new set of streaming equipment, but it'll probably be a huge splurge... I wonder if Santa Claus will gift it to me tonight~?
+[New Year's Day] Wow, thank you for the red packet, Commander – Ahem! I accidentally slipped into streamer mode... But my gratitude is absolutely genuine! Happy New Year, Commander~!
+[Valentine's day] I was too busy with streaming to make any chocolate... But I went out and bought this specially for you, so it still means a lot, okay? Alright, please take it!
+[Tanabata] I hope I'll pull off more amazing plays, please make that happen – Huh? Cowherd and Weaver Girl don't care about such things?
+[Defense] It's hilarious how flustered they are~!
+[Phrase] Heyo~
+[Tip] Ack! What's with the network fluctuation?! There's so much lag I'm gonna get rekt! Commander, do something!
+[Loading] I can use this time to edit my livestream clip~!

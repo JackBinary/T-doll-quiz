@@ -1,0 +1,25 @@
+[Acquisition] Privyet, Commander. Kord reporting for duty. Ugh... it's a bit warm in here...
+[Secretary] I've taken care of all the important tasks, give me a shout anytime if you need me.
+[Secretary (post OATH)] Commander! Turn around and give me a hug! Woah! You actually did it... am I allowed to be affectionate like this too? Then I won't hold back anymore, okay?
+[OATH] Is there something you need assistance with, Commander? Eh, you don't need help? You've just uttered something profound. Can we really be honest with each other? Then, let us show our true selves from now on.
+[Greeting] It's quite early.
+[T-Doll Produced] That order went well! Come now, rookie, can you say your model number?
+[Joining an echelon] In my current weakened state, I hope I won't have to put a brace on...welp, that's a rare occurrence.
+[Enhancement] Well, that didn't feel bad at all. Would you please strengthen me a little more?
+[Dummy-linking] Of course, the more helpers, the better.
+[Logistics (start)] It can't be helped. I will go.
+[Logistics (end)] Commander, send me on combat missions next time.
+[Autobattle] Maintaining the image while destroying the enemy. That, too, is an art.
+[Title] Girls' Frontline!
+[Starting a combat mission] I'll come back safely, so no need to worry.
+[Starting a battle] Happy magic time begins!
+[Skill activation] Eat this!
+[Heavily damaged] Oh no! My skirt just got ripped...
+[Retreat] A total failure...how do I report that?
+[MVP] Full retreat. Commander, see you back at base!
+[Restoration] I'm sorry, I will reflect on this.
+[Halloween] Uwaah! Oh, it was only you Commander? I've been spooked many times since the last. Please give it a rest.
+[Christmas] Oh, Commander, you're here. Um, here, this is a Christmas tree for the presents. Please take it.
+[New Year's Day] Don't you think we should find some new dresses for the new year? Commander, if you're not too busy, wanna go shopping together?
+[Valentine's day] Stop staring at me if you're going to be the boater! You're not boating...you just wanna stare at me? That's why I'm always saying such embarrassing things.
+[Tanabata] It would seem that Tanabata was once a Valentine's Day, don't you think? But instead of confessing to someone, it's more about keeping quiet and having fun while everyone is up and about.

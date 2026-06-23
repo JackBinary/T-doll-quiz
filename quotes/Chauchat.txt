@@ -1,0 +1,24 @@
+[Acquisition] Are you the Commander of this unit? Then, Chauchat M1915, reporting for duty.
+[Secretary] Hmm? I'm performing maintenance right now, come back later if you need me.
+[Secretary (post OATH)] Have you eaten breakfast, Commander? Have you got your ammo belt? Have you finished all your work, Commander? No complaining! Everything should be prepared and checked beforehand... If anything were to interrupt the time we spend together, you'll regret it!
+[OATH] Commander... Even if I am such an accident-prone, unreliable thing, you're still willing to care for me? I have to improve myself, if not for battle, then for your sake... From this day forth, I will not only take good care of myself, but Commander as well!
+[Greeting] Ah, Commander, hello there. I...uh...give me five minutes to prepare for combat.
+[T-Doll Produced] A new friend has arrived? If anything, they seem dependable.
+[Joining an echelon] Me? I won't stand a chance, but I'll do my best.
+[Enhancement] Is that allowed? I mean, I don't feel anything wrong...
+[Dummy-linking] Increasing the number of people should also reduce the risk of failure as well...right?
+[Logistics (start)] It is not the bullet that wins the battle, but the warrior's feet!
+[Logistics (end)] I'm back! Commander, did you miss me?
+[Autobattle] It's my turn now!
+[Title] Girls' Frontline!
+[Starting a combat mission] Ammunition...check. Repair toolkit...check! Preparations are complete!
+[Starting a battle] What, the enemy? Where? I can't see them anywhere!
+[Skill activation] Here we go!
+[Heavily damaged] Is it a malfunction? At a time like this...it should have been properly maintained!
+[Retreat] We may have lost the battle, but we have not lost the war.
+[MVP] Did we win? I thought it was already over...
+[Restoration] I think what we need now is not a repair, but a complete remodeling...ah, never mind.
+[Christmas] Have you ever considered a truce, Commander? Because, today is Christmas!
+[New Year's Day] Up until now my wishes have never been fulfilled. But in this new year, I want to get a hold of myself more.
+[Valentine's day] Real chocolate tastes bitter. I'm sure love would taste the same as well.
+[Tanabata] Once a year, beyond the galaxy, a romantic village banquet resumes. Even if it was purely imagination, it surely would have been a romantic scene.

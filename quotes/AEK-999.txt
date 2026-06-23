@@ -1,0 +1,26 @@
+[Acquisition] Is the Commander here? Barsook, the fate of this name will now be handed to you!
+[Introduction] (ditto)
+[Secretary] Ah, sorry! What did you say?
+[Secretary (post OATH)] Commander, have you decided on the background music for the next battle? I'm looking forward to new styles!
+[OATH] Ah? Did you really…… Choose me? How messy, although I do like it. Ok, I know…… Then let me become your strongest ace!
+[Greeting] Ahhh~ Sensed that I should be appearing anytime now?
+[T-Doll Produced] New comer? Let's get along then!
+[Joining an echelon] Ohh, not a bad taste!
+[Enhancement] I got the rhythm!
+[Dummy-linking] Now I can form a band with myself
+[Logistics (start)] Don't worry~ I have a feeling for something good this time!
+[Logistics (end)] What will appear this time~?
+[Autobattle] My turn!
+[Title] Girls' Frontline!
+[Starting a combat mission] Let's Rock!
+[Starting a battle] Here comes the intro!
+[Skill activation] Drop the Beat!
+[Heavily damaged] Uu... Didn't catch that rhythm!
+[Retreat] How unlucky!
+[MVP] An obvious result! You have to wait til next time for the encore of victory.
+[Restoration] Emm, occasionally soft songs are good too.
+[Halloween] Can you change the fake blood with tomato ketchup? It looks too realistic that it scares me.
+[Christmas] Did you know, Commander? Christmas songs were originally written as a way of showing thanks.
+[New Year's Day] The imperfect is beautiful, the same goes for music.
+[Valentine's day] There's one chocolate among these that filled with bullet. Can you guess which one?
+[Tanabata] What did you write as your wish? Well, if you believe in it, surely it'll come true.

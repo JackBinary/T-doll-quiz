@@ -1,0 +1,58 @@
+[Acquisition] VSK-94, reporting for duty. So, you're my boss? Nice to meet you.
+[Secretary] ...A complaint letter from a human? Accusing me of trying to kidnap human children? Sorry, but that wasn't me. I worked many years at a police station. Why would I commit such a low-life crime?
+[Secretary (post OATH)] There aren't any nice stories from my past. Most of them were filled with sorrow and despair because I kept losing the ones I wanted to protect. But this time, I won't let that happen again.
+[OATH] Why do humans like to use this kind of delicate ring as a token of affection? Since it's your custom, I'll respect and follow it. In return, I'm giving you these handcuffs. They're much sturdier than your flimsy ring.
+[Greeting] Ah, Boss, you've arrived for work?
+[T-Doll Produced] The new arrival has reported in, Boss.
+[Joining an echelon] Do I have to lead four troublemakers around again...
+[Enhancement] That was a pretty good experience.
+[Dummy-linking] Now that there's another me around, does that mean I should be paid an extra salary?
+[Logistics (start)] Will I have to hang around so many Dolls for an extended period of time? What a headache. May I remove their voice modules before we set out?
+[Logistics (end)] I'm back, Boss. Oh, don't give me that nervous look, I wouldn't do anything as violent as scrapping my teammates.
+[Autobattle] Leave that to me.
+[Title] Girls' Frontline!
+[Starting a combat mission] Let's go, think of it as an after-dinner walk.
+[Starting a battle] So these are the guys you bring with you when you come out?
+[Skill activation] Enjoy the pain of your life ebbing away.
+[Heavily damaged] Don't get too cocky, this is just the beginning.
+[Retreat] Did... Did I fail?
+[MVP] I can't think of any other ending besides this one.
+[Restoration] Finally, the world is quiet for a moment.
+[Attack] Follow me and attack!
+[Halloween] You dressed up as monsters to attack me and steal my candy, do you know what kind of crime that is? Don't worry, I'll slap you in cuffs and we can have a nice long chat back at the station...
+[Christmas] I've already applied for leave, Boss. That's because the day I look forward to most in the entire year is the day when I can dress up as Santa and give kids presents.
+[New Year's Day] Yo, Boss, Happy New year. I heard we get double pay if we do overtime on the new year... So were you thinking of trying to get one past me by acting dumb? Don't even think about it.
+[Valentine's day] So today is Valentine's Day, no wonder the other Dolls on base are so excited. Valentine's Day is when crimes of passion tend to peak, so I'll be extra vigilant on my patrols.
+[Tanabata] They say that every year, on this day, a bridge of magpies forms in the heavens to let a man and a woman meet, is that right? Boss, isn't this a violation of animal protection law?
+[Defense] Maintain your defence!
+[Phrase] Taste the wrath of justice.
+[Acquisition] VSK-94 reporting. So, are you my boss? I'll be in your care.
+[Secretary] When I compete with the other kids at school, everyone gives their all and the parents are excited too... is this what it's like when people don't treat you like a kidnapper?
+[Secretary (post OATH)] Do you get bored when I use the same cheers to encourage you each day? It, it's okay because it's very cute?! Boss, you... you're starting to resemble a dangerous person more and more...!
+[OATH] Boss, this ring... I understand. It represents your acknowledgement of my hard work in cheering you on, right? In order to live up to your trust in me, I'll do everything I can to fulfil my duties from now on. Also, if, if you need it, I can cheer you on any time...!
+[Greeting] Ah, Boss, you're here?
+[T-Doll Produced] We've got a newcomer, Boss.
+[Joining an echelon] Let's take this opportunity to boost morale!
+[Enhancement] Not a bad experience.
+[Dummy-linking] If there's another me, does this mean I get another share of wages?
+[Logistics (start)] Do I have to hang around so many Dolls for so long? What a pain. Can I extract their vocalizer components before we head out?
+[Logistics (end)] I'm back, Boss. Oh, you don't have to be so worried; I'm not the sort who'd commit violent crimes like scrapping my teammates.
+[Autobattle] Leave it to me.
+[Title] Girls' Frontline!
+[Starting a combat mission] Let's go. Think of it as a post-dinner walk.
+[Starting a battle] Are these the punks you're bringing with you?
+[Skill activation] Hit!
+[Heavily damaged] Ugh... I think I tried too hard...
+[Retreat] Did I... fail...?
+[MVP] I couldn't think of any other ending to this.
+[Restoration] I want to get back in top form soon...
+[Attack] Attack with me!
+[Halloween] Disguising yourselves as monsters to attack me and plotting to take my candy? Do you have any idea what offenses you've committed? You don't? No problem; I'll drag you back to the station for a nice long chat...
+[Christmas] I took the day off, Boss. I'm going to dress up as Santa to give gifts to the kids. This is the one day in the year I look forward to most.
+[New Year's Day] Yo, Boss, happy new year. I heard you get double the usual overtime pay for working during the new year... Are you trying to bluff your way through by playing dumb? Don't even think about it.
+[Valentine's day] No wonder all the Dolls on the base are so happy; today's Valentine's Day. It's when crimes of passion peak, so I'll do some extra patrols.
+[Tanabata] I heard that on this day every year, there's a bridge of magpies in the sky that allows a man and a woman to meet? Boss, isn't this animal cruelty?
+[Defense] Maintain your defense!
+[Phrase] Taste the iron hand of justice.
+[Tip] This looks useful.
+[Loading] Ah, hang on, I'll be right there.

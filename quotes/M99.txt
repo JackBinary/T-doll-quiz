@@ -1,0 +1,26 @@
+[Acquisition] Salute! Nice to meet you, I'm M99! Commander, please keep up the good work!
+[Introduction] In order to meet the demands of the domestic and international markets, I, M99, was researched and developed for the world. Reliable performance, excellent accuracy, and cost-effective with just as high quality as my foreign counterparts, I may lack combat experience, but I must carry on!
+[Secretary] Commander, what are my tasks today? M99, standing by.
+[Secretary (post OATH)] Teach me something tonight, commander. Don't tease me again though, the last time was way too embarrassing!
+[OATH] Commander, you're willing to accept me in my current state? ...I thought I still had a long way to go...to meet your expectations...however, I won't be complacent! To return your trust, I'll have to work harder!
+[Greeting] Commander, shall we start?
+[T-Doll Produced] Hooray! A new friend is coming!
+[Joining an echelon] Nice to meet you everyone!
+[Enhancement] Thank you! I learned a lot!
+[Dummy-linking] Thank you for admitting me, Commander!
+[Logistics (start)] Roger that. Roll out!
+[Logistics (end)] Sit rep. Mission accomplished.
+[Autobattle] We are almost there everyone!
+[Title] Girls' Frontline!
+[Starting a combat mission] Everybody Roll out!
+[Starting a battle] Enemy coming in hot!
+[Skill activation] Don't try to escape!
+[Heavily damaged] Waa--! What should I do right now, Commander?
+[Retreat] Sorry Commander, it's my fault...
+[MVP] Ha-ha, have I progressed, Commander?
+[Restoration] I'm so sorry, I will reflect on myself.
+[Halloween] I borrowed the clothes from sis Type 79, but looks like the chest part looks too big for me?
+[Christmas] Merry Christmas Commander! If you are free tonight, can you teach me how to make cakes?
+[New Year's Day] Happy New Year, Commander! Thanks to you, I've grown a lot last year! I will do my best this year, so please expect it!
+[Valentine's day] This is Special chocolate made by M99. I won't fail this time Commander! Probably...
+[Tanabata] I want to study even more! Please grant my wish!

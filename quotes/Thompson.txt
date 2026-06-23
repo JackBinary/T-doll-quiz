@@ -1,0 +1,26 @@
+[Acquisition] You're the new boss eh? Chicago Typewriter, I'll be in your care.
+[Introduction] To fulfil the desires of close quarter combat in the world, the country developed many brand new automatic weapon, after several improvements, I M1928A1 will be the one carrying out this mission. After retiring from the battlefield, the street gangs realised the values of my fire power and easy disguise. So then BOSS, will be counting on you from now.
+[Secretary] Boss! Who said you could touch people like that!
+[Secretary (post OATH)] Boss, need some music during your break? Same as usual, huh... So, the tune from that night?
+[OATH] Yo, Commander. Calling me to a place like this, are we gonna have a street fight?What?! Oh, you?...Well, I mean, it's not like I dislike you...Let's fight for our future together.
+[Greeting] Boss! You're finally back.
+[T-Doll Produced] Looks like we got ourselves a new gangster.
+[Joining an echelon] Which gang we fighting today then?
+[Enhancement] Since it's from the boss, then I shall accept it without gratitude.
+[Dummy-linking] Squad's gotten bigger, very nice.
+[Logistics (start)] Leave the communication missions for me.
+[Logistics (end)] I'm back, even got a hostage... Just kidding.
+[Autobattle] We're here for the mopping up, out the way.
+[Title] Girls' Frontline!
+[Starting a combat mission] Let's go, make it a blast.
+[Starting a battle] Enemies are here, take them out!
+[Skill activation] Finish them in one go.
+[Heavily damaged] You're...making me angry!
+[Retreat] What a shame...
+[MVP] Yes, this just feels awesome.
+[Restoration] (Sigh) Hire some muscles to stand in for me while I'm gone.
+[Halloween] Boss, since it's Halloween, we gotta give the kid candies!
+[Christmas] I will always  be with you even on Christmas. Merry Christmas!
+[New Year's Day] New Year banquest is ready. Come! Come!
+[Valentine's day] I have no interest in Valentine. Moreover, give me mission.
+[Tanabata] Boss, have you finished the firework preparations for Tanabata. Come, lets light them.

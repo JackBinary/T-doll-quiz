@@ -1,0 +1,25 @@
+[Acquisition] Producer!... No, I should call you "Commander," right? Hello, Desert Eagle is joining your performance team, I'll be in your care from now on.
+[Secretary] To me, performing on stage is already in the past. If I have a chance at a comeback, then... Forget it, I shouldn't consider things like that. For now, my only goal is to become a great Tactical doll.
+[Secretary (post OATH)] My schedule for today?... The only thing I've planned for is our vacation. As for when that is, I've already done the preparations. Let's enjoy this wonderful day together, Commander.
+[OATH] You've decided to give this to me? ...Thank you very much, Commander. I always thought that I'm destined to be on the stage, but now... I've gained another place to belong to. The one correct decision I've made was to come to this place... From now on, please let me offer you my true self.
+[Greeting] Commander, I've arranged my shooting schedule for today. Please approve it.
+[T-Doll Produced] A newbie? I want you to meet a good partner.
+[Joining an echelon] It's my turn.
+[Enhancement] Training complete. My acting skills have improved as well.
+[Dummy-linking] There are more people now. In the future, our efficiency on stage will increase as well.
+[Logistics (start)] Our mission this time is to bring home a lot of supplies. We'll do our best.
+[Logistics (end)] Commander, we have returned. How was our achievement?
+[Autobattle] Am I shooting alone for this show? Not a problem.
+[Title] Girls' Frontline!
+[Starting a combat mission] It's time to start shooting. Let's do our best.
+[Starting a battle] This gun contains real bullets. You'll get to taste them with your body.
+[Skill activation] This is a chance for you to see my performance up close. Don't miss it.
+[Heavily damaged] This one's NG, my deepest apologies.
+[Retreat] Next time I sortie, I need to think my strategy a bit more carefully.
+[MVP] A perfect stage, for you.
+[Restoration] I'm terribly sorry. We won't waste film in the future.
+[Halloween] When everyone starts masquerading, a normal appearance becomes even more noticeable. What do you think, Commander?
+[Christmas] Will you be playing as Santa? That's too easy. For me, there's no winning on this ship. Rather, I would like to spend a quiet Eve with you.
+[New Year's Day] I want to bring you a fresh time in the new year. What character do you want from me this year? If you tell me, I will give you one year with the acting you want.
+[Valentine's day] This present will surely be the best. Why is that...you ask? Because it me took three days to inspect the stores six or more times before I could finally get it.
+[Tanabata] Today there's no better setting to play as your lover and rear guard.

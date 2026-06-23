@@ -1,0 +1,29 @@
+[Acquisition] I'm Erma, who are you? Commander... what does that mean?
+[Secretary] Last night a stork brought me a letter in my dream, and I really wanted to see what was written inside, but the more anxious I got the less I was able to open it, and then I woke up... Could anyone help me interpret what that meant?
+[Secretary (post OATH)] If one day I've forgotten who you are, you must find me! Then you'll tell me how you can't let me go, how you really miss me, and how you'll never abandon me. If I've forgotten who I am, then you'll smile and gently tell me ”It's alright, Erma. I'm the most important person in your life.”
+[OATH] There's a secret that I'm whispering to you now. I have a beautiful hidden garden full of marble statues and long floral corridors. Even though I can't take you there, I still made you a key, a key called “Commander”. Hehe, it has detailed records of every moment we spent together and, um, a lot of me talking behind your back!
+[Greeting] Morning, have you brought me anything interesting today?
+[T-Doll Produced] What's going on? Is this also how I'm made? Feels so bizarre.
+[Joining an echelon] There's a lot of people...
+[Enhancement] This feels so familiar; am I getting stronger again? Eh, why did I say again...
+[Dummy-linking] That's a lot of me...
+[Logistics (start)] I'm going outside to study, don't miss me too much.
+[Autobattle] I'm back, it was fun out there.
+[Title] Girls' Frontline!
+[Starting a combat mission] Operation Fork, bon appetit!
+[Starting a battle] Bad guys are approaching!
+[Skill activation] I must win!
+[Heavily damaged] Mom, I miss you...
+[Retreat] Mom's calling me home for dinner!
+[MVP] Operation Cyber Kitty is a great success!
+[Restoration] Ouch, that hurts... but I'll do it again.
+[Attack] Charge!
+[Halloween] What's the point of this holiday, it's so obvious we're just wearing pumpkin monster costumes... Come on, we're Dolls, this kind of disguise is completely ineffective! But since we get free candies, I guess this holiday isn't all worthless.
+[Christmas] Santa crawls in through the chimney? That's so dangerous... considering any building nowadays are hundreds of stories tall... I'm getting chills just thinking about it. I guess I'm never receiving my presents!
+[New Year's Day] The new year... is a time for reunions right? Yet, is there even anyone I could reunite with? I always felt like there should be many of them, but who are they exactly...? If I don't start looking for them, will they come to me? Hell, I'm not going to be the one taking initiative!
+[Valentine's day] Chocolates are so tasty. Huh—you aren't supposed to eat it yourself? Gifting it to someone... but I neither know what flavor they like, nor do they know mine. What a strange holiday!
+[Tanabata] Today's the day to make wishes right? If so, I wish to be happy every day, and I also want to remember everyone that matters to me. Lastly, I want Mom to come back and see me. Three is too much? Err... but I don't want to drop any of them...
+[Defense] Too tired! Let's go back first...
+[Phrase] ...Sorry, I forgot again.
+[Tip] I've always been searching for my lost memories, but I've also been living daringly.
+[Loading] Erma Hume, that's my name.

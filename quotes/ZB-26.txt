@@ -1,0 +1,27 @@
+[Acquisition] So this is Griffin? ...I see. Please look forward to my performance. I will do my best no matter where I am.
+[Secretary] Do you know, Commander? One should always take the initiative to interact with others... That's why I've come and sought you out.
+[Secretary (post OATH)] Even though I often say one mustn't give up halfway, your working hours are way too long... I am putting you on mandatory break for a while. Don't worry, I'll keep you company.
+[OATH] Have you really considered this carefully? Once you've entered a contract with me... I won't let go of you no matter where you are… I will always, always be by your side.
+[Greeting] Welcome back, I've already sorted the documents you have to look through.
+[T-Doll Produced] The rookies are here. Why don't you come with me and have a look? One can only grow by interacting with all sorts of people.
+[Joining an echelon] You can put me anywhere you want. I will fight for you with all my strength.
+[Enhancement] Please enhance my capabilities to the maximum, okay?
+[Dummy-linking] What if my Dummy doesn't have the same dimensions as me...
+[Logistics (start)] Leave it to me. I'll give my all even when it comes to logistics.
+[Logistics (end)] Well? Are you happy with the result?
+[Autobattle] Thank you for your trust. I will not disappoint you.
+[Title] Girls' Frontline!
+[Starting a combat mission] Commencing mission. Let us spare no effort in completing it.
+[Starting a battle] Everyone, prepare to intercept the enemy.
+[Skill activation] I'll use all my strength to defeat you in an instant!
+[Heavily damaged] You'll pay...for pushing me so far!
+[Retreat] I'll cover the rear, everyone else please fall back.
+[MVP] Victory in battle is merely the first step towards peace... Neither you nor I can relax.
+[Restoration] I'm sorry... I overestimated myself.
+[Attack] Don't be confused! Destroy all the enemies!
+[Halloween] If I told you I found a ghost, would you like to go see it with me? ...I know, right? Humans always say "they don't exist".
+[Christmas] Merry Christmas! It's a time for shopping, and giving presents...and going on dates. Are you free later?
+[New Year's Day] What kind of wish did you make for the new year? ...You want to know my wish? My wish is simple. I wish the desk in my dorm were perfectly square.
+[Valentine's day] I made chocolate for you. Each piece has the same size, shape and calorie content.
+[Tanabata] Tanabata is the only day Hikoboshi can meet Orihime, right... Perhaps their inability to meet frequently led to them cherishing each other more.
+[Defense] Adjust formation and delay them.

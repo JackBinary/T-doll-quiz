@@ -1,0 +1,31 @@
+[Acquisition] This is Hecate II, at your service. Please don't disturb my ritual preparations... It may concern the success or failure of the mission.
+[Introduction] This is Hecate II, at your service. Please don't disturb my ritual preparations... It may concern the success or failure of the mission.
+[Secretary] Sniping and dancing can be strangely similar at times. Both demand absolute precision, the utmost in elegance.. and the most important thing is that they can both soothe the restlessness in the depths of your heart.
+[Secretary (post OATH)] Commander, I've choreographed a dance just for you. This is the first time I've wanted to dance for someone important... I hope it will linger in your heart as a fond memory.
+[OATH] Commander, in the past I always thought  that listening to the voices of the dead by myself was my purpose.  You helped me understand that the essence of life was seeking the resonance between two people. That being the case, please guide me and together we shall write the song of our lives.
+[Greeting] Commander, you're right on time.
+[T-Doll Produced] Do we have a new friend? I hope she can understand this world which we share with the spirits.
+[Joining an echelon] I will lead this team with the utmost care.
+[Enhancement] It feels good, like I just completed a magnificent dance.
+[Dummy-linking] The more teammates there are... the more uneasy the spirits become.
+[Logistics (start)] I will soothe each and every wandering spirit.
+[Logistics (end)] What a moving finale.
+[Autobattle] Dancing alone how I best communicates with the spirits.
+[Title] Girls' Frontline
+[Starting a combat mission] Preparations complete. Let's begin.
+[Starting a battle] The spirits call.
+[Skill activation] Focus. Attend.
+[Heavily damaged] No... I haven't finished guiding them yet...
+[Retreat] The ritual... is not yet complete...
+[MVP] Rest in peace.
+[Restoration] No need to worry, this level of damage will not interfere with my dance steps.
+[Attack] Adjust your steps and find the best place.
+[Halloween] All Saint's Day is when ghosts are closest to us, and I conduct a special ritual for them on that day... If you are willing and quiet, you may watch from afar.
+[Christmas] Christmas has come, Commander. Would you like to watch The Dance of Death with me? Oh, there's no reason for it; I simply wanted to revisit that play... I was hoping that through it, you'd be able to understand the world from my eyes.
+[New Year's Day] Although the dead cannot celebrate a new year, the living will bear their wishes and choose differently as a result... Perhaps I should try to be more determined from this day forward.
+[Valentine's day] Is this chocolate for me? Thank you. While I believe that food only offers temporary comfort receiving your feelings is very calming for me.
+[Tanabata] Despite being separated by life and death, despite being unable to see each other... The Cowherd and the Weaver Girl still understood each other better than anyone else. I truly envy their bond.
+[Defense] Maintain the rhythm of your breathing.
+[Phrase] Please listen...
+[Tip] Precision and patience is the key to a successful ritual.
+[Loading] I am now performing the opening ritual. Please wait.

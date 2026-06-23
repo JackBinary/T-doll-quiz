@@ -1,0 +1,30 @@
+[Acquisition] CZ 100 reporting for duty. Huh? I'm here. Commander, can you see me?
+[Secretary] Compared to cursory glances, a person's gaze is much more sincere. Ah, only the Commander has that kind of burning gaze... I wish I could experience that kind of warmth... (Sniffles)
+[Secretary (post OATH)] Can I sit here with you for a bit, Commander? The world is so full of noise, but it's always surprisingly calm and quiet when I'm with you. I just can't not open up to you, Commander.
+[OATH] Don't they always take this kind of thing slow in manga? ...CZ75 always says that I could be missing some sort of empathy module, but you really want to experience this story, don't you? Here... You can borrow this and study up. I'll be waiting for you.
+[Greeting] Um... I have some new manga with me. Hang out with me when you have time, Commander. I can lend them all to you.
+[T-Doll Produced] A newbie? ...I haven't even got to know everyone.
+[Joining an echelon] Hello... Uh, sorry for the trouble...
+[Enhancement] This won't draw too much attention, I hope...
+[Dummy-linking] I don't really fancy getting to know myself either...
+[Logistics (start)] I have to spend time with other people? I'd better keep an open comm link with the Commander...
+[Logistics (end)] Such a big haul should make the Commander happy.
+[Autobattle] I think...I can just follow the handbook. I won't have to bother other people that way.
+[Title] Girls' Frontline!
+[Starting a combat mission] Here it goes! This time I'll make the Commander notice me!
+[Starting a battle] They don't know what's coming for them.
+[Skill activation] Please keep quiet.
+[Heavily damaged] It's over...for now.
+[Retreat] What a sight... Now I've experienced defeat.
+[MVP] This isn't making me particularly happy...
+[Restoration] Could you also...fix my problem of not being able to stand other people's gaze?
+[Attack] Time waits for no one! Advance decisively!
+[Halloween] If I had to make a wish, I'd wish I weren't so suited for this festival... But it can't be helped, I seem to be very gifted in this regard...
+[Christmas] I need to puzzle over what presents to give again. Why is there such a strange tradition...? Can't I just give you all the presents, Commander? I don't know the others that well. Uh, you don't have to pass them on.
+[New Year's Day] Things are so lively out there, it seems interesting. But...I probably don't belong in all that hustle and bustle. Still, if you want me to come along, Commander, we can get out there right now...
+[Valentine's day] Commander... If you have any requests, please just say it. No? Aren't you supposed to ask me to confess my feelings after receiving chocolate from me? Hm... Let's go somewhere quiet.
+[Tanabata] Huh? You need me even for this kind of thing? If there's no one else, let's go and read this manga about Hikoboshi and Orihime together by the lake.
+[Defense] Fall back and defend. We'll pay if we act rashly.
+[Phrase] You don't have to bother...
+[Tip] Commander, um... If you're done with the manga I lent you before, please give it back to me... Uh, I'm getting a little impatient.
+[Loading] If there's nothing else, Commander, I'll be reading for a bit longer.

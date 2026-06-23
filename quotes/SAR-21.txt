@@ -1,0 +1,23 @@
+[Acquisition] SAR-21 here, Commander. ...Where is your battle plan? Relying on instincts alone during an operation isn't a good thing, you know.
+[Introduction] (Same as above)
+[Secretary] What great weather we're having today, Commander. Even the bugs are excited!
+[Secretary (post OATH)] You don't have to accompany me every time to the arcade... I'd rather have you protect my precious things back at base!
+[OATH] Commander, are you really choosing me?... D-don't tease me! ...I do, Commander. I-it's only because it's the most reasonable response! My emotions must've took over me... if only for just a moment..
+[Greeting] You have come as promised, Commander.
+[T-Doll Produced] That's the new friend isn't it. Does she like bugs I wonder?
+[Joining an echelon] Although I'm still learning on how to cooperate during battle, I will do my best.
+[Enhancement] Doing this for a doll like me as well... Understood, Commander. Once again you've shown equality.
+[Dummy-linking] With a limited field of vision, even a big thing would be invisible right.
+[Logistics (start)] Don't worry, just leave this to me!
+[Logistics (end)] I'm home, Commander. I found a rare specimen this time.
+[Autobattle] This is not a big deal. I'll do it.
+[Title] Girls' Frontline!
+[Starting a combat mission] Target confirmed. Let's proceed according to plan.
+[Starting a battle] It's you, right?!
+[Skill activation] Let's turn you into a specimen!
+[Heavily damaged] D-don't mind it... It's alright...
+[Retreat] Is there something that overlooked by my strategic plan?
+[MVP] It's the victory of science and logic again this time.
+[Halloween] Which should I pick? I have two choices... Uwaa...! W-why is everyone wearing such a creepy costume?
+[Christmas] Somehow, this warm my heart. Merry Christmas, Commander! What do I want, you ask? Rather than flower or sweets, I want [...] and bugs.
+[Valentine's day] Commander, here! This is a chocolate for you. I don't what your taste is, but I tried to shape it into my favourite mecha. Please have a taste! Wait, don't treat it like a action figure!

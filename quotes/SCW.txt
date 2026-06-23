@@ -1,0 +1,25 @@
+[Acquisition] So you're my Commander? ...Hmm, I like the look of your eyes. I'll be in your care from now on.
+[Secretary] The atmosphere at this workplace is pretty nice. Is it all thanks to you, Commander?
+[Secretary (post OATH)] Commander, let's do rock-paper-scissors to decide who washes the dishes tonight~ You'll still help me with the dishes even if I lose, right? Hehe
+[OATH] Commander, have I... grown to be what you were hoping for? Such a beautiful scene, never before seen even from the skies... I'm the one who will fly alongside you, and that will forever stay true...
+[Greeting] Conditions are good today! What to do?
+[T-Doll Produced] A new friend, how exciting!
+[Joining an echelon] Me? Use it well.
+[Enhancement] Yep, this feels nice!
+[Dummy-linking] Another me has arrived, I'm counting on you!
+[Logistics (start)] I'm going to hit the wind a little.
+[Logistics (end)] That's everything. Take a look!
+[Autobattle] Let's go win this.
+[Title] Girls' Frontline!
+[Starting a combat mission] Hurry, before the wind dies down.
+[Starting a battle] Found some prey!
+[Skill activation] Aim!
+[Heavily damaged] Ehehe, now I've done it~
+[Retreat] The winds have shifted, let's pull out.
+[MVP] A nice victory to cheer you up with, no?
+[Restoration] Got it. Let me rest a little...
+[Halloween] I was bracing myself for something scary. Turns out, some of the costumes are kinda cute. I like them.
+[Christmas] Commander, If you behave like a good boy today, you might even receive a Christmas present from me.
+[New Year's Day] Commander, Happy New Year! Huh? Isn't this cola yours? Can I have it? Well then, don't mind if do.
+[Valentine's day] Commander, which chocolate do you like? You can eat whatever you like!
+[Tanabata] Will this really make my wish come true? We're all adults here, but we're doing kids' stuff.

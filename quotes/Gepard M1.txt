@@ -1,0 +1,46 @@
+[Acquisition] This is my new place of work? ...Alright, Gepard M1, reporting in.
+[Introduction] I'm Gepárd M1, it's ok if you address me just as Gepard... As the first gun to enter service in the entire Gepard series, my main task is destroying light armor targets, but due to the slightly heavy gun body and a relatively long reloading process, I'm under the "One shot, One kill" pressure... Ahh, such a heavy task, why was it given to a weakling like me.
+[Secretary] Commander, if the war is over, I will be on vacation forever, right?
+[Secretary (post OATH)] Commander, you're going overtime again on the next break? Don't worry, I'll accompany you.
+[OATH] Commander, it took my all to walk alone by myself... But when you're by my side, this burden... it doesn't feel scary anymore. From now on, will you support me, Commander?
+[Greeting] Commander, it's fine if I don't take overtime today, alright?
+[T-Doll Produced] New girl, there is only a little day off here.
+[Joining an echelon] To not disappoint everyone, I'll do my best.
+[Enhancement] Even if you become stronger, It won't solve every problem.
+[Dummy-linking] If the number of hand increased, won't the day off follow?
+[Logistics (end)] Aah, no good. I can't walk anymore~
+[Autobattle] Well, this should be easier than the usual battle.
+[Title] Girls' Frontline!
+[Starting a combat mission] For the sake of extending my day off, let's work a little harder.
+[Skill activation] Let's give you a vacation.
+[Retreat] Commander, I'm at my limit.
+[MVP] Aah, I did it! Can I take a little break?
+[Restoration] Don't use the quick repair, I want to rest a little more.
+[Halloween] It's a day off but why everyone is still so lively? They better take a break.
+[Christmas] How nice of Santa. Today is the only day when he needs to work... I'm envious.
+[New Year's Day] To think there is still work on a day off... don't you think it's pitiful?
+[Acquisition] It's been a while, Commander... No, I'm sorry, it was only a short while ago to me.
+[Secretary] Have you heard about the stretch of memories which I lost? There's no need to worry. Things being what they are now, I feel that what happened back then doesn't matter any more. I am here, at this very moment, and that is what I should care about.
+[Secretary (post OATH)] I used to think of Griffin as nothign more than a place to work. It was a good company, perhaps even the best company, but now it's taken on a different meaning to me... All of you are part of my family, and I value you far more than I do myself -- that said, please approve my vacation days when they come at a suitable time, Commander.
+[OATH] Commander, just moving onward by myself is tiring enough... But with you by my side... that weight doesn't seem so scary any more. Commander... Can I count on you to help carry the part that I can't bear by myself?
+[Greeting] Welcome back, Commander. I've been waiting for you.
+[T-Doll Produced] We have a newcomer, Commander. Don't keep her waiting for too long.
+[Joining an echelon] ...Have I become the senior one at some point?
+[Enhancement] My body is still evolving for the sake of Griffin.
+[Dummy-linking] Since I've got more manpower, does that mean my vacation days get multiplied too?
+[Logistics (start)] I knew it, here it comes... Alright then, I'll bring it all back, no matter how heavy it is.
+[Logistics (end)] (Pants) This is too much! ...I can't move any more...
+[Autobattle] At the very least, this will be easier than my usual ops...
+[Title] Girls' Frontline!
+[Starting a combat mission] Once your attitude changes... your work conditions become completely different.
+[Starting a battle] Time for an eternal vacation.
+[Skill activation] For your sake, don't make me fire a second shot.
+[Heavily damaged] I... I can still...
+[Retreat] ...I'll definitely have to take annual leave after this.
+[MVP] Do they regret their work environment?
+[Restoration] Could you not use those quick repair contracts? I want to rest a little more...
+[Attack] My body feels so light...
+[Defense] I'll protect my family.
+[Phrase] So heavy...
+[Tip] If I tell you, will you give me a vacation?
+[Loading] Let's work hard for the sake of a day without overtime.

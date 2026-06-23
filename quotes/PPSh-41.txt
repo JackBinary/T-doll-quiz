@@ -1,0 +1,50 @@
+[Acquisition] Please to meet you, Commander! Y'know.. I'm not that heavy at all!
+[Introduction] In order to meet combat needs, after a short experimental period, I, PPSh submachinegun rushed to the battlefield. "To simplify something often is a difficult task." My adaptability to every combat environment is all due to the unrelenting spirits of my designer and fellow soldiers.
+[Secretary] Eh? Ah.....you scared me.
+[Secretary (post OATH)] Commander how was my last performance? If you want, I will choose a more spectacular tune for you.
+[OATH] Commander, being able to sign this OATH with you is the most fulfilment I've ever felt in my life. From today on, please let me bring you all the glory and honour!
+[Greeting] Ah... Welcome back!
+[T-Doll Produced] Oh?... Umm... The production has just completed!
+[Joining an echelon] If you don't mind someone like me...
+[Enhancement] You didn't have to... but thank you!
+[Dummy-linking] I have so many comrades joining in!.. Хорошо!
+[Logistics (start)] This great mission? Please leave it to this PPSh-41!
+[Logistics (end)] I'm back from completing an important mission!
+[Autobattle] A fight protecting our beliefs.. leave it to me please!
+[Title] Girls' Frontline!
+[Starting a combat mission] I'm not scared, I'm not scared!
+[Starting a battle] Hiiii!
+[Skill activation] U-uraa!
+[Heavily damaged] I can't fight anymore...
+[Retreat] I-I've lost...
+[MVP] I'm glad~
+[Restoration] Uuh, can I get a little rest?
+[Halloween] Already Halloween...? Commander you have to show more care to PPS-43, well maybe a bit more care to yourself first...
+[New Year's Day] One year quickly passes, commander. I'll working hard this year for battle and diet.
+[Valentine's day] Shikikan, please take this. There's no hidden motive, really.
+[Tanabata] What should I wish for, diet or my little sister... this is troubling. Ufufu, would be nice if both come true.
+[Acquisition] We meet again, Commander! I'll bring glory to my comrades as a brand new me!
+[Secretary] What are your orders, Commander?
+[Secretary (post OATH)] Commander, how was my performance last time? If you like, I can dedicate a better song to you next time.
+[OATH] Commander, forging this oath with you is the happiest moment of my life. Let me bring you more glory from this day on!
+[Greeting] Товарищи, здравствуйте. Let's prepare for the day's work!
+[T-Doll Produced] A new comrade has joined us! Welcome!
+[Joining an echelon] Glory is at hand, let's join the battle!
+[Enhancement] Спасибо. i will cherish this!
+[Dummy-linking] Harasho, more comrades have joined us.
+[Logistics (start)] Allow this Papasha to handle this grand directive.
+[Logistics (end)] Papasha has completed this important mission.
+[Autobattle] Leave this battle to protect our convictions to me!
+[Title] Girls' Frontline!
+[Starting a combat mission] Order received! I'll fight to the end!
+[Starting a battle] За победу!
+[Skill activation] Ypa—!
+[Heavily damaged] Urgh! Never mind me, everyone, keep fighting!
+[Retreat] Let's retreat now for the sake of the future...
+[MVP] Thank you for your hard work, comrades! Our shining victory will last forever!
+[Restoration] Ngh... Could I rest for a bit?
+[Attack] Вперёд, товарищи!
+[Defense] Осторожно!
+[Phrase] I'm not heavy!
+[Tip] Still, I can only tell you so much...
+[Loading] Could, could you wait a little?

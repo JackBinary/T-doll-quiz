@@ -1,0 +1,28 @@
+[C-MS] Live2D
+[Acquisition] You have actually found me... Are you just doing this on a whim?  If you want to convince me, you have to be a good "subordinate" ok?
+[Introduction] (ditto)
+[Secretary] Commander, I'm thirsty, go buy me a drink.
+[Secretary (post OATH)] Instead of getting you to run errands for me, I feel happier if I let you stay by my side, don't just leave me ok...?
+[OATH] Commander, as my number 1 subordinate, you are quite determined. Everything you have done for me, I believe... No one can replace you in my heart. And I also believe, that I'm in a similar position to you, in your heart...
+[Greeting] Finally here huh~
+[T-Doll Produced] Who did you pick up this time?
+[Joining an echelon] Are these guys my subordinates?
+[Enhancement] That ain't bad!
+[Dummy-linking] I got some more subordinates!
+[Logistics (start)] It's about time to leave. Commander, look after the base for me.
+[Logistics (end)] I'm back! My shoulders are so stiff, come give me a massage.
+[Autobattle] Pay attention, this is my style of combat!
+[Title] Girls' Frontline!
+[Starting a combat mission] Fight, my minions!
+[Starting a battle] I'll give you a humiliating defeat!
+[Skill activation] It's my turn to shine!
+[Heavily damaged] Haa... I'm prepared to fight 'til the end...
+[Retreat] Everyone... you all... did your best...
+[MVP] Here's the victory I promised! Don't forget about my reward!
+[Restoration] Even if I'm off duty, I won't forget about the mission!
+[Acquisition] You have actually found me... Are you just doing this on a whim?  If you want to convince me, you have to be a good "subordinate" ok?
+[Secretary] Since I'm still growing, I won't waste even a piece of fish bone! *nom nom* Ughhh, it's a bit too hard...
+[Secretary (post OATH)] Commander, if you keep yourself busy all the time, you'll come down with something! I order you to bed!
+[OATH] Commander, as my number 1 subordinate, you are quite determined. Everything you have done for me, I believe... No one can replace you in my heart. And I also believe, that I'm in a similar position to you, in your heart...
+[Greeting] Finally here huh~
+[Title] Girls' Frontline!

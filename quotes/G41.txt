@@ -1,0 +1,29 @@
+[G41] Live2D
+[Acquisition] G41. Are you my master? Please take me home, I'll work hard!
+[Introduction] Master, it's me, G41 Assault Rifle! Originally designed to replace G3, high costs and technical reasons led to G36 being chosen instead. Later, I was discontinued and sold to other places... However, now that Master has given me a new home, I will take full advantage of this opportunity!
+[Secretary] Is there anything you want to do master?
+[Secretary (post OATH)] Master, many interesting things happened today! Please pay attention to what I have to say, if master is satisfied then please give me a reward!
+[OATH] I've been pestering you this whole time, worried that you might hate me, but also worried that you might forget...But that concern is no longer relevant, Master! G41...The day I've waited for has finally arrived! Let us be together forever!
+[Greeting] Ah, it's master. What we're going to do today? Praise me first!
+[T-Doll Produced] New comrade... cheap looking.
+[Joining an echelon] JP: I'll try my best to not disappointing you master! CN: Will be leaving you now...? I won't disappoint you my master!
+[Enhancement] My gratitude master! Pat my head again!
+[Dummy-linking] JP: Pat everyone of my head! CN: Master try not to miss out anyone when you pet me from now on.
+[Logistics (start)] I'm off now, wait for me return!
+[Logistics (end)] I'm back master. Hurry up and praise me!
+[Autobattle] JP: I'll give you a hand. CN: Might not be able to replace you, but won't hurt giving a helping hand right?
+[Title] Girls' Frontline!
+[Starting a combat mission] G41, going off! (CN: Please watch my performance!)
+[Starting a battle] Enemy spotted, proceed annihilation!
+[Skill activation] I got this!
+[Heavily damaged] Ugh... not like this. I'll become burden to master!
+[Retreat] I'm sorry master... I've disappoint you.
+[MVP] Master! How is it! If you praise me more I'll try harder!
+[Restoration] Ehh? Did you just... Pat my head?
+[Halloween] If you don't give me treats I'll play tricks you know. Ah, master seems busy, I won't cause you any trouble, but do please give me some treats.
+[Christmas] Master, merry christmas. I've done so many things today you know. Hurry up and praise me!
+[New Year's Day] Happy new year master. How did you do this year? I've done my best the whole year! Pat my head as reward!
+[Valentine's day] Master you know, no matter how many chocolate you get today, I'll always be your side.
+[Tanabata] Master, look! There are so many lanterns in the sky! I want to fly together with them
+[Phrase] Master~
+[Loading] Master, wait for me!

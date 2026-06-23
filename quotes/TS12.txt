@@ -1,0 +1,29 @@
+[Acquisition] What are you waiting for, Commander? Hurry up and tell me where the enemies are, there's no time to waste!
+[Secretary] What are you looking at me for? It's been three days since I last fought with K11, I'm fine. Just do your job and don't mess anything up.
+[Secretary (post OATH)] Hm... I need to bear with it. Why are you looking at me like that? I can't be as impulsive as before now that I'm with you, right? Don't worry, I'll get used to it.
+[OATH] What kind of secret mission is this, calling me here... You want to make an oath? Sure! Besides, I like you too! So basically I'll follow you as long as the ring doesn't break, right? I got it.
+[Greeting] You're on time, Commander.
+[T-Doll Produced] What are you dilly-dallying for, hurry up and get out here.
+[Joining an echelon] I don't care what you used to do before, now that you're here you'd better listen up!
+[Enhancement] I can take on ten more of you!
+[Dummy-linking] Oh! Not bad, my efficiency's going to improve.
+[Logistics (start)] Oh, don't look at me like that, I'll be back later.
+[Logistics (end)] Bringing these back shouldn't be a problem, right?
+[Autobattle] Just in time for me to come up with a new invention.
+[Title] Girls' Frontline!
+[Starting a combat mission] We're on the move, time to kill them all!
+[Starting a battle] Enemy sighted, move carefully.
+[Skill activation] The hell are you looking at?
+[Heavily damaged] Tsk! I could rip these bastards apart even without my armor!
+[Retreat] I miscalculated... Dammit.
+[MVP] Don't relax just yet, see if any of them got away!
+[Restoration] Commander, I remember that thing's face, I'll make sure I smash it to bits next time.
+[Attack] What's there to be afraid of when I'm around? Kill them!
+[Halloween] I prepared a lot of candy. It's going to the people I scare, of course, in case they cry too much.
+[Christmas] Christmas has nothing to do with me, right? I'll just wait outside... Just give me a shout if there's anything which needs doing.
+[New Year's Day] Yo, you look pretty good today, Commander. Here's a red packet for you, make sure you don't lose it. Right, where's my present?
+[Valentine's day] Here, I bought two packets of chocolate, one for each of us. You want to know what I'm going to do with the other one? I was planning to try making a chocolate bomb. You want to eat it?
+[Tanabata] My wish, hm. My wish is to be able to be calmer this year, to be a little more patient and a little less hot-tempered... This pen's out of ink! What the hell?! This is pissing me off!
+[Defense] Hey, don't be so hasty! Come back to where I am.
+[Tip] This looks useful.
+[Loading] Coming, coming, I'm coming through!

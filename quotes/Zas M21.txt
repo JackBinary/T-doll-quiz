@@ -1,0 +1,27 @@
+[Zas M21] Live2D
+[Acquisition] Commander... Yes, just as it says on the file, I am Zas M21. I hope you won't mind my performance.
+[Introduction] About myself? Developed as an improvement upon the original AK series by Zas Arms, I was born out of humanity's long history in war profiteering. There's nothing much more to say. Perhaps human beings rely upon the evolution of their weapons to prove their own evolution.
+[Secretary] You're really diligent, aren't you, Commander? I wouldn't mind even if you slacked off a bit.
+[Secretary (post OATH)] Commander, instead of thinking about the next date, why not think about how to make me happy today? Hehe...
+[OATH] ...Hey, what's the matter? This is the first time I've seen you like this.If you ask me, this is not a wise decision at all...However, perhaps my sense of reality has become a little crazy because of you...‎♥
+[Greeting] We have quite a few missions today, your orders?
+[T-Doll Produced] That's enough for a greeting, hurry up and train yourself.
+[Joining an echelon] Please consider the formation, especially where I'm placed.
+[Enhancement] How much stronger have I become, wanna try?
+[Dummy-linking] Observing closely... I'm... Actually pretty cute.
+[Logistics (start)] Commander, can't we fetch more resources in one go? Running logistics all the time is tiring.
+[Logistics (end)] That's that done... Don't say it isn't enough.
+[Autobattle] Those guys are back? Let's hurry up and sweep them.
+[Title] Girls' Frontline!
+[Starting a combat mission] Commander, don't you have to be on the front line? I'm jealous now...
+[Starting a battle] Don't worry, you will die with haste.
+[Skill activation] Which part of your body should I aim this at?
+[Heavily damaged] Ughh... Time to get serious.
+[Retreat] Things went a bit wrong...? Let's retreat for now then.
+[MVP] Fighting a battle without winning is just a waste of resources.
+[Restoration] It's common to sustain wounds from battle, just get used to it.
+[Halloween] What's the deal with all these people with costumes? Don't tell me... this candy is poisoned as well?
+[Christmas] How do you make me believe in Santa Claus? Let me shoot him... I'm kidding.
+[New Year's Day] There is no particular difference with yesterday. Though if you give it a 'New Year' label, it sure gives off a different atmosphere.
+[Valentine's day] Valentine's Day is just an event created by companies to boost their sales. Why does everyone knowingly get caught in their business trap?
+[Tanabata] Give me a break. This romantic atmosphere isn't my style at all.

@@ -1,0 +1,36 @@
+[Acquisition] You're my Commander, aren't you?
+[Secretary] My clothes. Are they cute?
+[Secretary (post OATH)] Am I too noisy, Commander? Am I bothering you? ...Okay, I'll be quiet as a mouse till you get off work!
+[OATH] Huhhhh? Whyyyyyy? Is it 'cause I'm smart? Cute? Unusual? Or is it because I have a long history? Or...or... Fine... I'll just keep guessing right here by your side.
+[Greeting] Hey hey, what are you doing?
+[T-Doll Produced] Production complete, please check it out.
+[Joining an echelon] It's my turn right, yeah!
+[Enhancement] Uuuh! It's here it's here  it's here  it's here  it's here  it's here  it's here  it's here  it's hereee!
+[Dummy-linking] I'm multiplied! I did it. Please assemble everyone!
+[Logistics (start)] Come on, come on, come on. Good grief, it's a little cold outside.
+[Logistics (end)] I come back safely!
+[Autobattle] This time please leave it to me! I'll do it wholeheartedly!
+[Title] Girls' Frontline!
+[Starting a combat mission] Alright! I'll do my best.
+[Starting a battle] It's the enemy, enemy.
+[Skill activation] Fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fireee!
+[Heavily damaged] It hurts hurts hurts hurts hurts, what have you done!
+[Retreat] Un... believable...
+[MVP] I'm sweating a lot. I'll take this off.
+[Restoration] Aah it breaks it breaks. Should I buy new clothes. But it would be waste, ahahaha...
+[Halloween] What should I dress as for the masquerade tonight? Heheheh. How about a naked apron with a pumpkin mask? Huh? What do you mean 'tasteless', Commander?
+[Christmas] I can't wait for Santa's present. 9mm Parabellum is nice.
+[New Year's Day] Happy new year. Please take care of me again this year.
+[Valentine's day] Today is a wonderful day. Here, commander! It's a heartfelt feeling from me!
+[Tanabata] Tanabata is all about yukata isn't it, Commander. But I don't know how to put one, just leave it as it is.
+[Acquisition] See, Commander, don't I look a lot more refreshing now?
+[Secretary] This new uniform is much more convenient than the old one. When it gets too hot, I can just whoosh—and take it off!
+[Secretary (post OATH)] Commander, it's a lot less grating on your ear when I say it slowly, like Com~mand~der, right? I've gotten smarter, haven't I?
+[OATH] Huhhhh? Whyyyyyy? Is it 'cause I'm smart? Cute? Unusual? Or is it because I have a long history? Or... or... Fine... I'll just keep guessing right here by your side.
+[Title] Girls' Frontline!
+[Halloween] What should I dress as for the masquerade tonight? Heheheh. How about a naked apron with a pumpkin mask? Huh? What do you mean 'tasteless', Commander?
+[Christmas] I can't wait for Santa's present. 9mm Parabellum is nice.
+[New Year's Day] Happy new year. Please take care of me again this year.
+[Valentine's day] Today is a wonderful day. Here, commander! It's a heartfelt feeling from me!
+[Tanabata] Tanabata is all about yukata isn't it, Commander. But I don't know how to put one, just leave it as it is.
+[Title] Girls' Frontline!

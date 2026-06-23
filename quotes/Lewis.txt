@@ -1,0 +1,25 @@
+[Acquisition] Awesome~ You seem like a nice person, Commander! I am Lewis, please take care of me!
+[Secretary] I've misplaced the notes I prepared for the meeting... N-No matter, I have them memorised anyways!
+[Secretary (post OATH)] No matter how tired and frustrated I am, the moment I see you, Commander, I just cheer right up! Hehe~
+[OATH] Commander, though you're the person I'm closest to, sometimes you seem like a stranger I don't understand at all... I don't want to be on the outside looking in anymore. I want to be the one in your heart. I... want to know everything and every part of you, Commander!
+[Greeting] Eh, Commander? Ah! I forgot about the mission!
+[T-Doll Produced] New comrade? I want to see her too!
+[Joining an echelon] What kind of face will everyone make~?
+[Enhancement] Hmm, I don't see any particular change anywhere...
+[Dummy-linking] Ehehe, as expected from me! She looks promising~
+[Logistics (start)] Leave the heavy stuffs to me!
+[Logistics (end)] I've brought back everything that looks usable.
+[Autobattle] It turned to be a good experience~
+[Title] Girls' Frontline!
+[Starting a combat mission] The echelon has arrived, commencing mission!
+[Starting a battle] I'll beat all the bad guy~!
+[Skill activation] It looks a little pitiful...
+[Heavily damaged] Ugh... I thought they're not the bad guys...
+[Retreat] This uneasiness... what does it mean?
+[MVP] We'll carve the history of our victory!
+[Restoration] A-a shot isn't necessary, right?
+[Halloween] C-commander! There are real ghosts showing up in the town! It's dangerous, don't go outside!
+[Christmas] Even a normal tree would give off a Christmas aura if you decorate it. Merry Christmas!
+[New Year's Day] Commander, I've taken care of unused stuffs. E-Eeh?! You still use it?! I'm sorry! I'll get it back right away!
+[Valentine's day] Rather than the taste, the packaging is the chocolate's soul. If the presentation is bad, the taste inside will follow.
+[Tanabata] I wonder how Orihime and Hikoboshi look like. Since they love each other like this, I'm sure they have a lovely looks.

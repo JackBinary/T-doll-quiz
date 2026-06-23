@@ -1,0 +1,31 @@
+[Acquisition] Hello, Commander! I am Owen, reporting for duty... May I take a photo of you? It will go on the very first page of my new notebook.
+[Introduction] Hello, Commander! I am Owen, reporting for duty... May I take a photo of you? It will go on the very first page of my new notebook.
+[Secretary] You want to see my portfolio? Th-that's fine, but... don't laugh, okay...? The last time I showed it to the others, they got so angry they gave me the cold shoulder for days...
+[Secretary (post OATH)] The kid called FARA83 shares the same hobby as me, but her kit is much more expensive than mine. Is that why everyone prefers having their photos taken by her? Because of her fancy equipment...? Her hands aren't shaky? What do you mean?
+[OATH] I'm always so obsessed with documenting everything that happens around me because I cherish these beautiful memories that I've experienced. And you have long since become the most precious part of my memories, Commander... I will always be by your side, documenting. Please look forward to it, Commander!
+[Greeting] Click... Hm, that's my record for today.
+[T-Doll Produced] A newcomer! Let me take their profile picture... No? Fine.
+[Joining an echelon] Stand in line! Now say... CHEESE!
+[Enhancement] ...Could you upgrade my lens while you're at it? Nothing too expensive!
+[Dummy-linking] I've still only got one camera...
+[Logistics (start)] I sure hope we'll pass by a mountain this time!
+[Logistics (end)] I'm back, and I took lots of pictures as well!
+[Autobattle] Leave it to me!
+[Title] Girls' Frontline
+[Starting a combat mission] Let's go! We're taking on the next peak!
+[Starting a battle] I don't want to waste my precious storage space on you...
+[Skill activation] Look at the camera!
+[Heavily damaged] Oh no... I didn't scratch my lens, did I...?
+[Retreat] I'll leave the documentation for next time...
+[MVP] I told you, I'm a pro!
+[Restoration] Please check my camera! At least save my SD card! ...They're okay? Phew, that's a relief.
+[Attack] Camera in position!
+[Halloween] That... that was exhausting... I'm completely out of storage space and battery... Heheh, but it's been be a great haul today! Everyone put so much effort into their costumes. Once I develop the photos, I'll post them on the noticeboard for everyone to admire their own creativity! Hm? It'll certainly add to the Halloween atmosphere? What do you mean?
+[Christmas] Coffee, tea, sport drinks... Don't stop me, Commander! I am NOT falling asleep tonight! This is an opportunity that only comes once a year. I've already missed it many times, so I'm not making the same mistake this year! I'm definitely going to take Santa Claus' picture this time!
+[New Year's Day] Which is the most important activity for the new year, hiking or taking photos...? It's so hard to choose between them, so I guess I'll just do both at the same time! Commander, why don't we go hiking together? We can spend the night in the mountains and watch the first sunrise of the year!
+[Valentine's day] Valentine's Day is the perfect occasion for pictures; I'm sure couples would also love to have their lovely memories preserved on this special day! But people wouldn't let me take any photos at my previous workplace... Griffin doesn't seem too strict about such things, so... would you mind taking a photo with me, Commander?
+[Tanabata] Qixi is also filled with moments worth documenting, but I suppose words are more important on this occasion! For example, the wishes that everyone writes down! I do hope they all come true some day... But a few of the Dolls insist on keeping their wishes secret. How mysterious.
+[Defense] Avoid harsh light!
+[Phrase] I'm a pro!
+[Tip] I might have messed up the exposure... Never mind, it's fine as long as the subject is visible!
+[Loading] Developing photos is quite a complicated process. Be patient.

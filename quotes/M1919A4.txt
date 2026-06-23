@@ -1,0 +1,54 @@
+[Acquisition] M1919A4 at your service! Let's mow'em down!
+[Secretary] I'm not a shorty!
+[Secretary (post OATH)] Have we stocked up enough food, Commander? ...I'm not trying to sneak a bite! You trust me so much, of course I would never do such a thing.
+[OATH] Ah, so you finally understand me, Commander. Today is the happiest day of my life! I don't have to box up my feelings anymore! I love you so much, Commander.
+[Greeting] Welcome back~ Let's play~
+[T-Doll Produced] Production complete~
+[Joining an echelon] Got it~
+[Enhancement] Aah, I'm getting stronger again.
+[Dummy-linking] Dummy linking! Give me more canned food~
+[Logistics (start)] Ahahaha! Let's drive to relax! Eeh, there's a mission?!
+[Logistics (end)] I'm back~ I brought back the canned food leftover.
+[Autobattle] You put your expectation on me? Then let's clear all the enemy!
+[Title] Girls' Frontline!
+[Starting a combat mission] Let's play a lot!
+[Starting a battle] Hey, it's the enemy!
+[Skill activation] Attack!
+[Heavily damaged] No way...
+[Retreat] Please spare me...
+[MVP] I'm the strongest!
+[Restoration] Bring me replenishment~ Also spam meat, don't forget it!
+[Halloween] You'll give me candies? I'm so happy! Commander, I love you so much!
+[Christmas] Christmas! I'm so excited! Let's eat lots of cake!
+[New Year's Day] It's new year, give me the new year gift!
+[Valentine's day] I don't... dislike you commander.
+[Tanabata] Summer breeze... it's strong and pleasant. Do I get excited because it's tanabata.
+[Acquisition] Want to do something waaaaay~ more exciting with me?
+[Secretary] Hanging around the base all the time is boring, Commander. Give me a mission!
+[Secretary (post OATH)] Commander, Commander! I'm so happy today! How happy am I? It's the kind of happy that makes you want to shout it from the roofs and spin around and jump for joy~ From now on, this ring will be my most precious treasure!
+[OATH] Commander, Commander! Did you choose me at last? Today's just the best, I won't trade it for any amount of ration cans, because I like you best!
+[Greeting] Commander, I'm here, I'm here!
+[T-Doll Produced] M1919A4 reporting!
+[Joining an echelon] Haha, time to hose down the place!
+[Enhancement] Woohoo, it's like I had a hundred cans of rations!
+[Dummy-linking] Now that I've added a dummy, I'll need more ration cans!
+[Logistics (start)] Hahaha, time to go out for a walk! Eh? We've got a mission too?
+[Logistics (end)] I'm back! As for how many ration cans I brought back... there's still some left.
+[Autobattle] Were you looking forward to my showing up? In that case, I'll take out all the enemies!
+[Title] Girls' Frontline!
+[Starting a combat mission] Hehe, watch this~
+[Starting a battle] I'll blow you to bits!
+[Skill activation] Got you~
+[Heavily damaged] Ack, that hurts!
+[Retreat] Let's get out of here first!
+[MVP] Hahaha, we won, we won!
+[Restoration] Alright, patch it up, then... Ah, don't forget my luncheon meat!
+[Attack] All-out attack!
+[Christmas] It's Christmas, I've waited for it for so long~ I'm going to have allll the cake~
+[New Year's Day] Happy New Year! Now give me my red packets!
+[Valentine's day] Actually, it's not like... I hate you... or anything, Commander.
+[Tanabata] The summer wind feels great. Am I feeling this excited because it's Tanabata?
+[Defense] Defend and stay alert!
+[Phrase] Let's play~
+[Tip] Hehe, I've got something good for you.
+[Loading] Let me rest for a bit.

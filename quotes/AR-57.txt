@@ -1,0 +1,30 @@
+[Acquisition] Tactical Doll AR57 reporting... Why are you standing so far away? It's not like I'm going to do anything to you...
+[Secretary] I know my face looks a little fierce... But I was rolled out of the factory this way, it's not like I decided it, right? Calling me a battle maniac just because of that is a little unfair, don't you think... You want me to stop pointing my gun around? No can do.
+[Secretary (post OATH)] Recently, I've been starting to think that it doesn't matter if people think I look fierce. I mean, everyone will come to know the real me eventually, so I kind of feel like I've been kind of a dork for worrying about it all this time... Now whose fault do you think it is, hm?
+[OATH] Sheesh, you really have a lot of courage to be saying this sort of thing to me... Don't you think I'm fierce? You do? Then why are you still... ...Well, yeah, you have a point. Being able to accept something like that is a sign of true acceptance, right? In that case, please take care of me, Commander.
+[Greeting] Ah, you're her. Excellent timing. I've got something for you to look at — which barrel's firepower best suits me?
+[T-Doll Produced] How can I make my face look more gentle...
+[Joining an echelon] I hope we'll be able to get along this time...
+[Enhancement] Oh, it's nothing... It's a hobby for me anyway.
+[Dummy-linking] Hmm... Yeah, I DO look kind of mean...
+[Logistics (start)] You really have guts to be making me to do this sort of thing... You'd better remember this.
+[Logistics (end)] I'm so tired... I want to hurry up and take a bath.
+[Autobattle] I'll make a move first, then.
+[Title] Girls' Frontline!
+[Starting a combat mission] I won't have to worry about my facial expressions when it comes to the enemy.
+[Starting a battle] You think I look fierce? Well, you're right this time.
+[Skill activation] Go on, call me fierce!
+[Heavily damaged] I would have worn my uniform if I'd known this would happen...
+[Retreat] I'll let you off for now...
+[MVP] That was easy... And now I've got another idea for a modification.
+[Restoration] You can fix clothes too? That's great!
+[Attack] Attack order, reposition!
+[Halloween] I hate Halloween. Why? It's because I prepare a pile of candy each time, but nobody comes to prank me. The brats go around me when they see me and in the end I have to eat them all by myself... This year? Of course I prepared candy too. Want to share some with me?
+[Christmas] What are you doing hiding in the office at Christmas? Don't you have something to do for the occasion? The dinner party? That's at night, right? Do people actually not have dates for Christmas? Honestly... Ah, come on. Let's go have some fun somewhere before the party. This is Christmas, you know.
+[New Year's Day] Happy New Year, Commander... Why are you dressed like this at the start of a new year? Honestly, I don't know what I'm going to do with you. Forget it, let's go. Today I'll take you to buy some fashionable clothing. You need a new look for the new year, after all.
+[Valentine's day] Handmade chocolate? Don't be silly, how could an amateur make something that tastes better than what you could buy in shops? If I had the energy to spare for that, I'd rather work several part-time jobs and then buy some high-class chocolate that caught my eye... Therefore, I'm going to beat you up if you say it tastes bad.
+[Tanabata] I don't have any wishes in particular that I'd like to make. If I had to answer, I'd say that I wish I could have a gentler look on my face... You wish my wish won't come true? Are you looking for a fight?
+[Defense] Defense order, fall back!
+[Phrase] Don't be stupid.
+[Tip] Tactics? Go ahead.
+[Loading] Commander, what is that you're wearing? Can't you change into something else?

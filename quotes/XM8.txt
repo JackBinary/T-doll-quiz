@@ -1,0 +1,51 @@
+[Acquisition] I heard there are a lot of interesting people here, but... you don't look very interesting, you wouldn't disappoint me would you?
+[Introduction] (ditto)
+[Secretary] Give up that stupid combat plan of yours, I don't want someone who sits in an office all day to tell me how to fight a war.
+[Secretary (post OATH)] Commander darling, you've been working very hard~❤ Hehe~ Did that send a shiver down your spine?
+[OATH] Commander... Didn't think you would ever trouble me like this. To be willing to match with some weird character like me, this is driving me to tears. But maybe only you... Only you can accept me, and accept everything I am.
+[Greeting] I thought you didn't want to play another round.
+[T-Doll Produced] A new chess piece has arrived.
+[Joining an echelon] Put me in a suitable position.
+[Enhancement] It looks like you understand my value after all.
+[Dummy-linking] It might be more interesting to play chess with them than with you, Commander.
+[Logistics (start)] Hehe, I'll think of you while I'm away.
+[Logistics (end)] Can you make use of these resources right away, Commander?
+[Autobattle] I will soon deliver a checkmate.
+[Title] Girls' Frontline!
+[Starting a combat mission] Commander, you must use your own pieces in the best possible way!
+[Starting a battle] I won't show any mercy.
+[Skill activation] Take this!
+[Heavily damaged] Waaahh! Commander, have you abandoned me!?
+[Retreat] Looks like I won't have another chance.
+[MVP] It’s the enemy's loss!
+[Restoration] Don’t worry too much, it's my own mistake this time.
+[Halloween] Here, your share of candies. Looks like nobody give you any, you just look pitiful.
+[Christmas] It looks like you can eat G36 home cooking today. Compared to your present, I greatly look forward to it.
+[New Year's Day] Will you set an unreasonable goal again this year? I will support you.
+[Valentine's day] I made chocolate in a shape that doesn't break down. I'll give you if you beat me in a game of chess.
+[Tanabata] May the Commander and I win. Why do you see it with such eyes? I thought I going to be serious!
+[Acquisition] There's no need to be afraid of the boring and ordinary. After all, with the most precise calculations, even a humble pawn can kill the king.
+[Secretary] If you can grasp the battlefield with no doubts in your mind, then your pieces will defend you without a second thought.
+[Secretary (post OATH)] I know I'm just a pawn, but that's why I'm so grateful to you for the chance to be promoted to a queen...
+[OATH] You really are good at giving people a hard time, Commander... I can't believe you're taking a picture with a person like me with a bad personality, I'm so moved that I'm going to cry. I guess only you can do it. Only you... can accept all of me.
+[Greeting] You're on time, Commander.
+[T-Doll Produced] Is our new friend a chessmaster too?
+[Joining an echelon] I see, so this is where I should be placed.
+[Enhancement] The key to promotion is to seek your limits.
+[Dummy-linking] I'm sure it'll be more fun to play chess against them than you, Commander~
+[Logistics (start)] Hehe, I'll think of you while I'm on the road~
+[Logistics (end)] Surely you'll use up this little bit of stuff right away, won't you, Commander?
+[Autobattle] It'll be checkmate for you soon!
+[Title] Girls' Frontline!
+[Starting a combat mission] Let's make full use of our pre-battle preparations.
+[Starting a battle] Nobody will spare a feeling for the prey.
+[Skill activation] This is not a price I am willing to play.
+[Heavily damaged] You're just protecting your rook, aren't you?
+[Retreat] A skilled chess player won't make pointless sacrifices.
+[MVP] This victory was as foreseen.
+[Restoration] This was my fault... You don't have to worry about it.
+[Attack] Prepare for simultaneous attack!
+[Defense] They will not pass!
+[Phrase] Foolishness~
+[Tip] Predict the enemy's next three moves before acting!
+[Loading] How about some speed chess, Commander?

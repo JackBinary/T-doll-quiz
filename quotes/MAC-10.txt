@@ -1,0 +1,25 @@
+[Acquisition] If it's the Commanders orders... then I, Ingram... would be delighted to serve.
+[Secretary] Commander, please pay attention to where you're walking. You almost stepped on an ant.
+[Secretary (post OATH)] Commander, when are we going out again? The journey's only fun when you're around, hehe...
+[OATH] Commander, you would accept even a person like me? Alright, I understand, Commander. Let us look for fun things to do together.
+[Greeting] Welcome back.
+[T-Doll Produced] Will this girl be the strong one?
+[Joining an echelon] I will fulfill your expectation.
+[Enhancement] Maintenance is important.
+[Dummy-linking] Really, it doubles the fun!
+[Logistics (start)] Understood, please leave it to me.
+[Logistics (end)] I'm back. Did anything happen while I was away?
+[Autobattle] Just don't forget to spare me a bit of fun too.
+[Title] Girls' Frontline!
+[Starting a combat mission] Weaklings are just meant to be wiped out.
+[Starting a battle] Enemy... It's fine to crush them, right?
+[Skill activation] Go, go!
+[Heavily damaged] Ugh... I'll return this suffering hundred-fold!
+[Retreat] Me as the weak one... unacceptable...
+[MVP] It's survival of the fittest, obviously.
+[Restoration] Heh, see what I'll do next.
+[Halloween] It's Halloween after all, how about doing encouragement test? Hahaha, Seems so exciting.
+[Christmas] Christmas is full of happiness. The turkey and cake is so delicious.
+[New Year's Day] We shall celebrate the new year, commander. Happy new year to you.
+[Valentine's day] Here, a Valentine chocolate for you. It contains no poison for sure, ufufufu.
+[Tanabata] Tanabata? Seems unrelated to me.

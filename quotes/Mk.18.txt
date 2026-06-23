@@ -1,0 +1,31 @@
+[Acquisition] This is Mk 18 reporting... You look like you'd make a good sailor. May I call you "Nautilus"?
+[Introduction] This is Mk 18 reporting... You look like you'd make a good sailor. May I call you "Nautilus"?
+[Secretary] To me, the White Zone is like the deep sea; they are both places forbidden to the outside world where vicious, abnormal creatures live.
+[Secretary (post OATH)] The world is the way it is now because the people of the past did not respect nature, but we can't just push all the blame onto the past and be done with it... From now on, Nautilus, let us work hard for our blue and pure ocean.
+[OATH] I once thought Griffin was just a workplace, but I didn't expect to meet someone of like mind such as you...  Yes, Nautilus. I love the ocean. I want to protect it and keep it from being polluted further... So there is probably nothing better than being your sailor and protecting this world with you.
+[Greeting] The tide's coming in...
+[T-Doll Produced] I shall pray for this newborn warrior... this is a very important step.
+[Joining an echelon] At this rate... we could set sail.
+[Enhancement] Please pay attention to your waterproofing... You mustn't make a single mistake...
+[Dummy-linking] This feels strange.
+[Logistics (start)] Our cruise begins... We're not going by water? Alright then.
+[Logistics (end)] The dredging is complete. Time to take in our nets.
+[Autobattle] Leave it to me.
+[Title] Girls' Frontline
+[Starting a combat mission] A storm is coming.
+[Starting a battle] I hate the feeling of taking life... Fortunately, you don't count.
+[Skill activation] Follow the tide.
+[Heavily damaged] I too... am part of the pollution...
+[Retreat] Time to dive...
+[MVP] If only everything else were as simple as this.
+[Restoration] My waterproof coating... I need to fix my waterproof coating...
+[Attack] Blades or bullets... I'll choose as the situation demands.
+[Halloween] So you want me to dress up as something scary for Halloween? Can I wear a white sheet covered in pictures of mutated sea creatures? No? Then I guess not.
+[Christmas] So this is Christmas... Now that you mention it, there is a divinity who rules over the ocean in the far east. I'd rather celebrate her birth instead... Hm? You want to know her name? It's Ma... Ma-something?
+[New Year's Day] ...Nautilus? Forgive me, I was praying and didn't notice you... You ask why I do this? It must seem strange, does it not? I am a Doll made with the latest technology, yet I am superstitious. I learned that from the fishermen... I don't believe in gods or the like, but I believe that nature is alive, and as such, my prayers are not in vain.
+[Valentine's day] Today is Valentine's Day, I believe. I'm sorry. I have neither the inclination nor skills to make chocolate, so please take this instead, Nautilus... I made this with a real nautilus shell, and the string is the same kind used on my necklace.
+[Tanabata] You want me to make a wish? ...Then I wish that this polluted world will be returned to its original form. Can you help me make it come true? Probably not, Nautilus. After all, you can only rely on yourself to make a wish come true.
+[Defense] Follow the waves.
+[Phrase] Now praying...
+[Tip] I call the things I like by nicknames... Most of them are sea creatures. Naturally, I like the nautilus very much.
+[Loading] Let's listen to the sound of the waves.

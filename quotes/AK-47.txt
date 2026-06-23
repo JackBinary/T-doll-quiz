@@ -1,0 +1,26 @@
+[Acquisition] Hahaha, my turn at last, huh? I'll be sure to show you what I can do on the world stage!
+[Introduction] I don't need that much of an introduction, right? ...Yes, I'm AK-47, the first Soviet assault rifle, and the star weapon that swept the world. Designed in reference to famous weapons such as StG44, it's also simple and durable, making it adaptable to many environments. Thanks to my designers, I've set foot in most of the world's battlefields.
+[Secretary] What are you doing all of a sudden?!
+[Secretary (post OATH)] Ah... yes, I drank a little bit. But it's okay since you're here, because you can carry me back later!
+[OATH] Oh? Boss, you're not picking someone else for this kind of thing? Well, I suppose we're similar in some ways. How about it then, you and me?
+[Greeting] Hey! Where'd you run off to?
+[T-Doll Produced] Production complete. Let's go see it right away.
+[Joining an echelon] Guess it's my turn.
+[Enhancement] Hooyah~ I've gotten stronger!
+[Dummy-linking] Boss, to ensure that the troops keep on growing, I'll keep on fighting!
+[Logistics (start)] Let's go! Time to make some cash.
+[Logistics (end)] Yo, we're back! It was quite the harvest.
+[Autobattle] Hmm! Rest easy everyone, because I'll be there.
+[Title] Girls' Frontline!
+[Starting a combat mission] Alright! I'll shoot up a beehive in there!
+[Starting a battle] It's the enemy. Let's get 'em!
+[Skill activation] Preparing to sweep, don't leave a single one!
+[Heavily damaged] That hurts...but that still isn't enough.
+[Retreat] Ughhh, shit...I-I'll remember...this...
+[MVP] Way too easy. I went totally crazy out there!
+[Restoration] Sometimes getting some sleep ain't half bad.
+[Halloween] HAHA~ A festival for scaring whatever people you want? What costume should I wear? Eh? A bear? That's too much.
+[Christmas] Ohhh, Christmas huh? But isn't it missing something? Of course! A reindeer! I'll go buy one later somehow.
+[New Year's Day] Ohhh, it's already the New Year huh? Let's go wild this year! Now I feel like having a little to drink.
+[Valentine's day] Valentine's huh...I'll tag along with you Boss if you're free. Wanna go for a drink?
+[Tanabata] So this is the rumored Tanabata...Orihime and Hikoboshi, was it? They're so clumsy. If it were up to me, I'd just get whatever I want.

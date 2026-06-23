@@ -1,0 +1,50 @@
+[Acquisition] Are you the Commander? I often hear about you, I will be in your care from now.
+[Introduction] Other than the nation's own army, Sten Mk2 was also supplied to various resistance forces during the war. Widely distributed and used due to my high firepower, low cost and easily manufacturing process. Even though many complained that my design is ugly and my name sounds weird, but I did contribute a lot... No! Don't use me as a grenade!
+[Secretary] I'm on a diet... I don't really want to eat anything.
+[Secretary (post OATH)] Commander, you don't have to go to the canteen after today's shift, I prepared some snacks... Hehe, I made them just for you.
+[OATH] My affections... They've reached you? Even though I don't have a lot of likeable features, but this day just suddenly arrived. I must be really lucky, right? Commander?
+[Greeting] We've met again.
+[T-Doll Produced] Looks like we got a new companion.
+[Joining an echelon] Ok~ Sten Mark 2, ready for action!
+[Enhancement] Alrighty!
+[Dummy-linking] Squad expanded, just how I like it.
+[Logistics (start)] Mark 2, move out.
+[Logistics (end)] Safely returned, good work everyone.
+[Autobattle] Though I might not be very reliable, but I will still contribute.
+[Title] Girls' Frontline!
+[Starting a combat mission] Lets go!
+[Starting a battle] Do not panic, do not panic!
+[Skill activation] Fire! Fire!
+[Heavily damaged] Ouch! That really hurts.
+[Retreat] I will win next time.
+[MVP] I did it!
+[Restoration] Uuuuu, what a shameful display. Commander, I'm really sorry.
+[Halloween] I want to have lots of fun today.
+[Christmas] Merry~ Christmas~! Just as I thought, tensions are always high on Christmas.
+[New Year's Day] Commander, thanks again for this year! Let's have a great year!
+[Valentine's day] I wont give you any "honmei choco" this time!~ Happy Valentines Day, Commander.
+[Tanabata] You seem to be all by yourself, Commander. Would you like to go to the Tanabata Festival together?
+[Acquisition] Commander, am I...at full capacity now? Please continue to watch over me!
+[Introduction] Other than the nation's own army, Sten Mk2 was also supplied to various resistance forces during the war. Widely distributed and used due to my high firepower, low cost and easily manufacturing process. Even though many complained that my design is ugly and my name sounds weird, but I did contribute a lot... No! Don't use me as a grenade!
+[Secretary] Ah! Commander, what should I do?
+[Secretary (post OATH)] Commander, you don't have to go to the canteen after today's shift, I prepared some snacks... Hehe, I made them just for you.
+[OATH] My affections... They've reached you? Even though I don't have a lot of likable features, but this day just suddenly arrived. I must be really lucky, right? Commander?
+[Greeting] Hello Commander! I will be your assistant today! Nice to meet you!
+[T-Doll Produced] New friends? Welcome!
+[Joining an echelon] Alright, I'll do my best, Commander!
+[Enhancement] Thank you! I'll live up to your expectations
+[Dummy-linking] Squad expanded, just how I like it.
+[Logistics (start)] Mark 2, move out.
+[Logistics (end)] Safely returned, good work everyone.
+[Autobattle] Though I might not be very reliable, but I will still contribute.
+[Title] Girls' Frontline!
+[Starting a combat mission] Beginning operation. Heading out!
+[Starting a battle] Eh? They're here?
+[Skill activation] Leave it to me, everyone!
+[Heavily damaged] Uwaaah~ I'm fine. I-I can still fight!
+[Retreat] I hope everyone hated that. No! You should at least not hate yourself!
+[MVP] Commander, did you see?! I...I...I WON!
+[Restoration] Uuuuu, what a shameful display. Commander, I'm really sorry.
+[Halloween] Take a look, Commander! This is tonight's jack o'lantern! I made it myself. Isn't it cute?
+[Valentine's day] I made some chocolates myself but I'm not sure about the taste. Would you like to try them, Commander?
+[Tanabata] Commander, what did you wish for this year? A-ah it's nothing! Just a little curious, that's all.

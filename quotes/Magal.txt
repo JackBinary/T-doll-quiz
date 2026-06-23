@@ -1,0 +1,25 @@
+[Acquisition] Hello, Commander. Your heartbeat sounds quite smooth, very good.
+[Secretary] I hear someone singing at the training ground. What? Can the Commander not hear it? Sorry, I overestimated human hearing range.
+[Secretary (post OATH)] Commander, I can hear your heartbeat. There's no need to hug me from behind, I mean, hugging from the front isn't bad, right?
+[OATH] I specifically picked somewhere that's free from noise. So, what is it, Commander? ...So it's like that? Telling me about this world of sounds and feelings, how could I refuse? Then, we'll experience this world together in the future. Thank you.
+[Greeting] Welcome home, thanks for your hard work.
+[T-Doll Produced] I hope a quiet comrade arrives.
+[Joining an echelon] I can hear it, the grinding of heavy parts.
+[Enhancement] Readings are good. No further enhancements necessary.
+[Dummy-linking] Perhaps I'll be able to get my own private room now? ...No?
+[Logistics (start)] We'll bring back whatever you're looking for.
+[Logistics (end)] I'm exhausted...mind if I sleep right there?
+[Autobattle] The friction between the wind and the instruments...
+[Title] Girls' Frontline!
+[Starting a combat mission] Don't worry. We'll succeed if we follow instructions.
+[Starting a battle] I don't want to hear your voices again.
+[Skill activation] Sleep quietly in the distance.
+[Heavily damaged] It's here...the cold feeling of being tattered.
+[Retreat] No more...it's too loud!
+[MVP] It'll be quieter for a while right? Just a short while.
+[Restoration] Yes, this is it. What a pleasant feeling.
+[Halloween] Let us witness the resurrection of ghosts. Normal dolls trying to scare people with shouts will be crushed.
+[Christmas] ♪ Silent night~... Holy night~...♪ What a lovely song. May God gift you with a sound sleep tonight. Merry Christmas.
+[New Year's Day] Happy New Year, Commander. Um...would it be alright if I hid in your room for a while? All of this explosive noise is breaking my head.
+[Valentine's day] Here, your Valentine's Day present. I like chocolate with a smooth texture. If you like it as well...huh? Chocolate isn't something you touch.
+[Tanabata] Hush, I can hear the voices of Orihime and Hikoboshi.

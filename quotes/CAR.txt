@@ -1,0 +1,5 @@
+[Acquisition] C-Commander... Hello, I'm CAR... Y-you'd like to welcome me? No, no thanks. I'm just glad this place is safe...
+[Secretary] Commander, is the base completely secure...? If there's a fire...I probably won't be of much use, but I'll help!
+[Secretary (post OATH)] I hope you'll remember my name...even if you're the only one who does.
+[OATH] I can have your blessings...even though I'm just a nameless pawn? Thank you very much. In return, I'm happy to keep serving under you... Commander.
+[Title] Girls' Frontline!

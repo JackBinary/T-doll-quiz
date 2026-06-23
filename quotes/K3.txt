@@ -1,0 +1,25 @@
+[Acquisition] K3 has arrived at her destination! Commander, please decide on the next training menu!
+[Secretary] I used to be a sports training partner for professional athletes, but I always felt a little jealous of them every time they would leave to go participate in an event. But K3 is very happy now! Because, now I have a Commander who is there to train me!
+[Secretary (post OATH)] Can you entrust today's training menu to me? I don't think of giving me some weird training idea, don't worry! Training together with you like this, is the kind of training that I love the most.
+[OATH] Huh? Is this a reward for K3? Really? I thought that earning a medal in a tournament and the Commander's recognition was just a fleeting dream...but I guess that wasn't the case for today... I can finally have what I've wanted after so long... This pride that you have given me will always be in my heart! Even if...the data of my mental model gets deleted one day, I will never forget today!
+[Greeting] Good morning~! Morning warm-ups are now done. Time to get out for some training!
+[T-Doll Produced] I like girls who like the same exercise!
+[Joining an echelon] Is it really okay to leave it to K3? I will never disappoint you, Commander!
+[Enhancement] I'm full of power! I feel like running a 20km riot!
+[Dummy-linking] Commander, I have an idea! How about building a basketball team of just K3 alone?
+[Logistics (start)] Today is logistics training? Okay! Let me show you how it's done perfectly!
+[Logistics (end)] I'm home! Huh, I'm early? Oh well, must've been from breakfast.
+[Autobattle] The Commander isn't here for the training session today...well, I'll try to do my best without stopping!
+[Title] Girls' Frontline!
+[Starting a combat mission] Beloved ground, here I come!
+[Starting a battle] Remember the power of K3!
+[Skill activation] Time to start warming up!
+[Heavily damaged] Hah...Haaah...I might be hitting my limit...let me rest a little...
+[Retreat] I haven't given up! Next time, we will be victorious!
+[MVP] Like I said, this victory belongs to K3!
+[Restoration] I'm fine! I'll be able to return to training soon!
+[Halloween] Commander, please help! Earlier, a white ghost suddenly appeared, and I was surprised so my hand flew out...that ghost is still lying down over there...kuuu...K3...you went and did it again...
+[Christmas] Commander, Merry Christmas! We don't have to train together today. Instead, why not go for a walk?
+[New Year's Day] Happy New Year! It's the first day of the new year, and I have to make a new training regimen. So, let's go run a marathon!
+[Valentine's day] It's Valentine's Day, but why is everyone sending chocolate to each other?
+[Tanabata] Recently, (Howa) Type 64 taught me about the legend of Altair and Vega! What a beautiful love story! But, if K3 was Vega, I'll definitely work hard, since I'm going non-stop with the Commander!

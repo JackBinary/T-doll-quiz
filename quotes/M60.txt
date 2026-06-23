@@ -1,0 +1,26 @@
+[Acquisition] I'm M60, your orders please!
+[Introduction] After the war, general purpose MG technology received rapid developments, and I am simply part of that. I'm still very active on the battlefield many years later, emm? Movies? Had the chance to appear in a couple of them, but we don't get that those kinds of user often.
+[Secretary] The power of a weapon lies not only in its performance, but also in the decisions of its user.
+[Secretary (post OATH)] Don't think that you can slack off just because you improved your relationships with me. You just had a break didn't you? Don't tell me you forgot already.
+[OATH] This... For real? Commander? This kind of operation, can be done without any specialized training? Emmm... Every now and then I do hope that time passes slower, with less focus on the efficiency.
+[Greeting] Give the orders already!
+[T-Doll Produced] Think we got a new weapon finished construction.
+[Joining an echelon] Understood!
+[Enhancement] Hmm~!
+[Dummy-linking] Expansion complete, now get ready for exercises~.
+[Logistics (start)] M60, moving out.
+[Logistics (end)] I'm back! Got a lot of reward for it this time as well.
+[Autobattle] I won't lose to anyone in these support missions!
+[Title] Girls' Frontline!
+[Starting a combat mission] Move out~!
+[Starting a battle] Enemies!
+[Skill activation] Prepare to fire, hurry!
+[Heavily damaged] Just a scratch...
+[Retreat] Mission failed... Emm... retreating now.
+[MVP] Mission accomplished, time to return.
+[Restoration] Emm~ This... This is part of the training.
+[Halloween] Halloween...? Well not that I dislike candies...
+[Christmas] Commander, Merry Christmas!
+[New Year's Day] New year cleaning huh... I'm not good at that, cut me some slack.
+[Valentine's day] Please take this chocolate.
+[Tanabata] There's so many bothersome events. I have no interest in tanabata.

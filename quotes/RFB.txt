@@ -1,0 +1,29 @@
+[Acquisition] Hello! I'm RFB! Let us begin the game full of challenges right now!
+[Introduction] I am RFB Assault Rifle developed by Kel-Tec, Kel-Tec's bullpup rifle designs phrase was significantly long. Before the name RFB I was named SRT-8. I have a very special forward shell ejection and trigger mechanism, changing the usual low-grade product imaging of Kel-Tec on the market, after all special missions are only meant for pro players!
+[Secretary] Ah! A new game! I'm already prepared!
+[Secretary (post OATH)] Commander are the work done? The next dungeon will be closed soon, get online and meet me!
+[OATH] Commander you finally progressed this far... Hehe, don't think you've beaten the level just yet, the real game is just beginning♪ I'll tell you now, about the new game-mode...
+[Greeting] Oh, Commander! Hello~
+[T-Doll Produced] New Challenger!
+[Joining an echelon] Player RFB, login!
+[Enhancement] Power up!
+[Dummy-linking] Life up, get!
+[Logistics (start)] System check complete! Alright lets go!
+[Logistics (end)] How much would that be~?
+[Autobattle] It's just easy mode, let me handle it!
+[Title] Girls' Frontline!
+[Starting a combat mission] Game start!
+[Starting a battle] Here comes the exp!
+[Skill activation] Who to aim at~?
+[Heavily damaged] Fine, It'd be boring otherwise!
+[Retreat] This isn't game over, is it...?
+[MVP] Think you can beat my record?
+[Restoration] Might have over played it~
+[Attack] Go! Go!
+[Halloween] I'll give candy to those who lost the game today. I'll do it effortlessly!
+[Christmas] Christmas sale is on! Commander buy me a present already!
+[New Year's Day] Happy New Year! Commander, why don't you play in this year's Game of the Year Invitational?
+[Valentine's day] Today is the day the Commander receives. Please accept my chocolate. Well? Has your sensitivity increased?
+[Tanabata] Look into my eyes, Commander. Can you see the stars?
+[Phrase] Continue~
+[Loading] Loading now~

@@ -1,0 +1,26 @@
+[Acquisition] So you are the Commander? My name is 9A-91. Make sure you remember it well, okay?
+[Introduction] 9A91, being one of the smallest assault rifles in the world, suitable for all form of high speed assault combat. Being the only one completed from a whole series of prototypes, I will protect you till the very end, commander, for everyone's sake.
+[Secretary] I wonder what AS Val and 74 are doing?
+[Secretary (post OATH)] Commander, with so many comrades, how do you remember everyone? I'll learn from your example, and deeply cherish every friend...
+[OATH] Commander, this isn't a dream is it? It's just that, I only wanted more of your attention... From today on, you'll never leave my side, right? It's a promise.
+[Greeting] Хорошо (Alright!) I, 9A-91, shall grant any of the Commander's wishes!
+[T-Doll Produced] A new product, huh? It's a bit nostalgic.
+[Joining an echelon] I wonder if everyone will accept me...
+[Enhancement] Спасибо! (Thanks!) This will make up for my shortcomings.
+[Dummy-linking] We got together again.
+[Logistics (start)] до свидания (Goodbye) Commander, take care.
+[Logistics (end)] I'm back, Commander. What's the next mission?
+[Autobattle] It's alright, AS-VAL, because I'm coming too!
+[Title] Girls' Frontline!
+[Starting a combat mission] 9A-91, heading out! Please, let my achievements reach the Commander's eyes!
+[Starting a battle] Begin operations!
+[Skill activation] Please watch me!
+[Heavily damaged] No! Why me again!?
+[Retreat] I don't want to leave the battlefield like this...
+[MVP] Commander, please look! This victory is for you! Please, watch me more from here on!
+[Restoration] Commander, could you stay by me a bit longer?
+[Halloween] Trick or Treat!~ Actually, tricks will be played even when treated , Commander~ Could I stay by your side for tonight?
+[Christmas] С Рождеством! (Merry Christmas!) I'm helping AS-VAL finding something she lost. Have you seen her teddy bear?
+[New Year's Day] Commander, Happy New Year! Please be by my side next year, too.
+[Valentine's day] Um, Commander, please take this! How is it, receiving a Valentines chocolate? Surely I'm a special person to you, right?
+[Tanabata] A wish? Well of course it'd be of Commander to...heh? N-nevermind! Nevermind!

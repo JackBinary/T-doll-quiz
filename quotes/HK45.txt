@@ -1,0 +1,25 @@
+[Acquisition] Pleased to meet you, Commander. It's me, the cute and charming HK45! Now, may I ask you for a dance?
+[Secretary] Are you bored, Commander? Let's dance!
+[Secretary (post OATH)] Commander, do you still remember the dance steps I taught you the other time? Please don't step on my foot this time!
+[OATH] Ah, do you finally want to ask me for a dance, Commander? Sure, I will dance with you, because you're such a cute and charming dance partner! From now on, let's dance the steps of our happiness together!
+[Greeting] Wow! I've been waiting for you! I'll start work!
+[T-Doll Produced] New friends? Let's dance a welcome dance!
+[Joining an echelon] Would you like to see my dance?
+[Enhancement] I feel like I want to dance!
+[Dummy-linking] The number of dance partners has increased!
+[Logistics (start)] Watch out!
+[Logistics (end)] Everyone, thanks for your hard work!
+[Autobattle] Let's show the results of the rehearsal!
+[Title] Girls' Frontline!
+[Starting a combat mission] Let's go up to the stage!
+[Starting a battle] Let's go brilliantly!
+[Skill activation] Everyone! Follow my steps!
+[Heavily damaged] Wow, don't bully me, just because I'm cute!
+[Retreat] The step was completely disturbed. I will practice  and start again.
+[MVP] La-la-la~ A victorious step!
+[Restoration] Just twist your feet and heal!
+[Halloween] I fell over so many times... but don't you think I'm cuter this way?
+[Christmas] Commander, Merry Christmas! Please make my dance more beautiful than snow falling from the sky!
+[New Year's Day] Commander, is the sparkling wine ready? Let's propose a toast  sooner!
+[Valentine's day] Commander, please eat my special chocolate! it's tasty enough to start dancing!
+[Tanabata] It is a bustling town today. Would you like to walk together?

@@ -1,0 +1,26 @@
+[Acquisition] M1 Garand, Commander, please let me accompany you from now on.
+[Introduction] I, M1 Garand, am a semi-auto weapon designed to replace Miss Springfield in WWII and put into mass production when my design finalized after 15 years of development. I have always been one of the topnotch rifles in war times because of advantages such as accurate aiming, reliability and durability. That is, until Miss M14 saw service.
+[Secretary] Commander really is quite greedy, hmhm...
+[Secretary (post OATH)] Sir, tell me if you need anything. I’m always ready. It is not right without me by your side.
+[OATH] I'm simply too tired today, Commander. I really did put in all I've got, but somehow I just wasn't very efficient...I'm so sorry! Hmm? What did you say...Me? ...Why?
+[Greeting] Thank you for your hard work.
+[T-Doll Produced] Production is over. I wonder what kind of girl will come?
+[Joining an echelon] Thank you very much, Commander.
+[Enhancement] I've gotten stronger. Thank you very much.
+[Dummy-linking] Reinforcement complete. All members have passed inspection!
+[Logistics (start)] It's time to depart. Take care of yourself, Commander.
+[Logistics (end)] The unit has returned. No problems to report.
+[Autobattle] Sorry to keep you waiting, everyone! Did we make it in time?
+[Title] Girls' Frontline!
+[Starting a combat mission] Don't miss my brave figure.
+[Starting a battle] I've encountered the enemy's main force.
+[Skill activation] Ready--, Fire!
+[Heavily damaged] Ugh...! That hurts a little.
+[Retreat] Commander...did you study tactics properly?
+[MVP] We may have won, but we shouldn't let our guard down.
+[Restoration] My sincerest apologies, Commander. I ended up failing after all.
+[Halloween] Though I'm not a child anymore, I will partake in some sweets.
+[Christmas] Is it Christmas already? Chicken, Christmas cake, I'm looking forward to it!
+[New Year's Day] It's the New Year, Commander. Happy New Year!
+[Valentine's day] Here, I made you some chocolates. Please have some.
+[Tanabata] The Tanabata Festival looks like fun. Wish I could go.

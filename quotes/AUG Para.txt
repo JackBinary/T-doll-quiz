@@ -1,0 +1,30 @@
+[Acquisition] I'm AUG Para, and I'll be working at Griffin from today onwards! I'll be in your care, Senior. Oh yes, can we bring pets to work?
+[Secretary] I didn't think I'd be able to work at a wonderful place like Griffin. I still feel a little tense though, Senior. Could you teach me what to do?
+[Secretary (post OATH)] Before getting this invitation, I thought I'd find a normal job for myself, and then end up getting pushed to marry at a certain age to anyone who fit the requirements... But this life now is what I really want. And I've also found the person I truly love.
+[OATH] This ring... Commander, does it mean what I think it does? Although I'd like to just say yes and accept it, I had a fever several years ago and when I woke up I forgot everything about the past. Will you accept someone with an obscure background like me? In that case... Please put it on my finger, I'm so happy to receive it!
+[Greeting] You're just in time, congratulations on keeping your no-absences prize.
+[T-Doll Produced] All Dolls should be cherished, no matter who they are.
+[Joining an echelon] How should I command Dolls in battle...
+[Enhancement] Look, Senior, haven't I become prettier?
+[Dummy-linking] Eh..ehhhh? Is this Griffin magic at work?
+[Logistics (start)] Is this a work dispatch, Senior? Alright then, I'm going.
+[Logistics (end)] I'm back! Any cute angels want to give me a hug?
+[Autobattle] Don't worry, I'll do my best to learn from your leadership, Senior.
+[Title] Girls' Frontline!
+[Starting a combat mission] Let's go, Griffin's Angels!
+[Starting a battle] Do we have to blast them all to bits? I think there might be a better way?
+[Skill activation] Take aim...fire!
+[Heavily damaged] Ah, sorry, I got careless and ended up this way...
+[Retreat] Don't push yourself too hard... Let's reorganize ourselves and give it another go.
+[MVP] It was close, but we won, Senior!
+[Restoration] So I'm going to be treated here too? This place really does treat everyone equally.
+[Attack] This is a good chance for us, let's go!
+[Halloween] Hah! Scared you, didn't I, Senior? On occasions like this, we ought to scare each other to have fun. You can think about how to scare me too.
+[Christmas] I wonder what kind of present Santa will give me? Ah, you're here, Senior. Who usually plays Santa in Griffin? Can I be part of it?
+[New Year's Day] Happy New Year, Senior! People go home to visit their families at times like this, right? Want me to go with you?
+[Valentine's day] What are you waiting for? Wait, seriously, Senior? Am I supposed to give you a gift on a day like this? Alright then, it can't be helped.
+[Tanabata] Have you thought of what kind of wish you're going to make, Senior? I won't be going. I'm happy enough just watching the Dolls gather and have fun.
+[Defense] Ah, look out!
+[Phrase] This is great!
+[Tip] Senior, this is the employee manual!
+[Loading] Wait a minute! I'll open up once I pin up my hair!

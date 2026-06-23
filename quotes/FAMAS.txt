@@ -1,0 +1,44 @@
+[Acquisition] I'm prepared to fight enemies ten times my number. Are you ready, Commander?
+[Introduction] The name FAMAS is an abbreviation for my role and origin. Designed to replace my country's sub-machine guns and light machine guns, I underwent several years of changes in the military, before being exported to foreign markets. Speed and accuracy are my specialties, so please allow me to perform in a suitable stage.
+[Secretary] Commander, your orders?
+[Secretary (post OATH)] You desk is messy again, no matter how many times I tell you...Come on then, I'll take care of you like always.
+[OATH] This part has been finished, that part has been done, and now this... Eh?! ...What is this all of a sudden, is this for me Commander? It will probably take me a life time to handle this task, is that ok?
+[Greeting] Welcome back, my Commander.
+[T-Doll Produced] Commander there is a new recruit, go meet her.
+[Joining an echelon] Thank you for your trust, I give it my all.
+[Enhancement] If I had this kind of power to begin with, my country wouldn't have...
+[Dummy-linking] Dummy link? Thank you Commander.
+[Logistics (start)] Roger, begin operation.
+[Logistics (end)] I returned, mission complete.
+[Autobattle] Everybody, I'll do the support role, don't just stay here and rest.
+[Title] Girls' Frontline!
+[Starting a combat mission] Prepare to assault their formations!
+[Starting a battle] Enemy contact, prepare to engage.
+[Skill activation] Fire!
+[Heavily damaged] No... No problem, I can still fight...
+[Retreat] If... If only I was stronger...
+[MVP] This is all due to Commander's tactical guidance.
+[Restoration] Refilling dummies, one, two, three...
+[Halloween] I don't have much interest in Halloween... But this candy is pretty tasty!
+[Christmas] Since it's christmas there will be no problem if we relax, don't we. Merry Christmas, Commander.
+[New Year's Day] I'll be under your care again this year.
+[Valentine's day] Commander, if it's fine with you, please eat this.
+[Tanabata] Your wish will be granted if you write your wish on this tanzaku? What should I write, I'm at loss.
+[Acquisition] I'm prepared to fight enemies ten times my number. Are you ready, Commander?
+[Introduction] The name FAMAS is an abbreviation for my role and origin. Designed to replace my country's sub-machine guns and light machine guns, I underwent several years of changes in the military, before being exported to foreign markets. Speed and accuracy are my specialties, so please allow me to perform in a suitable stage.
+[Greeting] Welcome back, my Commander.
+[T-Doll Produced] Commander there is a new recruit, go meet her.
+[Joining an echelon] Thank you for your trust, I give it my all.
+[Enhancement] If I had this kind of power to begin with, my country wouldn't have...
+[Dummy-linking] Dummy link? Thank you Commander.
+[Logistics (start)] Roger, begin operation.
+[Logistics (end)] I returned, mission complete.
+[Autobattle] Everybody, I'll do the support role, don't just stay here and rest.
+[Title] Girls' Frontline!
+[Starting a combat mission] Prepare to assault their formations!
+[Starting a battle] Enemy contact, prepare to engage.
+[Skill activation] Fire!
+[Heavily damaged] No... No problem, I can still fight...
+[Retreat] If... If only I was stronger...
+[MVP] This is all due to Commander's tactical guidance.
+[Restoration] Refilling dummies, one, two, three...

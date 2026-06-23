@@ -1,0 +1,30 @@
+[Acquisition] Hello, Commander! I'm TF-Q! I'll be working under you from today onwards. I'll do my best to meet your expectations!
+[Secretary] There really are a lot of athletic Dolls in the base, I'd like to get to know them!
+[Secretary (post OATH)] Commander? Hehe, I'm making lunch for you! Take a look at these dishes, they should be enough for you to focus and work hard all day, right? Now all I need to do is add a bit of seasoning... Uwah! It all went in!
+[OATH] Commander? Could it be that you... this, this is wonderful! I thought it was just wishful thinking on my part... ah, ahem! It's true! You should have given me more time to prepare, now there's no sense of ceremony to it at all! Still, it's alright... I'm so happy now that nothing else matters... I'll be in your care from now on, Commander!
+[Greeting] Commander! Time to pull yourself together and work hard!
+[T-Doll Produced] Ah, a new friend! I wonder how athletic she is?
+[Joining an echelon] Uh, I, I'm sorry, excuse me...! Huh? Wasn't this supposed to be my place!?
+[Enhancement] My balancer module's compatibility should have been enhanced too, right? I'd like to try it out!
+[Dummy-linking] Wait a minute! Does this mean I can form a sports club now?
+[Logistics (start)] I'm going out on an expedition? Thank goodness! Let's go right now!
+[Logistics (end)] I'm back! For some reason it doesn't feel like it was enough...
+[Autobattle] Time to show what I can do!
+[Title] Girls' Frontline!
+[Starting a combat mission] I think I've got everything... Alright, time to head out!
+[Starting a battle] The enemy's up ahead... Time to get serious!
+[Skill activation] Be careful!
+[Heavily damaged] Uwah...! Oh no no no, I'll need to spend lots of time tidying up now...!
+[Retreat] Ngh... This isn't the time to act tough...!
+[MVP] Did, did we win?
+[Restoration] I'm sorry, it's all because I messed up.
+[Attack] Huh? Is everyone attacking already? Wait for me!
+[Halloween] Do we get candy too? Mhm! Time to think about what kind of monster to dress up as...
+[Christmas] I wonder what it's like to ride a sleigh through the air. I'd love to give it a try...
+[New Year's Day] Happy new year! There seems to be a lively party going on tonight. Will you be joining us, Commander?
+[Valentine's day] Valentine's Day? Rather than give each other chocolate, I'm more interested in the taste of the chocolate itself...
+[Tanabata] Surely restoring the compatibility of my balancer module isn't too much to ask for, right?
+[Defense] So all I need to do is stop the enemy's attack? No problem!
+[Phrase] Awesome!
+[Tip] Need to tidy up the office? No problem, leave it to me! Let's start with these documents... Uwaaahh! They're going everywhere!
+[Loading] Will I have to wait here a lot from now on? This would be the perfect time for outdoor activities...

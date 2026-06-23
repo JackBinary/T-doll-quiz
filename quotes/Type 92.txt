@@ -1,0 +1,56 @@
+[Acquisition] Type 92, reporting in! Which squad am I being assigned to?
+[Introduction] Domestically-produced Type 92 pistol, designed as a replacement for the Type 54 pistol. Developed first in 9mm caliber with a 5.8mm caliber type finished two years later. The biggest appearance difference is, 9mm Cal type has 5 stars on but 5.8mm Cal type doesn't. Do you know which one I am, Commander?
+[Secretary] Please leave it to me to take stock of our resources, Commander.
+[Secretary (post OATH)] You still haven't gone over budget, Commander. Well done for this month. I'll look the other way about your little coffer.
+[OATH] What do you see in me, Commander? Hmm, so can I keep being frugal? Then I'll be managing our family budget from now on.now on, so get used to it!
+[Greeting] Commander, what is today mission? I'll wait for order from here.
+[T-Doll Produced] A New girl has appeared.
+[Joining an echelon] Type 92 is enlisted.
+[Enhancement] Commander, thank you so much. I won't lose to some imported goods.
+[Dummy-linking] I'm multiplied? It'll good if it's not go to waste.
+[Logistics (start)] I brought compass with me so I won't get lost.
+[Logistics (end)] I'm back. There is no miss this time.
+[Autobattle] Target point is over there. Then, I'll take it.
+[Title] Girls' Frontline!
+[Starting a combat mission] Eh? It's already time for departure? I-I'm coming right away.
+[Starting a battle] Enemy? Prepare to intercept.
+[Skill activation] Hey! Take aim!
+[Heavily damaged] Don't get too carried away, since I'm not being serious.
+[Retreat] Conflicting this way is a waste of supplies. Let's pull back for now.
+[MVP] This is not a perfect victory, but with this result you are satisfied isn't it?
+[Restoration] Although this is for me, please don't use too much supplies.
+[Halloween] It's tonight... Preparing candy is too much trouble. I'll just get them from someone... Hmm, her it is.
+[Christmas] Since it's Christmas, we can make it more luxury. Ah, it's okay even with less decoration.
+[New Year's Day] It's New Year, commander. Since doing nothing is no good, I made new year dish for few people.
+[Valentine's day] Commander, please take this, a present from me.
+[Tanabata] Commander, since it's been a while, would you talk a walk tonight? The night sky is more lovely than we usually saw.
+[Acquisition] This is the brand new Type 92, awaiting orders! I'm ready to move out at any time, Commander!
+[Secretary] Commander, are you going to spend money again? Please let me take care of that for you.
+[Secretary (post OATH)] Although I keep urging you to be thrifty, that doesn't mean you should skip lunch because you're busy. I made an extra portion for you, so eat up... Ah, it seems I added some chillies to today's lunch. I guess I'll just have to dispose of this meal that shouldn't exist.
+[OATH] Commander, which part of me are you attracted to? Is it too late for me to get rid of it? I'm just kidding, but I'll be taking care of the checking account from now on, alright? Please prepare yourself for it!
+[Greeting] Good morning. Today's another relaxing day.
+[T-Doll Produced] I hope they aren't spendthrifts.
+[Joining an echelon] Type 92 joining the unit! Always ready to deploy!
+[Enhancement] This was a wise expenditure. I'll show you that it was worthwhile.
+[Dummy-linking] More manpower? As long as it doesn't break the bank.
+[Logistics (start)] I've brought a compass. We won't get lost.
+[Logistics (end)] I'm back. Nothing went wrong this time round.
+[Autobattle] Is that... the target location? Don't mind if I do, then!
+[Title] Girls' Frontline!
+[Starting a combat mission] Did our operational budget get approved? Then let's head out!
+[Starting a battle] Enemy sighted! Take the initiative!
+[Skill activation] I'll respond to you, then.
+[Heavily damaged] Urgh... Time to take this more seriously!
+[Retreat] Things didn't turn out as expected... Commander, let's head back and see where the problem lies.
+[MVP] Only a victory that was planned out counts as a true victory.
+[Restoration] Although you're doing it for my sake, please don't use up too much of our supplies...
+[Attack] Crush them!
+[Halloween] It's tonight... Preparing candy is too much trouble. I'll just get them from someone... Hmm, her it is.
+[Christmas] Since it's Christmas, we can make it more luxury. Ah, it's okay even with less decoration.
+[New Year's Day] It's New Year, commander. Since doing nothing is no good, I made new year dish for few people.
+[Valentine's day] Commander, please take this, a present from me.
+[Tanabata] Commander, since it's been a while, would you talk a walk tonight? The night sky is more lovely than we usually saw.
+[Defense] Tighten up our formation.
+[Phrase] Mm, this will do.
+[Tip] I have something important to tell you.
+[Loading] We should wait here and conserve our strength.

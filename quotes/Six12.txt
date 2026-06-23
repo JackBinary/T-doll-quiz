@@ -1,0 +1,25 @@
+[Acquisition] Six12, reporting for duty. Please sort out what you think.
+[Secretary] Hum humhum...humhum hum...humhum...ah- Commander! I'm sorry, I was trying to remember the melody I heard yesterday...sorry about that.
+[Secretary (post OATH)] I want to see the real sea. Of course, it will be after the pollution has been removed, but if you come with me, surely it will come true? Until then, why don't we listen to this song together?
+[OATH] Commander? I understand. Uh...um...if you were...wait, what am I saying? In any case, I am your shield! Please let me be with you forever!
+[Greeting] Welcome!
+[T-Doll Produced] A new friend has arrived? Nice to meet you.
+[Joining an echelon] Copy that.
+[Enhancement] I'm glad that you liked it.
+[Dummy-linking] I will never betray the Commander's expectations.
+[Logistics (start)] Commencing special operations!
+[Logistics (end)] I was able to achieve wonderful results.
+[Autobattle] Leave it to me.
+[Title] Girls' Frontline!
+[Starting a combat mission] D-Day, commencing action.
+[Starting a battle] D-Day, Joining ground force.
+[Skill activation] Did you get scared?
+[Heavily damaged] Don't worry about me...
+[Retreat] That was my mistake...
+[MVP] I'm honored.
+[Restoration] I'm sorry. I apologize for the inconvenience.
+[Halloween] It's more about the panic that will ensue today than listening to the music alone. Commander, please be careful.
+[Christmas] Please accept this mistletoe! Mistletoe are good for whenever you want to kiss your lover, or if you ever want to make a wish, so feel free to use it. W-wait! Why are you approaching me? Eh?! Ehh?!
+[New Year's Day] Happy New Year. I look forward to working with you this year as well. You want to hear me say it in my own words? I'd be happy to after work is finished.
+[Valentine's day] In the end, I wanted to give my first perfectly-made chocolate to the Commander. Please enjoy it.
+[Tanabata] A wish? I pray for everyone, the discipline, and the Commander, safety and protection.

@@ -1,0 +1,25 @@
+[Acquisition] High Standard M10 shotgun, reporting! My allegiance is to you, sir!
+[Secretary] You don't have to be so formal around me. Everyone here is like my family. Let me help you cook tonight, okay?
+[Secretary (post OATH)] If you are ever injured in the future, you must tell me. I have a medkit right here... You need to protect yourself before you can protect anyone else, sir. Besides, if you're not in perfect condition...that means you can't rush to the front with me, right?
+[OATH] Sir, what's that you're hiding behind your back? Is it contraband? Hurry up and show me, will you? How, how could it be a ring? Is it possible...that it could be for someone else? Hah, I'm kidding, otherwise, may I arrest you?
+[Greeting] When was today's meeting supposed to start again?
+[T-Doll Produced] Hmm? A new recruit? Heheh, shall I give her some firm instruction.
+[Joining an echelon] Okay! Leave the leading to me!
+[Enhancement] Thanks for looking after me as always! I'll make sure to pay you back!
+[Dummy-linking] I'm multiplied? I wish I had enough to fill a platoon!
+[Logistics (start)] Can I get a list of the resources I need? Then, you can count on me!
+[Logistics (end)] I'm back~. I brought back a lot with me, can you lend me a hand?
+[Autobattle] Target, lock on! These movement patterns have been etched into my neural cloud!
+[Title] Girls' Frontline!
+[Starting a combat mission] Let's go! It's the police's duty to reject evil!
+[Starting a battle] Freeze!
+[Skill activation] Hands in the air!
+[Heavily damaged] Cough cough... looks like my training wasn't enough...
+[Retreat] We're only withdrawing to regroup. Everyone, do not worry!
+[MVP] Anyone who hurts my family will disappear!
+[Restoration] It can't be helped. Guess I'll rest.
+[Halloween] The zombies are all inside this room! Proceed with my signal! One, two! Hmm? Don't mind me. This is how the police do it when breaching. Gun on one hand, and open the door with the other.
+[Christmas] Commander, Merry Christmas! Indeed, one should spend Christmas with the family! Wait right there, I'll check on the roasted chicken!
+[New Year's Day] Happy New Year! I wish I could fight alongside you again this year! Well, strategy meetings are boring without you around.
+[Valentine's day] Whoa, didn't expect you to be interested in Valentine's. Then perfect timing! I can just give this to you directly instead sneaking it into your locker.
+[Tanabata] Huh? A payback? Why today though? Aah, today is Tanabata! Sorry, I don't usually keep track of something like this. Then... can I open this right away?

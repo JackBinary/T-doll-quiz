@@ -1,0 +1,31 @@
+[Acquisition] Yo, Commander—how do I know it's you before you even introduce yourself? Humph, how else would you know that I can see the future?
+[Introduction] Yo, Commander—how do I know it's you before you even introduce yourself? Humph, how else would you know that I can see the future?
+[Secretary] You're going to spill your coffee! Humph, not now, obviously, but in three seconds! Don't believe me? Three, two, one— Y-you just drank it all up?! Well, the world line has shifted, so of course the future with the spilled coffee has been averted!
+[Secretary (post OATH)] Compared to predicting the future, it's much more fun to look forward to the unknown future together with you— Hold on! In two hours, the bakery at the end of the street will have a limited quantity of very tasty pastries coming fresh out of the oven! Commander, let's get in line!
+[OATH] According to my prediction, you're about to entrust some treasure of utmost importance to me. That's fine, hand it over! Huh?! The treasure is this ring?! H-hang on a second! Forget what I just said! No, I'm not saying no! It's just... that wasn't romantic at all! We have to do it again!!!
+[Greeting] Today, the Commander will be wearing... red! Humph, bingo.
+[T-Doll Produced] You want to know how good the new Doll is? Hm... she's already reporting for duty, so why ask me?!
+[Joining an echelon] A formation that's completely within my expectation.
+[Enhancement] The accuracy of my weapon has improved—that goes without saying, but so has my ability to predict the future, I'm sure!
+[Dummy-linking] With so many Martini-Henrys, what if our predictions of the future are different...?!
+[Logistics (start)] Prepare more storage crates! This is gonna be a bountiful trip!
+[Logistics (end)] Look, a pretty decent haul, right?!
+[Autobattle] As long as we stick to my predictions, nothing will go wrong!
+[Title] Girls' Frontline
+[Starting a combat mission] I can already see our victory!
+[Starting a battle] I knew you'd be here!
+[Skill activation] Eat my bullets!
+[Heavily damaged] I knew I was gonna get shot! I-I just didn't know how to prevent it from happening...
+[Retreat] What kind of variables led to such a result...?
+[MVP] Humph, I told you we'd win this time~!
+[Restoration] After the repairs are completed, I'll receive dessert from the Commander as consolation—this future will definitely occur!
+[Attack] Listen to me! If we launch an attack now, the tables will turn!
+[Halloween] I don't know why those kids got so huffy. I just told them they'd get cavities after tonight! Never mind. If they want candy so badly, I'll give them more.
+[Christmas] I knew you'd be giving me lots and lots of presents, so I've prepared an extra large Christmas stocking! Go on then, give them to me— W-why is it all ammo? We need more patrols on Christmas night? But this isn't what I want!
+[New Year's Day] Happy New Year! Oh, this red packet is for me?! Huh? You want me to guess how much money is inside? Puh-lease, that would totally ruin the surprise!
+[Valentine's day] Since it's Valentine's Day, you want me to predict your love life? Humph, piece of cake. Let me take a look? Huh?! Is that—?! Oh, nothing! Ahem... Say, maybe we should get to know each other a bit better?
+[Tanabata] Wishing for a better future? I already know all about the future! You want to know what's gonna happen? Humph, then you'd better wish for me to be in a good mood. I might just tell you~!
+[Defense] If we don't stand our ground, something terrible will happen!
+[Phrase] As expected!
+[Tip] As long as you listen to me, you will be able to know the future in advance and avoid all kinds of trouble. Humph, do you see what I'm worth now?
+[Loading] How long will this take...?

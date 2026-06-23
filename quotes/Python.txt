@@ -1,0 +1,25 @@
+[Acquisition] Commander, are you my new "prey"? Haha, don't worry, I mean no disrespect.
+[Secretary] Your view on tactics isn't bad, but it'd be better if you look at things my way.
+[Secretary (post OATH)] Commander, what kind of "prey" would you like next time? Just name it, and you'll have it.
+[OATH] Hehe, Commander, have you finally given up on struggling? All the "prey" that I set my sights on, will soon belong to me... perhaps I've just been baited into a trap?
+[Greeting] Commander, have you decided on today's prey?
+[T-Doll Produced] Commander, I'll look after the new girl.
+[Joining an echelon] Nobody could run away, from my hand it is.
+[Enhancement] My strength doesn't lie in my might alone.
+[Dummy-linking] Those eyes, I like it.
+[Logistics (start)] Today's prey is this one?
+[Logistics (end)] Take this, everything is good loot.
+[Autobattle] Leave it to me. I won't let any of them escape.
+[Title] Girls' Frontline!
+[Starting a combat mission] Now, let's begin the hunt!
+[Starting a battle] Heh, this is smell of a prey.
+[Skill activation] I'll do this with six chances!
+[Heavily damaged] Heheh, resisting? Good, bring it on!
+[Retreat] I'll definitely won't let you escape, just remember this!
+[MVP] Victory is our only sign!
+[Restoration] My wound smells of the prey, ufufu.
+[Halloween] Lovely ghosts, you better run now. Because my residence is more terrifying than hell itself, ufufu.
+[Christmas] I can't lose my appetite this season. I'll just swing by and say hello, then take off.
+[New Year's Day] I remember everything that you do, Commander. Don't think for a second that I'll let you off that easy.
+[Valentine's day] You better master the art of making chocolate. If there is no bait, how are you supposed to catch a prey?
+[Tanabata] There is no need to hide my wish from anyone. When you want something, you should obtain it with your own hand.

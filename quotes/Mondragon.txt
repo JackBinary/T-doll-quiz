@@ -1,0 +1,30 @@
+[Acquisition] Mondragón reporting, Commander. Please assign me any missions which need to be carried out.
+[Secretary] Commander, please call me "Mond", and not "Ragon"...That form of address upsets me.
+[Secretary (post OATH)] Commander, you know I will always be outside your door. If you need me, I am ready to do anything for you at any time.
+[OATH] ...I did not expect a gift like this, Commander. Thank you for always acknowledging and trusting in me, and thank you for making such a solemn pledge with me. Although the future remains an uncertain and illusory thing, I will no longer fear it now that I hold the promise that you have given me.
+[Greeting] Commander, the situation in the base today is normal.
+[T-Doll Produced] We have a new arrival. I will immediately perform a full inspection and analysis on her.
+[Joining an echelon] Please remain silent and listen to my instructions.
+[Enhancement] My statistics in all areas are showing a distinct improvement. Thank you for your trust, Commander.
+[Dummy-linking] I've made a new breakthrough in combat efficiency. Thank you, Commander.
+[Logistics (start)] We are setting out toward the distance.
+[Logistics (end)] Mondragon, returning to unit.
+[Autobattle] This is a simple mission. There is no need to worry.
+[Title] Girls' Frontline!
+[Starting a combat mission] Fight hard so you may embrace tomorrow.
+[Starting a battle] Forgive me, but I shall be taking your life now.
+[Skill activation] I will dispatch you painlessly.
+[Heavily damaged] Never mind me, keep fighting.
+[Retreat] Do not lose yourself in battle.
+[MVP] Our victory belongs to the Commander.
+[Restoration] Can I rest a little now...
+[Attack] Seize the enemy by the throat.
+[Halloween] Have you finished your daily practice? Don't think I can't recognize you when you have your masks on.
+[Christmas] Merry Christmas, Commander. I have punished the girls who played pranks on Santa by assigning them to shovel snow. Please do not go easy on them.
+[New Year's Day] Happy New Year, Commander. The sentry rotations for the new year are already on your desk.
+[Valentine's day] Commander, the chocolates which might cause food poisoning when ingested have already been removed. Please enjoy the ones which remain.
+[Tanabata] Violating the laws of the celestial realm and falling in love with a mortal deserves punishment. However, allowing them to meet once a year is too light of a punishment.
+[Defense] Do not get lost in the crimson darkness that fills the sky.
+[Phrase] Regarding your operational flaws...
+[Tip] Do you wish to discuss the mission? By all means, then.
+[Loading] Good morning, Commander. Today's schedule is...

@@ -1,0 +1,36 @@
+[Acquisition] M950A. Commander, from now on I'll follow your orders.
+[Introduction] Yes, I'm M950A, I might just be a member of a big franchise but at least put some effort in remembering me. The proprietary helical magazine is probably our signature aspect. But since the firepower is quite significant, caused a bit of problem while selling it in the civilian market... Aww humans, just can't be pleased easily.
+[Secretary] What is it? I have no interest in meaningless chitchat.
+[Secretary (post OATH)] Don't slack off ok Commander, I got my eyes on you all the time... Wh...What? Did I say something strange!?
+[OATH] Hmm, in the end it was me? Since when... it doesn't matter now... It's alright, come closer... and now... you're mine...
+[Greeting] What do you want to do today? I'm fine with anything though.
+[T-Doll Produced] New girl huh. Then I'm not needed?
+[Joining an echelon] Me? ... I won't holding back then...
+[Enhancement] For me...? T-thank you.
+[Dummy-linking] I thought she'd hate me, turns out she's unexpectedly nice.
+[Logistics (start)] Alright, nothing to do staying here anyway.
+[Logistics (end)] I'm back...any problems while I was away?
+[Autobattle] I'll help you out, since I got nothing to do.
+[Title] Girls' Frontline!
+[Starting a combat mission] No promises, but I'll do my best!
+[Starting a battle] My turn in the spotlight? I won't waste this chance!
+[Skill activation] Hah, I'm faster!
+[Heavily damaged] No... II couldn't perform my best...
+[Retreat] Sometimes mistakes are inevitable... Next time will do.
+[MVP] Because I'm there right.
+[Restoration] You come to see me? I'm a little happy... kidding.
+[Halloween] Geez, hope it won't be noisy tonight. Ah, seems like someone is coming again.
+[Christmas] It's already christmas huh. You should occasionally relax yourself, commander.
+[New Year's Day] It's already one year. I'm getting used to it a little. This year as well, please take care of me again, commander.
+[Valentine's day] Here, this year chocolate. Ha? How could I forget it, silly.
+[Tanabata] Rather than my wish, I am more interested in yours, Commander. What? Don't be joking around or I won't forgive you.
+[Acquisition] M950A, returning to Griffin with a new attitude. Commander, allow me to protect you from now on.
+[Secretary] You were looking for me specifically? You wanted to chat with me? Sure, I also have a lot to say to you.
+[Secretary (post OATH)] Commander, do you have any other plans right now...? If possible, we could go on a date and take a walk outside... Ah, I finally said it.
+[OATH] Hmm, in the end it was me? Since when...it doesn't matter now... It's alright, come closer... and now... you're mine...
+[Title] Girls' Frontline!
+[Halloween] Geez, hope it won't be noisy tonight. Ah, seems like someone is coming again.
+[Christmas] It's already christmas huh. You should occasionally relax yourself, commander.
+[New Year's Day] It's already one year. I'm getting used to it a little. This year as well, please take care of me again, commander.
+[Valentine's day] Here, this year chocolate. Ha? How could I forget it, silly.
+[Tanabata] Rather than my wish, I am more interested in yours, Commander. What? Don't be joking around or I won't forgive you.

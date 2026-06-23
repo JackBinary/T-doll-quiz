@@ -1,0 +1,21 @@
+[Acquisition] New commander huh? I don't want to entrust my life to someone I just met but since it's work, it can't be helped. Let's seal the deal.
+[Secretary] I want to skip work~ What, don't look at me with those eyes! I didn't meant for real!
+[Secretary (post OATH)] There's still work left? Well, fine by me, I won't run away or anything. I'll give you a hand...
+[OATH] Commander, this kind of thing... it should be me? Geez, I just can't make you completely satisfied. I got it, if this will make you happy, I'll do anything!
+[Greeting] Work? Well, it can't be helped...
+[T-Doll Produced] Can I dump my work to the new recruit?
+[Joining an echelon] You are not planning to make me do all the work, don't you?
+[Enhancement] Looks like there are more important mission.
+[Dummy-linking] Didn't think my skin is this soft! I can touch it all day long!
+[Logistics (start)] It must be me?
+[Logistics (end)] There's no particularly interesting stuff, bear with this.
+[Autobattle] Can't you just give this kind of mission to SAW?
+[Title] Girls' Frontline!
+[Heavily damaged] I'm feeling bad... But I can't do anything except to keep holding on...
+[Retreat] This situation... what should I do.
+[MVP] Whoa, did I do better than expected?!
+[Restoration] Please don't leave any scar... Spare me from long service mark...
+[Halloween] Commander! I heard there still some sweets left... Aah, that gummy will do. Thank you!
+[Christmas] Where's SAW? Damn it, she's skipping work again. You don't have to prepare any present for her.
+[New Year's Day] This year turned to be easy. Well, at least I can spend this day at leisure.
+[Valentine's day] This is my special chocolate flavoured gummy! This one has a sensation that the real one doesn't!

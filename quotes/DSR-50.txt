@@ -1,0 +1,26 @@
+[Acquisition] DSR-50, Commander... This is a name you will be whispering even in your dreams...
+[Introduction] I'm DSR-50 Sniper rifle, a variant of DSR-1 that uses .50 BMG rounds. After incorporating "Blast Compensator" the problems with .50 BMG rounds reduced greatly. But my biggest problem though... Is that no one truly understand how to "use" me, could you be the first, Commander?
+[Secretary] Commander, you have to be careful regarding... How to use me.
+[Secretary (post OATH)] Commander I'm looking forward to tonight's surprises... Don't disappoint me, okay?...
+[OATH] Commander I know what this means... But in the end you still surprised me. Hehe... Just this once though, I will get you back, this isn't over.❤
+[Greeting] Ahhh, arrived just on time.
+[T-Doll Produced] New girl, wanna come to my room? Just you and me.
+[Joining an echelon] Is this really okay? Using this kind of formation... Never mind.
+[Enhancement] Don't over do it.
+[Dummy-linking] How greedy of you Commander~
+[Logistics (start)] Ohhh, time for a walk?
+[Logistics (end)] My feet are numb~ Commander, come give me a massage...
+[Autobattle] Then, let me make some of my own decisions.
+[Title] Girls' Frontline!
+[Starting a combat mission] I'm not responsible for any accidents okay?
+[Starting a battle] Your death is right before your eyes.
+[Skill activation] Can't last any longer than that?
+[Heavily damaged] This is what you people wished for right?
+[Retreat] That's a shame... I still have a some plans left.
+[MVP] Not bad at all, both my ambitions and the Commander's wishes have been fulfilled.
+[Restoration] Make sure you have the correct parts, otherwise... Pretend I didn't say that.
+[Halloween] That was one dangerous night...You're scared? Then come closer...
+[Christmas] Commander, is your body ready? have you prepared yourself? I've prepared a Christmas present you won't be able to forget, hehehe.
+[New Year's Day] Commander, regarding your New Year resolution... Will I be part of it?
+[Valentine's day] Commander, look at me. I'll make you understand, that I'm a lot sweeter than this chocolate. Okay?
+[Tanabata] I wonder if anyone could accompany me tonight? My, Commander... might you be free now?

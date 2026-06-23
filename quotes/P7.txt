@@ -1,0 +1,26 @@
+[Acquisition] At last, P7 has officially joined her friends! Look at me smile, sir, we'll get along fine!
+[Introduction] What, Commander, it took you this long to show interest about me? You know, during the design phase, I experienced a lot of ups and downs. But in the pursuit of perfection, I've found out that I have many advantages. From now on, Commander, please take good care of me.
+[Secretary] No matter how much you get teased, you don't get angry. Commander, you really are the best!
+[Secretary (post OATH)] Commander, I've finished booby-trapping the doorway, please enjoy! Before anything else, you are mine! Heroism or whatever, don't even think about it!
+[OATH] Ah, so you finally fell into the palm of my hand after all. Don't worry Commander, I'm serious as well, after all, we've known each other all these years... It hasn't been that long? Then rest assured, we'll know each other for even longer, hehe.
+[Greeting] You appear to be fine today Commander. Hehe, I mean, I haven't done anything yet after all.
+[T-Doll Produced] A new friend is here, let's give her a surprise, hehe...
+[Joining an echelon] P7, joining formation! Everyone must have been expecting me right~?
+[Enhancement] Heheh, just like this... This lovely taste...
+[Dummy-linking] Huhuh, how about I let my dummies prank each other, that will definitely be fun!
+[Logistics (start)] Leaving now! See if I can find the candy house while I'm out!
+[Logistics (end)] I'm back, guess what I found?
+[Autobattle] As for rewards, you're all gonna be married to the lovely me in the castle!
+[Title] Girls' Frontline!
+[Starting a combat mission] Everyone, seriously now! ...Me? Of course I'm serious!
+[Starting a battle] Enemy approaches, begin combat!
+[Skill activation] Your reactions are too slow!
+[Heavily damaged] Pff! Don't think you've caught me yet! (Noise from making faces)
+[Retreat] Pff, this isn't over yet, I'll be back!
+[MVP] Detailed production, rapid reactions and cute exterior, that's how I won! Hey what do you mean no?!
+[Restoration] Maintenance fee... Must be quite high, sorry, I think I've overdone it a little...
+[Halloween] Trick or Treat! Hehe, I've gotten so many candies tonight, whys that? Because I'm the cutest!
+[Christmas] Merry Christmas! It took a lot of time to prepare the grand mischief. I'll execute this plan during the party!
+[New Year's Day] Happy New Year! Since I've been a good girl today, give me my new year gift!
+[Valentine's day] You've received so many chocolates Commander! Hmm, I gifted one too, did you notice it?
+[Tanabata] Commander, look at these tanzakus! Do you want to know what my wish is? It's a secret!

@@ -1,0 +1,19 @@
+[Acquisition] Beowulf. A name is all it takes to begin a story.
+[Secretary] ...You summoned me just for idle chatter? I'm leaving.
+[Secretary (post OATH)] You said it yourself—nothing has to change. So you can grin at me all you want, but I won't smile back.
+[OATH] ...Please allow me to refuse. I do not understand what this means or what it's worth, but it feels too heavy for me to—Nothing has to change? Is this thing really to be taken so lightly...?
+[Greeting] ...Nothing feels out of the ordinary.
+[Joining an echelon] A hunt won't go more smoothly just because many people take part.
+[Enhancement] The wilderness is calling to me.
+[Dummy-linking] Very good. I'm leaving it to you to watch my back.
+[Logistics (start)] I will be carrying out some personal investigation along the way. It will not hinder the mission.
+[Logistics (end)] Other than the supplies you wanted, it has been a fruitless journey
+[Autobattle] Order received. Beginning execution.
+[Title] Girls' Frontline!
+[Starting a combat mission] Hrunting, let's go.
+[Starting a battle] To arms!
+[Skill activation] Focus on the breath.
+[Heavily damaged] Life is merely time borrowed from the gods that has to be perfected...
+[Retreat] Stop! Fall back!
+[MVP] Let's head back after we clean up the battlefield.
+[Restoration] This is taking too long. Let me do it myself.

@@ -1,0 +1,26 @@
+[Acquisition] Well then, you're the Commander, huh? Make sure you don't let me down.
+[Introduction] The "light automatic rifle" from the post-war new rifle development program, referred to as "FAL", was finally completed after years of controversy and improvement. As a famous rifle weapon in the world, I used to be the combat equipment of many countries and mercenaries, and split into two systems. Of course, that is what humans have to worry about.
+[Secretary] Did you forget anything? ...Just don't forget about me.
+[Secretary (post OATH)] Your clothes are all mussed again. You're not alone anymore, so please be more aware of your responsibilities. Here, let me fix you up.
+[OATH] Today is a big day, but no need to be so nervous. Relax. Just do what you have to do, now and always. That's what it is to be the Commander, right? There's no way I can be wrong about this.
+[Greeting] What's the plan for today? If you are free, you'd better fulfill your duty as Commander rather than hanging around.
+[T-Doll Produced] A newcomer? Come on, say "Cheese"!
+[Joining an echelon] Hm, I'll be the one to correct your terrible tastes.
+[Enhancement] For me? Well, it's something with decent taste, so it's alright.
+[Dummy-linking] Now that's what I'm talking about! Leaving everything for just one of me to do is much too devilish.
+[Logistics (start)] This world, there's no place I that haven't been to.
+[Logistics (end)] I'm back. Geez, those kids-- is it going out really such a rare sight for them?
+[Autobattle] One-time only, so pay close attention!
+[Title] Girls' Frontline!
+[Starting a combat mission] Let us go, to a free world!
+[Starting a battle] Haven't heard about you, but you still have lots more to work on!
+[Skill activation] Don't miss this chance!
+[Heavily damaged] Shoot, I underestimated the enemies.
+[Retreat] I can't believe the enemies have such experienced units!
+[MVP] For me, this victory is no big deal. But, is it noteworthy to you, Commander?
+[Restoration] Commander, keep away! I'm not in good condition right now.
+[Halloween] Why is everyone excited about such a creepy festival? Well, at least we can get some candies.
+[Christmas] Merry Christmas, Commander... Please end the ball soon. It feels a bit chilly...wearing this gown all night...
+[New Year's Day] Happy New Year, Commander! Ah...Why not pay more attention to your appearance during New Years. Come, I'll help you fix it.
+[Valentine's day] Tonight, I will have FN49 see what an adult's Valentine's Day is like.
+[Tanabata] My wish? Is there any meaning of it? Treasured things can remain in one's memory and that's enough.

@@ -1,0 +1,25 @@
+[Acquisition] A Pleasure to meet you, young man. Feel free to let me know ... if you're ever troubled.
+[Secretary] Perfume?  Huhu, it's my natural scent...
+[Secretary (post OATH)] Wanna come to my room this weekend? It's not an inconvenience, is it? Besides, this wouldn't be the first time, fufu...
+[OATH] Oh, the commander, this day has finally come, I don't know if I regret later, well, I won't let you regret, but I will let you know slowly from now on.
+[Greeting] Good morning, young man. What are you doing today? Would you like Big Sis here to help?
+[T-Doll Produced] Production completed. I'm starting to burn up, just a little. Ufufu
+[Joining an echelon] It's pretty easy to see.
+[Enhancement] Yes~ Good job.
+[Dummy-linking] Squadron expanded. So, what else gets bigger?
+[Logistics (start)] Hm, hm. Is that right? I will go then.
+[Logistics (end)] I'm back. And to think I almost got lost.
+[Autobattle] Don't be rash, we'll get more chances soon.
+[Title] Girls' Frontline!
+[Starting a combat mission] Alright, Just a little exercise. Let's go.
+[Starting a battle] Oh my, I wonder if I got lost.
+[Skill activation] Ready to fire!
+[Heavily damaged] Not bad...
+[Retreat] I'll be heading back...first...
+[MVP] There is no loss whatsoever. Like I said.
+[Restoration] I'm just tired a little, Commander. Can you help me change my clothes?
+[Halloween] It's a bit noisy tonight, Commander, how about a candy?
+[Christmas] I prepared a coat for you this Christmas. Commander, don't go expecting strange things, okay?
+[New Year's Day] It's almost been a year since I first met you, Commander. I'll do my best in the future.
+[Valentine's day] It's Valentine's, Commander. Here, hopefully  this is to your liking. Be sure to taste it carefully
+[Tanabata] What did you wish for, Commander? Does it involve me, perhaps? Ufufu, I'm joking.

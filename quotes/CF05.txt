@@ -1,0 +1,50 @@
+[Acquisition] Horaay! I finally found a place where I can have a hotpot! Wonderful! Umm... hello, Commander.
+[Introduction] (As above)
+[Secretary] Someone told me that V-sign means happiness. I want to spread this happiness to everyone, so I made this sign everytime! Eh? I got it wrong?
+[Secretary (post OATH)] Working so late again, Commander? I've prepared a little hotpot for you as a midnight snack! Relax, it's only miiiiiiildly spicy! Your face is so red you look as if you're gonna start belching fire... Fine, I'll get a double-sided pot and make two soup bases.
+[OATH] (Sobs) I'm finally getting acknowledgement from you, Commander... In return, I’ll have double-sided hotpots with you… I’ll give you the last slice of beef and even the last mouthful of grass jelly…
+[T-Doll Produced] Commander! There's a new girl joining in!
+[Joining an echelon] No problem! Leave it to me!
+[Enhancement] Ooh! Looks like I can try the super spicy hotpot now!
+[Dummy-linking] Nice! There are more hotpot comrade now!
+[Logistics (end)] I'm home! I really tired bringing back this much! A hotpot will recover me quick!
+[Autobattle] Commander, when I return... I got it I got it already, I won't eat any hotpot! I just want to talk!
+[Title] Girls' Frontline!
+[Starting a combat mission] A new mission right?! Got it!
+[Starting a battle] Enemy spotted!
+[Skill activation] Your destiny is already settled!
+[Heavily damaged] Do you think I'll admit losing just from something like this?!
+[Retreat] There will be... no hotpot today... huh...
+[MVP] Nice! I'll be having hotpot when I return! The loser will do the dish!
+[Restoration] I think eating hotpot will fix me...
+[Halloween] B-be quiet! I gave pepper to the dolls who came for sweets... Now this has turned into an awkward situation...
+[Christmas] Everyone receiving presents looks really happy! I too want to be Santa, delivering presents to everyone, just to see their smiles! I'll invite them to enjoy the hotpot together!
+[New Year's Day] Commander, Happy New Year! I just love the current base atmosphere! I mean look, it's red everywhere, just like a boiling hotpot~
+[Valentine's day] Happy Valentine! Commander, try eating the chocolate I made! I put 「」from my hometown! Huh? Your face are beet red. Did the sun just multiply?
+[Tanabata] Commander, when Vega and Altair meet, what kind of base soup you think we should use in our hotpot?
+[Secretary] One of the bigger girls around here told me that the "V" sign stands for happiness! Come, Commander, make a V sign with me so we can both be happy!
+[Secretary (post OATH)] Thank you for your hard work, Commander! I just made a new hotpot seasoning from 99 chillies, it's meant to show how our feelings will burn long and hot!
+[OATH] Commander, is this for me alone, or do all the other girls have one too? If it's just for me, then I'm a little nervous... But if everyone else has it too, then I feel a little more at ease. But you can't take it back! It's mine now!
+[T-Doll Produced] Commander, a new girl has arrived!
+[Dummy-linking] Yay~ More sisters to have hotpot with!
+[Logistics (start)] I'm heading out, Commander! Make sure you help me look after Little Whitey when I'm not around, don't let it meet with Little Calico!
+[Logistics (end)] I'm back! I'm dead tired after bringing all these supplies back, I need a hotpot to recover, stat!
+[Autobattle] Commander, when I come back from the mission... Okay, okay, it's not hotpot, I just want to chat with you.
+[Title] Girls' Frontline!
+[Starting a combat mission] A new mission, got it!
+[Starting a battle] Enemy sighted!
+[Skill activation] Super spicy power up!
+[Heavily damaged] I'm tired... I hope... I dream of hotpot...
+[Retreat] So we're not...getting hotpot today, huh...
+[MVP] Yay! Winner eats the hotpot, loser does the dishes!
+[Restoration] Commander, can I order take-out while I'm in here?
+[Attack] Focus your fire!
+[Halloween] Shhh! Be quiet! I just gave some pepper to a group of Dolls asking me for candy and now they want to beat me up for some reason...
+[Christmas] Everyone looks so happy when they get presents... I want to be Santa Claus too, so I can give everyone presents and see them smile! And ideally, we'd be able to eat hotpot together after that...
+[New Year's Day] Happy New Year, Commander! I love the base at times like these, because everything is red, like a bubbling chili oil hotpot...
+[Valentine's day] Happy Valentine's Day! Come try the chocolate I made, Commander! It's made with a secret recipe using the chillies from my hometown! ...Huh? Why's your face so red? Are you going to breathe fire?
+[Tanabata] Commander, when Hikoboshi and Orihime meet every year, what kind of soup base do you think they'll use?
+[Defense] Maintain defensive formation!
+[Phrase] Want some hotpot?
+[Tip] This'll make your hotpot taste better.
+[Loading] Aw, let me sleep a little more...

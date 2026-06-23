@@ -1,0 +1,25 @@
+[Acquisition] P30 reporting! Alright! I have already remembered what the Commander looks like~
+[Secretary] Despite my look, no matter what actions you take, Commander, I can recall them with every detail.
+[Secretary (post OATH)] We'll create sweet memories together today as well, right? Even if one day I won't be by your side, you'll still remember me... But it's not like I'd give you up to anyone else!
+[OATH] The scenery here isn't bad, Commander. Ah... giving me this, and saying those kind of words to me... is it really okay? I'll remember this for a long time... and I'll accept your feelings. Let this day remain in our everlasting memories forever.
+[Greeting] The Commander isn't late today...too bad.
+[T-Doll Produced] I'm glad that a new sister has arrived.
+[Joining an echelon] Wow! It's time for me to show my talents!
+[Enhancement] Memory space has expanded. The more you can remember, the stronger you'll get!
+[Dummy-linking] If you leave some memories around, the risk of forgetting will be reduced. Huh? It's useless?
+[Logistics (start)] Geez...I just wanted to talk about P2000 a little more.
+[Logistics (end)] I'm back. Are you satisfied with this?
+[Autobattle] In other words, you want me to make use of my experience? Thanks, Commander!
+[Title] Girls' Frontline!
+[Starting a combat mission] Have you memorized the strategy?
+[Starting a battle] Make me angry and I'll show you how truly frightening I can be!
+[Skill activation] I won't allow you to put holes in my clothing!
+[Heavily damaged] Haha, I'll remember that, just you wait.
+[Retreat] It's never too late for payback, even if it takes ten years!
+[MVP] Fufu, this is what happens if you cross me. Remember?
+[Restoration] I've memorized all of the damage. I'll pay it back double.
+[Halloween] Since today is a special day, I'll forgive you if you're being mischievous . Of course, you'll get payback. So, Commander? Still feel like pranking?
+[Christmas] Only humans can remember this kind of holiday. I suppose I can rest and eat some good food. Well, Commander? What kind of treat will we be having?
+[New Year's Day] A new memory for the new year. Of course, I also remembered new blessings to give the Commander.
+[Valentine's day] Am I not the only one to give you chocolates, Commander? Well, whatever. Treat gifts from me with care.
+[Tanabata] Commander, if you don't give me a Tanabata present, I won't let you hear the end of it!

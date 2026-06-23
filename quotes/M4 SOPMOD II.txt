@@ -1,0 +1,52 @@
+[Acquisition] M4 SOPMOD II, finally... Finally... I've found you commander !
+[Introduction] SOPMOD-II M4, based on the M4A1, and equipped with SOPMOD BLOCK 2 tactical assault rifle accessories. The SOPMOD plan was established before, and I am the second generation. Any tactical accessory you want, it can all be linked on me!
+[Secretary] Commander, what are we gonna play this time?
+[Secretary (post OATH)] Commander, how do you like my handiwork? Both collecting and producing these is very hard, but we do it for fun, hehe...
+[OATH] Hehehehe...I've waited a long time, and you have to admit, we've been through so much together, right? Please hold me a little more, together with my all, closer than ever before...
+[Greeting] Uwaa—— Commander you're here! Hurry hurry, let's start a new battle!
+[T-Doll Produced] Hahaha, new comrade, let's shake hands~.
+[Joining an echelon] Hehehe... Let's start, let's hurry up and start already!
+[Enhancement] HYPER EVOLVE! CHRIST—MAS—TREE!!!!
+[Dummy-linking] Nooo~ Commander, if you do this I might end them faster than I want to!
+[Logistics (start)] I'm taking off, Commander!
+[Logistics (end)] I'm back Commander. Come and give me a hug~!
+[Autobattle] Sisters, I've arrived!
+[Title] Girls' Frontline!
+[Starting a combat mission] Better hide carefully now you fools——Hahahaha!
+[Starting a battle] I'VE——FOUND——YOU!!
+[Skill activation] Shall I start from the fingernails... Or... Should I rip out your wires one by one?
+[Heavily damaged] Uwahhh~ You really did a number on me, didn't you?
+[Retreat] Sisters are you all ok? ... That's good at least...
+[MVP] Broken already...? That wasn't a big deal... Game over.
+[Restoration] I'll remember these scars, and return them 100 fold!
+[Halloween] Trick or treat! Commander, make sure to properly prepare the candy, alright? If you don't, then I don't know just what might happen; hahahaha!
+[Christmas] Merry Christmas! Mincing up something during cooking is fun! You do your enemy like this...
+[New Year's Day] Happy New Year! My goal this year is still the same, getting rid of plenty of enemies!
+[Valentine's day] Commander, will you stop by today? There a lot of sweets!
+[Tanabata] One of many of my wishes is not to lose to anyone. For example, huh... what was that again?
+[Acquisition] Uwaa~ Commander, look, look! Do you still recognize me?
+[Introduction] SOPMOD-II M4, based on the M4A1, and equipped with SOPMOD BLOCK 2 tactical assault rifle accessories. The SOPMOD plan was established before, and I am the second generation. Any tactical accessory you want, it can all be linked on me!
+[Secretary] Commander~ Soon I'll give you something more interesting to remember me by, alright?
+[Secretary (post OATH)] Commander, do you like my new handiwork? It was tough collecting all the materials and making it, but I sure had fun! Hehe...
+[OATH] Hehehehe...I sure waited a long time, and you have to admit, we've been through so much together, right? Please hold me a little tighter, together with my all, closer than ever before...
+[Greeting] Commander, quick! There's new operation!
+[T-Doll Produced] Hahaha, there's a new comrade! Here, shake hands~
+[Joining an echelon] Haha, will we be playing another new new game?
+[Enhancement] Bang bang bang bang! Cherry bomb!
+[Dummy-linking] Nooo~ Commander, if you do this I might end them faster than I want to!
+[Logistics (start)] I'm heading out now Commander.
+[Logistics (end)] I'm back! Hug me commander~!
+[Autobattle] Sisters, I've arrived!
+[Title] Girls' Frontline!
+[Starting a combat mission] Ahaha! The festivities are starting!
+[Starting a battle] Hehe, I'll show you something even cooler!
+[Skill activation] Hehehe, I'll change you to my liking!
+[Heavily damaged] Haha~ Are you satisfied? Then it's my turn next!
+[Retreat] We... we can't play anymore?
+[MVP] Aww.. I wanted to play some more... Ah, whatever. There's always next time.
+[Restoration] I'll remember these scars, and return them a hundredfold!
+[Halloween] Trick or treat! Commander, make sure to properly prepare the candy, alright? If you don't, then I don't know just what might happen; hahahaha!
+[Christmas] Merry Christmas! Mincing up something during cooking is fun! You do your enemy like this...
+[New Year's Day] Happy New Year! My goal this year is still the same, getting rid of plenty of enemies!
+[Valentine's day] Commander, will you stop by today? There are plenty of sweets!
+[Tanabata] One of many of my wishes is not to lose to anyone. For example, huh... what was that again?

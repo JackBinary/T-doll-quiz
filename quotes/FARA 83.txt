@@ -1,0 +1,30 @@
+[Acquisition] Hello, Commander. I am Fara. May I take a photo of you to commemorate my first day at Griffin?
+[Secretary] Every second of our daily life is a unique miracle, that's why it's worth documenting it through photographs.
+[Secretary (post OATH)] Commander, can we take a selfie together? Click. Oh, the photo came out great! We must comer here and take another selfie just like this on the same day next year.
+[OATH] I only use instant cameras because every single shot is absolutely one-of-a-kind. Just like every moment we spend together... I'm so glad you think so too, Commander...
+[Greeting] Click. You look somewhat different today, Commander?
+[T-Doll Produced] Someone's coming this way. Judging by the footsteps, it's probably...
+[Joining an echelon] Let's take a group photo before we set off.
+[Enhancement] With that, I won't get stuck on trees, I hope?
+[Dummy-linking] Does this mean I now have a free assistant?
+[Logistics (start)] I hope we'll come across some unusual sights along the way.
+[Logistics (end)] Commander, I'd like to show you some photos I've taken during the trip.
+[Autobattle] There are different views to be discovered even along the same route I have traveled many times before.
+[Title] Girls' Frontline!
+[Starting a combat mission] Are you ready?
+[Starting a battle] You finally show your true colors!
+[Skill activation] Let me document your unsightly desperation on the brink of death!
+[Heavily damaged] Our... precious memories...
+[Retreat] Stay away, you ugly, unphotogenic creeps!
+[MVP] Your victorious smiles will be engrained in my neural cloud forever.
+[Restoration] I can't... bring my camera with me...?
+[Attack] The enemy is wavering! Press the attack!
+[Halloween] S-Stay back! Take another step and I'll... I'll blind you with my flash!
+[Christmas] This is a collection of my favorite photos from this year, I hope you like them. Every single shot took a great deal of effort to capture...
+[New Year's Day] Happy New Year, Commander. No red packet for me? Guess I'll just have to sell some of your candid shots with weird faces for some extra pocket money...
+[Valentine's day] Why give chocolate? Even if it's filled with love and affection, it's all gone once you've eaten it.
+[Tanabata] If only Orihime knew how to use a camera. That way she could take a photo of her love and gaze at it whenever she misses him.
+[Defense] Don't be afraid!
+[Phrase] One, two three, cheese!
+[Tip] Stop gawking and do something! Help me off this tree! Commander, you're laughing too loudly!
+[Loading] This feels a bit like waiting for photos to develop.

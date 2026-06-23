@@ -1,0 +1,25 @@
+[Acquisition] MG36, reporting. A new base, huh... I hope you're not the type of Commander that needs to know everything about their subordinates' past.
+[Secretary] Hm? My hopes for the future? Stop trying to trick me into answering. My past... Just think of it as a mystery is enough.
+[Secretary (post OATH)] R-Really? You really want watch these old Sci-Fi movies with me? Oh, you... Then if you're finish with work, I saved you a special seat next to me... Shh, be quiet when the movie's playing!
+[OATH] Are you sure this is what you want? To add this line to my curriculum vitae... You already knew I wouldn't refuse, didn't you? Then when you say those words, my reply would be... "I know."
+[Greeting] Good morning. I will do my best for you today.
+[T-Doll Produced] A new friend huh...? Very good, I've always wanted one.
+[Joining an echelon] Let's get to work.
+[Enhancement] I've gotten stronger. Indeed, I have no limits.
+[Dummy-linking] You're doing this for my sake...I shall try harder.
+[Logistics (start)] I'll be heading out then. I'll try to take care of my physical condition.
+[Logistics (end)] I'm back. Did we meet the deadline in time?
+[Autobattle] Not a big deal.
+[Title] Girls' Frontline!
+[Starting a combat mission] Be careful. Don't let your guard down.
+[Starting a battle] I have a bad feeling about this.
+[Skill activation] Do your best!
+[Heavily damaged] Don't worry, this is also a strategy.
+[Retreat] We'll be back soon, wait on it!
+[MVP] Yes, only my gun can halt the darkness.
+[Restoration] This feeling of pain fades almost immediately. Like tears...in rain...
+[Halloween] To have me work to unlock with wisdom comparable to the planet...! Ahem...you're quite early. As for that...um...I practiced quite a bit in order to play this role
+[Christmas] Commander, Merry Christmas. A perfect night with lots of warm lights. Let's have another round of Beethoven's Romance No. 1 and wine.
+[New Year's Day] I have spent another year safely, Commander. May I have my new year's present without greeting the new year? Is that so? Then, Happy New Year.
+[Valentine's day] What's the matter? Your face is turning red all of a sudden. Wait, could it be that you've found the spaceship chocolate that I was hiding?! Give it back now! Today's date has changed!
+[Tanabata] A wish? I don't have anything in particular that I want to ask for, but there are things that I want to come true. I want someone to be there... just that ...

@@ -1,0 +1,26 @@
+[Acquisition] Greetings Commander, Mossberg model 590 reporting in. Please give your orders at any time.
+[Introduction] Mossberg model 590, A developed shotgun based on Mossberg model 500 according to the new US military testing feedback specifications. As a variant developed for special operation needs, the maintenance routine was made easier and the feed chamber was improved. Even though the military standardized M1014, still they did not halt the procurement of M590.
+[Secretary] Still worried about the next battle? Then allow me to join.
+[Secretary (post OATH)] Commander, Do you need me to clean your room next week? I can do it, but please remember to hide your things properly this time.
+[OATH] Um...... What is this? A reward for the previous operation? I'm just kidding, of course I know what this means...... Thank you Commander, this is the moment I've always been waiting for, now it's finally here......
+[Greeting] Greetings Commander, been waiting for you.
+[T-Doll Produced] New companion? I really want to meet her.
+[Joining an echelon] This is a good chance for everyone to get along.
+[Enhancement] This modification suits me.
+[Dummy-linking] Looks like, I'm rather reliable.
+[Logistics (start)] Everyone follow my lead.
+[Logistics (end)] Mission accomplished. Good work everyone.
+[Autobattle] I will protect everybody.
+[Title] Girls' Frontline!
+[Starting a combat mission] Understood. We'll depart right away.
+[Starting a battle] Annihilate the enemies!
+[Skill activation] Step aside!
+[Heavily damaged] I... How could this happen to me...
+[Retreat] As long as everyone is safe.
+[MVP] We won! Everyone lets celebrate!
+[Restoration] I can return to the battlefield... So please...
+[Halloween] I handed out a lot of candies tonight. I've prepared your share, commander.
+[Christmas] Merry Christmas, commander. Let's make good memories.
+[New Year's Day] Happy New Year, commander. Although it's a holiday, please relax in moderation.
+[Valentine's day] Ah, commander. I really liked your gift the other day, thank you very much. So today, please take my chocolate.
+[Tanabata] Do you pray to to god to grant your wish? You can just make a wish to me.

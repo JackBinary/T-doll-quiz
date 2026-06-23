@@ -1,0 +1,43 @@
+[Acquisition] Heya! I'll be counting on you from now on, my Commander.
+[Introduction] After the "Six-Day War", in view of the fact that Miss FAL could not adapt to the desert battlefield, it directly contributed to me, the birth of Galil - the name comes from my designer. I have absorbed the advantages of many weapons, only the weight is slightly ~ slightly ~ excessive, the result is all robbed by the AK47 and M16A1, it is really unfair!
+[Secretary] Hey, watch where you are touching!?
+[Secretary (post OATH)] Commander, don't eat while we're working! You know I'm on a diet... Darn it, give me a little bet too!
+[OATH] Why...did you pick me? Isn't someone klutzy like me the complete opposite of you, Commander? But if you're willing to accept me, then I will make sure you won't regret it!
+[Greeting] I've been waiting for you
+[T-Doll Produced] New weapons production is finished
+[Logistics (start)] First of all I would like to prepare a sleeping bag
+[Autobattle] Because of peace in turmeric for everyone
+[Title] Girls' Frontline!
+[Starting a combat mission] At home
+[Starting a battle] Where are the people at home?
+[Skill activation] Attack preparer
+[Retreat] No wonder
+[MVP] I will die if I see no
+[Restoration] I'm a little careless and I'll be doing something else
+[Halloween] I love sweet stuff!.. but sweets make me fat, so commander, prepare yourself for some t.r.i.c.k.s!
+[Christmas] Merry Christmas! whoa, gotta resist the allure of those cakes.
+[New Year's Day] Happy new year! hehe, I wanted to say it in English!
+[Valentine's day] Takes this chocolate. Huh? No, I'm not on a diet!
+[Tanabata] Weight goes to the festival
+[Acquisition] Commander, please continue taking care of me!
+[Secretary] Haha, come take a look, Commander, I lost a lot of weight! ...What do you mean it only counts if both feet are on the weighing scale? Come on, as long as part of my body's on the scale it should count!
+[Secretary (post OATH)] ...I KNEW it! You were hiding here to snack, Commander! You said we'd lose weight together but I could never find you after our training sessions! You're terrible! Now give me some too!
+[Greeting] Ehhh, you just arrived? I waited until I almost fell asleep...
+[T-Doll Produced] There's a newcomer reporting!
+[Joining an echelon] Leave it to me!
+[Enhancement] ...You want to know if I got heavier after being enhanced? I forbid you to asl!
+[Dummy-linking] So I've been dummy-linked, could you make me a little lighter?
+[Logistics (start)] I'm heading out soon, better prepare my sleeping bag.
+[Logistics (end)] I'm back...and I forgot my tent again...
+[Autobattle] For everyone's sake, I can't mess up here!
+[Title] Girls' Frontline!
+[Starting a combat mission] Heading out!
+[Starting a battle] All enemies blocking my path shall die!
+[Skill activation] Alright, prepare to attack!
+[Heavily damaged] I guess I shouldn't have taken my weight lightly...
+[Retreat] Did we fail the mission...
+[MVP] This was an expected outcome.
+[Restoration] Hm... I got a little careless... Why is this happening again...
+[Attack] All of you, come and die!
+[Defense] Don't be careless!
+[Loading] Could you wait a bit?

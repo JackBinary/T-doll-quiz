@@ -1,0 +1,26 @@
+[Acquisition] Greetings, Commander, I'm Berretta AR70. I look forward to our time together. I'm sure it'll be wonderful.
+[Introduction] The development opportunity of the AR70 came from a research and development cooperation between our factory and the SG510 owner. Although this cooperation eventually ended, it directly contributed to my birth. During my service, I provided reliable assistance to my national forces and received the alias of "Holy Sword". So you can rest assured that I will do my best to satisfy you.
+[Secretary] Are you satisfied with my work today, Commander?
+[Secretary (post OATH)] Are you satisfied with the sweets today? I've learned quite a lot of new tricks recently. I'll definitely make you happy everyday ♪
+[OATH] Сommander, am I...being promoted? You've given me your best treatment all of a sudden... My heart isn't ready yet... However, you'll still wait for me, right? Until the day I can completely satisfy you...
+[Greeting] Ciao. The beginning of a new day starts from your belly. What do you want to eat?
+[T-Doll Produced] It seems that new friends have come, I am also happy.
+[Joining an echelon] Beretta 70, I am honored to join the team.
+[Enhancement] Thank you very much for taking care of me, really.
+[Dummy-linking] This is a reward, I'm glad.
+[Logistics (start)] What kind of mission? I'm looking forward to it.
+[Logistics (end)] I'm just a little tired now.
+[Autobattle] Now's the time to get some results. Leave it all to me!
+[Title] Girls' Frontline!
+[Starting a combat mission] Now is the time to reclaim glory!
+[Starting a battle] It's the enemy! Move forward!
+[Skill activation] What a fool.
+[Heavily damaged] I don't...stand a chance.
+[Retreat] I didn't make any mistakes, but where did it all go wrong?
+[MVP] Ehehe, it was easy for me this time, too. Please remember that well.
+[Restoration] I'm sorry, Commander. Will you forgive me?
+[Halloween] Ah, I'll prepare some sweets right here. I hope they'll be to everyone's liking.
+[Christmas] Please, everyone will be pleased if you try this Italian Panettone Christmas cake which we have made wholeheartedly
+[New Year's Day] Commander, a new year has started, can I be promoted this year?
+[Valentine's day] Commander, please accept this from me. Ummm...if you like it...then I'm happy.
+[Tanabata] May my wish come true. C-Commander! Did you see it? Please don't tell anyone else!

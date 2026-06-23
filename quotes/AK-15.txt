@@ -1,0 +1,53 @@
+[Acquisition] My regards, Commander. I am AK-15, active tactical doll, please deliver your orders to me more efficiently.
+[Secretary] ...Were you talking to me just now? Sorry, I was asleep and couldn't hear you. Could you please repeat that? Was it important? I insist that you say that it again.
+[Secretary (post OATH)] It is quite infuriating. Why does 12 always like to do all of these meaningless things that are wasteful of resources. In any case, I don't agree with her one bit...no, sorry, I shouldn't be complaining about these trivial matters to you. Please forget it.
+[OATH] ...I don't understand, this order makes no sense whatsoever. Even if you hadn't added this new layer of relationship, I would have obeyed your commands. Well, it's fine...since it was your request, of course I will obey it unconditionally. As my Commander, you have always been trusted.
+[Greeting] You're late. This affects the management of the schedule, so you'll need keep pace. In the meantime, I have removed some unnecessary items from your itinerary. Please review it.
+[T-Doll Produced] Newcomers have joined the team. Commander, please confirm.
+[Joining an echelon] Please follow your instructions. Do your best not to fall behind.
+[Enhancement] Excellent performance means more options in various situations.
+[Dummy-linking] Rest assured. These girls will demonstrate their capabilities at 200%.
+[Logistics (start)] Roger. Be sure to carry out your duties.
+[Logistics (end)] Reporting. Mission complete.
+[Autobattle] Heading out. Try not to stretch your wings out too much while I'm away.
+[Title] Girls' Frontline!
+[Starting a combat mission] Mission start. Everyone, stay focused.
+[Starting a battle] Orders, garbage disposal.
+[Skill activation] You're in the way.
+[Heavily damaged] I'm holding the team back...my apologies.
+[Retreat] Mission failed. All units withdraw in order.
+[MVP] Mission complete. There's no time for rest. Your next set of orders, please.
+[Restoration] Ack...would it be possible to sleep and charge at the same time? No good? Then, as to not waste time, please place me on the Quick Repair queue.
+[Attack] Advance.
+[Halloween] I didn't prepare sweets because I hate sweets. By the way, I did some research, and the event known has Halloween has a special meaning that goes far beyond creativity. *sigh* I don't understand what makes it such a humorous situation.
+[Christmas] Commander, Merry Christmas. The dolls can't wait for Santa, but why would you want to receive a gift from someone who doesn't exist?
+[New Year's Day] Happy New Year, Commander. I don't understand why such a special concept of time exists to begin with, but would it be possible for us to continue working together as is?
+[Valentine's day] Commander, here's the chocolate that I made, please accept it. It was made with strict adherence to the recipe, despite the annotations that were made. Why is that...you ask? I heard there was a rule for that, apparently.
+[Tanabata] My wish? A hobby that doesn't amount to meaningless things. I believe it's better to become stronger than pray for an uncertain existence. What's more, the only thing that I can rely on is the wisdom of my superior.
+[Phrase] Incomprehensible.
+[Loading] Commander, I must ask you to please exercise patience.
+[Acquisition] ...AK-15, in position.
+[Secretary] Please stay by my side, Commander. I will keep you safe and stop anything that might try to harm you... No matter what it might be.
+[Secretary (post OATH)] I'm not bothered by how my commander uses me. When I question my orders, it is usually because I cannot see how they lead to the completion of the objective... However, nothing good ever comes of questioning them. You, on the other hand, have never given me cause to question you. That is ample proof of your superiority.
+[OATH] ...I do not understand. This order makes no sense. I will still follow your orders even if our relationship did not proceed to this new level. However, it's alright... Since it is your request, then I will comply with it unconditionally. After all, you have always been a trustworthy commander.
+[Greeting] I've been waiting a long time for you, Commander. Your orders, please.
+[T-Doll Produced] ...The new Doll has arrived, Commander. Do you wish to perform a QA inspection?
+[Joining an echelon] Work with the group... I will try.
+[Enhancement] There are no limits to Professor Shaw's design... I can do much more than this.
+[Dummy-linking] I'll make sure they operate at 200% of their strength, so don't worry.
+[Logistics (start)] Understood. I will complete the mission.
+[Logistics (end)] Reporting, mission complete.
+[Autobattle] I'll be back. Don't slack off too much.
+[Title] Girls' Frontline!
+[Starting a combat mission] I will head out in my strongest form.
+[Starting a battle] Target confirmed. Commencing extermination.
+[Skill activation] Target locked.
+[Heavily damaged] None of you... are getting away!
+[Retreat] I'll be back... next time.
+[MVP] It's not over yet. Don't lower your guard.
+[Restoration] Ahem... Can I charge myself while I'm being repaired? No? Alright, then please be quick about it and don't waste time.
+[Attack] Let's go.
+[Defense] I'm looking for a chance. Mind your defense and prepare to counterattack.
+[Phrase] I don't understand.
+[Tip] Instead of asking me, you should think about it yourself.
+[Loading] Commander, please do not be late next time.

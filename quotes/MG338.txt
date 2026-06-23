@@ -1,0 +1,30 @@
+[Acquisition] I am MG338. We meet again, Commander. Leni? Let's just leave this name in the past.
+[Secretary] Apologies, I did not mean to peek at your screen... But according to my observation, the longer you spend reading swimsuit magazines, the likelier it is that you'll suffer from insomnia, so...
+[Secretary (post OATH)] With our OATH established, does that mean I can express my thoughts and wishes more freely? Say... Can we have dinner together...? Uh, it's still really weird.
+[OATH] No shifty eyes, no fidgety hands, but your heart rate is going up... Which means... you're serious, Commander? Many missions demand my strength, but you're the first to ask for my company.
+[Greeting] Your eyes seem a bit puffy. Have you been burning the midnight oil again?
+[T-Doll Produced] The preparations are completely. I shall now welcome our newest recruit.
+[Joining an echelon] I have always worked solo before, please forgive me if I commit any social faux-pas.
+[Enhancement] The stronger I grow, the further away I am from unemployment, right?
+[Dummy-linking] I think I'm feeling... less lonely.
+[Logistics (start)] Then I'll be off. Please take care of yourself, Commander.
+[Logistics (end)] Commander, I am pleased to report that the exploration was a huge success. All bounties have been handed over to the depot for logging.
+[Autobattle] This mission will take a while to complete, and we will be traveling many miles. Please make sure you are well prepared, ladies.
+[Title] Girls' Frontline!
+[Starting a combat mission] Let us all proceed to the battlefield together.
+[Starting a battle] I am MG338, how may I help you?
+[Skill activation] This is how strong I am! Very strong! Insanely strong!
+[Heavily damaged] Why you... Bring it on!
+[Retreat] The next time we meet, I'll blow every last scrap of you off the surface of the earth!
+[MVP] Combat mode off... I didn't say anything rude, I hope?
+[Restoration] Now please let me enjoy some peace and solitude.
+[Attack] Safety mode off. Begin attack.
+[Halloween] Ghosts suddenly appearing behind me... could easily cause me to go on attack mode by mistake. Just the thought of all the repair fees makes me shudder...
+[Christmas] Christmas is the best festival in the year because one can give presents without having to come up with an excuse. This is very important to me...
+[New Year's Day] Happy New Year, Commander! I wish you good fortune boundless like the eastern seas and longevity like... This isn't the time for such phrases? But I really do mean them.
+[Valentine's day] Commander, these are all gifts from the ladies at the base. I have also prepared some... No, nevermind.
+[Tanabata] The ladies at the base have gone to look at magpies, are you not going, Commander? Me? I'll be staying behind to catch up with some work.
+[Defense] This kind of attack is barely a tickle!
+[Phrase] What can I do for you?
+[Tip] Others find me stiff and uptight because I'm always in my tactical gear? Then perhaps I should try wearing casual attire occasionally...
+[Loading] Please be patient. I will keep you company while you wait.

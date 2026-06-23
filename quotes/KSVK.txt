@@ -1,0 +1,46 @@
+[Acquisition] Fate's Chosen Commander, I shall bear witness to thine advance, please be conscious of it!
+[Secretary] I await thine orders. Now, Commander, make thy choice.
+[Secretary (post OATH)] I pledge, to cherish the moments I have. Happiness is rare in these times, but I already... cannot be without thee.
+[OATH] Commander, looking into thine eyes, there is no hesitation. The time is ripe, for thou art my heart's truest desire... I swear, by my vows, let us engrave each other's existence in our eternal destiny.
+[Greeting] This world is cracked and changes with our power.
+[T-Doll Produced] Friends are indispensable things.
+[Joining an echelon] I look forward to witnessing everyone's success.
+[Enhancement] With great power comes great responsibility.
+[Dummy-linking] Are we not also somebody's dummies?
+[Logistics (start)] Come forth! The objective of our mission!
+[Logistics (end)] Commander, this is what thou shalt receive.
+[Autobattle] Victory calls to us!
+[Title] Girls' Frontline!
+[Starting a combat mission] Forward, advance! Whatever awaits us lies beyond!
+[Starting a battle] Nothing shall stop us from reaching our destination!
+[Skill activation] Only targets appear before mine eyes!
+[Heavily damaged] There is now way I can go back!
+[Retreat] No matter the number of calamities, I will grow stronger!
+[MVP] Commander, thou shouldest pay close attention to each victory.
+[Restoration] Pain...is proof that the enemy couldest not kill thee!
+[Halloween] Until the light of dawn breaks over the horizon, the souls will never find their way back.
+[Valentine's day] I mixed up sweet and bitter. What flavor will the next chocolate be, I wonder? That answer, thou mayest never know.
+[Tanabata] Altair and Vega. Even if they are just stars, they too have names just as we do.
+[Acquisition] Fate's Chosen Commander, I shall bear witness to your advance, please be conscious of it!
+[Secretary] The strength of our bodies pale to the strength of our spirits, even children such as us can.... Uwu... I can't improvise anymore...
+[Secretary (post OATH)] Commander! I got some inspiration from watching you sleep yesterday and I came up with some new quotes! Wanna hear?
+[OATH] There are things that I realized only after I've become a child... People differentiate little between "love" and "admiration," and sometimes even use the two interchangeably. I believe that for love you have to make your feelings known. If not by words, then by your actions... What do you think? Commander?
+[Greeting] This world is cracked and changes with our power.
+[T-Doll Produced] Friends are indispensable things.
+[Joining an echelon] I look forward to witnessing everyone's success.
+[Enhancement] With each year passing by, the accompanying responsibility is getting bigger as well.
+[Dummy-linking] Are we not also somebody's dummies?
+[Logistics (start)] Come forth! The objective of our mission!
+[Logistics (end)] Commander, this is what thou shalt receive.
+[Autobattle] Victory calls to us!
+[Title] Girls' Frontline!
+[Starting a combat mission] Forward, advance! Whatever awaits us lies beyond!
+[Starting a battle] Nothing shall stop us from reaching our destination!
+[Skill activation] Ufufu, I have found you, the bad guys!
+[Heavily damaged] Uwaah! Scary thing is scary!
+[Restoration] Pain...is proof that the enemy could not kill thee isn't it.
+[Acquisition] It's been a while, destined Commander. As always, I shall bear witness to your journey with these new eyes!
+[Secretary] What is it? You keep staring at me. Just because I've shrunk doesn't change anything - except our feelings.
+[Secretary (post OATH)] Oathmaker, I receive thy wish. I shall give it my all to attain what you've been working for.
+[OATH] Commander, I no longer see any confusion in your eyes. The time is ripe, and you are the sole truth within my heart… Oh oathsworn one, let us carve an eternal existence into each others' fates...
+[Title] Girls' Frontline!

@@ -1,0 +1,21 @@
+[Acquisition] UMP40, making an appearance! Commander, I will replace all those outdated girls for you!
+[Introduction] To replace the older SMGs, me, UMP40 has been designed! Well, others like MP5 did their best, but after all they are from an older era. Me with my accuracy and reliability will surely be the new favourite of the market. Commander you can't go wrong with me!
+[Secretary] CN: Commander, let's play Hide and Seek! JP: Commander, let's play Tag!
+[Secretary (post OATH)] Commander, do you want to hold another party this weekend? You like my friends, right? They're all decent people, hehe♪
+[OATH] Commander, what do you need me for? I'm waiting to go to the beach…… Eh? No way, right now, you actually…… YAY! I'm gonna tell everybody that from now on, the Commander is mine!
+[Greeting] Commander, today's secretary is UMP40, do remember it well~
+[T-Doll Produced] A new friend? MP5 is that you?
+[Joining an echelon] Pay attention to me ok~
+[Enhancement] Now I have outstanding performances!
+[Dummy-linking] A good weapon like me, you can't go with just one.
+[Logistics (start)] In to the sun shines!
+[Logistics (end)] I'm back~! Ahh? I'm tanned again?
+[Autobattle] Roger, I'm coming to help.
+[Title] Girls' Frontline!
+[Starting a combat mission] I'll show you my true strength!
+[Starting a battle] Enemies? Begin counter attack!
+[Skill activation] Ready, fire!
+[Heavily damaged] Over did it a little... Sorry...
+[Retreat] No, no more... I'm super hungry...
+[MVP] This is the new generation! Those antiques can't beat me.
+[Restoration] MP5... you came to save me, even though I was bullying you all this time... Waaaahhhhhh! (Cries)

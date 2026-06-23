@@ -1,0 +1,25 @@
+[Acquisition] Ahh, you the boss? AK-74U is my name. For the sake of your career, please thoroughly consider the services I provide.
+[Introduction] (ditto)
+[Secretary] Whatever you want hurry up with it, Val is waiting for me.
+[OATH] Hold up, Boss. Did you make a mistake? Don't get any closer! I'll pump you full of lead! Well...what...just this once! No, I'll forgive you in the future.
+[Greeting] Boss, what were you doing just now? Heh, anyways, do you need me for something?
+[T-Doll Produced] A newcomer is here. Heh, in any case it's probably big sis AK47.
+[Joining an echelon] Huh? How much can this team do?
+[Enhancement] Спасибо—. It's cheaper this way. No sense in having to work so hard for it.
+[Dummy-linking] Eh!? You serious, Boss? Hehe, well I'm happy about it.
+[Logistics (start)] I'm out to procure some goods. Leave everything else on the answering machine please.
+[Logistics (end)] I'm back. You didn't have any problems while I was away, did you?
+[Autobattle] In the end, you can rely on me.
+[Title] Girls' Frontline!
+[Starting a combat mission] Alright time to go, did you bring your insurance?
+[Starting a battle] You wanna die that badly?
+[Skill activation] Hihi! A poisoned bullet! Thanks for your patronage~!
+[Heavily damaged] Eh!? Me!? Nononono!
+[Retreat] Kuh, this wasn't...the result I was hoping for.
+[MVP] Hmph, all thanks to me. Hopefully the result will be just as good next time?
+[Restoration] You have work to do, Boss. Don't get any closer, you freaking pervert.
+[Halloween] Why are you all alone with 9A-91 at this festival? Something's fishy...you guys...that's really weak!
+[Christmas] Is it Christmas already? I'd rather be spending time with big sis AK47 than with everyone else.
+[New Year's Day] Let's work harder next year, okay boss? Oh, and I'll say it again so that it's not misunderstood. This is flattery, you hear? Nothing more.
+[Valentine's day] It's now time to send out the chocolate. Um...I mixed wasabi flavor into that. This is my expression of love, hihihi.
+[Tanabata] Tanabata? Isn't it inconvenient making up an excuse to meet up with someone for only one day? True friends would meet regardless of the occasion.

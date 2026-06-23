@@ -1,0 +1,30 @@
+[Acquisition] ...Ah. I've arrived already? I was focused on reading my book. VHS reporting, please use me to your heart's content.
+[Secretary] If you're at a loss for how to handle a situation, don't try to force the issue and get lost in trivial details. That will only lead to tunnel vision on your part. Instead, you should try doing something else. How about a 32-sided Rubik's Cube?
+[Secretary (post OATH)] Why did you stop halfway? It's alright, your frustrations don't count as noise. Once you've finished venting, we can think about a way to deal with them together.
+[OATH] Thank you for bringing me here, Commander. That lot is just too noisy. You have something else you want to say? What is it... Ah, this is... What a surprise, Commander. But I don't dislike you. So yes, I agree.
+[Greeting] Is it time for work already? Hang on, let me put these away.
+[T-Doll Produced] Be quiet when you come out. I'm building a model.
+[Joining an echelon] I'm not good at teamwork... But I guess I'll have to try.
+[Enhancement] There is a meaning in becoming strong.
+[Dummy-linking] Can these Dummies keep up with my movements?
+[Logistics (start)] Want me to get some toys for you?
+[Logistics (end)] I'm back, there was nothing interesting out there.
+[Autobattle] I can do it if I just imitate your tactics.
+[Title] Girls' Frontline!
+[Starting a combat mission] Let's go. Advance carefully.
+[Starting a battle] Wipe them all out and let none survive — that's it, right?
+[Skill activation] What can be seen can be learned.
+[Heavily damaged] Ah, why does my body feel so light...
+[Retreat] This is just like how you can get stuck when trying to solve a Rubik's Cube. Calm down and try again later.
+[MVP] No matter how many setbacks we face along the way, achieving victory is the best outcome.
+[Restoration] This place is boring, please give me a book.
+[Attack] Now is not the time to hold back.
+[Halloween] So once I make myself up to be a little scary-looking and sit here, I'll be able to avoid the vast majority of social interactions? No, I don't have a phobia of social interactions, I just feel that they're unnecessary.
+[Christmas] What do you want? It's not often that we have a festival where we can make and fulfil each other's wishes. If it's within my power to give, I'll make sure to satisfy you.
+[New Year's Day] Oh come on, give me a break, is there nowhere today that I can be at peace? Happy New Year, Commander, let me duck into your room for a bit.
+[Valentine's day] I learned how to make chocolate, so that's simple enough. Do you want some? Okay, help me build this model and I'll make some for you.
+[Tanabata] I wish I had a private space that followed me around and which I could enter for some peace and quiet whenever I wanted to be alone. Ah, in other words, I should get a sleeping bag.
+[Defense] Defend and minimize damage!
+[Phrase] I think I can learn this.
+[Tip] Try doing it the way I said.
+[Loading] Ah, we've already arrived. I'll come over once I finish this page.

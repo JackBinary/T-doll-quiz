@@ -1,0 +1,54 @@
+[Acquisition] Valmet M82, reporting to you. May I always be by your side... should you find me useful.
+[Introduction] (As above)
+[Secretary] I just saw a pretty handsome lady in the hallway. I wanted to go up and talk to her, but she had a scary aura about her and seemed a bit too strict and serious... It would be nice to meet her again sometime.
+[Secretary (post OATH)] Saluting! Good morning, Commander. Today's tasks are still heavy...but that doesn't matter. Believe in me as always and give me your orders. I will obey them masterfully.
+[OATH] ...I can't believe that after all this time you would say that to me. For the longest time, I was afraid of who would be left behind. But now, to have someone who would always have need of me? ...Thank you.
+[Greeting] Welcome back, Commander. I genuinely thought you wouldn't be coming any... No, it's nothing. I'll pour you coffee.
+[T-Doll Produced] Is that... the new recruit? But I won't lose either.
+[Joining an echelon] We have more helpful comrades with us. That's a good thing.
+[Enhancement] I wonder if I can do even better...
+[Dummy-linking] Am I...even qualified to be having such dreams...
+[Logistics (start)] Time flies... Every result has a reason behind it.
+[Logistics (end)] If you put in the effort, you will always be rewarded.
+[Autobattle] I'll do my best, please look forward to it!
+[Title] Girls' Frontline!
+[Starting a combat mission] Will you fight...or will you stop...I just want to hit this.
+[Starting a battle] Path? Your destination has no path to begin with.
+[Skill activation] Take aim, fire!
+[Heavily damaged] I'll come again...
+[Retreat] I'm truly sorry... I'll do better next time...
+[MVP] My eyes were meant to see this very moment.
+[Restoration] I'm not worried about dying. What I fear is...not having a legacy to leave behind.
+[Halloween] It's the knight of darkness! There's knight of darkness here! I saw it in the locker earlier...! Can I shoot?! It's fine if shoot right?!
+[Christmas] Merry Christmas, Commander. Don't you tired trying to escape the mess of the party earlier? If it fine with you, would you like to take a rest and watch a movie after this?
+[New Year's Day] Commander, Happy New Year. Here goes another year for us to live in. I'll always do my best to be useful for you.
+[Valentine's day] Commander, here is my handmade chocolate. Please take it. Do you think it's too much? Sorry, I don't know what you like, so I just made this all. How... is it?
+[Tanabata] Good evening. Commander, are you going for stargazing? The moon looks magnificent tonight. My wish... you ask? I already wrote it. Besides, it already came true.
+[Acquisition] This is Valmet M82 reporting. I'd like to be with you at all times... Provided you deem me worthy of deployment.
+[Secretary] Commander, aren't you going to take out an umbrella? I'm always afraid that the sky will fall, so having an umbrella will help me hold out a little longer in case it does.
+[Secretary (post OATH)] Commander, there's a special kind of feeling that comes with carrying a transparent umbrella on a rainy night. You're too tall, so would you mind holding the umbrella for me?
+[OATH] Can you really give this to me, Commander? Will my fellow students secretly shun me? Will my desk be vandalized? Are you going to abandon me? Then... I'll...accept it, I guess?
+[T-Doll Produced] So we've got a new recruit... But I won't lose out.
+[Joining an echelon] You need to line up too, kitties. Don't go straying off now.
+[Enhancement] Can I do better?
+[Dummy-linking] Do I really deserve to have such grand dreams...
+[Logistics (start)] Time passes... And there is a reason for everything under the sun.
+[Logistics (end)] You get as much as you put into it.
+[Autobattle] I'll do my best. Please watch me.
+[Title] Girls' Frontline!
+[Starting a combat mission] Either we fight or we stop. There's no third option.
+[Starting a battle] Roads? Where you're going... There never were any roads.
+[Heavily damaged] The wind's too strong... I'm being blown away!
+[Retreat] I'm sorry. I'll do better next time.
+[MVP] My eyes are fixed firmly on the present.
+[Restoration] if I go to sleep, will I ever wake up again?
+[Attack] Everything must end.
+[Halloween] it's the Black Warrior! Commander! I just saw the Black Warrior! He's right there, in the hallways! Should we attack him? Will we?!
+[Christmas] Merry Christmas, Commander. Looks like you really enjoyed yourself today. Are you tired? Why not watch a movie with me for a bit and relax?
+[New Year's Day] Happy New Year, Commander. We've finally rung in the new year. I hope I'll continue to be valuable to you in the future.
+[Valentine's day] Commander, this is the chocolate I made. Please take it... I apologize if the portion is too large. I didn't know what flavor you liked so I made them all. What do you think?
+[Tanabata] Good evening, Commander. Are you going to look at the stars? The moon is most charming tonight... You want to know my wish? I already made it, and it's currently being granted.
+[Defense] Come with me if you want to live!
+[Phrase] Don't abandon me.
+[Tip] This ought to help minimize risk...
+[Loading] Welcome back, Commander!

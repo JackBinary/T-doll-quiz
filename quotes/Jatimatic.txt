@@ -1,0 +1,29 @@
+[Acquisition] Jatimatic — that's my name. You can also call me Jati. Whichever you prefer.
+[Secretary] You want me to make you a coffee? Commander, humans have been developing technology for the purpose of freeing up their hands. I think we can leave the coffee-making to the coffee machine. Ah, please get me a cup too. Thanks.
+[Secretary (post OATH)] Oh? The fully-automatic meal-prep machine is broken? Hm, I was hoping I could just lie down while it prepared a meal all by itself... Can't be helped. You'll have to do something about dinner tonight.
+[OATH] Hm... Does this give me complete access to all of Griffin's resources? No? That's a shame. And here I thought I wouldn't have to work so hard anymore... But at least I can rely on you now. This feels like an even better deal than the former... So it's decided then~!
+[Greeting] Welcome, welcome. Have a look at your schedule for today. Look down. It's on the robot right by your feet.
+[Joining an echelon] Wow, are we going on duty together today?
+[Enhancement] Becoming more adept at using tools is also a way of getting stronger. Trust me on that.
+[Dummy-linking] Now I can snooze at the dorm and leave all the work to them~!
+[Logistics (start)] We're traveling somewhere far away...? Right, let me get my hands on a vehicle so we don't have to walk.
+[Logistics (end)] Good thing I booked a truck. How else was I supposed to haul so much stuff back?
+[Autobattle] Then let's all stay in position and get some rest... Oh, we can't?
+[Title] Girls' Frontline!
+[Starting a combat mission] Thanks for your hard work in advance~!
+[Starting a battle] The enemies sure are motivated...
+[Skill activation] Here I go.
+[Heavily damaged] To make myself a smaller target, I'm just gonna lie down for a bit. Tell me to move when the enemy is here...
+[Retreat] Taking it head-on isn't the way to go. Let's think of something else.
+[MVP] Doesn't matter how we did it. The bottom line is we won.
+[Restoration] There's still some time left. Guess I'll take a short nap...
+[Attack] It'd probably work to our advantage if we start with an artillery strike?
+[Halloween] Ugh, I really don't feel like messing around the whole night dressed as a monster... If anyone is willing to take my place, I'll happily give her all my sweets.
+[Christmas] If Santa would give me a UAV, I'd be able to take care of all kinds of high-risk assault missions once and for all. Unfortunately, the old geezer isn't as generous as I'd hoped.
+[New Year's Day] Oh, a red packet for me? Thanks! With this money, I can buy a foldable bed for my afternoon naps~!
+[Valentine's day] Happy Valentine's Day~ Try this chocolate. I've got dark ones, white ones, and ones with different fillings... You're wondering why there are so many different kinds? Ha, I've been given so many I can't eat them all myself...
+[Tanabata] I hope I'll master the technique of using more tools. Only by using tools well will my work efficiency increase~!
+[Defense] This is quite challenging. Let me try blocking that.
+[Phrase] Tools are what leads to improvement~!
+[Tip] You like the flowers on my clothes? Heheh, they're actually camouflaged bulletproof armor – they're more useful than they look.
+[Loading] We get more rest, isn't that nice?

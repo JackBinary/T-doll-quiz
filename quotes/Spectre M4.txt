@@ -1,0 +1,26 @@
+[Acquisition] Spectre M4, formally joining your ranks, sir! Um... Commander? Is there no welcoming party?
+[Introduction] Commander, it's me, Spectre M4 submachine gun. I'm an assault weapon designed for urban combat. To meet the needs of fast-paced combat, there are a lot of unusual modifications on me. I think it's quite reasonable to say that I'm extremely popular with everyone...
+[Secretary] Commander, when's it gonna be my turn?
+[Secretary (post OATH)] Commander, I was also very active in front of everyone today. With your support, nothing's impossible for me!
+[OATH] Commander, Commander, why'd you pick me! Ah, it must be because of my immense popularity! ...Ahaha, I know, that's a lie. Well, it doesn't matter, because you still chose me in the end, right? Right?
+[Greeting] Good morning, commander. I'll cooperate! Eh, what's with that grim face?
+[T-Doll Produced] A new partner? That's nice!
+[Joining an echelon] Spectre M4, enlisting! Hey, give me applause!
+[Enhancement] It would be nice if my range increased.
+[Dummy-linking] A submachine gun should be like this!
+[Logistics (start)] Hey, no one want to dispatch me?
+[Logistics (end)] I'm back... eh, where's the welcoming party?
+[Autobattle] Spectre M4 coming. You should be grateful!
+[Title] Girls' Frontline!
+[Starting a combat mission] Spectre M4, departing! Hey, match my pace!
+[Starting a battle] Enemy troops spotted!
+[Skill activation] Fire! Fire!
+[Heavily damaged] Wha! They found out...
+[Retreat] Sorry that I wasn't of much help...huh? Where did everybody go?
+[MVP] Did you see my performance? Huh, where's everyone?
+[Restoration] I beg you... don't tell the others...
+[Halloween] Ooh, Halloween eh? I'll participate. Eh, you also get candy if you wear this costume? That's nice!
+[Christmas] Merry Christmas, Commander! You want a bigger tree eh, just leave it to me. Eeh, the trees around here is just too short.
+[New Year's Day] Commander, Happy New Year. This year I'll get everyone's attention. Hey, listen to me!
+[Valentine's day] I've prepared chocolate for you, commander. Mine is different from the rest. Eh, it's not that exciting? S-sorry.
+[Tanabata] Today is the day you make a wish. My wish is... with commander... uhh... it's nothing.

@@ -1,0 +1,25 @@
+[Acquisition] Thanks for giving me shelter commander. I can bake very tasty bread, and I'll do my best in battle too!
+[Secretary] Are you worried about everyone, Commander? I'm sure they'll be okay.
+[Secretary (post OATH)] Any ideas for the next tea party, Commander? You will get your share, of course...(whispers) as always, it'll be my secret recipe.
+[OATH] Co-commander! This is... for me?! I never dreamed that... this day would come... No! I will never let anyone take victory or you away from me!
+[Greeting] Commander, good morning. Would you like some freshly baked bread?
+[T-Doll Produced] New girl is joining in.
+[Joining an echelon] m45, partaking in the mission.
+[Enhancement] I too, has become stronger? Thank you, Commander!
+[Dummy-linking] I'll work hard to become more popular~
+[Logistics (start)] I'm heading out.
+[Logistics (end)] I'm back. I bought flour as well.
+[Autobattle] It's a little troubling but... I'll do my best!
+[Title] Girls' Frontline!
+[Starting a combat mission] Begin mobilization, departing!
+[Starting a battle] Everyone, we shouldn't lose!
+[Skill activation] Everyone, let out your courage!
+[Heavily damaged] This much is just... I won't quit!
+[Retreat] Everyone's true strength shouldn't only this much... But why it's turned out like this...
+[MVP] Ehehe, despite how I look, I have a number of fans.
+[Restoration] Forgive me, commander. Please don't see me for a brief of time.
+[Halloween] Somehow halloween feels scary. Eh, cosplay? I have a bit of interest in that, ehehe.
+[Christmas] Merry Christmas, commander! I'm glad to spend this night with you, commander. I wonder if the other will get jealous.
+[New Year's Day] Commander, Happy New Year! I made new bread with this new formula! Would you eat it to celebrate the new year?
+[Valentine's day] Commander, here is my chocolate, ehehe. I'm used to make chocolate and bread, I'm good at this.
+[Tanabata] The sounds of bamboo and tanzaku dancing in the night sky... totally romantic. They make me forget about battle.

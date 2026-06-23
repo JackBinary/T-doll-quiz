@@ -1,0 +1,25 @@
+[Acquisition] So you are my commander. I'm Type 59~ Hereafter please look after me.
+[Secretary] Commander, what's the matter?
+[Secretary (post OATH)] Commander, Commander! Where should we go next time? The outside world is really awesome! I still want to see and experience many many more places!
+[OATH] Commander, even if I look like this, I keep doing my best. That's why... eh? That's not what you mean? Are you fine with me? I love you too, commander~
+[Greeting] Today is my duty~ Commander, let's play together~
+[T-Doll Produced] New comrade! It got more lively!
+[Joining an echelon] Hooray~ It's finally my turn~
+[Enhancement] Ehehe, I'm quite different from Makarov right?
+[Dummy-linking] Oooh, I'm coming from mass production. I'll try harder!
+[Logistics (start)] If it coming to secret work, leave it to me. I'm the best at it.
+[Logistics (end)] Hey, look at my result.
+[Autobattle] If I'm there, you shall not worry.
+[Title] Girls' Frontline!
+[Starting a combat mission] It's new operation~ Let's get ramped up~ Ehehehe~
+[Starting a battle] Enemy coming from the front!
+[Skill activation] I choose you!
+[Heavily damaged] Nooo, even though it's my turn...
+[Retreat] I'm just lack of experience. Please don't treat me like a kid!
+[MVP] Ehehehe, I'm doing my best. Good work everyone!
+[Restoration] Ugh... with this my effort is clearly bear fruit. I'll leave the rest to you. ehehe.
+[Halloween] It's not that bad to eat sweets from foreigner customs. Eh, Who brought this sweets?
+[Christmas] The rumoured Chirstmas is coming! Umm, let's enjoy it!
+[New Year's Day] New year! It's new year! The expense for new year money is tough! Commander, save me!
+[Valentine's day] I can't really follow foreigner customs. Handmade chocolate is difficult to make.
+[Tanabata] On this romantic day I'm going to eat all the good stuff, Commander. Eh, eating a lot isn't romantic at all?

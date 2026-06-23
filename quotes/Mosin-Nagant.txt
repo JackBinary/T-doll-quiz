@@ -1,0 +1,45 @@
+[Acquisition] Comrade, хорошо ( very good )!
+[Introduction] During a certain weapon field test, the committee decided to review designs from two country's designer and improvise the result, and the name "Mosin-Nagant" is the name of the two designers. I now have the chance to retrieve peace for everybody. Thank you Commander, please expect my performances.
+[Secretary] Oh, what's going on?
+[Secretary (post OATH)] Are you tired from the work Commander? Wanna go for a walk together? There are many things I wanted to share with you today.
+[OATH] You have been delegating my responsibilities on yourself since the very beginning, now please let me share my trust with you too, I will be forever by your side Commander, this is the happiest moment of my life.
+[Greeting] Welcome back~
+[T-Doll Produced] Looks like an Android has finished production, shall we go check it out?
+[Joining an echelon] Alright, let's go~
+[Enhancement] Wow, feels great!
+[Dummy-linking] Expanding our squadron? Please don't forget the friendship we had~
+[Logistics (start)] Alright everyone move out, let's get along!
+[Logistics (end)] I'm back, everything still in harmony?
+[Autobattle] Don't worry everyone, I'm here!
+[Title] Girls' Frontline!
+[Starting a combat mission] Departing with pleasure!
+[Starting a battle] Let's go!
+[Skill activation] Aiming, fire!
+[Heavily damaged] Just you wait...
+[Retreat] I'm lost.
+[MVP] Yaaay!
+[Restoration] Adding reinforcements now? Gotta gather everyone up again.
+[Halloween] Where did Nagant M1895 go? I really don't want to take my hat off even if it's Halloween... What a hassle.
+[Christmas] Christmas? Don't put too much faith in Santa's existence.
+[New Year's Day] New year is coming again, Comrade.
+[Valentine's day] Such a busy day. I don't have a good chance to talk. Here, a chocolate from me. It's encouraging, right?
+[Tanabata] My wish is never granted even once.
+[Acquisition] Comrade Commander, хорошо！Allow me to be everyone's strength.
+[Secretary] Commander, just leave it to me, don't worry.
+[Secretary (post OATH)] With the Commander at my side, my work efficiency will surely increase hehe... After all, I don't want to look bad in front of the people I like.
+[OATH] You have been delegating my responsibilities on yourself since the very beginning, now please let me share my trust with you too, I will be forever by your side Commander, this is the happiest moment of my life.
+[Greeting] Greetings, comrade! Cheer up! I'm right beside you.
+[T-Doll Produced] Another comrade?
+[Joining an echelon] Хорошо！Feeling great!
+[Dummy-linking] Expanding our squadron? Please don't forget the friendship we had~
+[Logistics (start)] Alright everyone move out, let's get along!
+[Logistics (end)] I'm back, everything still in harmony?
+[Autobattle] Don't worry everyone, I'm here!
+[Title] Girls' Frontline!
+[Starting a combat mission] Orders received! Let's go everyone!
+[Starting a battle] Enemy sighted! Prepare to intercept!
+[Skill activation] Огонь ( Open fire )！
+[Heavily damaged] Guh...I was reckless.
+[Retreat] Don't feel down. We've still got another chance.
+[MVP] Everyone, it's our victory! This victory is dedicated to the Comrade Commander!
+[Restoration] Adding reinforcements now? Gotta gather everyone up again.

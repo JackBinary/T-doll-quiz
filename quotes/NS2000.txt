@@ -1,0 +1,25 @@
+[Acquisition] 'Sup, Commander! I'm NeoStead 2000! So, do you like me?
+[Secretary] That training went as smoothly as ever! Think I'll use more weight next time!
+[Secretary (post OATH)] Commander, do you want mild or spicy curry today? ...Oh, hurry up and choose!
+[OATH] Commander, I think it'd be better if I practiced for something like this beforehand... err, not that I need any time to think about it! If it's you, Commander, I can only think of one response!
+[Greeting] Commander, let's get to training!
+[T-Doll Produced] Fuhehe... wonder what kinda doll it'll be!
+[Joining an echelon] I'm fine with any position! Leave it to me!
+[Enhancement] Ehehe! Bet I can break my old record now!
+[Dummy-linking] I better start training even more!
+[Logistics (start)] This is just another form of training!
+[Logistics (end)] I still have way more left in me! Wanna keep going?
+[Autobattle] You can leave this to me!
+[Title] Girls' Frontline!
+[Starting a combat mission] Time to show off the fruits of my training!
+[Starting a battle] Target sighted!
+[Skill activation] I'll be your opponent!
+[Heavily damaged] Whoa! Such strength... even I...
+[Retreat] Urgh... I guess this is where my withdrawal training comes into play...
+[MVP] Ehehe! Did I set any new records with that victory?
+[Restoration] Did I slack off on my usual training...?
+[Halloween] I can't decide between dressing up as a ghost or a monster... should I dress up as a monster's ghost?
+[Christmas] Back home, Christmas happens during the hottest time of the year, so Santa doesn't wear those super hot clothes! Hahaha!
+[New Year's Day] Shikikan, here's my training regimen for the next year! I made one for you, too! Let's give it our all together!
+[Valentine's day] Give this a taste, Commander! It's curry-flavored chocolate! ...Or is it chocolate-flavored curry?
+[Tanabata] I have no idea what to wish for! I guess if I'm gonna write something, how about... "I wish for everyone's wishes to come true"!

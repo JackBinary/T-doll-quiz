@@ -1,0 +1,30 @@
+[Acquisition] Bushmaster ACR reporting for duty. I'll jot down everything carefully.
+[Secretary] What is it, Commander? A new job? Awesome, I'll go right away... Nothing, I was just worried you came to tell me I've been transferred.
+[Secretary (post OATH)] Perhaps losing some short-term memory isn't so bad. I'll just think of it as fast-forwarding in time... Hmm? That's not what I meant. It's just that...one second you're smiling at me, the next second I have a bouquet in my hands. Ha, isn't it like magic? Not to mention...it's a spell you cast on me.
+[OATH] ...You sure you didn't put down the wrong name on your memo? Is it wise to give this to me? My neural cloud keeps deleting those happy memories... You alone...you're the only one I absolutely don't want to forget, but can I do it...?
+[Greeting] Good work today, Commander. Regarding today's mission... Huh? Was I saying something just now? Welcome back, Commander. About today's tasks...
+[T-Doll Produced] I hope you'll get quickly acquainted with the squad.
+[Joining an echelon] See you later. Please leave everyone's protection to me.
+[Enhancement] The feeling of repairing data over and over again... it could become a habit.
+[Dummy-linking] I would be nice to not suffer any experience any performance flaws...
+[Logistics (start)] Not a problem. I've jotted everything down onto sticky notes. See you later.
+[Logistics (end)] I lost my sticky notes, but everything that the Commander needs is here. I'm really sorry about that.
+[Autobattle] No need to worry. I'm proceeding according to the manual on my mental map.
+[Title] Girls' Frontline!
+[Starting a combat mission] Platoon orders received! Advance!
+[Starting a battle] Target sighted! Ready to move!
+[Skill activation] Destroy all memory of them.
+[Heavily damaged] I'll be fine... as long as everyone else is okay...
+[Retreat] Eveyone's safety comes first. We'll get our revenge next time.
+[MVP] Nobody got injured, right? Everyone did a wonderful job today.
+[Restoration] I'm in need of repairs! Please, help me!
+[Attack] Haah!
+[Halloween] Ahem... would you mind lending me a hand? There are too many children on the base, and I was thinking of using a drone or a transtumer to distribute candy. It's only for today, if you could? Let's hurry. Before the kids who didn't get candy start playing pranks.
+[Christmas] It was a relaxing day. We all get together and feel like a family. Would you like to take a group photo later? I need to keep the fun memories in shape. Anyway, I'm... Fufu, well, you know.
+[New Year's Day] Happy New Year. Commander... and, um...
+[Valentine's day] A date with just the two of us...? Excuse me, no matter how calm I am in this situation... erm, could you give me a moment? I need to jot down dating tips on some sticky notes... Also, I have to do something about this habit of blushing...
+[Tanabata] Tanabata wishes are so wonderful. My wish, to put it bluntly... is that everyone can be safe forever. Please take care of yourself too, Commander. And... next year, please tell me about this wish.
+[Defense] Tch...
+[Phrase] Huh?
+[Tip] Huh? Didn't you teach me that?
+[Loading] Commander, let's check today's schedule.

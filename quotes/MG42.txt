@@ -1,0 +1,25 @@
+[Acquisition] Nice to meet you commander. Would you like to hear cloth ripping sound?
+[Introduction] Improved product based on MG34, MG42 general purpose MG. Originally designed to replace sister but in the end we served together until the end of the war. As the fastest firing MG of the time, as long as there are enough bullets, I can easily suppress all the enemies.
+[Secretary] Commander, if you misfire that would be bad.
+[Secretary (post OATH)] Would you like me to sing for you Commander? Be grateful, only MG34 onee-shama gets this kind of treatments.
+[OATH] Eh? You... choose me, commander? Then... I'll give you a hug. Next call MG34 onee-shama and the three of us can celebrate it together. It's okay isn't it?
+[Greeting] Hoaaammm... Good morning Commander.
+[T-Doll Produced] Commander, T-Doll construction completed.
+[Joining an echelon] No worries, you can bare witness to my performance.
+[Enhancement] Alright, all prepared!
+[Dummy-linking] Formation expanded, now I'm one step closer to onee-shama~
+[Logistics (start)] I'm going now, but my heart is always with MG34 onee-shama~
+[Logistics (end)] I'm back~ is MG34 onee-shama here to pick me up?
+[Autobattle] MG34 onee-shama, give me a chance sometime!
+[Title] Girls' Frontline!
+[Starting a combat mission] Commander, sister, watch me, I will have a triumphant return!
+[Starting a battle] W...what?!
+[Skill activation] Fire, fire!
+[Heavily damaged] O...Onee-shama...
+[Retreat] Onee-shama, I'm sorry. I couldn't keep the promise...
+[MVP] Brilliant, I have to celebrate it with onee-shama after this~
+[Restoration] Time for a rest, MG34 onee-shama is resting too?
+[Halloween] Woah~ It's Halloween~ Trick or Treats Commander~
+[New Year's Day] If I don't shay new year greeting, onee-shama will get mad. Happy New Year, commander!
+[Valentine's day] It's valentine! I'm looking forward to onee-shama's chocolate! Commander want it too? I want give you any.
+[Tanabata] Onee-shama onee-shama! I want to try goldfish scooping in the feshtival!

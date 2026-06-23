@@ -1,0 +1,25 @@
+[Acquisition] Oh my? You're the Commander! You're famous on the Griffon Anonymous Message Board! Can I take a picture of you to upload on there later?
+[Secretary] [Bullpup is the ultimate form of assault rifle! Don't @ me.] ...Send!
+[Secretary (post OATH)] Hey... how come only you replied to my bait thread again yesterday... Y-You weren't taking pity on me, were you?!
+[OATH] Oh my, are you really serious, Commander? If the Anonymous Message Board gets wind of this, they'll surely think this is just an urban legend. Let me take a photo so those idiots will have nothing left to question~
+[Greeting] Commander, is there anything new going on?
+[T-Doll Produced] [A promoter has arrived! Wanna see if she'll be useful?] ...Send!
+[Joining an echelon] 'Coz we're both battle buddies, let's follow each other's accounts.
+[Enhancement] Do you intend to test my limits?
+[Dummy-linking] Ehehe... This way I can use more message board accounts.
+[Logistics (start)] If you wanna know the latest information on the operation, just check the live broadcast on the message board.
+[Logistics (end)] Wait. Let's take a photo before our arrival... okay.
+[Autobattle] Easy Peasy... I'll finish it right now.
+[Title] Girls' Frontline!
+[Starting a combat mission] If there's anyone who doesn't know how to fight, just follow my lead.
+[Starting a battle] Let's have a splendid battle. Live on the Message Board!
+[Skill activation] Hey hey, this isn't going into the attack. Watch closely!
+[Heavily damaged] Oh my~, so this battle situation really is disadvantageous? Should I share it?
+[Retreat] Good grief, I just got beat up by these guys on the message board.
+[MVP] [I won again~, kyahaha~! ~Winning too much can get you in trouble~] ...Send!
+[Restoration] [Come here, rookies. This veteran will teach you tactical repair.] ...Send!
+[Halloween] Commander...have you ever seen the ghost of a doll before? You can totally find them on the net. Then again, how do you tell the difference between a ghost and a doll?
+[Christmas] [Getting my Christmas present! Ya jealous?] ...Send! Huh? Commander, you still haven't found a present to give me? Hurry up, hurry up!
+[New Year's Day] The calendar used depends on the country. The one we currently use was derived from ancient Rome. At first, there were only 10 months. It seems that Rome at that time celebrated the new year in March.
+[Valentine's day] Kyahahaha~! The Commander really is popular~. I'll post lots of pics of all the chocolates you received on the image board~
+[Tanabata] Commander, look! There's pics of Vega and Altair on the net! It's your wish... to do this right?!

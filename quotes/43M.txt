@@ -1,0 +1,23 @@
+[Acquisition] Good day, Commander! Today's a good day as well, isn't it?
+[Secretary] Commander, are you feeling down? Shall I tell you something amusing?
+[Secretary (post OATH)] Commander, there's something I've always wanted to ask you, thought it might be a little rude... May I address you as... Urk! Never mind!
+[OATH] Commander, where's this part supposed to...? Huh? It fits my ring finger perfectly! I'm so happy... you're a perfect match for me, Commander!
+[T-Doll Produced] Looks like a new girl has joining in.
+[Joining an echelon] Don't worry. I'm perfectly prepared!
+[Enhancement] With this, be it item or smile, I can carry a lot of them!
+[Logistics (start)] Well then, I'll go to fetch the supplies. Commander too, please take care of your body.
+[Logistics (end)] In my absence, did you properly smile everyday?
+[Autobattle] Leave it to me, Commander!
+[Title] Girls' Frontline!
+[Starting a combat mission] Commander, have no worry. I'll make sure to bring back everyone with a smile.
+[Starting a battle] Looks like the enemy parts are rich in variation as well.
+[Skill activation] For the sake of protecting everyone's smile!
+[Heavily damaged] Even though I've prepared safely...
+[Retreat] Just you remember! Once my mainframe got repaired, I'll come back again!
+[MVP] We did it! Let's collect the parts that are still usable!
+[Restoration] Please wait a minute! This parts, its 「」differs by 1 milimeter from the official sparepart!
+[Halloween] Uwaah! I'll make sure to give you sweets! So I beg you, don't barge into my parts storage!
+[Christmas] Commander, Merry Christmas! Here! I specially prepared this for you, a magic pouch! Try it on! Eh? Having me around is already enough? N-now you mention it!
+[New Year's Day] Commander, Happy New Year! During the new year, we should hand over new year money, shouldn't we? But I couldn't find any red pouch, so I'll give you this red flower instead.
+[Valentine's day] I knew that you'll receive this many chocolates. For you, here's my handmade mint chocolate! If you get sick from the chocolate sweetness, eat it to ease your mouth.
+[Tanabata] Commander, please take this parcel! There's insect repellent, constellation chart, and binocular inside... Uhh, it's too heavy I suppose? It can't be helped then. Let me lend you a hand.

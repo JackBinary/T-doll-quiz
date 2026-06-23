@@ -1,0 +1,26 @@
+[Acquisition] Good afternoon, I'm Serdyukov SPS. Starting today I'll be in charge for escort duty. Please lok forward to it.
+[Introduction] I originally came from a pistol development project called "The Raven", but as the project was postponed, I was first completed and named after the designer's name. As a special combat pistol, my mission is mainly to protect national politicians. Although there are no perfect weapons in the world, my service will satisfy you.
+[Secretary] Commander should work safely. I'll guard the security here.
+[Secretary (post OATH)] Commander, how about today's service? If you want something, don't hesitate to ask me~
+[OATH] Oh my, would you like a long-term contract?
+[Greeting] Hello, commander's. Is it a job description? This way, please.
+[T-Doll Produced] A new employee came in. Can I help you?
+[Joining an echelon] Ok,I'll wait for the mission.
+[Enhancement] To me? Thank you very much.
+[Dummy-linking] Thank you Don't forget to replenish your daily necessities.
+[Logistics (start)] Ok, let's go!
+[Logistics (end)] I just returned, please check the results.
+[Autobattle] Everyone, don't give up, let's do our best a little more!
+[Title] Girls' Frontline!
+[Starting a combat mission] Attacked by the enemy. Prepare to intercept!
+[Starting a battle] Let's sortie. I'll take care of you.
+[Skill activation] I won't let you do that!
+[Heavily damaged] Ah! Um, what should I do?
+[Retreat] Everyone, this is just a tactical withdrawal, no need to panic ... Please wait!
+[MVP] Commander,that was a great collaboration. Please don't forget the bonus.
+[Restoration] Please excuse me for the maintenance costs.
+[Halloween] The preparation for tonight's party is going well. However, please pay the vacant sentence of the commander's candy yourself.
+[Christmas] Commander, let's enjoy Christmas slowly today. Of course the work was finished properly.
+[New Year's Day] Happy New Year, commander. I believe that this year's productivity will grow more than last year.
+[Valentine's day] Have you finished training? So, yes, my handmade chocolate. Please receive it.
+[Tanabata] The commander's wish has been received. Make a plan immediately. You can count on me.

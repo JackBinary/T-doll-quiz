@@ -1,0 +1,6 @@
+[Acquisition] My name is Cross, and I'm skilled at hunting. If anyone annoying shows up, you can leave them to me.
+[Title] Girls' Frontline!
+[Starting a combat mission] Oprerating stealthily is making a difficult task more difficult.
+[Starting a battle] Let's start.
+[Skill activation] All you can do is struggle.
+[Retreat] We need to get out of here before we become the prey.

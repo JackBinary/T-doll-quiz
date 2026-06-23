@@ -1,0 +1,68 @@
+[Acquisition] Are you the commander? HK416......Please remember this name, this...extraordinary name.
+[Introduction] HK416, originally my name was HKM4 when first unveiled, then it was taken away... Why? (Heh) I'll leave that to your imagination. After that, I gained a new name and underwent severe modifications, which caused a lot of controversy during that time. Commander, I will make you forget about all of those people-- Only me, all you need is me.
+[Secretary] Commander, I am all you need.
+[Secretary (post OATH)] How have you been doing these days, Commander? If you're feeling down, I'll make you smile by any means necessary... You got a better idea? Let's hear it.
+[OATH] Be it you or achievements in combat, everything is mine. You don't have to raise a finger, Commander. I'll settle everything for you.
+[Greeting] Good morning, Commander. I won't lose to anyone today.
+[T-Doll Produced] Construction's complete, without flaws.
+[Joining an echelon] HK416, joining the operation.
+[Enhancement] I'll keep on modifying...until I surpass them...
+[Dummy-linking] Reinforcement? My value has finally been recognized.
+[Logistics (start)] Intel confirmed, moving out.
+[Logistics (end)] Operation complete.
+[Autobattle] This is the correct course of action.
+[Title] Girls' Frontline!
+[Starting a combat mission] Geronimo, operation begin!
+[Starting a battle] Target detected, assault!
+[Skill activation] I am perfect.
+[Heavily damaged] Just...what am I missing?! I should've done everything perfectly!
+[Retreat] I hate this... I should be fit to fight in any terrain.
+[MVP] One day I will replace them completely, one day...
+[Restoration] Ugh... I really hope...they'll never see me like this...
+[Halloween] Ghost? They won't be using that as the operation code name if they are scared, no?
+[Christmas] Merry Christmas. Those girls, where are they going with that bottle of wine?
+[New Year's Day] I'm going hiking for the first time this year. It'll feel pretty good, wanna come?
+[Valentine's day] My chocolate was made with perfectly calculated ingredients. Ehh? It tastes weird? You jest.
+[Tanabata] I understand commander's orders even if you don't say them, but...I still can't understand these "wishes" thing.
+[Acquisition] Compared to before? Not much different. After all, exceeding perfection is still perfection.
+[Secretary] Commander? You came at the right time, now you can witness with your own eyes the capabilities a real Tactical Doll should possess.
+[Secretary (post OATH)] If the Commander ever loses interest in me, then feel free to find a replacement. But I believe, and you clearly understand, that apart from me, you don't have a better choice.
+[OATH] Be it your or achievements in combat, everything is mine. You don't have to raise a finger, Commander. I'll settle everything for you.
+[Greeting] Commander, what's the next order of business?
+[T-Doll Produced] Will the rookie be able to keep up with me?
+[Joining an echelon] In the end, it would be useless without me.
+[Enhancement] I'm taking the next step forward, and the difference with the new doll will be even greater.
+[Dummy-linking] Reinforcement? My value has finally been recognized?
+[Logistics (start)] Intel confirmed, moving out.
+[Logistics (end)] Operation complete.
+[Autobattle] This is the correct course of action.
+[Title] Girls' Frontline!
+[Starting a combat mission] We will win, and we will do so with our own hands.
+[Starting a battle] Tally-ho, commence operation.
+[Skill activation] Why don't you say hello to my little friend here?
+[Heavily damaged] This pain...I'll pay it back someday!
+[Retreat] Whatever happened today, someday we will surely avenge it.
+[MVP] A perfect victory. That's a natural result for me.
+[Restoration] I really hope...that they'll never see me like this...
+[Attack] Los gehts!
+[Acquisition] Are you the commander? HK416......Please remember this name, this...extraordinary name.
+[Introduction] HK416, original name was HKM4 when the exhibition took place, then it was taken away from... Why me? (Heh) Reason is obvious enough. After that I gained a new name and underwent severe modifications, caused a lot of controversy during that era. Commander I will make you forget about all of them, Only me, all you need is me.
+[Secretary] Commander, you'll be with me forever... won't you?
+[Secretary (post OATH)] How have you been doing these days, Commander? I don't what to do if you're feeling down though... But we will find a way out together!
+[OATH] Treating me like this…… Are you really prepared? Won't you regret it if someday I lost my name again? I'm afraid I can't live in such a world……But I trust in you commander……Because I'm HK416, the HK416 who loves commander the most!
+[Greeting] Morning. Today's me won't lose to anyone.
+[T-Doll Produced] Construction complete, no faulty.
+[Joining an echelon] HK416, joining operation.
+[Enhancement] I'll keep modifying...until I can freely say my own name.
+[Dummy-linking] Reinforced? My values has been recognized.
+[Logistics (start)] Intel confirmed, moving out.
+[Logistics (end)] Operation complete.
+[Autobattle] This is the correct course of action.
+[Title] Girls' Frontline!
+[Starting a combat mission] Geronimo, operation begin!
+[Starting a battle] Target detected, assault!
+[Skill activation] I'll do my best.
+[Heavily damaged] I need to be more perfect...
+[Retreat] Ugh... If I did it more perfectly, this... won't happen...
+[MVP] Hmph! You've seen it coming.
+[Restoration] Disgraceful state, I don't want to be seen like this...

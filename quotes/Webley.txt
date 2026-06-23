@@ -1,0 +1,25 @@
+[Acquisition] I am Webley. I've been expecting you for a long time now. Please show me to the dormitories, as I have a lot of luggage to unpack.
+[Secretary] Rest assured, I will exhaust every possibility of victory for you... Why? Because I know that I bear the hopes of many people, and that it is my mission as a Tactical Doll to bring you glory.
+[Secretary (post OATH)] The order-made clothes that I chose specifically for you have arrived. Indeed, it's our matching clothes. Tonight, come to my room to try it on.
+[OATH] You even went as far as donning a necktie. I already know the reason why you called me here. My answer, will you hear it? There are a lot of eyes around us, so let's keep the kiss for later. From now on, I will devote my time just for you.
+[Greeting] Good day. What perfect timing. Would you accompany me for some shopping? With your fashion sense, we can have a meal anywhere.
+[T-Doll Produced] Is it the new doll? Well then, let's greet her together. Ufufu, we might as well check up on her fashion sense.
+[Joining an echelon] It's the same as coordinating outfits. Please make sure that their best elements stand out properly.
+[Enhancement] You'll need to change your clothes when you get stronger. This bonus...will it be enough?
+[Dummy-linking] I should prepare as many dresses as there are dummies. I wonder if our budget can hold out?
+[Logistics (start)] I will also be checking up on those boutiques outside.
+[Logistics (end)] I got so, so, so many clothes. Of course, the spoils of war as well. Then, please take it.
+[Autobattle] Leaving it to me is a wise decision. As long as we're not going to the beach...
+[Title] Girls' Frontline!
+[Starting a combat mission] Equipment check complete. Moving out.
+[Starting a battle] That outfit isn't fit for the battlefield... I can already see your demise.
+[Skill activation] I do not wish to waste ammunition, please be prepared.
+[Heavily damaged] How dare you... How dare you to do this to my dress...
+[Retreat] The enemy's strength exceeded our expectations. Withdraw. Withdraw at once...
+[MVP] A well-equipped, well-organized formation. When everything falls into place, the path to victory shall be opened.
+[Restoration] This outfit is ruined. At least this dress was made specifically for combat.
+[Halloween] I made a candy-filled sling bag. With this there will be no worry if there's a lot of kids come here. Ufufu, look at your face. Do you want the candy so bad? Well then, I'll give you this much. Please keep it secret from everyone.
+[Christmas] Look at these boutiques doing Christmas sales... Commander, may I receive this month's bonus in advance?
+[New Year's Day] A new year has begun. Looks like you still haven't prepared new clothes. Shall I choose them for you? I'll make sure to find the one that will suit you perfectly!
+[Valentine's day] Do you want chocolate? This is my first time making one, I don't mind if you're not wishing for mi... Ah, don't just take it from me- Eh? It tastes good? I'm glad.
+[Tanabata] It's Tanabata. I've prepared this tailor-made outfit just for you. Now, quickly finish your meal and let's head out together.

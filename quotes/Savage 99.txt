@@ -1,0 +1,30 @@
+[Acquisition] Hello, Commander. I am Savage, Griffin Squad's sniper... Though I don't wear white and neither am I a ghost, please believe that I will surely become a star of tomorrow.
+[Secretary] I'm not after fame or personal gain. I simply want to experience a sense of accomplishment. A truly successful spy will never be known to the people. Very often, the only things left to them are their memories... and I want memories that satisfy myself.
+[Secretary (post OATH)] ...I'm not particularly disappointed by the fact that we didn't go to the wilderness, but if you really want to do something to make up for it, then how about a three day hunting safari in a Yellow Zone?
+[OATH] ...Actually, I'd been thinking that such a day would come. Did you think so too? I'm very glad that we're of one mind on this matter. In that case... You must have prepared to spend your honeymoon in the wilderness. Let's head out right now.
+[Greeting] Good morning, Commander. You've rested a bit too long, the road to becoming a legend won't be as forgiving as that.
+[T-Doll Produced] A new friend has awakened. Go bring her in, Commander.
+[Joining an echelon] I'm sure I'll be able to surprise all of you, just you wait.
+[Enhancement] I'm closer now...
+[Dummy-linking] This is a necessary step on the road to success.
+[Logistics (start)] I hope this won't be a simple, boring journey.
+[Logistics (end)] We found a lot of valuable items on the way. They're all here now.
+[Autobattle] If we adapt to the situation, we'll be in a good position to try a different form of battle.
+[Title] Girls' Frontline!
+[Starting a combat mission] Move out! Let us leave our ruts upon the roads of history.
+[Starting a battle] If there are winners, then there are losers... And I will not be the latter.
+[Skill activation] Target locked, fire!
+[Heavily damaged] Was I too naive... It seems I still have a lot to learn.
+[Retreat] There can only be a future if you preserve your vitality. For now, let's...
+[MVP] This isn't enough. It's nothing more than the foundation of a milestone.
+[Restoration] I want to get back to the frontlines soon...
+[Attack] Cover me!
+[Halloween] I've managed to scare quite a few people because I'm good at hiding my tracks. However, I wonder if I should be happy about such accomplishments...?
+[Christmas] Waiting the entire year for the brief moment of happiness that is this day doesn't seem too worthwhile to me. I'm just saying, if we could just catch Santa in a trap.. Oh, yeah, we can't do that...
+[New Year's Day] When I look back at the past, I can see whether my footsteps were solidly planted, and when I look ahead, the unexplored future seems full of possibilities.
+[Valentine's day] If you're talking about chocolate, I do know a recipe for a kind of spicy chocolate. It's an essential item when heading out to distant parts. I still have some, try it.
+[Tanabata] As for my wish, I'd like to reach the peak I long for sooner... I think.
+[Defense] I'll cover you!
+[Phrase] Wonderful.
+[Tip] No matter how great my prey, it means nothing to me.
+[Loading] Patience is an essential part of hunting.

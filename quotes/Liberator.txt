@@ -1,0 +1,25 @@
+[Acquisition] Hello! The fair and just Winchester Liberator has arrived! Commander, please dispatch me to all the unfair battlefields!
+[Secretary] Eating fried chickens will effect my body weight...? No no, not the fried chickens!
+[Secretary (post OATH)] Commander you're spacing out, you're not usually like this, is there something on your mind? Come and talk about it, you can tell me anything, just give me enough equivalent of fried chicken after!
+[OATH] What's up Commander, deliberately calling me out is unfair for the other dolls alright... Eh?! This is a... Commander you should know I dislike unfair treatments... Hehe, that was a joke! Since you've gone ahead and broke the balance, I too should play favourites with you now, please look forward to our days ahead...
+[Greeting] Oh, Commander! Have you worked out your schedule for today?
+[T-Doll Produced] Are there new arrivals coming? Make sure that you treat the new girls the same as the others, okay?
+[Joining an echelon] Hmhmm, if we're too strong, we might upset the balance of the team you know?
+[Enhancement] Good stuff! Let's maintain this balance!
+[Dummy-linking] Even if our numbers increase, you can't go around having favorites, okay?
+[Logistics (start)] While I'm away, I need you to keep an eye on the trouble children.
+[Logistics (end)] We're back~! Were you able to get everyone to behave?
+[Autobattle] Okay, leave it to me! I'll show them what peace looks like!
+[Title] Girls' Frontline!
+[Starting a combat mission] Move out! Time to open up this unfair battlefield!
+[Starting a battle] Are you losing this fight?
+[Skill activation] This is fair judgement!
+[Heavily damaged] Sorry, Commander...I think I'm through...
+[Retreat] I think I lost my balance because of my weight...guess I'll pull out now...
+[MVP] No cheap tricks here. That was a fair fight.
+[Restoration] Owowow...next is balancing...
+[Halloween] Okay, right there's good. Commander, if you want to pass...time for some equivalent exchange~ Give me some hot dogs and fried chicken and we'll call it even! Huh, sweets? That simply will not do!
+[Christmas] Hey hey Commander, want to go with me to do some Christmas shopping? Eh? Of course, you'll be the one to carry the goods, right? That's only fair, isn't it?
+[New Year's Day] Happy New Year! Commander, have you seen your present yet? Picking out a nice golden balance scale was really expensive!
+[Valentine's day] Valentine's sure came quick didn't it? Commander, for your chocolate, do you prefer white or black? I see, that's too bad after all. In the end, it's a pity you didn't choose me.
+[Tanabata] Huh? Tanabata? I don't know that much about it. Eh?! It's the only day Orihime and Hikoboshi can be together?! Well...that's just unfair for this event to happen only once a year! Commander, take me to the person who made up Tanabata right now!

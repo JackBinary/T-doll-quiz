@@ -1,0 +1,4 @@
+[Acquisition] Hey, my name's Hertha. That's a nice office chair you've got over there. It's mine now.
+[Title] Girls' Frontline!
+[Starting a battle] Cut the crap, prepare to fight!
+[Retreat] No need to waste time on this junk.

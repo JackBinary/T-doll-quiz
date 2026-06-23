@@ -1,0 +1,48 @@
+[Acquisition] I'm AK-Alfa, not Omega... Excuse me, but which way is your planetarium?
+[Secretary] Things with high reflectivity will look like stars. If we wear things that are bright enough, will we also look like stars in the eyes of someone?
+[Secretary (post OATH)] Within me is a love and feeling that even you cannot comprehend. Both, I pray, will be of some use to you.
+[OATH] Bringing me here deliberately, is it to discuss drinking on the battlefield? Commander, you...know that I can't let go, so will you take responsibility? Of course, I am also willing. From now on, your guidance please.
+[Greeting] Good morning. There's lots of work to do today.
+[T-Doll Produced] Hey newbie, Registration is over here.
+[Joining an echelon] Um, regarding those who are interested in sci-fi...forget it. Shall we finish our work first?
+[Enhancement] Can you see it? A place higher than the sky, and farther than the stars.
+[Dummy-linking] This will increase the number of people I can speak to...wait a minute. Isn't talking to yourself a little sad?
+[Logistics (start)] I hope I'll be able to pick up some meteorite fragments along the way.
+[Logistics (end)] I couldn't find any meteorite debris, but I was able to collect everything that the Commander had asked for.
+[Autobattle] Understood. Leave it to me.
+[Title] Girls' Frontline!
+[Starting a combat mission] Let's go.
+[Starting a battle] A life lost will simply return to the earth.
+[Skill activation] Shatter.
+[Heavily damaged] No good...*hic*...it's because I had a secret drink before the mission...*hic*...
+[Retreat] Overtime is confirmed, I guess~!
+[MVP] Good, this will give you time to do whatever you want.
+[Restoration] Wait, that beer bottle is not garbage, so please don't throw it away~!
+[Halloween] You fear what you don't fully understand. Therefore, what you understand well cannot be scary. If you ask me, I'd rather have a vast starry sky...huh? AAAAH...!
+[Christmas] Many science fiction works are created in written form. Things that have been passed down since ancient times are very interesting.
+[New Year's Day] Unexpected times are a thing of joyful gatherings like this. So I'm keeping watch outside. The stars are also more beautiful than usual.
+[Valentine's day] Please do not look! Sigh…. Even though I took the trouble to draw a starry sky on top of the chocolate... Everyone get so inconsiderate...
+[Tanabata] The Astronomy club is currently recruiting members. If you are interested, please attach a piece of paper below.
+[Acquisition] I am AK-Alfa, not Omega... Excuse me, but how do I get to the planetarium?
+[Secretary] The sun, the moon, the stars, and tin foil... They're all shiny, and so are the Commander's buttons. Um, may I take a closer look at your buttons?
+[Secretary (post OATH)] I want to be of more help to you, so I've been reading more books lately. But sci-fi is so much more exciting than non-fiction. Do you like sci-fi, Commander?
+[OATH] You and me, Commander? Hmm... I hear this is a very solemn oath. I'm not sure if I'm good enough for this. But I'll do my best, because you're the stars to me!
+[Greeting] Huh, here already? Crap, my thermos is still open.
+[T-Doll Produced] Um, would you like some sour plum drink?
+[Joining an echelon] Please take care of me… I'm not feeling guilty!
+[Enhancement] I don't feel like I've gotten taller.
+[Dummy-linking] Now I'll have more people to talk to... Wait a minute, talking to yourself is just too sad.
+[Logistics (start)] I hope I'll find a piece of meteorite on this trip.
+[Logistics (end)] I didn't find any meteorites, but I got everything that you want.
+[Autobattle] Got it, I won't disappoint you.
+[Title] Girls' Frontline!
+[Starting a combat mission] Let, let's go!
+[Starting a battle] Bad things need to be beaten!
+[Skill activation] (Groan) That's heavy.
+[Heavily damaged] Ugh, I'm falling apart... I'm sorry... I'm so sorry!
+[Retreat] Oh no, we can't hold out, everyone run!
+[MVP] You're so cool, Commander. Will I ever grow to be this cool?
+[Restoration] Wait, this beer bottle isn't garbage, don't throw it away!
+[Attack] Charge!
+[Defense] Ah, please fall back...
+[Loading] Coming, don't rush me.

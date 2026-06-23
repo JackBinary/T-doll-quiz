@@ -1,0 +1,51 @@
+[Acquisition] H&K MG4, will be serving you from today on. *sigh* hope I can fit in here...
+[Introduction] The original version was named MG43, but was defeated by FN's Minimi when contesting for international contracts, then however was procured by Bundeswehr and renamed to MG4. Basically G11's downfall forced the company to make change in weapons design approach, after intense studying of different kinds of spectacular existing weapons, I was then designed.
+[Secretary] Me? ...Don't mind me, just give me my orders.
+[Secretary (post OATH)] Commander, mind if I sit here? This way I can be a bit closer. It doesn't matter, nobody is around right now...
+[OATH] Commander, why are you up so late? Eh? Wait... really, you just want to see me embarrassed! Never again! There won't be a next time, I promise!
+[Greeting] Ahh... You're here already, welcome.
+[T-Doll Produced] Anyone I know?
+[Joining an echelon] Combat preparation? Always.
+[Enhancement] Ahh... Looks like I can still be of help to you.
+[Dummy-linking] With power comes responsibilities.
+[Logistics (start)] I Understand, begin operation
+[Logistics (end)] Operation finished, here is the report.
+[Autobattle] Must leave a good impression on everybody...
+[Title] Girls' Frontline!
+[Starting a combat mission] Ready, everyone move out.
+[Starting a battle] Initiate combat.
+[Skill activation] Please fall.
+[Heavily damaged] Damn it, why now...
+[Retreat] Very sorry... I will try harder next time.
+[MVP] Eh? Already? Wasn't actually trying.
+[Restoration] Have I left a bad impression on everybody...?
+[Halloween] There is no way this hair ornaments will look good on me. C-cute... you say?
+[Christmas] Merry Christmas, commander. I don't need any present. There's something else that I want to do.
+[New Year's Day] I don't mind you skipping works just for today. But please don't disturb everyone's training.
+[Valentine's day] This is... for me? Why me? Please don't tease me.
+[Tanabata] You want me to accompany you for shopping? You better ask someone else... But if it doesn't take too long then...
+[Acquisition] This is Gr MG4 reporting, I hope we'll be able to get along in the days to come.
+[Secretary] Um... Ah... Could you take me with you? Ah, no... It's nothing, don't mind me. Ah, no, I mean, please mind me~ I want to take part in this!
+[Secretary (post OATH)] ...I, I don't know what I like, or what I should like... But being with you is when I feel most relaxed.
+[OATH] Commander, why did you call me out so late tonight? <. Eh? Wait a minute... Honestly, you just want to see me embarrass myself, don't you? Don't think this sets a precedent, okay! ...There won't be a next time, right? Promise me...
+[Greeting] I'm very happy to see you again.
+[T-Doll Produced] I hope I can talk to our new friend.
+[Joining an echelon] Always ready for your orders.
+[Enhancement] I feel like I've become a little more useful...
+[Dummy-linking] Greater strength implies greater responsibilities.
+[Logistics (start)] Understood, beginning operation.
+[Logistics (end)] The operation's over, please have a look at what we've found.
+[Autobattle] I need to leave a good impression on everyone!
+[Title] Girls' Frontline!
+[Starting a combat mission] Prepare to move out!
+[Starting a battle] Commence battle —
+[Skill activation] This is my mission.
+[Heavily damaged] Is this...my limit? I can still...hang on...
+[Retreat] I'm sorry...a problem seems to have come up in this battle...
+[MVP] Thank goodness, we won! I hope we'll be able to fight alongside each other again someday!
+[Restoration] I wonder if everyone thinks worse of me now...
+[Attack] No need to hesitate!
+[Defense] ...Mm, easy does it.
+[Phrase] Let's do a good job.
+[Tip] Please take a look...
+[Loading] Yes... I'm coming right now...

@@ -1,0 +1,45 @@
+[Acquisition] Oh my, you're my Commander huh? Well better you take good care of me, because I'll have you fall in love with me soon enough.
+[Secretary] Hehe, Commander, want to listen to something fun?
+[Secretary (post OATH)] Want to go shopping this weekend? I saw something pretty nice. It won't be a waste of money, because I chose it for you……
+[OATH] Commander……This moment is finally here…… Meeting so many new people and seeing new things, yet losing them, it was always you who pulled me back. Thank you, please let me stay by your side from now on and become your most trusted companion.
+[Greeting] A new day, Commander. Do you miss me?
+[T-Doll Produced] Newcomer? Too bad, you are too late.
+[Joining an echelon] Fufu, it's my turn again?
+[Enhancement] You're so kind, I'll remember it.
+[Dummy-linking] Oh my, isn't it normal for excellent member to treated like this?
+[Logistics (start)] Yup, just wait for the good news.
+[Logistics (end)] I'm back, commander. Give me hug.
+[Autobattle] Commander is looking at me. I should do my best!
+[Title] Girls' Frontline!
+[Starting a combat mission] I'm sure this will be a fun journey.
+[Starting a battle] Let's do our best!
+[Skill activation] This will be over soon.
+[Heavily damaged] Ugh... this can't do. I should fight until the end.
+[Retreat] Time up? That's not my fault!
+[MVP] Getting praised by commander. Don't be jealous okay.
+[Restoration] Don't worry, next time I'll pay them back in kind!
+[Halloween] As expected since I'm the one who choose this pumpkin hat. You are perfect commander.
+[Christmas] This Christmas secret place is cute right! Of course since I'm the one who find it.
+[New Year's Day] How about this for your new year gift? Ufufu, you like it?
+[Valentine's day] This taste of chocolate, I'm the only one who can make it. You get it?
+[Tanabata] You want to know about my wish? I want you to look only at me... you should have know.
+[Acquisition] Oh my, you're my Commander huh? Well better you take good care of me, because I'll have you fall in love with me soon enough.
+[Secretary] Hold tightly onto my hand, Commander. I'll be very upset if you get lost~
+[Secretary (post OATH)] Working all the time and putting me aside is a no-no, okay? Keep me company every now and then~
+[OATH] Commander……This moment is finally here…… Meeting so many new people and seeing new things, yet losing them, it was always you who pulled me back. Thank you, please let me stay by your side from now on and become your most trusted companion.
+[Greeting] It's a new day, Commander. Did you miss me?
+[T-Doll Produced] Newcomer? Too bad, you are so slow.
+[Joining an echelon] Fufu, it's my turn again?
+[Enhancement] You're really nice to me, I'll remember this.
+[Dummy-linking] Oh my, isn't it normal for excellent member to treated like this?
+[Logistics (start)] Yup, just wait for the good news.
+[Logistics (end)] I'm back, commander. Give me hug.
+[Autobattle] The Commander's watching me now, I need to work harder.
+[Title] Girls' Frontline!
+[Starting a combat mission] I'm sure this will be a fun journey.
+[Starting a battle] Let's do our best!
+[Skill activation] This will be over soon.
+[Heavily damaged] You really are heartless, aren't you? Can't you be gentler to a little girl?
+[Retreat] Is there nothing we can do? I hope I'm not to blame...
+[MVP] Hehe, the Commander's going to praise me. Don't get jealous now, everyone.
+[Restoration] Don't worry, next time I'll pay them back in kind!

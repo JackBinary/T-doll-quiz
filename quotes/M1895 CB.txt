@@ -1,0 +1,6 @@
+[Acquisition] Greetings, this is M1895 Colt-Browning Machine Gun, here to report for duty... This IS Griffin HQ, right? ...Great, I'm in the right place.
+[Secretary] Commander, I've cleaned up your office. All discarded documents are in this box. Would you like to double check them? Ah...I can just destroy them? Right away.
+[Secretary (post OATH)] I've decorated your desk with flowers in a vase, Commander, I hope you'll like them... Is that surprising? Actually, spending time with you has taught me that these things aren't entirely useless...they lift your spirits, don't they?
+[OATH] Well...are you absolutely sure you want to give this to me? No matter how much I've prepared myself, I never expected this day would come... Do you like pulling sneak attacks like this? Jeez... Thank you for having faith in me. Looks like I'll have to be even more thorough in my preparation from now on.
+[Title] Girls' Frontline!
+[New Year's Day] Happy New Year, Commander. Here's a New Year gift for you... A folder would be pretty useful, right?

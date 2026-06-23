@@ -1,0 +1,46 @@
+[Acquisition] Combat specialist "Negev" reporting in, be prepared to make good use of me.
+[Secretary] Oh? Commander, are you ready to accept my guidance?
+[Secretary (post OATH)] Commander, are you tired? …are you thirsty? Or are you hungry? …… Fufu, after all we seem to be inseparable. I can't think of a world without you.
+[OATH] What do you want me to teach you today? W-What! I can't teach you that! I don't want you to teach me! I-I... Then, just this once... Please take care of me, commander...
+[Greeting] Good morning Commander. My expertise will keep you at ease anywhere.
+[T-Doll Produced] New member?
+[Joining an echelon] Ufufufu, sweeties, I'll give you guidance.
+[Enhancement] Hoho? Intuitive aren't you.
+[Dummy-linking] Ahahaha! I'm becoming stronger!
+[Logistics (start)] Understood. I'll guide you.
+[Logistics (end)] I'm back. Anywhere is not a problem with my expertise.
+[Autobattle] I'll show you how the battle specialist fights!
+[Title] Girls' Frontline!
+[Starting a combat mission] Departing! Victory will definitely within our grasps!
+[Starting a battle] Ufufu, there's no one who can beat me!
+[Skill activation] Begone!
+[Heavily damaged] Now way... what will I do..
+[Retreat] I... why is this... don't look at me with those eyes!
+[MVP] The results are obvious with me, be grateful.
+[Restoration] I didn't think this day will come...but not next time!
+[Attack] Advance!
+[Halloween] Halloween... Heh- that's just a festival for children... H-Hey! Don't scare me like that!
+[Christmas] What should I do all day long today at home. Look, I'm trying to tell you that I have no plan today!
+[New Year's Day] It's New Year. At a time like this, I want you to praise me more, commander.
+[Valentine's day] Umm... please take this. I'm not a specialist in this field, so I'm not used for this.
+[Tanabata] Today is the day when you make a wish. Alright, I'll grant everyone's wish.
+[Acquisition] Combat specialist "Negev" reporting in, be prepared to make good use of me.
+[Secretary] Commander, give me Children Day present or I'll get you arrested.
+[Secretary (post OATH)] You come again to play? Honestly, you're more excited than a child.
+[OATH] What do you want me to teach you today? W-What! I can't teach you that! I don't want you to teach me! I-I... Then, just this once... Please take care of me, commander...
+[Greeting] Good morning Commander. My expertise will keep you at ease anywhere.
+[T-Doll Produced] New member?
+[Joining an echelon] Ufufufu, sweeties, I'll give you guidance.
+[Enhancement] Hoho? Intuitive aren't you.
+[Dummy-linking] Ahahaha! I'm becoming stronger!
+[Logistics (start)] Understood. I'll guide you.
+[Logistics (end)] I'm back. Anywhere is not a problem with my expertise.
+[Autobattle] I'll show you how the battle specialist fights!
+[Title] Girls' Frontline!
+[Starting a combat mission] Departing! Victory will definitely within our grasps!
+[Starting a battle] Ufufu, there's no one who can beat me!
+[Skill activation] Begone!
+[Heavily damaged] Now way... what will I do..
+[Retreat] I... why is this... don't look at me with those eyes!
+[MVP] The results are obvious with me, be grateful.
+[Restoration] I didn't think this day will come...but not next time!

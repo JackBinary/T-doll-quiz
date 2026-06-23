@@ -1,0 +1,30 @@
+[Acquisition] Heheh~ The best esports Doll MAG-7 is here... WHAT?! You've never heard of me?! Log on real quick and we'll duke it out in Dust2! I'm gonna show you some mad skills!
+[Secretary] Commander, you can actually see this little guy? She's Ukwulu the evil spirit. Anyone who sees her will be cursed with perpetual one-bar WiFi... Hm? Why have you gone all pale? I'm just kidding!
+[Secretary (post OATH)] Commander, you saw my PS-Box Elite Controller, yeah? No, not the one in my pocket. We can't keep sharing a single controller forever, you know? Don't worry, I'll pick a more relaxing game this time. After all, I want you to have fun too.
+[OATH] Commander, wanna duel me today— Holy! This is...  Getting me to submit just because you can't beat me fair and square? That's low, Commander... But since you're being so sincere, I'll say yes!  Just to make it clear—I have priority of use of the TV! You can't watch anime when I want to game!
+[Greeting] Oh? If it isn't the Commander! How about a quick game with me later? I can boost you so fast it'll feel like a cheat!
+[T-Doll Produced] Oh? A new friend? I wonder how good of a gamer they are?
+[Joining an echelon] Not bad, not bad, these teammates feel pretty dependable!
+[Enhancement] Oooooh! My APM is going through the roof! It's...at least 600 right now!
+[Dummy-linking] Humph, at this rate, I can actually form a team and win all the esports grand slams!
+[Logistics (start)] Let's go, Ukwulu! We've got a delivery for the lazy-ass Commander.
+[Logistics (end)] Commander, we're back~ Come over here! I've got a real surprise for you!
+[Autobattle] Hm... I'll just leave everything to Ukwulu. It's just following instructions, isn't it?
+[Title] Girls' Frontline!
+[Starting a combat mission] Rush B!
+[Starting a battle] I hope they'll keep us entertained for a bit~
+[Skill activation] I'll give you a single chance to beat me, noob~
+[Heavily damaged] I'll make you regret making me get serious!
+[Retreat] Dammit... Just you wait!
+[MVP] Humph, these guys are even easier to kill than the stupid AI in Counter-Strike~
+[Restoration] Sorry, Commander. I won't get into such a mess next time.
+[Attack] Come on, Ukwulu! Let's show them what a real attack looks like!
+[Halloween] Roar~ Happy Halloween, Commander! Wanna play some horror games with me? Ukwulu is such a scaredy-cat, she went poof the moment I brought up the idea. Surely you're not that much of a wimp, Commander?
+[Christmas] Commander, I need your input! What should I get Ukwulu for Christmas this year? I gave her a copy of Sekiko: Shadows Die Thrice last year but for some reason she refused to talk to me for an entire week!
+[New Year's Day] Happy New Year, Commander~ Look, this is such a lovely day, so how about giving your dear MAG-7 red packet money to buy the CS:GO Dragon Lore skin as a reward for a year of hard work?
+[Valentine's day] Oh, Commander, you look miserable. I bet you haven't received any chocolate, eh? Look at my chocolate controller. Isn't it just delicious?
+[Tanabata] Looks like Hikoboshi is a pretty good gamer. After all, if your long-distance boyfriend is a noob and you can only see him once a year, you'll probably wanna dump him after a few years, right?
+[Defense] Go on the defensive for now and prepare to counterattack!
+[Phrase] One more game!
+[Tip] What is it, Commander? Drooling at the sight of my PS-Box Elite Controller? Here, wanna play with it for a bit?
+[Loading] Hush... Camping takes patience.

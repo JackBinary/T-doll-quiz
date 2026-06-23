@@ -1,0 +1,24 @@
+[Acquisition] Tadaaah! Type 89 assault rifle has arrived! Um, Commander, is Type 64 around by any chance?
+[Secretary] Oh? The wait for these amusement park rides are an hour outside of the VIP queue? Can't be helped I guess.....Commander, please tell me your ID. Getting a VIP pass was a good idea after all.
+[Secretary (post OATH)] I-It's a bowl of white rice! Geez, it's not like today is that special a day, but why such a precious thing… we'll have to make it an offering! Eh? My tears have nothing to do with me eating this rice! If I can eat it with you together, Commander, I'll be forever happy…
+[OATH] Commander, please look! My new… Ehh!! Now that you gave me this, don't think that you won over me, okay! I— If it's me, then there's a never seen before ring I've been making… I mean, what I want to say is… Commander, please put that ring of yours on my finger. You won't see me answering you with anything other than "Yes"…
+[Greeting] Good morning, Commander! Let's start right away!
+[T-Doll Produced] We should've used the quick manufacturing contract. Right, newcomer?
+[Joining an echelon] Everyone, nice to meet you! Today's lunch will be on me!
+[Enhancement] Huh? Perhaps I can eat one more bowl of rice.
+[Dummy-linking] Ooh! Number is a strength too! I'm glad I got one more new friend!
+[Logistics (start)] Please don't worry, Commander. It'll be alright since I'm here! Then, off I go!
+[Logistics (end)] I'm home! I picked up a cute stone! Let's clean it together, Commander!
+[Autobattle] This will be done quick. When I return, let's eat the lunchbox together, Commander!
+[Title] Girls' Frontline!
+[Starting a combat mission] I'll show you our true strength!
+[Starting a battle] Which is it? The bad kid who's bothering us?
+[Skill activation] Don't think you can just come home unscathed after you make a girl angry!
+[Heavily damaged] Ugh... how cruel of you doing this to a girl.
+[Retreat] Don't you forget! Heisei girl won't just admit her defeat easily!
+[MVP] Phew, mission accomplished. I'll pray to the God of Rice again today!
+[Restoration] My uniform, can you fix it at once? I don't want to come back here later.
+[Christmas] Huh? You just realized it, Commander? Instead of cooking it ourselves, it's better to order foods you know? With the saved time... which one is the present from me, try opening it!
+[New Year's Day] Commander, Happy New Year! Hey, would you like to eat rice together? For me, the most precious thing during new year is eating the real white rice with you, Commander!
+[Valentine's day] Commander, Happy Valentine Day! Today after sch- I mean after mission, please don't forget about our promised date. Eeh?! You didn't realize the chocolate and letter that I left in your locker...?
+[Tanabata] Huh? Today is a day meant for children to enjoy you know? Did you plan to bring me along? That's fine by me, but we can't use that tanzaku. Let's buy the cute, star-studded one. I mean, we'll going to use it to write a precious wish that we want to be granted.

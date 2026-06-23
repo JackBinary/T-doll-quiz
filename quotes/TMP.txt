@@ -1,0 +1,44 @@
+[Acquisition] Hello, commander, I am Steyr TMP... Please, please don't look at me like this! Please...
+[Introduction] Uh... I am Steyr TMP, also known as the tactical assault pistol, because of its light and stable shooting performance, it's easier for people without professional training to get started. However, due to my low stopping power, I'm limited to fighting with lightly armored enemies. Even so, I hope that everyone... will not mind my meager strength on the battlefield.
+[Secretary] Why... are you staring at me like that?
+[Secretary (post OATH)] Commander... uh... you haven't touched my tail today, right? Please don't forget.
+[OATH] Commander! Why did you call me alone out here... huh? This is... not a delusion? This is real? Oh, wow! ...If this is a dream, I want to sleep forever...
+[Greeting] Gotta be careful today...eh?! Commander?! S-Since when did you show up...
+[T-Doll Produced] N-Newcomer? That's bad...gotta find a place to hide quick!
+[Joining an echelon] Um, is this really that good?
+[Enhancement] Wow! This isn't so bad after all!
+[Dummy-linking] Another me?! ...No way, is this a parallel world?
+[Logistics (start)] In that case, I'm heading out.
+[Logistics (end)] So was this good?
+[Autobattle] Even me...
+[Title] Girls' Frontline!
+[Starting a combat mission] Everyone...l-let's go!
+[Starting a battle] In a battle...you shouldn't run away.
+[Skill activation] S-stay away!
+[Heavily damaged] Ueeh...are you satisfied with this?
+[Retreat] If that's the case, let's pull out at once.
+[MVP] Huh? We won? That's a lie...wait, really?!
+[Restoration] I-I'll handle the tail myself, don't touch it!
+[Halloween] Here...and over there, too...terrifying! Please don't come near me!
+[Christmas] What's wrooong~?! *hic* Aren't yooou the one who invited me to go drinking in the first place~? And to think yer already hitting yer limit at this much~?! KYAHAHA!
+[New Year's Day] Ah, Commander? No need to feel intimidated. After all, it's going to be a great new year!
+[Valentine's day] Commander...today is...um...chocolate...p-p-please...accept- oh...thank you very much...I'm glad you understood...
+[Tanabata] Hikoboshi and Orihime are coming?! W-What do I do? I haven't had any time to prepare...are they going to be angry at me?
+[Acquisition] Hello, commander, I am Steyr TMP... Please, please don't look at me like this! Please...
+[Introduction] Uh... I am Steyr TMP, also known as the tactical assault pistol, because of its light and stable shooting performance, it's easier for people without professional training to get started. However, due to my low stopping power, I'm limited to fighting with lightly armored enemies. Even so, I hope that everyone... will not mind my meager strength on the battlefield.
+[Greeting] Gotta be careful today...eh?! Commander?! S-Since when did you show up...
+[T-Doll Produced] N-Newcomer? That's bad...gotta find a place to hide quick!
+[Joining an echelon] Um, is this really that good?
+[Enhancement] Wow! This isn't so bad after all!
+[Dummy-linking] Another me?! ...No way, is this a parallel world?
+[Logistics (start)] In that case, I'm heading out.
+[Logistics (end)] So was this good?
+[Autobattle] Even me...
+[Title] Girls' Frontline!
+[Starting a combat mission] Everyone...l-let's go!
+[Starting a battle] In a battle...you shouldn't run away.
+[Skill activation] S-stay away!
+[Heavily damaged] Ueeh...are you satisfied with this?
+[Retreat] If that's the case, let's pull out at once.
+[MVP] Huh? We won? That's a lie...wait, really?!
+[Restoration] I-I'll handle the tail myself, don't touch it!

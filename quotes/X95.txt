@@ -1,0 +1,42 @@
+[Acquisition] Good, Commander, we finally meet. X95 will serve you willingly... no, not just you, I will give my everything to serve everyone from now on.
+[Secretary] It is only because we appreciate flowers, that we care about their withering. Commander, as long as I can bloom for everyone, I am not afraid of any pain.
+[Secretary (post OATH)] Commander, you shouldn't bother with something small like this, right? I was going to do it myself... alright, you win, I owe you one, haha.
+[OATH] Commander, I've been working hard for everyone, and I've rarely considered my own affairs... But you are always with me, and even share my pain. Commander, maybe only you can save me... please, you are... the last remaining person I can depend on.
+[Greeting] Commander, isn't there anything I can do?
+[T-Doll Produced] Ufu, newcomer, if you're having any trouble, please don't hesitate to ask.
+[Joining an echelon] For everyone's sake, I'll do anything.
+[Enhancement] Hehe, I'm sure this power will prove to be useful for everyone.
+[Dummy-linking] So this our combined power...
+[Logistics (start)] Looks like this will take quite a while.
+[Logistics (end)] Commander, thank you for your patience. Now, if there's anything else you need, feel free to ask.
+[Autobattle] Please leave it to me. I'll make sure the mission is a success.
+[Title] Girls' Frontline!
+[Starting a combat mission] For the sake of victory, I will give everything.
+[Starting a battle] Allow me to remove all of your suffering.
+[Skill activation] Worry not, because I am here.
+[Heavily damaged] For me, pain is nourishment.
+[Retreat] Don't worry about me...Commander... I can still...
+[MVP] If everyone is happy, then there can be no greater honor for me.
+[Restoration] If it's able to help everyone, then these little scratches...are nothing to worry about.
+[Halloween] I made this sweets specially from flowers. If you look at it, you can see flower petal right?
+[Christmas] Seems like I've prepared too many presents. I know, why won't we give them to Jericho? Commander, don't hesitate to take as many as you want too.
+[New Year's Day] Suddenly there are so much thing to do during new year. Commander, if there's something you want me to do, please let me know alright.
+[Valentine's day] My apologies, I helped everyone making their chocolate the entire time so I haven't prepared mine. But don't worry! If I start making it now, I can still make it!
+[Tanabata] This is a flower for Orihime. Since she's going on a date with Hikoboshi, don't you think she will need a gift? Ufufu.
+[Acquisition] Good, Commander, we finally meet. X95 will serve you willingly... no, not just you, I will give my everything to serve everyone from now on.
+[Greeting] Commander, isn't there anything I can do?
+[T-Doll Produced] Ufu, newcomer, if you're having any trouble, please don't hesitate to ask.
+[Joining an echelon] For everyone's sake, I'll do anything.
+[Enhancement] Hehe, I'm sure this power will prove to be useful for everyone.
+[Dummy-linking] So this our combined power...
+[Logistics (start)] Looks like this will take quite a while.
+[Logistics (end)] Commander, thank you for your patience. Now, if there's anything else you need, feel free to ask.
+[Autobattle] Please leave it to me. I'll make sure the mission is a success.
+[Title] Girls' Frontline!
+[Starting a combat mission] For the sake of victory, I will give everything.
+[Starting a battle] Allow me to remove all of your suffering.
+[Skill activation] Worry not, because I am here.
+[Heavily damaged] For me, pain is nourishment.
+[Retreat] Don't worry about me...Commander... I can still...
+[MVP] If everyone is happy, then there can be no greater honor for me.
+[Restoration] If it's able to help everyone, then these little scratches...are nothing to worry about.

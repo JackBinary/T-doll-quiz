@@ -1,0 +1,44 @@
+[Acquisition] Pleased to meet you, Commander. There is... no need to introduce me to the others, I'm fine working alone after all...
+[Introduction] Light-weight Medium Machinegun, new generation of MG weapon designed with many new technological breakthroughs. Light weight makes it easy for carry, decent shooting range can also provide fairly good suppressive fires, just the new ammo types makes it a bit difficult for the logistics... But don't worry, I will fire with care.
+[Secretary] Commander, do we have enough munition stored?
+[Secretary (post OATH)] Commander let's find time to relax this weekend. I booked a fairly decent restaurant... You have been so busy this week, having a bit of luxurious treats won't hurt, right?
+[OATH] This... Was prepared for me? Isn't this a little too luxurious? But I'll allow it this time. I have dreamed about these kinds of scenarios sometimes, but today it finally became true... I love you, Commander...
+[Greeting] Morning Commander, please check today's resources then begin operations.
+[T-Doll Produced] New comrade... Don't worry, let me help.
+[Joining an echelon] LWMMG, munition check complete, entering echelon.
+[Enhancement] Thank you, I want to become more independent myself.
+[Dummy-linking] Man-count just went up? We will try to minimize the ammo consumptions.
+[Logistics (start)] Am I to lead everyone? I'll... I'll try my best...
+[Logistics (end)] ...We... We're back.
+[Autobattle] I will provide cover for everyone, even by myself!
+[Title] Girls' Frontline!
+[Starting a combat mission] Eh, want me to say it? ... (Cough) Ok, everyone move out!
+[Starting a battle] Conserving ammo, assault with care!
+[Skill activation] Nice chance!
+[Heavily damaged] How... No I don't want to be a burden to everyone!
+[Retreat] Sorry this is my fault. Everyone expected me so much, I'm really sorry...
+[MVP] It's makes me feel really great being able to help everyone out.
+[Restoration] Sorry, wasted so much... All by myself...
+[Halloween] Can't believe how busy it is tonight, I really wish that everyone keeps hold of the candy wrappings, they come in handy sometimes.
+[Christmas] Merry Christmas, Commander. If you tired from work, why don't take a little break with me?
+[Acquisition] If I've improved myself this much, I'll become less of a burden for everyone... Thank goodness.
+[Introduction] Light-weight Medium Machinegun, new generation of MG weapon designed with many new technological breakthroughs. Light weight makes it easy for carry, decent shooting range can also provide fairly good suppressive fires, just the new ammo types makes it a bit difficult for the logistics... But don't worry, I will fire with care.
+[Secretary] Four boxes, six... No, I don't think I'll need this much ammunition for the next mission.
+[Secretary (post OATH)] Commander, let's find some time to relax this weekend. I already made reservations at a nice restaurant... You have been so busy this week, splurging a bit won't hurt.
+[OATH] This... Was prepared for me? Isn't this a little too luxurious? But I'll allow it this time. I have dreamed about these kinds of scenarios sometimes, but today it finally became true... I love you, Commander...
+[Greeting] Morning Commander, please check today's resources then begin operations.
+[T-Doll Produced] New comrade... Don't worry, let me help.
+[Dummy-linking] Man-count just went up? We will try to minimize the ammo consumptions.
+[Logistics (start)] Am I to lead everyone? I'll... I'll do my best...
+[Logistics (end)] ...We... We're back.
+[Autobattle] I will provide cover for everyone, even by myself!
+[Title] Girls' Frontline!
+[Starting a combat mission] All units, proceed to the designated point!
+[Starting a battle] Leave the support to me!
+[Skill activation] Then, how about this?!
+[Heavily damaged] I-if we don't minimize this damage soon...!
+[Retreat] I'm so sorry that it ended up like this...this was all my fault, so punish me!
+[MVP] Phew...a result that everyone can be satisfied with. What a relief!
+[Restoration] Sorry, wasted so much... All by myself...
+[Halloween] Can't believe how busy it is tonight, I really wish that everyone keeps hold of the candy wrappings, they come in handy sometimes.
+[Christmas] Merry Christmas, Commander. If you tired from work, why don't take a little break with me?

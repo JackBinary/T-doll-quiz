@@ -1,0 +1,26 @@
+[Acquisition] OTs-14 "Lightning." Are you my Commander? ...Very good, There aren't many chances like this, so let us get along.
+[Introduction] OTs-14 "Groza". Designed based on AKS-74U, a new assault rifle designed with reference to attributes of other close-quarter combat weapons. But only when the grenade launcher is mounted should I be called "Groza". I've seen service in secret service and special forces alike, hope we get along together.
+[Secretary] What plans do you have today?  Let's hear them.
+[Secretary (post OATH)] What do you want to eat tonight? How about letting me cook again? Don't be embarrassed, didn't we have fun a few times before.
+[OATH] This is..... for me? This is hardly a surprise. But, All of the suffering you've endured so far, I've seen it all with my eyes. You are the Commander whom I've deemed worthy to entrust my beliefs to, let us stay side by side forever.
+[Greeting] Don't be so tense, relax, a cup of tea for you?
+[T-Doll Produced] New friend? A toast to that.
+[Joining an echelon] Groza, awaiting orders.
+[Enhancement] Simple and effective modifications, feels just right.
+[Dummy-linking] Thanks, Now I have someone to wake me up in the morning.
+[Logistics (start)] Time to go.
+[Logistics (end)] I'm back, went faster than planned.
+[Autobattle] This is the end for you, filth.
+[Title] Girls' Frontline!
+[Starting a combat mission] Now's our chance, move out!
+[Starting a battle] Do not show weaknesses!
+[Skill activation] Now, commence fire!
+[Heavily damaged] Lack of sleep last night is effecting my performance...
+[Retreat] A small break for now, let's think about another way around this.
+[MVP] Beautiful victory. The triumphant dinner will be on you then Commander.
+[Restoration] It's in your hands now Commander, I'll have a short nap...
+[Halloween] Shall we dance? My, you're blushing.
+[Christmas] Merry Christmas, Commander. Did you prepare a bottle of wine? I won't let you sleep tonight.
+[New Year's Day] Happy New Year. Let's do our best.
+[Valentine's day] Why don't we open a bottle of wine? Huh, wait, you made plans with another girl?... humph!
+[Tanabata] I'll be helping out at tonight's event. I'll meet you later.

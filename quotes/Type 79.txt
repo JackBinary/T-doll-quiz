@@ -1,0 +1,55 @@
+[Acquisition] Commander, Type 79 reporting for duty. Your orders please!
+[Introduction] Greetings Commander, Type 79 salutes you! Being the first light SMG developed by the nation, the development was especially difficult, having gone through the difficult circumstances at that special era, my development took around fifteen years. I may not be the best combatant but with my many years of service experience, I will do everything I can and live up to everybody's expectations!
+[Secretary] Type 79 on standby! I'm ready for your orders at any time, Commander!
+[Secretary (post OATH)] Commander, what do you think of my outfit today? Can you spot any differences? Heh heh, take another closer look~
+[OATH] Eh? Me? ...Really?! W-Why ...Although I have made small efforts before, I never had such expectations, nor dared to wish for this kind of thing. But right now...I'm really incredibly happy! Thank you very much, Commander!
+[Greeting] Welcome back Commander. Your orders today?
+[T-Doll Produced] A new comrade awaits your commands.
+[Joining an echelon] Type 79, Entering formation.
+[Enhancement] Where should we strengthen next?
+[Dummy-linking] Thank you Commander. I'll take care of everybody.
+[Logistics (start)] Commander, I'm moving out!
+[Logistics (end)] Mission accomplished Commander! Please view the reports.
+[Autobattle] Everybody ok? We'll be counting on you here.
+[Title] Girls' Frontline!
+[Starting a combat mission] Yes Commander, preparing to attack!
+[Starting a battle] Enemy contact, switching to combat formations.
+[Skill activation] Now's the chance, move up!
+[Heavily damaged] Just some minor mistake, I'm not worried!
+[Retreat] Situation is critical, Commander, please order retreat.
+[MVP] Combat success! How did I perform Commander?
+[Restoration] Was I a burden to everyone...?
+[Halloween] Tonight's sweets are ready, call everyone over. But not that many at once ok?
+[Christmas] I tried putting a heart on the Christmas cake. Doesn't it look cute?
+[New Year's Day] I'll do my best in the new year. Please rest assured, Commander.
+[Valentine's day] Today is a battle that a girl mustn't lose. Please accept my present, Commander.
+[Tanabata] It's a special night, so I changed into something that was a little more fashionable, but I'm happy if you like it, Commander.
+[Acquisition] This new body feels SOOO good~! What? Don't break it again? I-I'll take great care of it this time!
+[Secretary] These pieces of equipment? They're a little "gift" by the police following the previous incident. Hehe, maybe they'll come in handy in the future!
+[Secretary (post OATH)] You have to work overtime today as well? Hmph, guess it can't be helped, let me stay with you. I think this sort of counts as a d-date... It-it's nothing!
+[OATH] Eh? Me? ...For real?! B-But why... Though I've made some modest effort, I never expected or even dared of dreaming about such thing. Yet, now... I'm so... I'm so happy! ! Thank you, Commander!
+[Greeting] Commander, I'm ready for the mission!
+[T-Doll Produced] Newcomers? Let me share some life experiences with them.
+[Joining an echelon] Is everyone here?
+[Enhancement] With this strength, even taking a direct hit from artillery won't be a problem.
+[Logistics (start)] Commander, I'm heading out.
+[Logistics (end)] Mission accomplished. Commander, please review the report.
+[Autobattle] Is everyone all right? I'll do everything I can to help you!
+[Title] Girls' Frontline!
+[Starting a combat mission] Mission copy, departing now!
+[Starting a battle] It's time for combat. Let's go!
+[Skill activation] Charge!
+[Heavily damaged] Ugh... I don't want to go through THAT experience once again...!
+[Retreat] In such a dire situation... I must protect myself!
+[MVP] That's it? I haven't even reached my peak performance yet.
+[Restoration] Could others... think I'm a liability...?
+[Attack] Forward! Unto the gunfire!
+[Halloween] Tonight's sweets are all prepared. Let's call everyone over, but not too many at once.
+[Christmas] I drew a heart on top of tonight's Christmas cake... Does that make me more adorable?
+[New Year's Day] Even it's the New Year, I'll remain vigilant on post. Rest assured, Commander!
+[Valentine's day] Today is a battle a woman can ill afford to lose... so please accept my gift, Commander!
+[Tanabata] Well, tonight is a special occasion after all... so I've dressed up a bit... I hope you like it, Commander.
+[Defense] Meet our insurmountable defense!
+[Phrase] Me? Roger!
+[Tip] Gotta work hard.
+[Loading] It'll be ready soon...

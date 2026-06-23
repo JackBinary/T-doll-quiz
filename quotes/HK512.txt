@@ -1,0 +1,30 @@
+[Acquisition] Hey, Commander, sorry to keep you waiting! I'm 512, where's my welcome party?
+[Secretary] Griffin really is a nice place♪ Any Doll gets a chance to fight, no matter their background! Why are you looking at me with those doubting eyes? Did someone say something like that in the past?
+[Secretary (post OATH)] Commander! Get up! We had a date to go adventuring today! What, there's no such thing? Then say you'll go out with me right now!
+[OATH] You want me to stay with you forever... Does that mean you're signing a permanent services contract with me? No? Er... Well, I don't quite get it, but... I'm willing to take my time and figure it out with you.
+[Greeting] You're just in time, Commander! Quick, get on, let's start the new day with a thrilling ride!
+[T-Doll Produced] We've got a newbie, wanna bet on what she's like?
+[Joining an echelon] Hello lovely ladies, a new adventure is about to begin...
+[Enhancement] Ahn♪ I love it, can I have some more?
+[Dummy-linking] Now I can send this Dummy out to get closer to Big Sis!
+[Logistics (start)] Yaaay, I get to go out! I'll make sure to come back with loads of stuff!
+[Logistics (end)] Hi, Commander, I'm baaaaaack! Come over and look at my supplies, see anything you like?
+[Autobattle] Alright, leave it to me!
+[Title] Girls' Frontline!
+[Starting a combat mission] Charge! Go wild and attack!
+[Starting a battle] None of you are worthy to be my opponents!
+[Skill activation] Allow me to protect the lovely ladies!
+[Heavily damaged] Dammit! Did I load the wrong ammo again?!
+[Retreat] Retreat! Although, this is just a lead-in to an even more impressive entrance!
+[MVP] That was an easy battle, I feel like I'm going to fall asleep.
+[Restoration] Time for sweet dreams.
+[Attack] Scrap them all! Let none survive!
+[Halloween] Trick or treat! Hahahahaha, I scared the crap out of you, didn't I, Commander! I look super scary in his outfit, right? Awesome, time to go scare Big Sis!
+[Christmas] (Yawn) Is that you, Commander? I can't believe I fell asleep underneath the Christmas tree... haha, I had a nice dream! I dreamt that Big Sis and I were riding a bike on a faraway journey, ehehehe...
+[New Year's Day] Happy New Year, Commander! Hehe, judging by that worried look on your face, you must be trying to dodge all those Dolls trying to get red packets from you. Don't worry, I'm the upstanding and righteous type, as long as I get my red packet...
+[Valentine's day] Commander, you got lots of chocolate today, right? Aw, don't worry, I'm here to lighten your load! Let me help eat the chocolate that Big Sis gave you!
+[Tanabata] Hi, Commander, are you looking for magpies too? Actually, I've been wondering why they don't just run away with those star-crossed lovers...
+[Defense] Hehe, you're just trash squirming around in your death throes!
+[Phrase] Haha, bring on the wind and waves!
+[Tip] Big Sis, how about going out on a ride by the coast today? Big Sis, why aren't you saying anything? Don't run away, Big Sis! Heh... You're an interesting woman, you think I'll give up just like that?
+[Loading] Why don't we have a little drink while we're bored waiting?

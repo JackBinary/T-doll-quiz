@@ -1,0 +1,26 @@
+[Acquisition] Chinese made Type 97, requesting entry. You're my new Commander right, is sis 95 also here?
+[Introduction] Domestically made Type 97, might not look very different from 95-sis, but the bullet calibre is completely different alright, it is for export after all. Well... It's not like I don't like it back home, but in this era we really should go and see the outside world, I have a duty after all.
+[Secretary] Commander let's go already, the outside world is really great~!
+[Secretary (post OATH)] Commander! That last place you picked was super interesting, big sis was happy too, let's all go together again next time!
+[OATH] What's going on Commander? I haven't been running around today... Eh? Really? Ehh... How can I explain this to big sis... Ah no, I'm happy that you've chosen me, but you have to come together with me to explain this to big sis now...
+[Greeting] Mornin' Commander, is big sis with you? (Pheww) Aww finally, I'm free at last!
+[T-Doll Produced] A new friend is here, who might it be?
+[Joining an echelon] There's nothing to be afraid of with me here.
+[Enhancement] Yeah! Was waiting for this, thanks!
+[Dummy-linking] Oooohhhh! With this many me, even big sis won't be able tell which one is the real me right?
+[Logistics (start)] Ahh... The beautiful outside world, I'm coming!
+[Logistics (end)] I'm back, I've been following the rules alright.
+[Autobattle] Work hard while I'm away okay?
+[Title] Girls' Frontline!
+[Starting a combat mission] Yay! With a mission assigned, I can explore the outside world!
+[Starting a battle] These guys are in the way of me having fun, I'm gonna end them like "pew pew".
+[Skill activation] Now it's my show time!
+[Heavily damaged] Aww crap! I'm gonna get a mouth full from big sis again for this...
+[Retreat] Oh no, I'll be in a lot of trouble if sis knows about this...
+[MVP] Big sis did you see that? This kind of difficulty isn't a problem at all~
+[Restoration] Alright I know... I'll be careful next time sis alright?
+[Halloween] Ohh! I've waited so long for tonight! I can play to my heart's content while evading big sis with the costumes, this is perfect!
+[Christmas] Merry Christmas! Commander, you're only stalking me because my sister asked you to, right? Geez, big sis is such a pain.
+[New Year's Day] It's New Year! Look, this is the new year gift I received from big sis! I think she's the best only on this day every year.
+[Valentine's day] Commander, what did you receive from big sis? She's just old-fashioned as ever. Mine is a luxurious, foreign product. It's rarely available you know, hihihi.
+[Tanabata] My wish huh... Sometimes I just want to play freely without worrying about big sis.

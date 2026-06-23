@@ -1,0 +1,24 @@
+[Acquisition] I'm Walther P99. I was enlisted do my job properly.
+[Secretary] Where should we heading?
+[Secretary (post OATH)] Boss, everyone has invited me to participate in the get-together this weekend. What do you think I should wear? ... Be serious! We're discussing an important matter here...
+[OATH] Commander, I'm well-knowned about my position. Rest assured, I won't trouble you, because we understand each other.
+[Greeting] Good morning sir. Today please do your job properly.
+[T-Doll Produced] New comrade, I'll file it.
+[Joining an echelon] P99, ready to join the operation.
+[Enhancement] Strengthening complete. My gratitude, sir!
+[Dummy-linking] I can learn some more!
+[Logistics (start)] Yes, please leave this to us.
+[Logistics (end)] Mission success
+[Autobattle] I'll protect everyone's safety!
+[Title] Girls' Frontline!
+[Starting a combat mission] According to command, everyone, sortieing!
+[Starting a battle] Encounter with the enemy! Fire!
+[Skill activation] How is it? Are you scared?
+[Heavily damaged] Ugh! I-I'm alright! Don't give up!
+[Retreat] My lack of power led to this failure...
+[MVP] Even I can do it if I try.
+[Restoration] I'm sorry, seems I still lack training...
+[Halloween] Gathering at a night like this is not that bad. In order for not being mischieved by others, you should properly give them sweets.
+[Christmas] Merry christmas, sir. The atmosphere is nice since everyone looks happy. Please give a good present for them.
+[New Year's Day] Happy new year, sir. I'll do my best to accomplish all this time result for next year as well.
+[Valentine's day] You look awfully happy, sir. Did you receive so many chocolates? Please be careful about your health

@@ -1,0 +1,30 @@
+[Acquisition] Hello, Commander. I am Fedorov. I was once a medic and I am currently responsible for delivering long-ranged fire support. Your orders, please!
+[Secretary] Do you have any orders, Commander? You, you want to go outside? Please give me five minutes to evaluate the safety level of the region and the recommended equipment loadouts...
+[Secretary (post OATH)] You haven't told me about your expectations of me... You, you want me to set aside my concerns and live a carefree life? You're saying the same thing as Perosa...
+[OATH] I haven't done anything that is particularly praiseworthy, yet I've received such a valuable gift...   Commander, I'll feel very uneasy if I just accept it like that. Please tell me what you expect of me, and I will do everything I can to become the person in your heart.
+[Greeting] Fedorov reporting to Commander, nothing happened on the base today.
+[T-Doll Produced] We have a new arrival, I'll go take care of the new employee paperwork.
+[Joining an echelon] Understood, I will immediately familiarize myself with my teammates.
+[Enhancement] Thank you, Commander. I will not waste the resources you have expended on me.
+[Dummy-linking] Now I'll be expending more resources...
+[Logistics (start)] I've already put away the list of the items you want me to acquire. Please wait a while, I assure you that I will collect them all.
+[Logistics (end)] I'm back, Commander. I haven't seen you in a while, have you gotten skinnier?
+[Autobattle] Whew... I can refer to past combat records for this mission. Please relax and leave it to me.
+[Title] Girls' Frontline!
+[Starting a combat mission] The plans for dealing with various contingencies are ready, let's prepare to move out.
+[Starting a battle] Act as I direct.
+[Skill activation] Focus fire and assault the target!
+[Heavily damaged] But I...thought of everything...
+[Retreat] A temporary retreat is not the same as failure.
+[MVP] All we did was win one battle. We still need to prepare for the next one.
+[Restoration] What a familiar sequence of events...
+[Attack] Cover the vanguards and increase firepower!
+[Halloween] I, I'm working here... Commander, please don't expose me. At the very least, let me hide here today so I don't have to think about how to handle those ghosts and monsters outside...
+[Christmas] Merry Christmas, Commander. This, this is my gift to you. If you don't like it, I actually have others...
+[New Year's Day] Commander, there's no need to worry. Go set off fireworks with the others. I'll help you take care of matters within the base.
+[Valentine's day] I'm not too sure why people give chocolates on this day, but Kolibri and the others roped me into making some with them... In any case, Happy Valentine's Day, Commander.
+[Tanabata] Do you know the legend of Tanabata? Surely the person who can organize so many magpies into a magpie bridge must be very powerful indeed.
+[Defense] Flanks, mind your defense!
+[Phrase] I'm ready.
+[Tip] Don't worry. No matter what kind of mission it is, I will complete it for you.
+[Loading] Please be patient and wait a little more, Commander.

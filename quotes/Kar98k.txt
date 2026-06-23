@@ -1,0 +1,51 @@
+[Acquisition] Mauser 98k, at your service. Please allow me to sweep aside the obstacles in our path.
+[Introduction] Because warfare necessitated to improve the already completed sniper weapons, the Mauser 98k became the standard rifle of its country. Even after the end of the war, it remains widely used. To master such a precise and reliable weapon was the duty of every soldier from that era. I will also win you countless glories, as I had in the past.
+[Secretary] If you want to visit my room from time to time, I wouldn't be opposed to it, hmhm...
+[Secretary (post OATH)] Stop working all day and come talk with me a bit... Anything is fine, as long as you tell me what you've been up to these past few days, fufu...
+[OATH] Oh? You've already decided to serve me for eternity? Then give me your hand, this contract shall be forever carved into our veins... From now on, I'll be in your care, hehe...
+[Greeting] Greetings, Commander.
+[T-Doll Produced] My my, I wonder what girl has arrived this time.
+[Joining an echelon] My, I wonder if I can do this.
+[Enhancement] Well, isn't this lovely.
+[Dummy-linking] Combined Enhancement? I wonder if it will thin out my blood.
+[Logistics (start)] I'm going? I suppose it can't be helped.
+[Logistics (end)] I'm back, please take a look at the harvest.
+[Autobattle] Occasionally, things like this must be done. Now then, have a look!
+[Title] Girls' Frontline!
+[Starting a combat mission] Now, my power... I will show you.
+[Starting a battle] Oh my, it's the enemy.
+[Skill activation] Prepare yourselves!
+[Heavily damaged] You've done a terribly awful thing.
+[Retreat] I'm sorry... It's impossible...
+[MVP] Everyone, let us maintain this rhythm.
+[Restoration] Repairs again? Who will take care of me?
+[Halloween] Halloween ... Hey, commander! Give me candy if you don't want to be tricked, hehe...
+[Christmas] Today is Holy Christmas. Let us pray that the coming days will be full of joy.
+[New Year's Day] Happy New Year. I've grown with your assistance.
+[Valentine's day] Commander, please enjoy this chocolate.
+[Tanabata] Tanabata... I've wrote my wish. What kind of wish did you write, commander?
+[Acquisition] This is Kar, returning to the unit. Everything's the same as before. I'll continue to stand by your side and clear all the obstacles from your path.
+[Secretary] This is a watch that I'd like you to keep. It displays the estimated time I'll be spending outside on my dispatch assignments. If the time comes and I haven't contacted you yet, please open this box.
+[Secretary (post OATH)] You want to go for a drink with me this weekend? Of course it's fine, it's just... Commander, I'm not in the habit of telling you all about myself after I get drunk, you know.
+[OATH] Commander, before you make your final decision, I must remind you that this and signing an employment contract are completely different from each other... Is that so? It seems you're fully prepared for this, as I understand. Then I shall stay by your side to protect and care for you, until Death casts a pall over my eyes.
+[Greeting] I've finished preparing for today's mission. Your orders please, Commander.
+[T-Doll Produced] Over here, rookie. I'll help you complete your onboarding procedures.
+[Joining an echelon] Don't worry, I'm here.
+[Enhancement] Thank you for investing your resources in me, Commander.
+[Dummy-linking] I wonder how much of my training they have... I guess I'll have to put them through their paces on the range.
+[Logistics (start)] I've already sorted the necessary items on the checklist by priority. Please be patient.
+[Logistics (end)] Are you happy with our supply haul?
+[Autobattle] We need to do these things every now and then. With that being the case, just sit back and watch.
+[Title] Girls' Frontline!
+[Starting a combat mission] All units, move out.
+[Starting a battle] The enemy's position is known. Begin combat.
+[Skill activation] This next bullet will take your life.
+[Heavily damaged] Don't worry about me, just focus on the mission.
+[Retreat] A disgrace... What a disgrace...
+[MVP] The battle is over. Everything is normal.
+[Restoration] I'll be gone for a while, but I'll be right back.
+[Attack] Concentrate your fire! Attack!
+[Defense] Cover your comrades in the rear!
+[Phrase] Please leave it to me.
+[Tip] Mind hearing me out?
+[Loading] Could you give me a moment, please?

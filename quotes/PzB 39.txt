@@ -1,0 +1,26 @@
+[Acquisition] CN: Commander, I'm PzB39, I will be your subordinate as of now... What's wrong? Relax a little, no need to be so tense. JP: Panzerbüchse, I will be your subordinate as of now. What's wrong? No need to be so tense.
+[Introduction] I'm PzB39 Anti-tank rifle, an improved model based on PzB38... Well, improvements, mostly just reduced weight and added two box to put bullets in. Though our enemies are no longer tanks this time round, my strengths are still quite good to have.
+[Secretary] Asking me about the combat advice? ...Just write whatever, I'll know what to do.
+[Secretary (post OATH)] Commander I've worked so hard today, shouldn't you praise me a little... Don't make me teach you this kind of things!
+[OATH] Commander what's going on? Why you acting so mysterious... Wait what, this is?! ...Woah have you gone insane? Please I have to check your heart rates... Don't move around ok, keep this pose...❤
+[Greeting] A bit late, but it's fine, please hurry and take a seat.
+[T-Doll Produced] You have to work hard to have your name remember, new girl.
+[Joining an echelon] No for formal greetings, just play your part.
+[Enhancement] Looking forward to this.
+[Dummy-linking] Even the clothes are the same, it's not a rip-off brand is it?
+[Logistics (start)] Faster it gets done, faster we go home.
+[Logistics (end)] Can I rest for a bit? Too much work I'll be irritated alright?
+[Autobattle] Fighting a guaranteed winning war, does feel a little boring.
+[Title] Girls' Frontline!
+[Starting a combat mission] Time for me to shine!
+[Starting a battle] Can you sate this kid's appetites?
+[Skill activation] Did that hurt? Scream louder then!
+[Heavily damaged] Curse you...! How dare you damage my outfit...!
+[Retreat] I've overdone it, I'll reconsider this.
+[MVP] I can win again next time too, I promise.
+[Restoration] Before checking my woulds, check if my clothes are damaged.
+[Halloween] Was that disguise meant to surprise me somehow? What should I do now?
+[Christmas] Is there any beer, Commander? I think it will go best with the turkey!
+[New Year's Day] Happy New Year, Commander. If you have any work, just leave it to me. You should take a break.
+[Valentine's day] I bought chocolate from Ms. Kalina because I didn't know how to make any. W-well, isn't that good enough? Don't get greedy...
+[Tanabata] My wish? I want a new uniform as soon as possible. Hey, were you listening? Did you hear me?

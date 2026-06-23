@@ -1,0 +1,26 @@
+[Acquisition] Hello, SIG-510 reporting. I will be by your side from now, please let me become your strength.
+[Introduction] SIG510, developed domestically after researching many assault rifle's principles after the war. After production, not only entered service in the army, also gave birth to several variants for export and civilian market. Might have a strange appearance but I have confident in my accurate shooting. Commander it's an honour to fight by your side.
+[Secretary] Am I... Really able to make friends...?
+[Secretary (post OATH)] Commander, help me pick some outfits again after work... I want to change my appearance up a bit, for my friends...
+[OATH] Am I... No longer alone today? Feels a bit sudden, but I will get use to it... Until one day I become the person you are truly expecting.
+[Greeting] Commander you too have to make improvements with every passing day.
+[T-Doll Produced] Another new comrade? Maybe I can get along with her...
+[Joining an echelon] Years of training just for this moment.
+[Enhancement] Without hard trainings, I will never be a reliable soldier.
+[Dummy-linking] Another new comrade? Oh, it's me again...
+[Logistics (start)] Moving out, I promise to perform my duty.
+[Logistics (end)] I've returned, everything went smoothly.
+[Autobattle] I'll protect this place, everyone keep moving!
+[Title] Girls' Frontline!
+[Starting a combat mission] Everyone will be following my orders? Feeling slightly nervous about this.
+[Starting a battle] Enemies found, commence combat status.
+[Skill activation] Everyone, take aim, fire!
+[Heavily damaged] I underestimated them...
+[Retreat] I need more training... I will have my revenge next time...
+[MVP] This is a soldier's duty.
+[Restoration] I'm alone again... Ahh nothing, never mind.
+[Halloween] Going around rampaging just because it's Halloween, that's so childish... So then Commander, where are my share of candies?
+[Christmas] Merry Christmas, commander. The cake is delicious.
+[New Year's Day] Happy New Year. Please take care of me again this year.
+[Valentine's day] This is my payback. There is no deep meaning.
+[Tanabata] Would be good if everyone's wish is granted. Mine? It's embarrassing so I won't tell

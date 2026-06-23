@@ -1,0 +1,50 @@
+[Acquisition] You are the Commander? Should be the right one... As long as I work hard here, my debts problems should... Emm? No sorry, nothing.
+[Introduction] (ditto)
+[Secretary] Can I be allowed for two more days? I'll get paid soon... Ahh Commander! Nothing, that was some strange phone scam.
+[Secretary (post OATH)] Are you tired Commander? I'll handle the rest of the missions. This is not for repayment but it's something I wish to do.
+[OATH] I've owed so many things of yours Commander, your acknowledgement and trust, those are something I can never pay back... If I have to, I'm willing to use everything I have, to repay your wish.
+[Greeting] W-Who are you?! Oh, it's just the Commander. I almost thought you were a loan shark...
+[T-Doll Produced] Commander...do you mind if you check on whoever just arrived...?
+[Joining an echelon] I-I'll do anything!
+[Enhancement] You saved me...
+[Dummy-linking] This won't lead me to another debt, right?!
+[Logistics (start)] Please don't run into that lender again...
+[Logistics (end)] Thank goodness... We've made it back safely.
+[Autobattle] I think I'll be okay for this one!
+[Title] Girls' Frontline!
+[Starting a combat mission] There's no helping it even if it's hard. Let's do our best!
+[Starting a battle] They're not collecting...are they...?
+[Skill activation] I'll return the loan properly!
+[Heavily damaged] Oh no...this is a bad bonus assessment...
+[Retreat] You can keep it...until next time...
+[MVP] I did it! If you handle it like this, surely it will make returns with interest!
+[Restoration] They've come back again. I'm really sorry! I'll do my best to make up for it!
+[Halloween] Commander! I've prepared a lot of sweets! With this I could get plenty of money...! Eeh, I can't do it?
+[Christmas] Commander, my residence doesn't have a chimney, will Santa be coming there? I'm anxious.
+[New Year's Day] Speaking of new year, that would mean lots of new year money right?! This chance... I won't let it slips away!
+[Valentine's day] I didn't expect chocolate to be this expensive... But you like them right, Commander? Then, don't worry about it.
+[Tanabata] I wish I could repay all of my debt, please. Ah, this can't do, I can't write it here. I need more paper.
+[Acquisition] Commander, why are you looking at me like that? Did I take a loan out from you earlier? Mmm... Alright then, so long as I didn't! OBR, reporting for duty! I hope we'll get along from now on!
+[Secretary] C-Commander, can I get an advance on this month's salary? Ehehe, it's nothing, I was just asking.
+[Secretary (post OATH)] Are you so tired that you're about to collapse, Commander? I'll lend you my shoulder to lean on... I feel bad that this is the only thing I can do when you went to all that trouble for me... Are you really sure that it's okay?
+[OATH] Commander, I know that I owe you a great debt. I have always cherished your recognition and trust. They are something that can never be repaid... If you must collect this debt, I will give everything I can to return your feelings.
+[Greeting] Let me see, how much do I owe, still... Ah, Commander! I, I said nothing!
+[T-Doll Produced] I wonder if our new colleagues can do accounting? I have some financial questions to ask them...
+[Joining an echelon] I won't disappoint you!
+[Enhancement] This is great! Does this mean I can request higher-paying missions now?
+[Dummy-linking] Wait, doesn't this mean my debts get multiplied too?!
+[Logistics (start)] I hope I don't meet any debt collectors on the road...
+[Logistics (end)] Thank goodness, I made it back safe and sound.
+[Autobattle] It shouldn't be a problem for me.
+[Title] Girls' Frontline!
+[Starting a battle] Nobody's getting in the way of my bonus this time!
+[Skill activation] Time to teach you a lesson!
+[Heavily damaged] Ack... How come they're more vicious than those debt collectors?
+[Retreat] It can't be helped, I'll just have to owe them one for now... Best to conserve my strength and get payback later!
+[MVP] Whew... I can relax now that I've gotten the bonus.
+[Restoration] Aw, I racked up another set of debts... I'm really sorry, I'll do my best to pay it back.
+[Attack] We are heroes who never look back.
+[Defense] Nobody understands flanking tactics better than I do.
+[Phrase] Ack...
+[Tip] I'm sure you'll be fine, Commander.
+[Loading] Time to do my best again today!

@@ -1,0 +1,30 @@
+[Acquisition] Hello, Commander. I'm Saiga-308, and the brass sent me to Griffin to correct the poor discipline in Griffin... I, I'm telling the truth! I'm not playing house! Quit looking down on me!
+[Secretary] My job is to maintain discipline, so it can't be helped even if people end up resenting me because of it. The organization would get all slack if nobody played the bad guy... Which means I wouldn't be so tired if only you were a little stricter, Commander!
+[Secretary (post OATH)] I don't think "taking your work seriously" and "relaxing and enjoying life" conflict in any way. Maintaining a good attitude at work and properly managing yourself is the best way to ensure discipline... Which is why I just can't stand those people who break the rules at work or away from it!
+[OATH] W-what? I won't go easy on you, even if you bribe me, okay... ...Really? You chose me? But I'm the sort of person who's strict and picky during work and sloppy when not on duty. Alright then, I understand. Please take care of me, Commander!
+[Greeting] When did you arrive, Commander? No, I wasn't lying on the sofa and eating semechki! You must have been seeing things!
+[T-Doll Produced] Newbies, come collect the conduct guidebook from me. Make sure you follow it closely!
+[Joining an echelon] Alright, perk up, everyone! Prepare to move out!
+[Enhancement] I always knew autonomous dolls could slowly improve!
+[Dummy-linking] Rulebreakers will have nowhere to hide!
+[Logistics (start)] No breaking the rules when I'm not around!
+[Logistics (end)] I'm back! Where's Saiga-12?! I'm sure she's up to no good!
+[Autobattle] Relax and leave it to me. After all, who's better at self-direction than I am?
+[Title] Girls' Frontline!
+[Starting a combat mission] Discipline committee, move out!
+[Starting a battle] To the potato farms with them!
+[Skill activation] No trash in the bins!
+[Heavily damaged] Discipline... Has been flouted...
+[Retreat] ...Don't panic, retreat in an orderly manner!
+[MVP] Silence! We mustn't disturb the residents with our cheers!
+[Restoration] Please take care of my armband...
+[Attack] Begin the purge!
+[Halloween] Commander! Happy Halloween! Relax, I'm on vacation today, so I'm not going to pay attention to whatever everyone gets up to... You want to know why I'm not in costume? But I AM in costume. See this armband? It means I'm from the Ministry of Internal Affairs' disciplinary committee. Scary, right?
+[Christmas] Merry Christmas, Commander! Even I'm not going to ruin the mood today, so please have as much fun as you'd like and enjoy the Christmas spirit—But in return, you mustn't harass the other employees, okay?
+[New Year's Day] Happy new year, Commander. While I understand everyone's in a festive mood today, we mustn't forget to maintain discipline. I heard that people have used Miss Kalina to have alcoholic beverages secretly sent to the base. If I catch them... Commander? Why are you sweating?
+[Valentine's day] Ah, good afternoon. Pardon me, I was so busy that I didn't notice you... You want to know what I'm working on? Well, I understand that giving people chocolates is a common practice on Valentine's Day, but going around bothering people for it like Saiga-12 does is harassment. Therefore, I'm going to catch her—Ah, this is yours. Please take it.
+[Tanabata] C-Commander! I'd like to ask a favor of you! Please don't tell Saiga-12 this, but... er, well, you know how everyone writes wishes on pieces of paper which they tie to a bamboo tree, right? I'm not tall enough! Please help!
+[Defense] Hang in there!
+[Phrase] That's a demerit!
+[Tip] If breaking the rules is a crime, then Saiga-12 is in for a life sentence.
+[Loading] (yawn) Mmmh, so sleepy...

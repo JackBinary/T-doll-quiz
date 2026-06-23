@@ -1,0 +1,45 @@
+[Acquisition] Just where are you looking at!? It's e-embarrassing, so stop it!
+[Secretary] You're staring again... I've said that it's embarrassing, didn't I?
+[Secretary (post OATH)] Trying to run away from work again? Alright... since you've been working so hard, I'll pretend I didn't see you this time.
+[OATH] Why did you suddenly give me something like this! Idiot, don't make me shoot you. I... This sort of thing... Alright, I don't particularly dislike you, so I'll look after you...
+[Greeting] I-I wasn't waiting here by myself!
+[T-Doll Produced] Production completed.What an idiot, how will you know if you don't go to check it out?
+[Joining an echelon] I guess it's my turn now.
+[Enhancement] Oh well, strong enough will have to do~
+[Dummy-linking] Dummy-linking complete, now go and prepare some more ammunition.
+[Logistics (start)] Al--right, I'll be going then.
+[Logistics (end)] We've returned safely. Wasn't that too easy?
+[Autobattle] Today's weather forecast is a rain of bullets. You better watch out!
+[Title] Girls' Frontline!
+[Starting a combat mission] I will never lose!
+[Starting a battle] You're gonna regret this!
+[Skill activation] Attack! Attack!
+[Heavily damaged] I...hate losing...
+[Retreat] How frustrating...don't you dare forget this...
+[MVP] It's not like I did my best for you or anything like that.
+[Restoration] Tch...it's not a big deal. Besides, your commands weren't that bad.
+[Halloween] Hey hey! If you don't want to get pranked on, you'd better give me some sweets!
+[Christmas] Hey now~ If you have a gift for me, then you'd better give it to me soon! O-oh...you really...th-...thank you.
+[New Year's Day] I guess it can't be be helped~. Let me help you finish for the new year.
+[Valentine's day] 'Cuz it's a rule! Don't get me wrong!
+[Tanabata] I-I just felt like asking everyone. A Tanabata wish... I wonder what I should write ...
+[Acquisition] Stop spacing out. I didn't get upgraded just to get stared at! Give me some work to do, I'll take care of it!
+[Secretary] I finished all my work, you got anything else that needs doing?
+[Secretary (post OATH)] I admit I wasn't good at this kind of thing before, but I'm still not comfortable, not in front of other people.... Maybe later tonight, when we're alone...
+[OATH] Why did you suddenly give me something like this! Idiot, don't make me shoot you. I... This sort of thing... Alright, I don't particularly dislike you, so I'll look after you...
+[Greeting] Good morning, Commander! I'll be busy today! I won't have any time to play around!
+[T-Doll Produced] A new friend has arrived! Hehe, I may have taken a tiny peek~
+[Joining an echelon] I guess it's my turn now!
+[Enhancement] Hmph! Did you leave your room so that I could get stronger? W-well...thanks...I guess.
+[Dummy-linking] Dummy-linking complete, now go and prepare some more ammunition.
+[Logistics (start)] Al--right, I'll be going then.
+[Logistics (end)] We've returned safely. Wasn't that too easy?
+[Autobattle] Today's weather forecast is a rain of bullets. You better watch out!
+[Title] Girls' Frontline!
+[Starting a combat mission] Let me show you my upgraded skills!
+[Starting a battle] I'll crush them starting from this end!
+[Skill activation] Now's our chance! Burn it all down!
+[Heavily damaged] We need to cut our losses!
+[Retreat] Hmph! I'll let it slide this time.
+[MVP] Yes! I told you I would be awesome!
+[Restoration] Tch...it's not a big deal. Besides, your commands weren't that bad.

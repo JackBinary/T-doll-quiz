@@ -1,0 +1,30 @@
+[Acquisition] While we've already met before, it seems I still owe you a proper self-introduction. I am QBU-191, codenamed "Ibis". Come, let's go on a tour of the base. My onboarding procedures? I took care of all of them while you were spacing out and staring at my file photo~
+[Secretary] No matter where she goes, QBZ-191 is as well-loved as ever... Mm, I was simply musing to myself. You want to know how I came to know her? That will be a story for another time.
+[Secretary (post OATH)] There is much work that needs to be done today as well. It seems you'll need to do overtime until late at night. In that case... why not head out to watch the sunset with me right now and relax a little?
+[OATH] ...Oaths are nothing more than a fragile thing which only exists in this moment.<>I believe everything you said in this moment, and in turn, I am willing to stay by your side.<>I hope that in one, three or many years' time, you will continue to make your oath, and I will continue to answer it in like fashion.
+[Greeting] Let me know if you need anything. I'm always here.
+[T-Doll Produced] Leave it to me.
+[Joining an echelon] From now on, you are all members of Ibis Squad.
+[Enhancement] I hope these materials won't put too much of a strain on the base's finances~
+[Dummy-linking] Is this what you mean by turning me into a one-Doll-army?
+[Logistics (start)] I wonder how many more sunsets I'll see this time?
+[Logistics (end)] I saw a total of 44 sunsets, but none of them looked better than the one in the base.
+[Autobattle] Our watches are synchronized and the mission path is set. Commencing operation.
+[Title] Girls' Frontline!
+[Starting a combat mission] Be good and listen, okay~
+[Starting a battle] The enemy's shown up. Initiate combat plan A.
+[Skill activation] Don't dodge, or it'll hurt a lot~
+[Heavily damaged] Have you... felt the fear of Death creeping up on you?
+[Retreat] ...Don't look back.
+[MVP] Battle over. Ibis requesting RTB.
+[Restoration] It would be nice if I could get a massage too~
+[Attack] A few small mistakes can lead to fatal consequences.
+[Halloween] In the past, I used to think this occasion was a pointless one, merely an excuse for everyone to gather in wild revelry. It was only later on that I realized that this was the entire point.
+[Christmas] I too have prepared gifts for the others during Christmas. Ahem, granted, they are still daggers, but I have inscribed them with thistles this year. In the past, they symbolized the knights who guarded the royal family.
+[New Year's Day] The new year holidays are about to begin, and I'm planning to go sightseeing for a few days. Before that, I came to bid you farewell. What, you can't bear to see me go? Then... why not join me?
+[Valentine's day] It seems you've received many chocolates, Commander. Have you tried mine yet? Your eyes are trembling... Teehee, I was just kidding. My share is still here.
+[Tanabata] I apologize for not being able to keep you company today; I promised to do needlework with several of my girlfriends today. The truth is, I'm not very good at it, but I need to spend time with them from time to time~
+[Defense] Stay alert.
+[Phrase] I'm here.
+[Tip] They say that long, long ago, there were fairy-like birds that soared through the sky. I'd love to see them gliding through the air with their wings spread...
+[Loading] Shhh, be patient and wait~

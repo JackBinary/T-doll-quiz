@@ -1,0 +1,20 @@
+[Acquisition] Open up, food delivery! Oops, my mistake...let's try this again. Hello, Boss. I'm Nova, and this is my partner Margherita!
+[Secretary] Throwing food into a customer's face? That's a stupid thing that I did in the past, but I've matured. Hang on, who the hell ordered American pizza!
+[Secretary (post OATH)] Strange, I swear I smell American pizza in here, but it's just you...
+[OATH] Boss, are you really swearing an Oath with me? Then from this day forward...on Hawaiian pizza and pineapple chocolate pizza, on salad pizza and pasta pizza...you must turn your back and choose only Italian pizza!
+[Greeting] Boss, I've collected your parcels for you.
+[Joining an echelon] It's okay even if you can't keep up with my speed; Margherita will keep you all safe!
+[Enhancement] This is how it feels to ride the wind!
+[Dummy-linking] The figure skating team grows!
+[Logistics (start)] You're confiscating my skates? No! I promise I won't send the supplies flying this time...
+[Logistics (end)] We're back! All the supplies are in one piece. This little dent shouldn't be a problem...
+[Autobattle] Just follow the same old beat. Relax, we've got this.
+[Title] Girls' Frontline!
+[Starting a combat mission] Let's start this battle with a roller dance!
+[Starting a battle] I bet those guys only eat American pizza!
+[Skill activation] Well, I got a brand new pair of roller skates~
+[Heavily damaged] Ugh...is everyone okay...?
+[Retreat] Dammit...I'll be back!
+[MVP] Let me celebrate this victory with an inverted camel spin!
+[Restoration] Can you upgrade my accelerator while you're at it?
+[Loading] How about a roller dance to kill some time?

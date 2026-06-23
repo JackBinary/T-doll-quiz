@@ -1,0 +1,25 @@
+[Acquisition] Guten tag! I am G43, please allow me to display my elegance in battle from this day forward.
+[Introduction] For finishing the new duty instead of 98K ,me, G43-semi-automatic rifle was complete after improving. Albeit the exquisite crafting and the reliable performance, I can't do as much as I can because of some problem. Therefore, I won't lose chance anymore, my commander.
+[Secretary] Have you prepared the tactics we'll be using?
+[Secretary (post OATH)] You've been busy lately? Please tell me if you are feeling tired, Commander. If you were unwell, who's going to watch my back?
+[OATH] Thank you! I don't like the equivocate man.I am so glad that you are such frank, commander. We will be together forever from now on!
+[Greeting] How are you doing today?
+[T-Doll Produced] I wonder who our new comrade-in-arms will be?
+[Joining an echelon] Understood! Please leave it to me!
+[Enhancement] Thank you! You have my gratitude.
+[Dummy-linking] Dummy-linking completed? Gut! What else is new?
+[Logistics (start)] Everyone, it's time to head out!
+[Logistics (end)] Great! Everyone has returned safely.
+[Autobattle] Do you think I can be useful this time? All the best!
+[Title] Girls' Frontline!
+[Starting a combat mission] Wish us good luck!
+[Starting a battle] Enemy sighted! Commence operation!
+[Skill activation] Ready, fire!
+[Heavily damaged] It'll take a lot more than this...to bring me down...
+[Retreat] I refuse...to admit defeat...
+[MVP] Victory! We won!
+[Restoration] Thank you! Will there be any other changes?
+[Halloween] So long as the kids are having fun.
+[Christmas] Merry Christmas! Thank you for all of the support you have given! Let's take it nice and easy today!
+[Valentine's day] Commander, don't you hate sweet chocolate?
+[Tanabata] Tanabata? So that kind of festival does exist. Is it fun?

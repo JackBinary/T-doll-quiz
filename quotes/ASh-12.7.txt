@@ -1,0 +1,25 @@
+[Acquisition] ASh-12.7... Commander identification complete... Standby mode engaged, over.
+[Secretary] Commander, are you trying to make sense of the value of my existence?
+[Secretary (post OATH)] Commander, how many shared memories have we created recently? Let me just confirm...
+[OATH] Commander, this is...the answer you've observed? To assign such a high value to me, you must already be prepared... Then, let us begin to get to know each other on a deeper level... to understand "happiness"...
+[Greeting] Do you really need a commander in my world?
+[T-Doll Produced] Meet the new doll, Commander.
+[Joining an echelon] The consent of each doll is required.
+[Enhancement] Have I become stronger when viewed from the commander's side?
+[Dummy-linking] The room gets smaller.
+[Logistics (start)] I know where I'm going.
+[Logistics (end)] For first I'll return to my room.
+[Autobattle] I have a reason to be here.
+[Title] Girls' Frontline!
+[Starting a combat mission] Let's fulfill the mission.
+[Starting a battle] Unexpected situation has occurred.
+[Skill activation] It will be quiet immediately at ease.
+[Heavily damaged] i shouldn't show this kind of appearance.
+[Retreat] All this failure is my fault
+[MVP] Will this victory give us a new meaning?
+[Restoration] I'll beware of this situation in the future.
+[Halloween] Dolls have no idea of death. As about the ghosts, under which all today are disguised.
+[Christmas] Today I would like to express a sense of joy with Christmas Commander.
+[New Year's Day] The new world began from this point in time, Сommander
+[Valentine's day] Is it okay for human beings to give each other chocolates doing the same thing?
+[Tanabata] Destroying the enemy is my only hope of becoming a weapon, and there is no meaning to any other wish

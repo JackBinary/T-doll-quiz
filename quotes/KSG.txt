@@ -1,0 +1,26 @@
+[Acquisition] Shotgun KSG, join echelon. Commander, where are the enemies Im suppose to destroy?
+[Secretary] War will start at any time,so please be prepared.
+[Secretary (post OATH)] Is this the plan for the next operation? I believe that your good judgement... hasn't and will never change.
+[OATH] This moment has finally arrived ... although I told myself to be ready, but ... still a little excited ah ...
+I will slowly adapt to the commander. This is a new start, and I am deeply honored.
+[Greeting] Good morning, Commander. I've been waiting.
+[T-Doll Produced] A new teammate? Let's welcome her.
+[Joining an echelon] KSG, joining, I'll be on standby.
+[Enhancement] This time's upgrade, I will make use of it immediately, please rest assured.
+[Dummy-linking] Thank you very much, Commander, I'll put it into practical use.
+[Logistics (start)] Thank you for putting your faith in me, I'll be going.
+[Logistics (end)] Mission complete.
+[Autobattle] Rest assured. I'll protect everyone!
+[Title] Girls' Frontline!
+[Starting a combat mission] I'm the one in charge? Understood.
+[Starting a battle] The enemy is here, fire!
+[Skill activation] Break to pieces!
+[Heavily damaged] Ugh, my resolve wasn't enough.
+[Retreat] My decisiveness is nowhere near enough.
+[MVP] Although the mission is success, there's something which is still lacking. I'll reflect on it once we get back.
+[Restoration] I'll keep improving myself, please look forward to it!
+[Halloween] A demon extermination training? Understood, let's start!
+[Christmas] I'll be patrolling around, please do enjoy your christmas party.
+[New Year's Day] Is this the new year strategic goal? It should be fine if you leave everything to me.
+[Valentine's day] There is no problem with the taste. You can be at ease, Commander.
+[Tanabata] I'll make use of my strength to make your wish come true, Commander, give me the order anytime.

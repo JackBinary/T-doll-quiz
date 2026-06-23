@@ -1,0 +1,26 @@
+[Acquisition] Every round I fire guarantees a 99% chance of victory. The remaining 1% will require your miracle, Commander.
+[Introduction] I am a single shot handgun designed and manufactured by Thompson Center, capable of firing most handgun and rifle calibration bullets. Every bullet and shot have special meanings to me, so... Without full preparations, we will not achieve victory.
+[Secretary] Accuracy first, then firepower after, until the enemies are defeated. Commander, this is my formula for victory.
+[Secretary (post OATH)] Commander, please stay with me for today's training too... Oh, I just want to be at my best during training today, and your company is necessary to achieve that.
+[OATH] Commander, was this all part of your plan? You truly are a master tactician. One shot, one kill... Even I couldn't evade it... it seems that all of my feelings have reached you, after all...
+[Greeting] The plan for entire day has been prepared since morning, let's start our work immediately.
+[T-Doll Produced] No matter who is come, my worth won't sway.
+[Joining an echelon] This is a good beginning.
+[Enhancement] Through the next victory, let's prove that your choice is correct!
+[Dummy-linking] It seems like impossible to save up bullets. For victory, it can't be helped.
+[Logistics (start)] I can try finding what you want, but don't expect too much.
+[Logistics (end)] Commander, if you're not satisfied with this, I can go search again.
+[Autobattle] The equation that will lead us to victory, let's solve them in this battle!
+[Title] Girls' Frontline!
+[Starting a combat mission] Have you check your ammo reserve? Well the, let's heading out!
+[Starting a battle] Enemy confirmed, prepare to shoot!
+[Skill activation] Don't make me waste my bullet!
+[Heavily damaged] Tch... the opponent is considerably powerful!
+[Retreat] Tch... it seems like miracle doesn't come down upon us this time.
+[MVP] This is the answer of our equation. The conclusion is what we call victory.
+[Restoration] I'm sorry. I need to cool my head off with a big serving of shaved ice.
+[Halloween] Commander, did you wear that pumpkin head properly? Rest assured, it won't fall off. Just believe 100% in miracle that you have!
+[Christmas] Commander, Merry Christmas! Won't you eat that ice cream? You see... I might be able to take care of it on your behalf.
+[New Year's Day] Let's carve the past into our heart. It's time to start moving forward.
+[Valentine's day] I have 99% confidence in the chocolate that I made. The remaining 1% is... Commander... eat it and you'll understand!
+[Tanabata] God only grants wishes only for those who have prepare oneself properly. I'm already prepared, but what about you, Commander?

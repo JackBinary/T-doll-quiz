@@ -1,0 +1,51 @@
+[Acquisition] Type 64 reporting. Commander, I'm honored to learn from you.
+[Introduction] Domestically produced Type 64 silenced sub machine gun, as a first generation silenced weapon specially developed to satisfy the demands from the scouts. While having splendid stealthiness, more attention is needed on maintenance. But even without the silencer, there is plenty of room to develop as a sub machine gun.
+[Secretary] Going outside for exercises? I'd rather stay here.
+[Secretary (post OATH)] Commander, how does you tea taste? I would like to recommend another book for you, it is an excellent complement for these tea leaves. This is my secret way of enjoyment.
+[OATH] Commander, for me......is it really okay? There are much better choices obviously...... No, of course I do! For Longjing tea, I will brew as much as you want, it is......it is okay to continue like this forever.
+[Greeting] Good morning commander, I have already brewed some Longjing tea, would you like to try it?
+[T-Doll Produced] New comrades awaiting for initiation.
+[Joining an echelon] Type 64, joining formation.
+[Enhancement] Thank you, I still hope that I can be a little bit more active.
+[Dummy-linking] Not bad, strength in numbers.
+[Logistics (start)] Shhh.....don't bother the others, let's go outside.
+[Logistics (end)] I'm back, are you all hungry?
+[Autobattle] Shhh....I am coming.
+[Title] Girls' Frontline!
+[Starting a combat mission] Well then, let's depart.
+[Starting a battle] Enemy spotted. Entering combat mode.
+[Skill activation] Let's end this!
+[Heavily damaged] My movement... feels heavy.
+[Retreat] How unfortunate... I won't let it happen again next time.
+[MVP] It's our victory. Our sharp intuition is the deciding factor.
+[Restoration] I'm sorry. I'll do better next time!
+[Halloween] Ah, who's outside?! Halloween? I have no candy though, how about teacake?
+[Christmas] Since today is christmas, ufufu, let's have a tea. It'll warm up your body.
+[New Year's Day] Happy New Year, commander. Let's pick tea leaves together with me this year.
+[Valentine's day] Today I tried to make chocolate matcha. I arranged it this way because there's not enough ingredients. How is it?
+[Tanabata] Commander, the weather is clear today. I can see the beautiful Milky Way.
+[Acquisition] Type 64, joining in! Commander, I'm expecting to do mission together again.
+[Introduction] Domestically produced Type 64 silenced sub machine gun, as a first generation silenced weapon specially developed to satisfy the demands from the scouts. While having splendid stealthiness, more attention is needed on maintenance. But even without the silencer, there is plenty of room to develop as a sub machine gun.
+[Secretary] You're going out? How about we going out together?
+[Secretary (post OATH)] Commander, how does you tea taste? I would like to recommend another book for you, it is an excellent complement for these tea leaves. This is my secret way of enjoyment.
+[OATH] Commander, for me......is it really okay? There are much better choices obviously...... No, of course I do! For Longjing tea, I will brew as much as you want, it is......it is okay to continue like this forever.
+[Greeting] Good morning commander, I have already brewed some Longjing tea, would you like to try it?
+[T-Doll Produced] New comrades awaiting for initiation.
+[Joining an echelon] Shhh! Preparation complete.
+[Enhancement] I should train my body as well!
+[Dummy-linking] Not bad, strength in numbers.
+[Logistics (start)] Shhh.....don't bother the others, let's go outside.
+[Logistics (end)] I'm back, are you all hungry?
+[Autobattle] Shhh....I am coming.
+[Title] Girls' Frontline!
+[Starting a combat mission] Begin mobilizing. Everyone, please be careful.
+[Starting a battle] Open fire! I'll start.
+[Skill activation] Shhh, it's farewell time.
+[Heavily damaged] They found me out? But, I can still fight.
+[Retreat] Commander, until we attain victory, we won't give up.
+[Restoration] I'm sorry. I'll do better next time
+[Halloween] Ah, who's outside?! Halloween? I have no candy though, how about teacake?
+[Christmas] Since today is christmas, ufufu, let's have a tea. It'll warm up your body.
+[New Year's Day] Happy New Year, commander. Let's pick tea leaves together with me this year.
+[Valentine's day] Today I tried to make chocolate matcha. I arranged it this way because there's not enough ingredients. How is it?
+[Tanabata] Commander, the weather is clear today. I can see the beautiful Milky Way.

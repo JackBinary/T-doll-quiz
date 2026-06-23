@@ -1,0 +1,56 @@
+[Acquisition] Karabinek 29...Commander, is there absolutely no way we can avoid fighting?
+[Introduction] wz.29... This is a name I had no choice but to carry. One of the similar models of 1924 Mauser Standard rifles, for the peace of my homeland... I became a weapon of war. Hopefully by the Commander's side... I won't experience the pain and suffering of war ever again... That is also the only reason of fighting I have left.
+[Secretary] Commander, we are fighting for peace... Right?
+[Secretary (post OATH)] Ah, Commander...since when have you been standing there? ......Have you been staring this whole time?
+[OATH] Commander...have you finally understood my ideals? ...I want you to continue watching over me...and to watch over these beautiful stars with me.
+[Greeting] I wish we could spend this day in peace.
+[T-Doll Produced] For the sake of peace, let us do our best together.
+[Joining an echelon] Let us all get along.
+[Enhancement] Perhaps it'd be best if we didn't have this power...
+[Dummy-linking] The numbers of those who have been played by fate have increased again...
+[Logistics (start)] If you're looking for supplies, just leave it to me.
+[Logistics (end)] Did you find this result to be disappointing, Commander?
+[Autobattle] Don't worry...these are orders, so I'll follow them properly.
+[Title] Girls' Frontline!
+[Starting a combat mission] Orders should be obeyed, right?
+[Starting a battle] I'm sorry, and I wanted to avoid it too...
+[Skill activation] I must do my best!
+[Heavily damaged] It hurts...i-it really hurts...
+[Retreat] One must pay the price for choosing to stay on this path.
+[MVP] I'm sorry, but winning is the only way to save others from suffering.
+[Restoration] How much longer must we endure this suffering?
+[Halloween] Everyone, just because you didn't get any candy doesn't mean you should go around and trick people.
+[Christmas] Merry Christmas, Commander. I wish these fun days could last. Even if you don't have that guy...
+[New Year's Day] Commander, let's relax a little on this precious New Year.
+[Valentine's day] Commander, I made a star-shaped chocolate just for you. Ah, is it possible that you don't want to eat it right away?
+[Tanabata] To the south of Altair, there's Sagittarius constellation. As a symbol of peace which the star is, I pray to it for my wish to come true.
+[Acquisition] I am wz.29... Commander... There's no avoiding battle no matter what we do, right?
+[Secretary] My homeland is a very peaceful place. We could play around as much as we wanted and we wouldn't have to worry about being kidnapped by bad people even if we went out at night. It's a wonderful place. You want to know what year it is? It's 2060, why do you ask?
+[Secretary (post OATH)] Commander, when can I go home? I've been very happy living here, and I want to tell all my friends back in my hometown.
+[OATH] What a lovely ring! Is it for me? How wonderful, I like it very much! But your eyes are prettier, Commander.
+[Greeting] Hopefully today will be a peaceful once...
+[T-Doll Produced] Come strive for peace with us.
+[Joining an echelon] Please be quiet, everyone...
+[Enhancement] I shouldn't have this strength in the first place...
+[Dummy-linking] Yet another person has become fate's plaything...
+[Logistics (start)] I can manage if it's just looking for supplies.
+[Logistics (end)] Commander, I hope you're not disappointed with our results this time...
+[Autobattle] Don't worry about me... I'll do it since it's an order.
+[Title] Girls' Frontline!
+[Starting a combat mission] If it's an order, there's no avoiding it...
+[Starting a battle] I'm sorry, I didn't want this to happen either...
+[Skill activation] Does this hurt?
+[Heavily damaged] (Wince) Why did it have to come to this...
+[Retreat] Is this the price we must pay now that we've chosen this path?
+[MVP] I'm sorry... But in order to spare more people pain, all we can do is keep winning.
+[Restoration] Can we go see the stars after I get better?
+[Attack] Even if it's dangerous, I still need to...!
+[Halloween] Everyone... you mustn't trick even if there are no treats, okay?
+[Christmas] Merry Christmas, Commander... Hm, if only every day could be as happy as this one... Provided they weren't around.
+[New Year's Day] Commander, please take advantage of the new year vacation and...enjoy this peace and quiet.
+[Valentine's day] Commander, I specially made this chocolate to look like a star... Um, you're not going to eat it, are you?
+[Tanabata] To the north of Hikoboshi is Sagittarius, which symbolizes peace... I will pray that its wish comes true.
+[Defense] I can't do it after all...
+[Phrase] ...Never mind.
+[Tip] Commander, it's bright over there!
+[Loading] Mm... Ah, I accidentally spaced out.

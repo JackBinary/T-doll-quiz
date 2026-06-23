@@ -1,0 +1,50 @@
+[Acquisition] Hehe♪ I am thoroughly delighted to be able to meet you here, Commander.
+[Secretary] What, are you thinking of something bad?
+[Secretary (post OATH)] What is it that you expect from staring at me like that all the time? ...Fine, let me reward you since you've been obedient today.
+[OATH] Wouldn't it be more interesting if I refused? Fine, I'll be more serious this time. Then, you'll have to take responsibility for anything that happens, understand?
+[Greeting] Oh my, aren't we specially late? Did you get things prepared?
+[T-Doll Produced] Production is finished~ Let's go "check" that new one fast! ♥
+[Joining an echelon] Do you want to see me in action so badly?
+[Enhancement] Ufufu, good boy~
+[Dummy-linking] Oh my, there are plenty of things. Let's try them one by one♥
+[Logistics (start)] I can do it smoothly, as always.
+[Logistics (end)] We are back safe. With me along, it's a given.
+[Autobattle] I'm overcome with emotion. Putting on an exhibition... It's ecstasy. ♥
+[Title] Girls' Frontline!
+[Starting a combat mission] Now... Entertain me, will you ?
+[Starting a battle] Ufufu... So you guys are the lambs for the slaughter this time?
+[Skill activation] How is it? Do you like it?￣
+[Heavily damaged] Aahn~ ♥ To be punished like this... Not bad.
+[Retreat] You guys... were pretty exciting.
+[MVP] Oh my, this is ridiculous.
+[Restoration] Ahnn~~ ♥ It hurts ! But... I'd like to feel that pain a little longer~
+[Halloween] Commander~ Give me candies, otherwise...I'll have to punish you~
+[Christmas] I'll have you stay with me for Christmas. I don't need anything more than this. Isn't it delightful?
+[New Year's Day] Commander, where is my new year greeting? Ah.. looks like I did not punish you enough.
+[Valentine's day] Oh, I wonder if you want some Valentine's chocolates? Ufufu, if you want them so bad... kneel and beg for them!
+[Tanabata] Even though tanabata is finally here, I can't think of something exciting. For now... why don't you kneel, Commander?
+[Acquisition] Open up, it's a poor little kitty—Oh my, I didn't think that would actually get you to open the door, Commander. Pardon me, it's PPK here to serve you♪
+[Secretary] You've been doing overtime recently, Commander. Surely your shoulders must be stiff, no? Allow me to give you a massage; it might hurt though, so please endure it until I'm done...
+[Secretary (post OATH)] Long, long ago, there was a Griffin commander. On a certain day, this commander came to Sector S09, and then—hehe♪ You'll need to be a paid member if you want me to make up the rest for you.
+[OATH] Would it be more fun to reject you here? Aw, alright, I'll be serious for a bit. However, you need to make sure you take responsibility for this, okay? You don't have a problem with that, right?
+[Greeting] You've got a lot of cheek to keep me waiting. Have you thought about how to make it up to me?
+[T-Doll Produced] A newcomer? Tell me your safe word, then.
+[Joining an echelon] I hope they can take some pain.
+[Enhancement] This feels good, keep going.
+[Dummy-linking] There are so many more wonderful tricks we can try now, right?
+[Logistics (start)] Very good, we've set off successfully.
+[Logistics (end)] We've returned safely. After all, it's only to be expected with me around.
+[Autobattle] Aw, let me enjoy the pleasure of utter domination too!
+[Title] Girls' Frontline!
+[Starting a combat mission] Let's go. Time to have some fun.
+[Starting a battle] It seems we have some people in need of a spanking.
+[Skill activation] Struggle, struggle with all your might!
+[Heavily damaged] Let's scale the peak of pain together...
+[Retreat] To think it would be me getting punished this time...
+[MVP] May I punish these prisoners, please♪
+[Restoration] Anh... It hurts... Still, please let me savor more of this pain.
+[Attack] Kneel and cower at my feet!
+[Defense] Hahaha, you're getting me all excited now!
+[Phrase] Could you cheer me up a little?
+[Tip] Leave it to me.
+[Loading] Honestly, I can't wait any longer.

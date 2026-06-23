@@ -1,0 +1,25 @@
+[Acquisition] KAC, saluting! There's the smell of grapes... You're the Honey I've been looking for! Don't be a stranger, you can call me honey too~ ❤
+[Secretary] Honey, open wide and say ahhhh— I picked these grapes myself, do you like them?
+[Secretary (post OATH)] The letter that Mk23 put on your table? I didn't see it... maybe she was bluffing you! There there, Honey, don't worry about it and do your work. I'll help you empty out the trash bin...
+[OATH] Why did you give me something so valuable all of a sudden? Actually, I don't need this to understand your intentions, Honey... Yup! I'll stay with you from this day onwards, Honey❤ That way those foolish Dolls will know exactly which Doll is the first in your heart, hehe...
+[Greeting] Honey! You're finally here! I waited obediently on the entrance the whole time~
+[T-Doll Produced] There's one more foolish doll...
+[Joining an echelon] Leave it to me! I won't let you be disappointed!
+[Enhancement] Honey, thank you~
+[Dummy-linking] Oh my... I'll need to distribute grapes to more people now...
+[Logistics (start)] Honey, no need to feel lonely when I'm away! But, It's fine to feel lonely for a little!
+[Logistics (end)] I'm hooome~ Please, call me Honey one more time~!
+[Autobattle] I'll carry out the mission just as Honey instructed!
+[Title] Girls' Frontline!
+[Starting a combat mission] For the sake of Honey's smile, everyone move out!
+[Starting a battle] This is... a chance to make Honey praise me!
+[Skill activation] Hand over the grapes!
+[Heavily damaged] My grapes in the cooling box... it's all messed up...
+[Retreat] Honey is calling for me... I'll let you off for today!
+[MVP] I wonder what reward Honey will give me~
+[Restoration] After got fixed... I can't wear the eyepatch I got from Honey ?
+[Halloween] Trick or Treat! You remember that I like grape flavour... Honey, I love you!
+[Christmas] Honey, Merry Christmas! What do you think the present I wanted the most? Mmh, I got so many grapes already... I just want you to call me Honey~
+[New Year's Day] Happy New Year Honey! Not only this year, from now on for every new year, I'll be the first to greet you! For those who do it before me, I'll rip their vocal module with my own hands.
+[Valentine's day] This time, I won't hand Honey ever to those dolls! I'll prune them... Eh? Isn't it Honey? You hear nothing...
+[Tanabata] Heheh, by bringing Honey to an unpopular place, those annoying dolls won't be able to get in our way! Now Honey, let's count the stars together!

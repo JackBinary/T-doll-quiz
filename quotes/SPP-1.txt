@@ -1,0 +1,25 @@
+[Acquisition] Designed for underwater operation, underwater gun, SPP-1. Although I can be used on the surface, underwater is my strong point.
+[Secretary] Oh? Commander, is it time to start working?
+[Secretary (post OATH)] Commander, how is your training? Next time we have to challenge the deeper waters, if you don't have time, I have to train you.
+[OATH] Commander, I can't hear well since I just come out from water... eh? Aah? What are you saying suddenly? Geez... why you are hugging me, I'm still drenched...
+[Greeting] Commander, is there any underwater mission today?
+[T-Doll Produced] New comrade is joining in. Let's do our best!
+[Joining an echelon] SPP-1, joining the operation squad!
+[Enhancement] Thanks for the strengthening, I'll go practice in the pool.
+[Dummy-linking] Oh? Commander, do you need that many underwater gun?
+[Logistics (start)] Is this waterproof I wonder?
+[Logistics (end)] I'm back, I'm drenched though.
+[Autobattle] Sneak around!
+[Title] Girls' Frontline!
+[Starting a combat mission] Is this infiltration operation?
+[Starting a battle] Please go after my sign!
+[Skill activation] Got you off guard!
+[Heavily damaged] Ugh... as expected...
+[Retreat] This is unsuitable strategy for me...
+[MVP] Strategy success. This kind of strategy is suited for me.
+[Restoration] What are we going to do in that kind of place?
+[Halloween] Commander, what are you prepared for? By any chance, tonight? This is well done for a children festival.
+[Christmas] Merry christmas commander! My pool was completely frozen. The best thing to do now is stay warm and sleep near the fireplace.
+[New Year's Day] Commander, happy new year! How is my contribution last year? This year as well, please rely on me!
+[Valentine's day] Commander, please take this! Open it when I'm not around. That's… you know the drill alright!
+[Tanabata] My wish? Of course, I want to get stronger. Even just for one day, I want to participate in the battlefield.

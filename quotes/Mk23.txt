@@ -1,0 +1,26 @@
+[Acquisition] Hello Commander! Starting today we'll be together.
+[Introduction] Mk23, also known as "SOCOM", handgun designed for special operation needs. Different from most other self defence weapon, I was actually designed for offense. After all kinds of inspections and test, I've finally made my way in front of you Darling, I will bring triumphant for you.
+[Secretary] Are you calling, darling?
+[Secretary (post OATH)] What do you want for breakfast tomorrow Darling? I've already prepared tonight's mid-night snack, but you still choose, hehe...
+[OATH] With me being so attached to you, I thought you would be annoyed by it, but I couldn't help myself but behave like that. Maybe... This was planned since the beginning... It's ok now, you've given me a new soul, let me say this to you one more time then: Darling...
+[Greeting] I've waited so long, darling. What are we going to do today? Whatever is fine.
+[T-Doll Produced] Greenhorn, darling is mine you know.
+[Joining an echelon] No need to worry darling, i'm sure it'll be fine.
+[Enhancement] As expected, no need for other girls when i'm around.
+[Dummy-linking] Ooh? So much of commander's love!
+[Logistics (start)] I'll be back soon, no cheating okay.
+[Logistics (end)] I'm home, so hungry.
+[Autobattle] Since you're asking, guess no helping it.
+[Title] Girls' Frontline!
+[Starting a combat mission] No need to worry, darling. We'll meet soon.
+[Starting a battle] Showtime is just started.
+[Skill activation] Farewell, senseless guy.
+[Heavily damaged] Noo, this is impossible. I was suppose to be special...
+[Retreat] Why i'm losing to them...
+[MVP] It's obvious, because darling is here.
+[Restoration] No need to hurry, accompany me some more.
+[Halloween] Tonight everyone will simply come to play right, ehehe. But I won't give up the seat next to you to anyone else.
+[Christmas] Merry Christmas. Don't worry, I'll do the cooking, darling can just sit down. Just wait.
+[New Year's Day] Darling, you noticed? Is there something different with me today? Ehehe. I put it more tight than usual. Happy new year.
+[Valentine's day] Everyday is already feel like valentine, but today is a memorable day after all. Is there something that you want, darling?
+[Tanabata] Eeh, what are you saying, Darling. With you by my side, I don't need to wish for anything else.

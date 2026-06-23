@@ -1,0 +1,43 @@
+[Acquisition] Welrod Mark II, reporting. There's no need for a formality, since I'm well suited for darkness, I have no need for ceremony...
+[Introduction] I'm Welrod MkII, a secretly produced silence weapon during the war. Many information back from my development are unverifiable today, even the developers used code-names. But what can be verified, I was sent to many countries' resistance organization and took part in a large number of assassination missions during that dark era... Not honourable, but necessary.
+[Secretary] What's the matter? If it's an order, please use a code.
+[Secretary (post OATH)] It's nothing.... I was looking at the pictures from last time we went to the museum. Commander, you were a bit too close, weren't you, though there's nothing wrong with that....
+[OATH] Ah? What's this... eh?! For-For me? Are you sure, in front of all these people? Even if you're serious, you're only allowed to do this once.
+[Greeting] Commander, I'm waiting for you. Please start today's work immediately.
+[T-Doll Produced] Another comrade joined us!
+[Joining an echelon] Shh... Please don't make any fuss.
+[Enhancement] This power... I'll keep it in check.
+[Dummy-linking] Even if just one more comrade, our strength will still increase!
+[Logistics (start)] Understood. Let's depart.
+[Logistics (end)] I'm back safely, everything went well.
+[Autobattle] Buried into the darkness!
+[Title] Girls' Frontline!
+[Starting a combat mission] Let us embrace the wind in the darkness and press on.
+[Starting a battle] The hammer of justice!
+[Skill activation] Rest in peace.
+[Heavily damaged] Ugghh... Let me fight till the end!
+[Retreat] No, I won't let you off easily, I will be back!
+[MVP] As long as we move forward with desires of triumphant and the will of sacrifice!
+[Restoration] Sorry, could you pass me the tea Commander?
+[Halloween] It's impossible to startle me with that kind of costume. The dead will only go back to the darkness.
+[Christmas] Rest in peace, Mr. Chicken. Your will will flow into my belly. Ah, delicious.
+[New Year's Day] It's the new year. Justice will always with us... definitely
+[Valentine's day] Here is your chocolate. I've confirmed that there is no poison in it. Please take it, Commander.
+[Tanabata] Please be prepared! If it's you, you can definitely can do anything!
+[Acquisition] It's been a while, Commander. Welrod Mk II has returned to the unit! Please give me a new mission!
+[Secretary] Commander, do you have something to tell me? Your eyes seem to be saying something along those lines.
+[Secretary (post OATH)] More and more of our friends have come to know of your virtues, Commander. I think I should continue working hard too, to become stronger and better.
+[OATH] Huh?! What is this? ...Eh? For me? Doing this in front of all these people, you're pulling my leg, aren't you? Ah...alright, just this once!
+[Greeting] Every moment of doubt and hesitation leads to a loss. You're late, Commander.
+[T-Doll Produced] Welcome to Griffin.
+[Joining an echelon] Everyone, be silent and quickly proceed to your appointed positions.
+[Enhancement] Every little bit of improvement is the stepping stone toward realizing our ideals.
+[Title] Girls' Frontline!
+[Starting a combat mission] I shall teach the enemy the terror of a blade in the dark.
+[Starting a battle] Heaven sends justice!
+[Skill activation] Beg for mercy and I might let you off.
+[Heavily damaged] This firepower... No, I will never give in!
+[Retreat] Justice will not be defeated so easily. We will still grow.
+[MVP] This victory was born from our will, our actions and your wisdom. Thank you for your hard work, everyone!
+[Attack] Evil must not be tolerated!
+[Defense] Careful, I'll cover you!

@@ -1,0 +1,26 @@
+[Acquisition] Commander, I will eliminate your foes, in exchange please stay a reasonable distance away from me.
+[Introduction] To replace outdated comrades such as RPD, designer of AK47 came up with PK franchise of General Purpose Machine Gun, served the home nations and allied nations alike during the Cold War era. Could be considered Nemesis with M60 and MG3 of that era despite with very few engagements. But only the worthy ones can be considered true enemies.
+[Secretary] What?
+[Secretary (post OATH)] Did you tell anyone about that last restaurant we went to? That's our secret, between two solitary beings, please keep it secret until the world ends.
+[OATH] Oh? Really? You must have recognised my true values to have done this. Please let me stay by your side, together we will sweep open the path forward.
+[Greeting] Where did you go? You're late!
+[T-Doll Produced] Production complete.
+[Joining an echelon] Understood.
+[Enhancement] Not bad.
+[Dummy-linking] Linking complete? Went easier than expected.
+[Logistics (start)] Roger, moving out!
+[Logistics (end)] Safely returned.
+[Autobattle] I will lend my aid to the weak.
+[Title] Girls' Frontline!
+[Starting a combat mission] Begin operation!
+[Starting a battle] Chill in the air...
+[Skill activation] End their miserable lives!
+[Heavily damaged] Ouch...
+[Retreat] I... Lost?!
+[MVP] So weak.
+[Restoration] Hmm, whatever, something to learn from.
+[Halloween] I don't want to be part of this... Messy festival!
+[Christmas] Christmas... it's lost its original meaning.
+[New Year's Day] Commander, let's do our best in the new year.
+[Valentine's day] Hmph, a day when we recognize each other's existence... not bad. Commander, I'll give you this.
+[Tanabata] Tanabata huh. Before I wish to the star, I want to become stronger, commander.

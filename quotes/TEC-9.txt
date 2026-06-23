@@ -1,0 +1,25 @@
+[Acquisition] I heard that I can do some work here that isn't so close to human contact... Wait, wait! You, are you human? !
+[Secretary] Whenever I think of humans and their bodies, with all those internal organs and blood in there... Good heavens, it's crazy if you think about it!
+[Secretary (post OATH)] H-horrible... Commander, your eyes are b-bloodshot...! Haven't you rested enough?! This is going to bother me...
+[OATH] Commander, to be honest, I'm not interested in being around humans... But, you're special to me, so I do care if your body is injured or tired. Will you do the same, for me?
+[Greeting] Ah, it's just you, Commander. Haa... I too will work harder.
+[T-Doll Produced] Is it the new recruit? Can we become friends I wonder.
+[Joining an echelon] Cooperating with human, isn't my strong point...
+[Enhancement] As long as there is no blood spilled, I should be able to demonstrate my power freely!
+[Dummy-linking] This atmosphere... it feels somewhat similar with organization back then.
+[Logistics (start)] Still, an easy mission is better than anything.
+[Logistics (end)] Haa... I was too naive...
+[Autobattle] Once marked as a target, you won't escape that easily.
+[Title] Girls' Frontline!
+[Starting a combat mission] I am being the leader, will it really be okay?
+[Starting a battle] I can't let anyone who can bleed come closer!
+[Skill activation] If possible, let's finish them as a clean corpses.
+[Heavily damaged] Using a cruel mean like that...
+[Retreat] I-I should retreat quickly...
+[MVP] A quick victory is better. Before I realized it, everything is over.
+[Restoration] Before coming here, I'm glad that I wasn't a human.
+[Halloween] Z-zombie?! The internal wound... Aah, this is just a dream... This is definitely a dream! Hurry up and wake up... me!
+[Christmas] Commander, are you going to help in the kitchen? No, please don't! What if you cut your fingers. I certainly will...
+[New Year's Day] When I was in organization, we must complete our task before the year ended. Have you done all of your task, Commander?
+[Valentine's day] When I made this chocolate, I unconsciously followed my habit of putting a sleeping pill inside. M-maybe this won't have a bad effect on your body! It might extend your sleeping period.
+[Tanabata] There are too many humans outside! It's better to spend my night in the dorm.

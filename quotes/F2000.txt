@@ -1,0 +1,26 @@
+[Acquisition] Fresh out of the factory, F2000, reporting! Ufufu, Commander, don't be shy and let's get along from now on!
+[Introduction] Brand new weapon system designed for special operation needs, F2000, Commander you wish to know more about me? After many years of development I can mount many mods to suit different combat scenario, but can't just fit any components alright? Have to consider reality limitations as well as compatibility.
+[Secretary] Is there something you need advice on, Commander?
+[Secretary (post OATH)] This is? Tonight's popcorn of course, we did agree to watch a movie together didn't we? Your recommended movies have not disappointed me yet.
+[OATH] Commander, I'm really happy today. But you have noticed already haven't you, looks like I couldn't fool you with my deliberate acting. But of course, from now on, I will share my true self with you.
+[Greeting] Ahh! Commander! ...Emm, what was I watching just now? Nothing at all, let's start working!
+[T-Doll Produced] We got a new comrade. Go greet her.
+[Joining an echelon] F2000 entering formation, nice to meet you all.
+[Enhancement] Adding even more spare parts? Well, not that it matters how many we add, hehe.
+[Dummy-linking] Thank you very much, but with this many people, it seems very difficult to hide these things.
+[Logistics (start)] Moving out, don't forget to record my TV program for me Commander!
+[Logistics (end)] I'm back, did I miss the TV?
+[Autobattle] Don't worry, I'm already here.
+[Title] Girls' Frontline!
+[Starting a combat mission] Ok everyone, time to move out!
+[Starting a battle] Encountering enemies, attack!
+[Skill activation] Shoot! Shoot!
+[Heavily damaged] Ehh?! Don't look, took a lot of effort to hide this...
+[Retreat] That was really unexpected... But it's not everyone's fault, definitely not...
+[MVP] I've been training all this time for the sake of victory, really I'm not lying, ehehe...
+[Restoration] Ahh... I want some chips, juice, the TV remote, and I want to hear "I'm sorry"...
+[Halloween] Ghost festivals... Well I mean I don't mind horror movies, but Commander, you have to watch it with me okay?
+[Christmas] Merry Christmas, commander. I helped baking the bread three times, ufufu.
+[New Year's Day] Commander, Happy New Year. Please take care of me again this year. And please stop asking a delicate question such as body weight to a lady.
+[Valentine's day] Do you always thinking of me whenever you eat valentine chocolates?
+[Tanabata] My wish? Hmm, I want to lose wei-... commander! You heard nothing! It must be your hallucination!

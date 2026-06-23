@@ -1,0 +1,22 @@
+[Acquisition] Commander, being here means that I'll be able to take on all sorts of missions, right? Huhu, I can't wait.
+[Introduction] (ditto)
+[Secretary] My left eye is linked with Maple Moon. This way, you can see what I see from it.
+[Secretary (post OATH)] Commander, when I'm away from you, you can be with Maple Moon, you know?. So that I can still support you from a long distance.
+[OATH] Commander, I wouldn't have the courage if I were by myself. Being with you like this is possible only because you've given me the courage... I hope, we can work together in the future, towards trying happier and brighter things, alright?
+[Greeting] Commander, please give me new mission.
+[T-Doll Produced] I want to make friend with newcomer.
+[Joining an echelon] I wonder which echelon I should go this time.
+[Enhancement] What a good material.
+[Dummy-linking] Do you plan to link me up with Maple Moon?
+[Logistics (start)] Will there any unexpected result this time?
+[Logistics (end)] I brought back as much as possible. I hope we can use them.
+[Title] Girls' Frontline!
+[Starting a combat mission] Maple Moon, no system abnormalities, departing!
+[Starting a battle] Will we meet a new enemy?
+[Skill activation] You should know where to lay your hands.
+[MVP] It's thanks to everyone's effort.
+[Restoration] I can't give up in this place. There are still many things to do!
+[Christmas] Maple Moon is on patrol. If Santa has appeared, it will report to us immediately.
+[New Year's Day] Commander, New Year means there will be more new missions, right? I'm looking forward to it!
+[Valentine's day] The Maple Syrup Choco has been completed! It will leave the unforgettable taste!
+[Tanabata] I'm still inexperienced in many fields. As a doll, I want to challenge myself to know about how this world works. That's my biggest wish.

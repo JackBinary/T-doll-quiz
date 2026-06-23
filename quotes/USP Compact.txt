@@ -1,0 +1,25 @@
+[Acquisition] Umm... I'm USP Compact. From now onward I'll be working under you. P-please take care of me.
+[Secretary] Commander, what are your orders?
+[Secretary (post OATH)] Commander, what are you looking at? Eh! Since when? Please delete it now!
+[OATH] Eh? Commander, when did you notice? S-sorry! Suddenly, it seems like I'm getting caught up in the moment. However, I'm glad that you don't hate me. Commander, I'm really, really thankful!
+[Greeting] Good afternoon, commander. T-to serve you here... I'm honored.
+[T-Doll Produced] Is it... a newcomer? Looks strong.
+[Joining an echelon] Just standing here... I got nervous.
+[Enhancement] Eh? This is for me? Thank you so much!
+[Dummy-linking] Doesn't it stand out a bit much? Not that I dislike it...
+[Logistics (start)] I'm going. Rest assured, it'll be alright.
+[Logistics (end)] Commander, I just got back~
+[Autobattle] Everyone is watching, I have to make a good effort!
+[Title] Girls' Frontline!
+[Starting a combat mission] You don't need to cheer me up... I'll try as hard as I can.
+[Starting a battle] Eh... it's already starting?
+[Skill activation] I wonder if I can do this...
+[Heavily damaged] Ugh... It can't be that I'm the only one who got hit...
+[Retreat] Ugh... commander. Are you gonna... punish me?
+[MVP] Please don't praise me. I'm hiding in the back all the time. It's true!
+[Restoration] Ugh... I told you it's impossible...
+[Halloween] Eh? Tonight? A dance? That's out of the question! Please don't put me on the tight spot!
+[Christmas] This gift is... for me? Thank you so much! Ah... you've just lifted my spirits~
+[New Year's Day] Eh? Try harder in the new year? Ah... okay... I'll do my best.
+[Valentine's day] C-commander! This! Ah... I'm sorry for asking you suddenly. Umm... please take this.
+[Tanabata] My wish? Umm... my wish is... it's kind of hard to tell you.

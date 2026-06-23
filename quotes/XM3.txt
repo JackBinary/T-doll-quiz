@@ -1,0 +1,51 @@
+[Acquisition] Commander, it is up to you however you wish to use me, from now on please make full use of this power.
+[Introduction] XM3 is a less well known rifle within USMC, originally designed as an improvement of M40A3, a project lead by DARPA and researched by IBA. But I believe this isn't because weapons are more spectacular, but instead people are starting to realise their own flaws.
+[Secretary] Commander's mistakes will manifest on the T-dolls, so you have to constantly reflect on your performances.
+[Secretary (post OATH)] Commander did you realize what you did wrong on the last date? ...Whatever, give me a hug and I will forgive you...
+[OATH] Commander you always had your mind on me? ...With this personality of mine, you must really hate me by now... Eh? That isn't what this is about? Then... Ehh! How!? ...I'm not dreaming right now am I...?
+[Greeting] Commander, our works are piling up. Deal with it quickly.
+[T-Doll Produced] Looks like a strong one has come...
+[Joining an echelon] Don't group me with a slacker!
+[Enhancement] Don't worry about me. You yourself need to be a good Commander, got it?
+[Dummy-linking] You can use more than one of me right?
+[Logistics (start)] Understood. Leave securing the route to me.
+[Logistics (end)] Commander, everything went smoothly. Please check them out.
+[Autobattle] Have the tactics been confirmed and taken care of?
+[Title] Girls' Frontline!
+[Starting a combat mission] In this battle, let's prove your ability, Commander.
+[Starting a battle] I'll kick you out of here soon!
+[Skill activation] Got it , I can use this!
+[Heavily damaged] Ugh... Commander's order... is it really okay?
+[Retreat] Commander... you've disappoint me.
+[MVP] If it's you, I believe you can do it, Commander. Let's keep this up.
+[Restoration] Making me experience this terrible mistake... Commander, do you have anything to say?
+[Halloween] You don't have to give a doll that failed in training any sweets.
+[Christmas] To think that it's this easy to break through the security here, Santa isn't a normal person right?
+[New Year's Day] Have you reflected on last year's mistakes properly, Commander? Let's do our best to not make any mistakes this year.
+[Valentine's day] I'm not good at this, but I still tried to make it. I don't want to hear any complaints if it couldn't meet your taste.
+[Tanabata] If you ask me, I think that Hikoboshi guy is quite a terrible person. Why did Orihime fall for such a guy? How weird...
+[Acquisition] I crawled out of Hell, Commander. I should be more reliable now, don't you think?
+[Secretary] Commander, have you seen ST AR-15 lately? I've been meaning to thank her after what happened last time, but she didn't come to the Cafe again after that, and I don't know where to find her... Will I be able to fish her out if I prepare two bottles of good wine?
+[Secretary (post OATH)] The lives of Dolls and humans are similar, yet different... Yet despite that pretext, we can understand each other this well. Does that make us worthy of congratulation, Commander?
+[OATH] Commander, have you been bothered by me all this time? I suppose so... I guess you must really hate me, given my personality... Huh? That's not what you meant? That's... Eh?! But how?! ...I'm not dreaming, am I...
+[Greeting] Life is bitter and short, so why sleep for long? It's time to work, Commander.
+[T-Doll Produced] Newcomer, have you backed up your neural cloud yet?
+[Joining an echelon] Relax, I'll take good care of them.
+[Enhancement] You'll suffer if you rely on your body's specs too much on the battlefield... You mustn't let yourself get carried away.
+[Dummy-linking] If it's you, I'm sure you'd be able to make use of additional copies of myself, right?
+[Logistics (start)] Understood, let me scout out the route.
+[Logistics (end)] Commander, everything went very well. Please have a look.
+[Autobattle] Have you finished checking the tactical plan?
+[Title] Girls' Frontline!
+[Starting a combat mission] I'll make sure everyone comes back alive — but try not to hold me back too much, okay?
+[Starting a battle] Sssh... Quiet now. Rather than let them see us, we should let them see our bullets first.
+[Skill activation] One shot, one kill.
+[Heavily damaged] It's stronger than that time, right...
+[Retreat] It's not going to happen now... So let's prepare ourselves and try again.
+[MVP] Well done, everyone. Yet another peaceful night.
+[Restoration] You caused me to make a mistake like this... Commander, do you have anything to say for yourself?
+[Attack] A specter stands before you.
+[Defense] Hide yourself in the snow.
+[Phrase] Go reflect on yourself.
+[Tip] Take some time and reflect on yourself.
+[Loading] Make sure to work hard today as well, Commander.

@@ -1,0 +1,23 @@
+[Acquisition] Hello! It's M21! Just because I'm a sniper rifle, doesn't mean I have to have a gloomy personality, right?!
+[Secretary] What's the matter, Commander?  Do you want me to... tell you a joke?
+[Secretary (post OATH)] So...that's the end. What do you think of this story, Commander? Will they like it? I only trust your taste.
+[OATH] Now of all times...I can't come up with any puns. Funny isn't it? In the end, one can't picture the future if they keep clinging to the past, right? But thank you very much, Commander.
+[Greeting] It's a new day, Commander, did you see my gag? Eh? Didn't like it?!
+[T-Doll Produced] A newcomer has arrived! Welcome.
+[Joining an echelon] M21, I do gags! ...I quit...
+[Enhancement] If you keep this up, you'll become an objective rifle...just kidding.
+[Dummy-linking] Ahaha, how exciting!
+[Logistics (start)] Got it! Wait for me, Commander!
+[Logistics (end)] I'm home! The strategy is going well.
+[Autobattle] I'll eliminate those interrupters.
+[Title] Girls' Frontline!
+[Starting a combat mission] Pipe down!
+[Starting a battle] Enemy spotted, ready to shoot.
+[Skill activation] Found you.
+[Retreat] Ummm...yeah, there's nothing to laugh about here...sorry...
+[MVP] Oh...am I okay to speak now? The strategy's going well.
+[Restoration] This is...rather embarrassing...after all. Naptime...
+[Halloween] Halloween? I'm...not very good at it. There's a big difference between pranking and making jokes, you know?
+[Christmas] Merry Christmas, Commander ! Even though I was invited to hunt for Santa, I think I'll stay at home and keep warm.
+[New Year's Day] Happy New Year Commander! This year we're going to laugh more than ever! Eh? That's okay?
+[Valentine's day] Commander, did you happen to drop this gold chocolate? Or perhaps this silver chocolate? What's the difference? I'll give you one if you can answer honestly!

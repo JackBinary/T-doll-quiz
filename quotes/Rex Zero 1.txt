@@ -1,0 +1,20 @@
+[Acquisition] Rex Zero 1, at your service. Anything I can do to help?
+[Secretary] You think I have a lot of accessories on my head? These are rewards people have entrusted to me. These two flowers were given to me by my previous boss, this small badge is from VHS, the rounder one is from AUG Para, the ribbon from Tabuk...
+[Secretary (post OATH)] Oh, are you interested in the lyrics printed on this box? Haha, this is a song I like very much. "I can do anything for you" ...Why are you embarrassed? I'm only reading the lyrics.
+[OATH] Is there something I can do for you? A ring? Do you mean to make an oath with me? Of course I can help you with that, though my salary requirements will need to be a bit more special. So with that, give me your heart.
+[Greeting] It's always a good idea to show up to work on time. Isn't it, Commissioner?
+[T-Doll Produced] Another companion has arrived. I'll come pick you up!
+[Joining an echelon] I'm good at this sort of thing. Follow me!
+[Enhancement] I feel stronger than before.
+[Dummy-linking] With this, I can handle multiple requests all at the same time. Huh, that's no good?
+[Logistics (start)] I might be a little late, but don't worry about it.
+[Logistics (end)] I'm sorry, were we super late? I just couldn't leave a person in need... but I did bring back a lot of resources.
+[Autobattle] Please act based on your own experience.
+[Title] Girls' Frontline!
+[Starting a combat mission] When it's hard to see from the bottom, you guys are the real stars aren't you?
+[Starting a battle] Suppress the enemy quickly to minimize damage!
+[Skill activation] Concentrating firepower, commence firing!
+[Heavily damaged] Kyah! I-I'll be alright. Let's hurry, everyone...
+[Retreat] Sorry I wasn't able to help...
+[MVP] All suspects have been apprehended. Shall we take them to headquarters?
+[Restoration] Apologies for the inconvenience, Commissioner... How can I ever repay this kindness?

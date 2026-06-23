@@ -1,0 +1,25 @@
+[Acquisition] Hmm? Do you still don't get it, Commander? You can tell just from looking don't you. I'm the newly joined T77 submachine gun...
+[Secretary] Understood, it's a new mission... right? Then, what should I do?
+[Secretary (post OATH)] Commander, we're perfectly synchronized now. This kind of heartfelt feeling, I really enjoy it... ufufufu.
+[OATH] Commander... what do you mean by this? That's not it! I'm just worried if I misunderstand your intention. You already predicted my reaction, don't you...?
+[Greeting] Sorry to keep you waiting!
+[T-Doll Produced] This girl... I need to watch over her.
+[Joining an echelon] I'll make sure to remember each one's habit.
+[Enhancement] With this, you'll definitely notice my transformation~
+[Dummy-linking] Their action, I can perfectly read it already.
+[Logistics (start)] I don't need any checklist. I can trust my own judgement.
+[Logistics (end)] I'l ask for once... this is the correct stuff right?
+[Autobattle] For this mission, briefing is unnecessary.
+[Title] Girls' Frontline!
+[Starting a combat mission] Everyone, please act according to my complexion!
+[Starting a battle] Enemy movement!
+[Skill activation] I wonder if you can read my action?
+[Heavily damaged] Ugh... something went wrong?
+[Retreat] Eeh?! I must retreat now? But, I haven't even...
+[MVP] Somehow, everyone didn't seem to understand the strategy... but that's not a big deal since we're victorious!
+[Restoration] No matter how insensitive you are, you can tell that I'm not in a good mood right?
+[Halloween] Even with disguise, the way your body move couldn't lie. Beneath this mask is surely...! Eh? Wrong person?
+[Christmas] Commander, what are you spacing out for? Even though I keep signaled you with my eyes, where's my christmas present?
+[New Year's Day] Commander, hatsumode isn't a simple matter. Look and learn the way I do it.
+[Valentine's day] Everyone looks so nervous. I can tell how far they treasure the commander.
+[Tanabata] What an inefficient way to make a wish. Even so, it's amazing that God can tell them apart.

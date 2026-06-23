@@ -1,0 +1,5 @@
+[Acquisition] Hello, Commander! Nice to meet you! These two bullets are my generous gift to you.
+[Secretary] Good morning, Commander! Now don't stare at me like that. I was just doing my daily awakening routine...
+[Secretary (post OATH)] Relax and follow my rhythm. Inhale, exhale... Can you feel the energy surging through your body? Have you come to enjoy to this feeling?
+[OATH] I know how valuable this ring is, but you're not trying to buy a lifetime's worth of yoga lessons with this, are you? It's not exactly good for business, but you have a deal. ♪ But just so we're clear, other services will cost extra!
+[Title] Girls' Frontline!

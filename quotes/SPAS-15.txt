@@ -1,0 +1,30 @@
+[Acquisition] Commander, yeah? You're exactly as I imagined~ There's something about you that sends my heart a-flutter... Just kidding. I'm SPAS-15, nice to you meet you~!
+[Secretary] You're curious about the music I'm listening to? Haha, now here's a great opportunity for us to get to know each other! Here, this is my personal playlist. Is there anything we both like?
+[Secretary (post OATH)] Commander, let's take an intimate photo together! Don't worry, I'll keep it in my neural cloud forever and won't let anyone else see it... probably~!
+[OATH] I've always been hiding my feelings under the guise of jokes, but you saw through me from the very start... Fine, you won. I accept this Oath... Pffft hahaha, why are you blushing? Haven't you prepared the ring? Here, help me put it on.
+[Greeting] Commander, while the others still haven't shown up, why don't we skip work and sneak out on a date...? Just kidding~ Oh? Is that a blush?
+[T-Doll Produced] A new junior? I hope it's someone whom I can revel in battles with~!
+[Joining an echelon] I'm really hyped~!
+[Enhancement] If I become too strong, battles might stop being fun. What a quandary.
+[Dummy-linking] Heheh, not only enemies, but even the Commander will find me a handful now~!
+[Logistics (start)] I wonder if I'll come across any good CDs along the way~
+[Logistics (end)] I'm back~! Come and have a look at all the good stuff I've found~!
+[Autobattle] Going all out? Heheheh, then it's time for some awesome music. Don't say I didn't warn you, but the consequences are none of my business!
+[Title] Girls' Frontline!
+[Starting a combat mission] I can't wait to hear my music resonate with the sound of gunfire~!
+[Starting a battle] Let's fire this party up with some rock'n'roll!
+[Skill activation] This is getting exciting!
+[Heavily damaged] Heheh, I goofed up~!
+[Retreat] For the bigger picture? Can't be helped then. Guess we'll retreat.
+[MVP] I just haven't had enough yet. Are there no more enemies around?
+[Restoration] You're leaving me here all by myself? Stay with me for a bit!
+[Attack] Piece of cake. A bang-bang-bang is all it takes to sort out enemies of this caliber!
+[Halloween] Just dressing up as monsters is no fun at all. Why don't we switch places as well? I'm sure everyone will get a massive scare when they see me sitting in your office~!
+[Christmas] Where's my present, Commander? You're still rushing to put everything together because there are just too many Dolls at the base? Can't be helped then. I guess I'll spare you the trouble and just take a present that's ready-to-do as is—you, of course! Now come with me~!
+[New Year's Day] To tell the truth, I kinda wanna spend the New Years on the battlefield, but you prefer a more peaceful environment, don't you? So let's just have a New Year's Eve dinner and spend the last few hours of this year in peace~!
+[Valentine's day] Here, I've made this chocolate especially for you. You'd better accept it with gratitude~! A return gift? In that case... How about a date?
+[Tanabata] I wish the Commander can be with me forever... Is that a strange wish? It's much more achievable than winning the lottery though, isn't it? All you have to do is say yes~!
+[Defense] Doing it the hard way, eh? Hahaha, you'd better not disappoint me~!
+[Phrase] Don't take it seriously~!
+[Tip] Are you always on your own, Commander? Why don't we... Don't turn me down so quickly. I was just hoping we could take our relationship further... Just kidding~! Huh? Did you actually give that some serious thought?
+[Loading] Are we just waiting here? Doing nothing? Really, doing nothing at all?

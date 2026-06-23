@@ -1,0 +1,30 @@
+[Acquisition] Captain VRB - Leader of the Glory Squadron, 71st Fleet of the Space Resistance Alliance - salutes you, Commander-in-Chief of Earth's Resistance Force!
+[Secretary] This is a medal for downing a hundred enemy warships. This medal was personally awarded by the Alliance Council. This one...? This is just an ordinary astronautic merit medal, nothing special.
+[Secretary (post OATH)] My medals are all made of shell casings. Told you I was crafty, didn't I? ...This medal is real though. I did take part in astronaut training. I won't ever get to go to space, but my dream will never change – let's work hard together for the day we can travel among the stars, Commander!
+[OATH] A-are you trying to bind me to this planet? I have to return to space sooner or later! Th-the Alliance s-still needs me... ...Dammit, as if I could keep up the act at a time like this.Thank you, Commander. I bet no one else would be willing to fool around with me like you. Well, of course I do! Let's keep up our double act then!
+[Greeting] Good morning, Commander of Earth's Resistance Force!
+[T-Doll Produced] Commander, the Alliance has sent us new reinforcements!
+[Joining an echelon] Very well, show me what Earth's Resistance Force is made of!
+[Enhancement] Oooh... I've grown more powerful...
+[Dummy-linking] What?! This is the Empire's cloning technology!
+[Logistics (start)] You call this an expedition? I used to travel across several star systems!
+[Logistics (end)] See? I told this distance is nothing to me.
+[Autobattle] Glory Squadron, moving out!
+[Title] Girls' Frontline!
+[Starting a combat mission] Our odyssey through the sea of stars!
+[Starting a battle] Minions of the Empire, today is the day you die!
+[Skill activation] Beam of Destruction!
+[Heavily damaged] Oxygen... I need oxygen...!
+[Retreat] Retreat! Prepare for guerilla warfare!
+[MVP] This is but one entry in my glorious list of achievements!
+[Restoration] So the Earthlings' technology has advanced to this level...
+[Attack] The Fleet attacks!
+[Halloween] C-C-Commander! We're being invaded by the Empire! I just saw several Empire soldiers in the corridor! Even their commanders are here! We can't let this drag on any longer! It's time for a final showdown!
+[Christmas] Let me tell you, Commander, according to reliable information from the Alliance, Santa Claus is actually a very powerful being with superpowers. The evidence is... It is impossible for an ordinary person to tour the entire planet in a single night, let alone deliver gifts! How about that?! Isn't it absolutely shocking?!
+[New Year's Day] I see, so this is how Earthlings celebrate when their planet completes an orbit around its star? Back when I was with the Alliance, I was so busy training I never knew about this... W-what do you mean, Astronaut Training Center? I don't know what you're talking about!
+[Valentine's day] The Empire hasn't been destroyed yet – as if I'd have time for something as trivial as Valentine's Day! ...Still, I'm actually pretty crafty. Look, this chocolate I made looks a lot like your moon, doesn't it? I even recreated the footprints! Here you go!
+[Tanabata] So you hang your wishes on bamboos and pray to the stars... I see! In other words, you are asking me – a space pilot – for help, aren't you?! Very well! I shall make your wishes come true! ...The first wish is "world peace"?! That'll have to wait till we overthrow the Empire!
+[Defense] Land! Land! Do not give the Empire troops a chance to attack!
+[Phrase] Here comes the universe!
+[Tip] My watch? Looks very cool, doesn't it? I spent half of my monthly wage at the second-hand shop... Ahem! It's a tactical watch given to me personally by the Marshal of the Space Resistance Alliance. It can monitor the Empire's movements in real time!
+[Loading] W-wait a minute, I'm still trying to get into my role...

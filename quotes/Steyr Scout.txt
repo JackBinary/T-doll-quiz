@@ -1,0 +1,25 @@
+[Acquisition] Trefoil, are you sure it's this person? To be accepted by Trefoil...the Commander is no normal person.
+[Secretary] Pet? Sorry, but that's incorrect. You could say Trefoil is more like...my guardian, I suppose?
+[Secretary (post OATH)] Commander, please don't stand right next to me while we work. I'm...always thinking of you, you know? B-but please don't go too far.
+[OATH] Commander, I finally understood why Trefoil took so well to you. Whenever I look at you...I end up overlooking a lot of things. That's why the Commander is always looking after me with a good eye. Commander, could you...look at me in earnest...just...just me...
+[Greeting] What is our primary objective today?
+[T-Doll Produced] Commander, a newcomer has arrived.
+[Joining an echelon] Where do you think would be a good position for Trefoil?
+[Enhancement] This is it, the thing I wished for.
+[Dummy-linking] It really does look the same. It's not like poetry anymore.
+[Logistics (start)] You'll have nothing to worry about when you leave it to Trefoil.
+[Logistics (end)] I've finished checking. We've got a few good items.
+[Autobattle] This time...isn't the Commander's turn.
+[Title] Girls' Frontline!
+[Starting a combat mission] Know everything that happened here!
+[Starting a battle] I've acquired the enemy's position.
+[Skill activation] I've been watching you this whole time!
+[Heavily damaged] For something...this terrible to happen to me...Trefoil won't forgive you!
+[Retreat] I...I can't see anything...
+[MVP] Eh? Did we win already? Sorry, I hadn't noticed
+[Restoration] I need to get this repaired quickly...Trefoil will be worried.
+[Halloween] That's dangerous. There are too many eye-catching things here. This place is forgetting about the sweets.
+[Christmas] The fake Santa will appear at this time this year. Trefoil and I aren't going to pass up this opportunity to see him. Leave it to us.
+[New Year's Day] The first day is not something you want to miss. Three hours...no, let's leave in four hours.
+[Valentine's day] Crap! I was so focused on watching the Commander that I forgot about the chocolate. Will this be okay, again?
+[Tanabata] Trefoil has been watching something for a while. Orihime and Hikoboshi? Heh, I would like to see that, too.

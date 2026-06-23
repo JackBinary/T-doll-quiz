@@ -1,0 +1,60 @@
+[Acquisition] I am RPK-203, officially joining the unit from today onward. It would be an honor to share relevant combat experience with everyone.
+[Secretary] You really are a charismatic leader like the rumors say... The kind who doesn't care about the consequences in various ways. Do you want me to elaborate? You'll find out soon enough.
+[Secretary (post OATH)] Is there no more space for teddy bears at home? Well, it can't be helped, recently everyone looks like they've been doing very well... You don't think so? Could it be that my keen sight is being influenced by something?
+[OATH] Commander, this is...a combat report which I must give you in person. Rather than being surprised, why not open it up right away and see what's inside? You should know that what this report contains, is the entirety of me.
+[Greeting] Commander... Um, judging by the look on your face, I take it you've finished digesting the combat reports I submitted earlier?
+[T-Doll Produced] As for the circumstances of the newcomers, I will inform you by way of a report.
+[Joining an echelon] Is everyone present?
+[Enhancement] Yup, it's worth recording!
+[Dummy-linking] You do realize that at this rate, the number of people supervising you is going to be multiplied as well, don't you?
+[Logistics (start)] I will give my all towards bringing back a harvest.
+[Logistics (end)] The squad has already rested and recovered. We're ready to move out again anytime.
+[Autobattle] I will bring you the best outcome.
+[Title] Girls' Frontline!
+[Starting a combat mission] I sincerely hope that this operation will become an exciting part of our CVs.
+[Starting a battle] Maintain formation and prepare to repel the enemy!
+[Skill activation] Simple suppression!
+[Heavily damaged] I will remember this humiliation well.
+[Retreat] Looks like it's time to write a self-reflection essay.
+[MVP] It seems I can put that into the combat report.
+[Restoration] I hope I can get back to the frontlines soon...
+[Attack] The intense fighting has only just begun, don't slack off!
+[Halloween] Regarding the mission of dressing up as a plush teddy bear mascot and giving out candy, that will naturally be your job. I'm sure the kids will love it.
+[Christmas] You want to give me a Christmas present? A little teddy bear will do... Please don't worry, I'd be quite frustrated if I didn't get a present like that in the end.
+[New Year's Day] Hoping for everything to start over from the beginning and the like is nothing more than a pretty-sounding wish. Please take steps which are rooted in practicality. The work that has been accumulated until now will not permit you to slack off, and if this keeps up, you run the risk of getting a visit from a scary little bear.
+[Valentine's day] "A chocolate combat report?" Of course I won't make anything of the sort. However, "chocolates and combat reports" have been waiting on your desk for a while now, so make sure you collect them.
+[Tanabata] My greatest wish is that everyone will diligently improve themselves, and that you will become the capable commander that I have in my heart...though that will depend on your future performance.
+[Defense] Defend this place to the last at all costs!
+[Phrase] Some things don't need to be said to one's face.
+[Tip] Why I give out little teddy bears? Don't you think that the idea of an innocent exterior concealing a mysterious power is very exciting?
+[Loading] Only careful preparation will allow you to deal with any unexpected occurrence during the course of a mission.
+[Acquisition] I am RPK-203, officially joining the unit from today onward. It would be an honor to share relevant combat experience with everyone.
+[Secretary] I know I'm still small and I'm not strong enough yet, but I want to do my best to complete the tasks given to me and not leave behind too many regrets.
+[Secretary (post OATH)] Being surrounded by teddy bears of all shapes and sizes and being by your side is like a fairytale, Commander. ...No, how could I let myself get distracted? Pull yourself together, RPK-203, we still have work to do!
+[OATH] Commander, Teddy and I like you very much. Do you want to be with us for always? Then hold my hand tight and don't get lost.
+[Greeting] Commander... Um, judging by the look on your face, I take it you've finished digesting the combat reports I submitted earlier?
+[T-Doll Produced] Regarding the status of the newcomers, I will submit it to you in the form of a report.
+[Joining an echelon] I'm here! Is everyone present? You mustn't be late!
+[Enhancement] Yup, it's worth recording!
+[Dummy-linking] You do realize that at this rate, the number of people supervising you is going to be multiplied as well, don't you?
+[Logistics (start)] I will give my all towards bringing back a harvest.
+[Logistics (end)] The squad has already rested and recovered. We're ready to move out again anytime.
+[Autobattle] I will bring you the best outcome.
+[Title] Girls' Frontline!
+[Starting a combat mission] I sincerely hope this battle will become a highlight in our CVs.
+[Starting a battle] Maintain formation and prepare to repel the enemy!
+[Skill activation] Naughty kids get spanked!
+[Heavily damaged] (Sob) I'm sorry, I'm a bad girl, I'll do better next time... Someone please save me...
+[Retreat] Looks like it's time to write a self-reflection essay.
+[MVP] It seems I can put that into the combat report.
+[Restoration] When can I go back and work with you again, Commander?
+[Attack] The intense fighting has only just begun, don't slack off!
+[Halloween] Regarding the mission of dressing up as a plush teddy bear mascot and giving out candy, that will naturally be your job. I'm sure the kids will love it.
+[Christmas] You want to give me a Christmas present? A little teddy bear will do... Please don't worry, I'd be quite frustrated if I didn't get a present like that in the end.
+[New Year's Day] Hoping for everything to start over from the beginning and the like is nothing more than a pretty-sounding wish. Please take steps which are rooted in practicality. The work that has been accumulated until now will not permit you to slack off, and if this keeps up, you run the risk of getting a visit from a scary little bear.
+[Valentine's day] "A chocolate combat report?" Of course I won't make anything of the sort. However, "chocolates and combat reports" have been waiting on your desk for a while now, so make sure you collect them.
+[Tanabata] My greatest wish is that everyone will diligently improve themselves, and that you will become the capable commander that I have in my heart...though that will depend on your future performance.
+[Defense] Defend this place to the last at all costs!
+[Phrase] There are some things which don't need to be said to one's face.
+[Tip] My notebook won't be able to hold it all if I have to take all this down...
+[Loading] (Pants heavily) Come on, Teddy, run a little faster!

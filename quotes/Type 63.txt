@@ -1,0 +1,25 @@
+[Acquisition] Type 63 automatic infantry gun just arrived. I am grateful that you gave me one more chance to fight again!
+[Secretary] Commander, any missions available? Please give me the instructions!
+[Secretary (post OATH)] Commander, I've finished preparing plan for today! Now that I have your encouragement, I won't so easily mess up those trivial matters again!
+[OATH] Commander, did make a mistake somewhere again ...Eh? That's not it?...Suddenly bringing this up...I haven't even brushed my teeth yet! Hahaha.. Of course! Of course I'll accept it, Commander!
+[Greeting] Hello, commander. If there's any instructions, just say it to me.
+[T-Doll Produced] A new comrade has joined. Everyone, let's welcome her!
+[Joining an echelon] I-I can surely do it!
+[Enhancement] Framework strengthened, my makeup is also perfect!
+[Dummy-linking] Is it a mass production? Thank you, Commander!
+[Logistics (start)] Please rest assured, I'll make sure to complete this mission!
+[Logistics (end)] I've returned safely! There was no problem.
+[Autobattle] No worry. I-I understand it all
+[Title] Girls' Frontline!
+[Starting a combat mission] I can finally go to the frontline... M-my preparation is perfect!
+[Starting a battle] Ready your bayonet, charge!
+[Skill activation] Hold a little more!
+[Heavily damaged] Hiii...! I-I'm in a bad condition... I'm sorry...
+[Retreat] E-even though I finally had a chance...
+[MVP] Mission clear. Thanks to you, I can go this far, Commander.
+[Restoration] I will reflect on my action this time... please fix me.
+[Halloween] Do you have any plan tonight? I want you to go training together with me! I-it's not like I'm afraid of anything! I'm serious!
+[Christmas] Merry Christmas, Commander! Leave the snow cleaning to me!
+[New Year's Day] Happy New Year! I will do my best again next year! I will improve my lack of power.
+[Valentine's day] Commander, I'll give this to you! I was a little worried about the taste... does it taste good?
+[Tanabata] So many stars are twinkling tonight, what a romantic night. What I'm wishing for you ask? W-why are you curious about such thing?

@@ -1,0 +1,32 @@
+[Acquisition] GSh-18 reporting in! No matter how difficult the task, I can handle it! Give your orders at any time!
+[Introduction] ditto
+[Secretary] Emm? What? Please don't hesitate to tell me if any situation develops. Wait...! What are you doing!?
+[Secretary (post OATH)] Sure is nice weather. Commander, can we go outside together? Hmm? If you're worried about work, I'll help you out, but when it's all wrapped up we'll absolutely go outside together, alright?
+[OATH] Commander, if you weren't by my side, I definitely would not be here today... I've always desired your every order, compliment, trust, and this... This reliable smile of yours.
+[Greeting] Ooh, commander? Shall we talk about the next mission?
+[T-Doll Produced] Let me see, a new comrade huh? No matter who is she, I will not lose!
+[Joining an echelon] To keep the Commander from feeling disappointed, I will do my best!
+[Enhancement] With this, we can shorten the battle duration. I can catch up with the next chapter deadline!
+[Dummy-linking] Looks like I can tear a bunch more holes in the enemy's body now.
+[Logistics (start)] A long duration outing mission? This will be a good exercise!
+[Logistics (end)] Commander, I brought back some good items!
+[Autobattle] Brace your mind and stand firm!
+[Title] Girls' Frontline!
+[Starting a combat mission] Let's work hard to clean this up! Let's go!
+[Starting a battle] Everyone, prepare!
+[Skill activation] I will make you as my next (chapter) material!
+[Heavily damaged] Oh no, this is just too much. But don't worry, I still can fight!
+[Retreat] I apologize for messing things up. Can you leave me behind here?
+[MVP] A bulletproof vest is useless against me! That will just hinder your movement!
+[Restoration] This kind of wound will heal in no time!
+[Halloween] Walking with plenty of sweets sure bring you excitement.
+[Christmas] Will everyone be delighted with my presents I wonder. I'm so nervous.
+[New Year's Day] Commander, Happy New Year. Where's your spirit! If you keep it like that your fortune will disappear!
+[Valentine's day] Commander, umm... did you get my chocolate? How did it taste?
+[Tanabata] Everyone is playing with fireworks outside. I also brought some, tadaa! Hey, let's light them together!
+[Title] Girls' Frontline!
+[Halloween] Walking with plenty of sweets sure bring you excitement.
+[Christmas] Will everyone be delighted with my presents I wonder. I'm so nervous.
+[New Year's Day] Commander, Happy New Year. Where's your spirit! If you keep it like that your fortune will disappear!
+[Valentine's day] Commander, umm... did you get my chocolate? How did it taste?
+[Tanabata] Everyone is playing with fireworks outside. I also brought some, tadaa! Hey, let's light them together!

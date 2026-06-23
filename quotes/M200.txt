@@ -1,0 +1,25 @@
+[Acquisition] Hello, Commander, I am M200. I hope I can be of some help to you with my knowledge… No, I'm not an expert at all. I just hope to help, that's all...
+[Secretary] I have learned to play the guitar before. If you're bored, I can play a song for you.
+[Secretary (post OATH)] Feeling tired? Please take a nap. I will have all the data organized for you when you wake up.
+[OATH] Is there anything you need help with this time, Commander? What are you saying… Despite your embarrassing question, I'm not trying to run away at all... I'm such an idiot. Commander, I will do my best to ensure that you've made the best choice in choosing me... All the way until death do us part...
+[Greeting] Welcome back, we've compiled all of the mission reward reports. Please check them.
+[T-Doll Produced] I hope our new comrades enjoy chatting.
+[Joining an echelon] You could also arrange it in this way. I've seen it in a study, it's true.
+[Enhancement] I feel as if I can go even further.
+[Dummy-linking] The more people we have, the wider our field of vision. Isn't that right?
+[Logistics (start)] Worry not, everything is as the Commander wills it.
+[Logistics (end)] Have a look at the results of logistics support. It is as I said, everything is as the Commander wills it.
+[Autobattle] I can pull off a silent kill.
+[Title] Girls' Frontline!
+[Starting a combat mission] Follow your orders. Move silently. Don't fall behind. Alright! Let's move!
+[Starting a battle] Target immobilized! Commence attack!
+[Skill activation] Even as I let it loose...it's already too late!
+[Heavily damaged] It's been damaged...no, I can still fight!
+[Retreat] As I thought, I'm just like before.
+[MVP] Apparently, this was quite useful. I'm glad.
+[Restoration] I'm sorry, I ended up wasting valuable resources.
+[Halloween] Happy Halloween. It might get a bit noisy outside. Would you like to accompany you as a bodyguard just in case?
+[Christmas] Merry Christmas. What are you doing? I...thought that a few little snacks should be in order for the party. So...
+[New Year's Day] Happy New Year. To tell the story of the New Year, there are actually many different things that happen from country to country, which I find to be extremely fascinating. Don't you find it interesting, Commander?
+[Valentine's day] A chocolate for the Commander. It'll taste great, I think. Um...please don't stare at it too much...it's embarrassing. And also...um...Happy Valentine's.
+[Tanabata] Today is Tanabata. I've been studying on how to make a cat's cradle. If you don't have any plans after work, would you...like to go together.

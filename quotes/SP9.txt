@@ -1,0 +1,30 @@
+[Acquisition] We meet again, Commander. Please forget my name, right now, I am SP9, a security T-Doll under Griffin... I will keep you safe.
+[Secretary] I also worked in security for my first job, but we didn't have Imprint technology back then, so Dolls weren't typically given firearms. Because of this, I had no prior experience using such weapons... Fortunately, I am far more reliable than firearms.
+[Secretary (post OATH)] Come off it! I just felt like saying that because it seemed like the right occasion! This whole "knight" business, please drop it! It's really embarrassing! Stop bringing it up or I'll hit you... Dammit, a bodyguard can never ever attack the person they've been charged to protect...
+[OATH] I am your bodyguard, it is my duty to ensure your personal safety. Outside of that, I'm just a boring Doll with very little charm... But even so, I'm very glad that you've chosen me... If such is your decision, then as a "knight", I can only keep following you. Thank you, Commander.
+[Greeting] Are you awake, Commander? You've been sleeping very deeply.
+[T-Doll Produced] A new recruit is reporting for duty... You're bringing in so much additional firepower, what exactly are you planning to attack, Commander?
+[Joining an echelon] Am I to be the bodyguard this time as well...? No, that's alright, I will do my duty no matter the cost.
+[Enhancement] T-Dolls' strength shouldn't be used to commit violence... but to defend against violence. For this, I must become more dependable.
+[Dummy-linking] A security guard with zero blind spots! Absolute defense achieved!
+[Logistics (start)] I guarantee that the goods will be safely delivered!
+[Logistics (end)] The goods have arrived at the destination! Please confirm receipt!
+[Autobattle] Consider it done!
+[Title] Girls' Frontline!
+[Starting a combat mission] Neutralizing terrorists is a security guard's most important duty.
+[Starting a battle] Brace yourselves.
+[Skill activation] Lower your weapons!
+[Heavily damaged] I haven't trained enough...
+[Retreat] Don't make unnecessary sacrifices! Retreat!
+[MVP] The rioters have been neutralized. Stand down security alert.
+[Restoration] As a shield... scars are badges of honor.
+[Attack] Plan A.
+[Halloween] Please make sure you don't go too far when scaring people and playing pranks! Have some consideration for those who are maintaining order! ...My costume looks the scariest? I'm not in costume! I'm an actual security guard!
+[Christmas] Merry Christmas, Commander! This year is coming to an end... Have I made you feel more safe and secure throughout the year? Hm, then I pray to God for another year of world peace.
+[New Year's Day] It's New Year, Commander! All crowds and public transport are being carefully monitored as they can be easily exploited by people with nefarious intentions. Please make sure you pay attention to our security measures... Also, Happy New Year.
+[Valentine's day] Here, Commander. It's chocolate, please accept it. I hear that it's an important social mission to prepare obligatory chocolate for colleagues on Valentine's Day... If you want chocolate, you can also tell me when it's not Valentine's Day.
+[Tanabata] I don't like the story about Hikoboshi and Orihime. He forced her to stay by stealing her celestial feather robe, no? I think Orihime should absolutely sue Hikoboshi... That's a wrong version of the story? Then my mistake...
+[Defense] Plan B.
+[Phrase] Safety first.
+[Tip] ...Could you be just a bit more self-aware? You're quite a high-profile figure, and ensuring your personal safety is a very high-pressure job.
+[Loading] Be patient Commander. Security checks are still underway.

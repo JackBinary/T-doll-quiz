@@ -1,0 +1,30 @@
+[Acquisition] ...So you're my next Commander, huh? Count yourself lucky to have me by your side in the future. Pfft, just kidding, please don't come to me for important tasks.
+[Secretary] If I could ban certain keywords, "SCAR-L" and "Aliana" would certainly be the first and second entries.
+[Secretary (post OATH)] All my friends have passed on, all of my enemies have perished. I thought I couldn't care less, thought that I wasn't afraid of being alone, and thought I always managed to keep it all under wraps. Alas, Commander, please grant me this tiny request. Let me just... lean on you a little, just for a moment.
+[OATH] Holding someone else's memory is a heavy burden; it's like beig a theif stealing happiness  that never belonged to you. Now, you and I can safeguard this secret together, since we're accomplices after all.
+[Greeting] Today and yesterday are much the same, just like the new world and the old world.
+[T-Doll Produced] Yo—Rookie, Rookie, ready to set foot for battle?
+[Joining an echelon] I hope everyone here is reliable so that my laziness won't stand out.
+[Enhancement] Huh... I've gotten stronger? I don't feel like anything changed. Must that I've always been this strong.
+[Dummy-linking] Nice, another one to share the workload with.
+[Logistics (start)] I want to see places beyond, withness the world past the end of World War III, and determine if things turned out for the better.
+[Logistics (end)] Well... while having discovered many fresh things, the world hasn't changed fundamentally.
+[Autobattle] Isn't this just following prior experiences and beating the enemy up again? Piece of cake.
+[Title] Girls' Frontline!
+[Starting a combat mission] 2064, Amaris returns to action.
+[Starting a battle] Prepare for the reaper's baptism.
+[Skill activation] Target acquired.
+[Heavily damaged] Tsk, guess we have to do it again.
+[Retreat] Preserve your strength...
+[MVP] This is God's blessing.
+[Restoration] Be nice to my frame, a legendary doll is expensive.
+[Attack] It's the perfect time to attack!
+[Halloween] If the chance of playing a ghost ever comes up, please leave it to me! How wonderful would it be to terrorize people and see their bewildering faces without having to take any responsibility for it!
+[Christmas] There used to be someone that would clumsily get up in the middle of the night just to wrap Christmas presents and lie to everyone that Santa did it. We all knew it was her. But now... I won't receive such presents anymore.
+[New Year's Day] Happy New Year, Commander. As for the New Year's party... I'll skip it to avoid running into someone. I'll use the saved funds to buy some New Year's gifts for you, but don't get too excited about it.
+[Valentine's day] I'm curious as to if Commander remembers who gifted which chocolate. Say, if I mess up the tags where the chocolates are stored, I wonder what sort of amusing development will occur given all these Dolls at the base.
+[Tanabata] Wishes are but a hope to cling onto; no one truly believes they will come true. Maybe self-deception is another way of protecting yourself, especially your mind. Just like how I would pretend to eat in front of you as if I'm a real human being.
+[Defense] Mind the enemy positions!
+[Phrase] Ah? Have I ever said that?
+[Tip] It's true that running away won't change anything, but I seem to have lost the courage to face things head-on.
+[Loading] Aliana...

@@ -1,0 +1,30 @@
+[Acquisition] HS.50 reporting for duty! All activation procedures completed, ready for action, Commander!
+[Secretary] ...That sums up everything I have done so far. Are you happy with that, Commander? ...That's great! Now I'm another step closer to becoming an acceptable Griffin T-Doll... Oh, nothing!
+[Secretary (post OATH)] Uh, this tangled mess is... Sorry, I just wanted to do something that would make you happy. There's a tutorial in this book on how to knit a sweater, so... You like it? That...That's wonderful!
+[OATH] ...Commander, didn't you summon me to assign me sentry duty?  An Oath... So this is what it feels like to be acknowledged... Commander, you do me great honor... Oh, yes, I mean you make me very happy...!  From now on, I will always be by your side, keeping you safe!
+[Greeting] Commander, here are the records of all suspicious persons detected before your arrival.
+[T-Doll Produced] A new T-Doll is reporting for duty... Please let me go and welcome them.
+[Joining an echelon] Are we going on a mission together? This is a good opportunity to get closer to my teammates...!
+[Enhancement] Enhancement complete. Commence authentication stage...? That's not necessary?
+[Dummy-linking] It's a rather curious feeling to see your own double.
+[Logistics (start)] The plan is clear. Let's set off immediately!
+[Logistics (end)] Here is the full list of our acquisitions. Please take a look.
+[Autobattle] Understood! Switching operation modes!
+[Title] Girls' Frontline!
+[Starting a combat mission] Live sync enabled. Commencing operation!
+[Starting a battle] Enemy eradication in progress!
+[Skill activation] Enemy targets acquired!
+[Heavily damaged] Hm, this is HS.50. My body has taken severe damage, requesting support...!
+[Retreat] I must...preserve my strength...
+[MVP] Mission accomplished. Uploading operation log.
+[Restoration] Sorry, I could've done better...
+[Attack] Team, spread out to attack!
+[Halloween] I helped the children repel dangerous people masquerading as monsters and ghosts, but everyone seemed very disappointed... Commander, why are you also giving me this strange look?
+[Christmas] I have secretly inspected all the presents yesterday and removed the ones that looked potentially dangerous. That should make people happy, right? ...No?
+[New Year's Day] Unknown explosives detected! Evacuate all unrelated personnel immediately! I will complete the disarming procedure in five minutes... Commander? These are firecrackers...you say?
+[Valentine's day] Chocolate can help organic lifeforms retain body heat on the battlefield and stabilize their mental state. This is a sample that I've created. If you like it, I recommend mass producing it.
+[Tanabata] I am on duty today, so... Huh? Every Doll has to make a wish? Then...I wish I could become a more approachable Doll...I suppose?
+[Defense] Team, defensive formation!
+[Phrase] Yes, roger that!
+[Tip] My colleagues are all very friendly, but I just don't know how to get along with them. Please give me more time, I'll figure it out eventually.
+[Loading] Standing by, ready to respond anytime.

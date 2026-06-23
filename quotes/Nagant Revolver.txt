@@ -1,0 +1,46 @@
+[Acquisition] You're quite the odd one for having tastes in someone as old as I, aren't you?
+[Introduction] I am Nagant M1895 Revolver. From my name alone you could tell I'm a veteran seen service since tsarist era,  special equipment for officer and cavalry only! Even when the war broke out, I was treated as a symbol of honour for soldiers, rather than replaced completely by successor TT-33. You should treat me with care!
+[Secretary] Are you curious about my height that much? Don't ask delicate stuff like that.
+[Secretary (post OATH)] Commander, Commander! Look what I found today! It's beautiful right? This is also a special gift for you, do keep it well!
+[OATH] Eh? Sir, I never expect you to have such a taste. Will you be alright? But I'm inexperienced in this field as well... Let's take it slow. We could learn together.
+[Greeting] You are back ? Welcome back!
+[T-Doll Produced] A new young lady is there.
+[Joining an echelon] Relying on an elder like this...!
+[Enhancement] You understand well, for elderly people, aesthetic is important.
+[Dummy-linking] Dummy-linking... Mah since we're at this, what about making me taller please!?
+[Logistics (start)] Let's go! Watch carefully.
+[Logistics (end)] Back without a scratch. As expected of myself!
+[Autobattle] Your senior comrade's aid is on the way!
+[Title] Girls' Frontline!
+[Starting a combat mission] Wait for me! I'm not good at running!
+[Starting a battle] Please don't push hard to the old lady~
+[Skill activation] Ready, fire!
+[Heavily damaged] Going so far as to attack your senior...why on earth?!
+[Retreat] This is punishment since you don't listen my feedback..
+[MVP] Does it help with my experience?
+[Restoration] Let's reinforce our numbers, and my hat, don't you forget it!
+[Halloween] These guys, totally childish... These candies are prepared for the children, isn't it? I definitely won't eat it!
+[Christmas] Ha... ha... ha... The top box of the tree is mine! Huee, I can't reach it. It can't be helped! I'll give it to you guys.
+[New Year's Day] Even after one more year, my charm won't change.
+[Valentine's day] Hmm, hmm, won't you try the chocolate I've been storing? Huh? It isn't expired! You're such a rude fellow!
+[Tanabata] This year's wish? I want another year like this one. Also growth... I wish I can grow even just a little.
+[Introduction] I am Nagant M1895 Revolver. From my name alone you could tell I'm a veteran seen service since tsarist era,  special equipment for officer and cavalry only! Even when the war broke out, I was treated as a symbol of honour for soldiers, rather than replaced completely by successor TT-33. You should treat me with care!
+[Secretary] What's that? You want to hear another story?
+[Secretary (post OATH)] This coat's a bit too big on me. Perhaps it's a perfect fit for you Commander? Hehe, why don't you try it on for a moment?
+[OATH] Eh? Sir, I never expect you to have such a taste. Will you be alright? But I'm inexperienced in this field as well... Let's take it slow. We could learn together.
+[Greeting] Good morning, Commander! Have you heard of today's work yet? Allow me to explain!
+[T-Doll Produced] Has a new girl arrived?
+[Joining an echelon] Hold your horses! I'm right here!
+[Enhancement] For you to care so much about little old me, how unusual.
+[Dummy-linking] Dummy-linking? Well, since we're at this...mind making me taller please!?
+[Logistics (start)] Let's go ! Watch carefully.
+[Logistics (end)] Back without a scratch. As expected of myself !
+[Autobattle] Everyone, your elder will soon come to the rescue!
+[Title] Girls' Frontline!
+[Starting a combat mission] Alright! My girls, let us depart!
+[Starting a battle] Has it started yet? Very well then, let's go!
+[Skill activation] What? That's not such a big deal!
+[Heavily damaged] Eh? T-this... what was thaaat?!
+[Retreat] This time, I'll see you later! I'll be back, you hear!
+[MVP] How's that? We won, all because of me! Fufu, I'm expecting some praise soon!
+[Restoration] Then, let's reinforce, and don't forget the hat.

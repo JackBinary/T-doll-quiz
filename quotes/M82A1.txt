@@ -1,0 +1,26 @@
+[Acquisition] M82A1... This is my current name Commander, I'm a T-doll who belongs only to you, everything is under your "guidance".
+[Introduction] (ditto)
+[Secretary] Suggestions? Actually I think... Sorry, I will not say it anymore, I cannot provide any answers you want...
+[Secretary (post OATH)] Mobilization drill? I don't mind doing it alone. But if it's your order, I will do it with everyone.
+[OATH] Commander, why are you able to accept someone like me? I just rely on your orders, your guidance. Isn't it difficult for you to be with such a selfish person. I'm not sure if I'll be able to improve it, but, at the very least, you can rely on me if you ever get tired.
+[Greeting] Commander, I've been always waiting for you.
+[T-Doll Produced] Everyone is coming here for their own sake.
+[Joining an echelon] I'll keep up with everyone else.
+[Enhancement] I won't misuse this power the second time.
+[Dummy-linking] Solely purposed to obey orders, I'm envious.
+[Logistics (start)] Our journey is still far away.
+[Logistics (end)] No matter where I go, for me, this place will eternally become my place to return.
+[Autobattle] There's nothing but to serve your will, Commander.
+[Title] Girls' Frontline!
+[Starting a combat mission] Commander, please guide us towards our future.
+[Starting a battle] Everything is Commander's will.
+[Skill activation] I will be guiding you to your demise.
+[Heavily damaged] The thing you're looking for... there's no single one of it here.
+[Retreat] Again...　I was no use...
+[MVP] This, also, is what I've always longed for... Thank you very much, Commander.
+[Restoration] Again and again, it keeps on coming. This perhaps... is a punishment for me.
+[Halloween] Ghosts, do people worship them? You're right, there are people who worship a doll as well.
+[Christmas] Commander, Merry Christmas. With this chance, I want to get closer to everyone. I... will give my all.
+[New Year's Day] My goal for this year? That's right, it's been so long, I never think of any.
+[Valentine's day] I, too, received many offerings in the past. But why are all of your offerings chocolate, Commander?
+[Tanabata] Fairytales are all lies. In the end, neither Orihime or Hikoboshi could grant our wishes.

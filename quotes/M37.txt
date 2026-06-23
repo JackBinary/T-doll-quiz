@@ -1,0 +1,26 @@
+[Acquisition] You can call me Ithaca, I'll be joining your ranks so let's all have a good time, Commander.
+[Introduction] Ithaca type 37 shotgun. underwent many troubles before entering the market, such as naming, copyrights etc...
+[Secretary] Uh huh! Just like that. Please admire me to the fullest.
+[Secretary (post OATH)] Shall we go have fun after work? Consider I stayed overtime with you for this long, maybe you should compensate me a little...?
+[OATH] So.... commander have been cherishing me for all this time, too bad I only found out at this moment. I'm always only paying attention to myself, I'm sorry for not noticing your true feelings. But I'll be sure to compensate for it from now on, please look forward to it !
+[Greeting] Ahh Commander, I'm the secretary today, looking forward to it?
+[T-Doll Produced] New companion? Do you think you can compete with my beauty?
+[Joining an echelon] Alright, time for an extravaganza.
+[Enhancement] Yes, carry on, make me even prettier.
+[Dummy-linking] Just as pretty as me, as expected of my dummy.
+[Logistics (start)] Leaving you for now Commander, please endure it.
+[Logistics (end)] I'm back Commander, waited for long?
+[Autobattle] Isn't this moment prepared for me splendid appearance?
+[Title] Girls' Frontline!
+[Starting a combat mission] Let me lead, then wipe them all in one go!
+[Starting a battle] Ohhh! Come on then!
+[Skill activation] Bang! ...How was that?
+[Heavily damaged] They are targeting me on purpose!
+[Retreat] No, I messed up, Commander, please forgive me...
+[MVP] Ohhh! The reason I'm here is because the Commander admire my victory, right?
+[Restoration] Commander, You saw it right? I'm not some cheap copy, definitely not...
+[Halloween] What costume will you wear tonight? I'm sure any costume will looks good on me.
+[Christmas] Merry Christmas, commander. Those children kept yelling 'Santa, Santa' since morning, just like a children.
+[New Year's Day] Happy New Year, commander. How was your impression of last year? I'll be more active this year, so rest assured
+[Valentine's day] The gift you want the most is mine, right. Try guessing what I brought, there will be bonus.
+[Tanabata] I was born perfect so I can't stand such a tragic story like this. Commander, you won't go anywhere right?

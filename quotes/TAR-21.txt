@@ -1,0 +1,26 @@
+[Acquisition] I'm TAR-21, please take good care of me from now on.
+[Introduction] The assault weapon TAR-21 was created to face the new era. The 21 in my represents the completely new century. The goal is to replace M4A1 as the national standard weapon. Even though I'm a little bit expensive, but I believe my advantages in performance can be seen easily. And you too, I believe, are a commander with a vision, hehe...
+[Secretary] Ah, just in time, I have a question for you.
+[Secretary (post OATH)] Do you need suggestions commander ? First, please believe in yourself.Since you chose me, that means you have good taste,hehe....
+[OATH] Me who was born in this new era, being able to catch your attention...　I guess it can't be helped.... to live up to your expectations, I shall continue to update myself from now on. Please take a look at the brand new me!
+[Greeting] Greetings.
+[T-Doll Produced] Another new comrade joining us, could she be younger than me?
+[Joining an echelon] Leave it to me.
+[Enhancement] This is great.
+[Dummy-linking] Expanding again? What a great feeling.
+[Logistics (start)] Alright~ Lets go.
+[Logistics (end)] I'm back now, it was super exciting.
+[Autobattle] Don't worry everyone, I'm here with you.
+[Title] Girls' Frontline!
+[Starting a combat mission] Let's move forward.
+[Starting a battle] I will be your opponent!
+[Skill activation] Roger, firing!
+[Heavily damaged] Wha! How?
+[Retreat] I've... I've lost..
+[MVP] Do excuse me!
+[Restoration] Even the latest model make mistakes in combat, I will learn from this.
+[Halloween] Commander,you can give me candies because today is a special day.
+[Christmas] Merry Christmas, Commander! It's fun!
+[New Year's Day] Happy New Year!
+[Valentine's day] Commander, thank you as always! This is to show my gratitude.
+[Tanabata] Commander, if you write a wish-charm, then please give it to me. I'd be glad to hang it up for you!

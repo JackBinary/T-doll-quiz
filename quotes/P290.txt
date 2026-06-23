@@ -1,0 +1,30 @@
+[Acquisition] I'm P290, also known as "Cobalt". You want to know which one I prefer? That's up to you. I will respond to whichever one you use.
+[Secretary] You want me to investigate the mysterious Doll who's been secretly doing good deeds in and around the base? I recommend that you call off the investigation. After all, that Doll doesn't wish their identity to be known.
+[Secretary (post OATH)] Shadowlord, where shall we go today? Understood. Please shelter me as I blend into the shadows to complete the mission I have been assigned.
+[OATH] So you were one of the wandering shadows too. Does this mean you've been protecting me all this time? I see. I will regard you as the Master of Shadows, and when nobody is around, I will call you "Shadowlord"... Please continue to show me where I should go, so I may rescue those trapped souls under the protection of the shadows.
+[Greeting] While you were resting, P226 got into an argument with M9, a shadowy figure tried to invade the kitchen but was captured by Gr G36, the rescue station began their spring cleaning today... Do I not need to go into such detail for my daily reports?
+[T-Doll Produced] I'm sensing new information.
+[Joining an echelon] I will monitor all your actions.
+[Enhancement] The new enhancement patch has been installed.
+[Dummy-linking] I can be in more places at once, but my weak spots have also multiplied.
+[Logistics (start)] Exploring unknown territories? I'm not afraid, because the shadows will protect me...
+[Logistics (end)] Everything went well. The spoils have been delivered to the warehouse.
+[Autobattle] Understood, I will proceed as you have ordered.
+[Title] Girls' Frontline!
+[Starting a combat mission] Come blend into the shadows with me...
+[Starting a battle] If they exist, they have weaknesses.
+[Skill activation] This is just a waste of time!
+[Heavily damaged] Has Cobalt... been defeated...
+[Retreat] Even so, I don't want to be swallowed up by the enemy's shadows...
+[MVP] This victory belongs to you.
+[Restoration] I'll be away for a bit. You can still call me if there's anything.
+[Attack] Focus fire!
+[Halloween] I hate occasions like these. Everyone hides their faces, so even if I obtain valuable information about someone, it's difficult to match it up to the actual person. I might as well go home and sleep.
+[Christmas] You want to know who put this anonymous gift on your table? I don't know. Yes, I was on duty, but I didn't see who put it there. Y-you want to check the security cameras?! What a shame, they just broke.
+[New Year's Day] Happy New Year, Commander. This is Cobalt's blessing for you. You don't need to give me a red packet. Save it for those Dolls who need it more.
+[Valentine's day] Why do we give chocolates to the people we like? Becoming your partner's shadow and following their every step is the ultimate romance...
+[Tanabata] If I had the ability to summon magpies as well, I'm sure I'd have a much broader field of vision... Ahem, I said nothing.
+[Defense] Protect yourselves!
+[Phrase] I'm here, by your side.
+[Tip] Shhh—Commander, don't disturb this showdown... Who's fighting who? The skinny one is a black cat from the Rescue Station, while the fat one is a tabby cat from the outside. I've been waiting a long time to witness this battle.
+[Loading] You can disguise yourself as an escape log while you're waiting. Want to try it?

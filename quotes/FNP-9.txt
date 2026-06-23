@@ -1,0 +1,26 @@
+[Acquisition] It's time for FNP-9's... glorious...debut! Commander... please give me... your support from now on...
+[Introduction] I'm FNP-9, I was the earliest model amongst the whole FNP series of pistols! Due to Browning series' massive success, we used some less popular designs. Also I have many variations and customizable ability. Whatever the market demands are like, beautiful cosmetics and exteriors are still popular!
+[Secretary] Commander, is there anything beside practice today?
+[Secretary (post OATH)] Hehe, I'm super enthusiastic today too, getting more and more positive reviews from everyone. This is all because of your guidance, I will continue to work hard!
+[OATH] Wh... What! Commander, you've finally taken notice of my activeness! Yes! No matter how popular I become in the future, I really love you right now Commander!
+[Greeting] Good morning, commander. Yet again, today I've gotten a lot more fans. I'm happy.
+[T-Doll Produced] Is it new member?
+[Joining an echelon] Aah, I'm center? I'll give my all!
+[Enhancement] Hand in hand with comrades, let's give it our best.
+[Dummy-linking] Wah, refining my ability for the sake of my fans, I want to shine more!
+[Logistics (start)] It's expedition time, I will go!
+[Logistics (end)] I'm back. Unable to meet with the fans is disappointing, ehehe.
+[Autobattle] I'll keep giving my best, regardless of what kind of live performance it is. Make sure to look at me, commander.
+[Title] Girls' Frontline!
+[Starting a combat mission] The chance to stand on the stage has come.
+[Starting a battle] We are doing fan service here, let's do our best~
+[Skill activation] Smile, smile!
+[Heavily damaged] With this I can't be an idol
+[Retreat] Just by trying hard, seems impossible...
+[MVP] The stage great success, my effort is paid!
+[Restoration] Can I do self training during repair? I want to work harder.
+[Halloween] Ooohhh! Today is a sweets festival, eh?
+[Christmas] Commander, does this santa hat suit me? Ehehe
+[New Year's Day] Commander, Happy New Year. I hope I can shine even more this year.
+[Valentine's day] Commander, I'm happy to receive valentine chocolate from my fans.
+[Tanabata] My wish is to get more famous. Eh, I don't think that's fair. If I had more uniforms...

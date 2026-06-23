@@ -1,0 +1,26 @@
+[Acquisition] Commander, no matter what kind of battlefield, I, "Honey Badger", am willing to fight, please witness my performance!
+[Introduction] (ditto)
+[Secretary] Commander, about the next mission, I have a bold proposal...
+[Secretary (post OATH)] Commander, as long as you are on the post, my courage is backed with a sense of security. Please don't let me... don't let me forget about this power.
+[OATH] You are very brave Commander, to do something like this... But alright, I will display the same courage! Commander, I like you too, please continue to stay by my side! ...❤
+[Greeting] An urgent mission has been submitted, so let's take care of that first.
+[T-Doll Produced] Commander, someone seems to have arrived.
+[Joining an echelon] I think the position in front is highly recommended.
+[Enhancement] Betty, how was it?
+[Dummy-linking] B-Betty, which one of you is the real Betty!?
+[Logistics (start)] I hope I can bring something back home this time.
+[Logistics (end)] Betty, that's not food.
+[Autobattle] There are some new tactics I want to try out.
+[Title] Girls' Frontline!
+[Starting a combat mission] Everyone, let's fight hard!
+[Starting a battle] Let me show you what courage looks like.
+[Skill activation] Betty, attract the enemy's attention!
+[Heavily damaged] Urgh... Don't be afraid! Let the battle continue!
+[Retreat] Commander, do I have to withdray?
+[MVP] Courage and victory is with us!
+[Restoration] As long as your efforts haven't been wasted, these kinds of wounds are fine.
+[Halloween] Betty...where did you get all of this  candy from? No way... H-Hold up, why are those kids heading our way?! We have to scram!
+[Christmas] Christmas is such a romantic day. In this good atmosphere, please accept my present early.
+[New Year's Day] I've had it rough in the past year. but now I can finally stretch out. However, let's remember to be cautious in the upcoming battles.
+[Valentine's day] Chocolate-making is quite hard. In the end, I did my best. Please accept it, Commander.
+[Tanabata] Are you shooting off fireworks? Then leave it to me. If you watch closely, they'll look very beautiful.

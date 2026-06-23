@@ -1,0 +1,25 @@
+[Acquisition] HKCAWS, at your service. No need for any particular ceremonies... You provide the funds, I'll get to work.
+[Secretary] G&K is a nice place, I can repeat that as many time as you want me. But to be honest, I can't see any future for works like this.
+[Secretary (post OATH)] Don't get too close... no I'm not unwell, I'm just not used to it. But if one day you end up switching jobs, remember to bring me with you... I'll be able to help.
+[OATH] An additional request? This is such a strange one, but if you want it then go for it. After all even I'm unable to resist spectacular humans. You prepaid so much wages, I won't be able to resign any time soon. I will continue to be by your side from now, I'll be counting on you from now.
+[Greeting] Good morning. Hm? Isn't that a typical greeting?
+[T-Doll Produced] I was assigned here out of my own pure luck. Oh, you poor thing you...
+[Joining an echelon] Sure, why not? Whatever you say.
+[Enhancement] Not bad at all.
+[Dummy-linking] It's a good thing when there's more people around. It feels more secure that way.
+[Logistics (start)] Isn't this kind of job better suited for a private doll? Fine, I'm going...
+[Logistics (end)] We're back. Here, a list of supplies. Please keep an eye on it.
+[Autobattle] Very well, let me show you my skills.
+[Title] Girls' Frontline!
+[Starting a combat mission] Come on, let's get this over with and go home.
+[Starting a battle] This is what I get from Griffin, you understand?
+[Skill activation] I got what I got.
+[Heavily damaged] Geh...these are just small fry...
+[Retreat] We got beat, huh...welp, that comes with the territory.
+[MVP] Just as expected.
+[Restoration] Just as I thought it would be: boring. I wanna eat sweets.
+[Halloween] A pointless day. Anyway, everyone's all dressed up. You want to hear something Halloween-like? Very well. Those who weren't dressed up earlier weren't our dolls, you know?
+[Christmas] My Christmas wish is to be able to get more trustful company when I switch jobs. But before that, I'll keep you company for a while. Don't worry, I won't take your money or anything.
+[New Year's Day] I don't want to stay cooped up like this on a day like today. It's New Year's, so let's go outside.
+[Valentine's day] Handmade chocolates from just before breakfast. Eh, too bitter? Didn't you know that Valentine's chocolate made with 100% cacao would be bitter chocolate?
+[Tanabata] I don't need to ask the stars. I'm already stronger than them. However, if you choose to ask them, it'll be over before your wish was even made.

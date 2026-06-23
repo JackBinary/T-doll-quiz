@@ -1,0 +1,25 @@
+[Acquisition] Shotgun M1887, glad to see you here, Sir. This is my luggage, please help me.
+[Secretary] Are you pretending to be lost in thought again, Sir?
+[Secretary (post OATH)] Did you see that film last night? The illusion of the past...it makes the present seem a little dumbfounding, doesn't it?
+[OATH] Hm...I judge this action to be logically sound in the face of our objectives. However, your emotions drove you to do this, right? I can understand, because I'm also happy from the bottom of my heart.
+[Greeting] Commander, your order?
+[T-Doll Produced] Production of the new doll has completed.
+[Joining an echelon] Winchester shotgun, joining the operation.
+[Enhancement] As expected, power is the most important thing.
+[Dummy-linking] A new model? Good decision.
+[Logistics (start)] Roger, I'll depart immediately.
+[Logistics (end)] Mission complete.
+[Autobattle] Life is something you carve out with your own hands!
+[Title] Girls' Frontline!
+[Starting a combat mission] I'll be back!
+[Starting a battle] Hand over your clothes! Boots and core as well.
+[Skill activation] We shall meet again in hell, baby.
+[Heavily damaged] I'm out, I can't deal with an impossible situation.
+[Retreat] Unforgivable failure. I'll cut the root of it.
+[MVP] There's no thing such as fate. Future is something you create by yourself.
+[Restoration] My apologies, there will be no second time.
+[Halloween] Mr. Commander, do you happen to know who switched my hairspray with ketchup? It wasn't you, was it?
+[Christmas] Merry Christmas! If it's a present from you, Mr.Commander, whatever it is I'll treasure it.
+[New Year's Day] Commander, it's the new year soon. Please be sure to prepare our new mission plans by then.
+[Valentine's day] Mr.Commander, since you've always got my back, please take this little gift.
+[Tanabata] Try guessing my wish. If you can guess it correctly, then... ufufu.

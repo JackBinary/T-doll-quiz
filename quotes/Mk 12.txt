@@ -1,0 +1,26 @@
+[Acquisition] Commander, if there are only boring orders here, I wouldn't stay around til the end.
+[Introduction] (ditto)
+[Secretary] My neural cloud must record interesting stories worth going back to, not only for those boring work records.
+[Secretary (post OATH)] Combat documents? I've prepared it for you a long time ago so you wouldn't nag about it. No need to thank me just yet, there are a lot more things you need to thank me for in the future.
+[OATH] Commander, you understand right? What it means when I put this on. Originally I enjoyed tragedies, because I never had any happy ending options... Now please order me to wear this, the order I've always waited for...
+[Greeting] Okay okay, I get it.
+[T-Doll Produced] This girl, who was she again?
+[Joining an echelon] As expected, my very own unit.
+[Enhancement] My strength must have something special in it.
+[Dummy-linking] The feeling of giving orders, not bad at all.
+[Logistics (start)] I know. I know what should I bring home, so stop talking.
+[Logistics (end)] I went all the trouble to brought this home. If you say it useless, I won't forgive you.
+[Autobattle] If you leave everything to me, it should be fine.
+[Title] Girls' Frontline!
+[Starting a combat mission] Our reason to fight, isn't just about work.
+[Starting a battle] They've appeared, just as expected.
+[Skill activation] You there, what do you sacrifice for?
+[Heavily damaged] This fighting spirit...are you still not there?
+[Retreat] Such an ending...a fierce end...and yet still so far...
+[MVP] Commander, you get the meaning of our victory, don't you?
+[Restoration] D-don't stare at me! This is just a small scratch.
+[Halloween] The amount of sorrow before one's birth determines the amount of joy a ghost feels.
+[Christmas] I've prepared a lot of things for this party. Eat up to your heart content. Just for today, I can stuff your annoying mouth with foods.
+[New Year's Day] Commander, if you keep sitting there doing nothing, the new year will lose its meaning
+[Valentine's day] Speaking of which, why it should be chocolate? If everyone give the same thing, won't you get tired of it.
+[Tanabata] You're curious about my wish? If you want to know that bad, why don't order me to tell you?

@@ -1,0 +1,30 @@
+[Acquisition] Yo, Commander. Let's get along from now on.
+[Secretary] Hm? Are you mad? Wonderful, you look much more lively now. Being listless and all doesn't suit you.
+[Secretary (post OATH)] Commander, come quick, I just thought of a new way to play cards! Hehe, don't think you can run away, I designed it to include you from beginning to end, you know~
+[OATH] There is a kind of game that can only be played by two people, and this ring seems to be a representation of that game. Once you put it on, it seems you'll be bound into a certain kind of relationship.   Are you sure you want to do this? Oh my, it looks like I'll need to get used to your presence in all my future games.
+[Greeting] What do you have lined up for today? Want to play a round...?
+[T-Doll Produced] One more person who can take part in my little game.
+[Joining an echelon] Turns out I'm essential after all.
+[Enhancement] Oh my, I've gone from very strong to even stronger.
+[Dummy-linking] The joy of joking around is going to be multiplied.
+[Logistics (start)] I love going to new places. Cuties with no sense of wariness are the best for roping into games.
+[Logistics (end)] Oh, how time flies.
+[Autobattle] Messing up is also kind of fun... Don't be scared, I was just kidding.
+[Title] Girls' Frontline!
+[Starting a combat mission] I've been ready for a while. Let's move out.
+[Starting a battle] Oh dear, we've discovered the enemy.
+[Skill activation] Pull yourself together, battle is a very intense game.
+[Heavily damaged] I think this game went a little overboard...
+[Retreat] This is also a form of progress from a different point of view.
+[MVP] Ah, I don't think I used my full strength.
+[Restoration] Don't let it bother you too much, I won't get mad even if you forget the poker cards somewhere. At most, we'll just start all over again.
+[Attack] We're ready, we ought to be charging them now.
+[Halloween] The essence of true pranking is lost when your intentions are written all over your face.  (Sigh) In the end, you still need me for that sort of thing.
+[Christmas] Commander, I've thought of what I want for a present. Why not give me a new poker deck? Ideally, the cards would be made of titanium alloy, but if you think that's too heavy a regular alloy will do, I'm not picky.
+[New Year's Day] Happy New Year, Commander! Won't you give me a red packet as a show of friendship?
+[Valentine's day] Yo, today's a good day for a multi-player game. Not interested, Commander? Relax, it's just an ordinary game of poker.
+[Tanabata] Didn't Hikoboshi bring two kids to meet Orihime on the magpie bridge? That makes a full table of four for a proper game of poker.
+[Defense] Relax, defending is more important for now.
+[Phrase] Want to guess what card this is?
+[Tip] What does it mean to be reserved? That word doesn't exist in my dictionary. Speaking of which, there's been a new game going around recently...
+[Loading] What a game tests is your mental state. You aren't in such a hurry, are you?

@@ -1,0 +1,26 @@
+[Acquisition] SR-3MP "Whirlwind", at your service! I've heard rumors about your capabilities and I'd like to take a good look for myself. Be sure to show me what you're made of.
+[Introduction] (Same as EN Acquisition line)
+[Secretary] What? Do you want to hear my thoughts?
+[Secretary (post OATH)] Huh? Did you call for me? Call out louder next time so that everyone hears it, heheh. There's no need to be shy. You should be more proud about it.
+[OATH] Heheh, you couldn't wait any longer, could you, Commander?Come on, let me hear your feelings! Louder so everyone can hear it!... That's right, just like that! Louder! Even louder!
+[Greeting] Commander you're awake now? Please try to look more awake, don't disappoint me alright?
+[T-Doll Produced] Got a new friend? Looks real interesting.
+[Joining an echelon] Alright, Let me teach you a thing or two.
+[Enhancement] Slightly different from what I imagined... Whatever though~
+[Dummy-linking] Only just realised my values?
+[Logistics (start)] Roger, I'll be going now then!
+[Logistics (end)] Did you miss me?
+[Autobattle] Let's get this troublesome ordeal over with!
+[Title] Girls' Frontline!
+[Starting a combat mission] Don't worry, I'll be back soon.
+[Starting a battle] Victory is within sight.
+[Skill activation] Heh! All over for you!
+[Heavily damaged] Wait no... It shouldn't be like this...!
+[Retreat] No... I won't accept this... This kind of results...!
+[MVP] This is what victory feels like? It's really great!
+[Restoration] Definitely won't be happening again...
+[Halloween] Look at my flawless dress. Tonight's star is going to be me!
+[Christmas] A Christmas present? Don't mind if I do! Hehehe, tonight's a lot of fun!
+[New Year's Day] Commander, I'll decide your new year's resolution. It'll be a start to something great!
+[Valentine's day] Commander, take this chocolate and be thankful! Hehehe, good good, that's right!
+[Tanabata] So Commander~, what did you end up wishing for? Hey now what's the rush, show it to me!

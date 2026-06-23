@@ -1,0 +1,26 @@
+[Acquisition] Hello, Commander, I'm AA-12. Pleased to meet... Blech! Trying to act all proper is making me sick.
+[Secretary] How do the other Dolls take care of their skin? I should ask on [Consultation Office] later tonight...
+[Secretary (post OATH)] I heard the other Dolls talk about their feelings for you on [Consultation Office] last night... There'll be no mercy if you dare cheat on me, you jerk!
+[OATH] Hah...I didn't think things would progress like this... What should I do?! I should act more proper in a scenario like this, right? Let me think for a moment...Um...Commander...with me...together...I...Ahhh! Anyways, you understand what I mean!
+[Greeting] Hey, you're finally here. I just arrived too.
+[T-Doll Produced] You want me to take care of the newcomer? Well, I'll try.
+[Joining an echelon] Beginners can just hide behind me obediently.
+[Enhancement] Hehe, this feels good
+[Dummy-linking] Eh, you too have been staying up late?
+[Logistics (start)] Tch, being a handyman again.
+[Logistics (end)] Yeah! With this I've done enough right?
+[Autobattle] If I fail with this one, I'll dig a hole and hide in it.
+[Title] Girls' Frontline!
+[Starting a combat mission] I need plenty of sugar intake before going into battle.
+[Starting a battle] Hee, which one?
+[Skill activation] What an uncivilized guy.
+[Heavily damaged] Tch. I lose to this kind of enemy...
+[Retreat] I can't take it anymore. I'm in despair.
+[MVP] Victory is one of my few specialties.
+[Restoration] My eyes aren't wounded. They're just eyebags.
+[Halloween] Huh? You want these candies? Alright... ah, forget it. I want to eat them all night long.
+[Christmas] So Santa won't give any present for a night owl like me huh. That's too bad.
+[New Year's Day] There will be no Consultation Office broadcast during New Year?! No way! Then what should I do during the night!
+[Valentine's day] This dark chocolate is just similar with my failures in life, hahaha.
+[Tanabata] I'm an atheist but, I hope the day when my wish come true will come.
+[Title] Girls' Frontline!

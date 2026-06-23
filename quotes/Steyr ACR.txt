@@ -1,0 +1,60 @@
+[Acquisition] Finally! No human has ever kept me waiting for so long!
+[Secretary] Rain...is the most annoying thing EVER! Because there's this darn troublemaker who has the habit of running around whenever it rains and you simply can't get a hold of her!
+[Secretary (post OATH)] Don't look at me so suspiciously! I-I wasn't planning to destroy your chair. I just...saw that you didn't find this chair very comfortable to sit on, so I modified it a bit...
+[OATH] Oh, c'mon! It took you so long to spit it out, so this is what you want to talk to me about... I don't make commitments easily, but since you're so sincere, I'll take this Oath with you. From now on, um, I...won't destroy your stuff anymore...
+[Greeting] Did you notice anything different about the base today? Hey! I didn't break anything, you know!
+[T-Doll Produced] Is there a newcomer? I hope they're good at making repairs.
+[Joining an echelon] It can't be helped, I guess I'll just have to show you a fraction of my skills.
+[Enhancement] It certainly feels good, but do you think I really need to get stronger?
+[Dummy-linking] My demolition team has grown stronger...
+[Logistics (start)] Oh, don't look at me with those puppy-dog eyes, I'll be back once I finish this mission.
+[Logistics (end)] Everything went well, everyone came back safely, and our spoils have been handed over to the warehouse.
+[Autobattle] Yes, yes, I know, relax and wait in the base for me to return.
+[Title] Girls' Frontline!
+[Starting a combat mission] Charge! Kill them all and let none survive!
+[Starting a battle] Pathetic worms, you can weep because you ran into me!
+[Skill activation] This is the fate of those who annoy me!
+[Heavily damaged] Tsk, I can't believe you actually hurt me this badly! This is unforgivable!
+[Retreat] Remember this... The next time we meet will be your doomsday!
+[MVP] Humph, I won with barely any effort, how boring.
+[Restoration] Dammit, I won't forgive anyone who hurts me...
+[Attack] Hahahahaha, let me enjoy your tears of fear from up close!
+[Halloween] Trick or treat! Give me more candy, Commander, this much isn't enough for me to share with my big sis...
+[Christmas] Merry Christmas, Commander. Why are you staring at my gift, your present's already on your table...
+[New Year's Day] Happy New Year, Commander. Ahhhhh, what a pain! Big Sis insisted that I come here and tell you that. Alright, now that I've said it... Here, this is for you. It's just some old thing that I bought, don't let your imagination run wild!
+[Valentine's day] Big Sis made this chocolate, and I'm giving it to you. What? That AUG, why did she go and write my name on the chocolate!? I, I would never do something as lame and childish as that...
+[Tanabata] Commander, why did you come to my personal private stargazing site? What's so good about looking at the Milky Way, anyway? It's nothing compared to my smile — A-Ahem, I, I didn't say anything!
+[Defense] Get lost, you stinking pathetic vermin!
+[Phrase] I!
+[Tip] Do you wish to hear my opinion?
+[Loading] How dare you keep me waiting, you certainly are bold, Commander.
+[Acquisition] Here at last? You're the first human who dared make me wait for so long!
+[Secretary] A magical girl has deigned to descend upon you! You should give thanks to me from the bottom of your heart! ...Wow, that line really is kind of embarrassing... But I've always wanted to say it.
+[Secretary (post OATH)] (Wails) Commander, Commander, where are you... Thank goodness, I found you! Don't...don't leave me alone on rainy days... (Sob)
+[OATH] Are you serious? I'll accept it, then. It's just that I'm still very small... So you need to remember to hug me every day and not scold me because I break stuff, or else I'll quit! Don't laugh, I'm being serious here!
+[Greeting] Did you notice anything different about the base today? Hey! I didn't break anything, okay!
+[T-Doll Produced] We've got a new arrival? I hope she's good at repairing things.
+[Joining an echelon] Don't think I'm a pushover just because I'm short! Listen up, and listen good!
+[Enhancement] It feels good, but is there really a need for me to get stronger?
+[Dummy-linking] My demolition team has grown stronger...
+[Logistics (start)] Oh, don't look at me with those puppy-dog eyes, I'll be back once I finish this mission.
+[Logistics (end)] Everything went well, everyone came back safely, and our spoils have been handed over to the warehouse.
+[Autobattle] Yes, yes, I know, relax and wait in the base for me to return.
+[Title] Girls' Frontline!
+[Starting a combat mission] Charge, charge, charge! Kill them all, let none survive!
+[Starting a battle] Weep that you encountered me, you weak little worms!
+[Skill activation] Who gave you the permission to stand before me?
+[Heavily damaged] Ouch... And my dress got dirty too.
+[Retreat] Remember this... The next time we meet will be your end!
+[MVP] Humph, I won without even trying. How pointless.
+[Restoration] (Winces) Don't forget to load my gun up with ammo!
+[Attack] Hahahahaha, let me savor your tears of terror up close!
+[Halloween] Trick or treat! Give me more candy, Commander, this much isn't enough for me to share with my big sis...
+[Christmas] Merry Christmas, Commander. Why are you staring at my gift, your present's already on your table...
+[New Year's Day] Happy New Year, Commander. Ahhhhh, what a pain! Big Sis insisted that I come here and tell you that. Alright, now that I've said it... Here, this is for you. It's just some old thing that I bought, don't let your imagination run wild!
+[Valentine's day] Big Sis made this chocolate, and I'm giving it to you. What? That AUG, why did she go and write my name on the chocolate?! I, I would never do something as lame and childish as that...
+[Tanabata] Commander, why did you come to my personal private stargazing site? What's so good about looking at the Milky Way, anyway? It's nothing compared to my smile — A-Ahem, I, I didn't say anything!
+[Defense] Get lost, you stinking pathetic maggots!
+[Phrase] My esteemed self.
+[Tip] You should have thought of that easily enough.
+[Loading] Do you expect me to open the door for you as well?

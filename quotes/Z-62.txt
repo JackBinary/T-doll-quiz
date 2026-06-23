@@ -1,0 +1,26 @@
+[Acquisition] I'm Star Z-62, Commander thank you for having me here, I will do my best.
+[Introduction] Star model Z-62 SMG, an enhanced model of Z-45 which was also developed based on MP40. Summarizing all the features of submachineguns of that era, which is something I'm honoured of. Even though being an older model weapon, but was still used by everybody for over decades, something else to be proud of about.
+[Secretary] Yes, I'm here, please give me your instructions.
+[Secretary (post OATH)] Commander the books you recommended lately are more and more stylish. We're getting more compatible, be counting on you from now on.
+[OATH] Commander, thank you for choosing me, I'm just unsure whether I can live up to your trust. But If that is what you wish, I will work towards that direction, please watch me!
+[Greeting] Commander I will be in charge of your safety today, don't worry.
+[T-Doll Produced] New recruit available for formations.
+[Joining an echelon] Will do my best.
+[Enhancement] Thank you, observe and improvise, what I am good at.
+[Dummy-linking] Yes, feels more... Secure...
+[Logistics (start)] Roger, we're leaving now.
+[Logistics (end)] Squadron returned, task complete.
+[Autobattle] Special operation begin!
+[Title] Girls' Frontline!
+[Starting a combat mission] Time for some practical work!
+[Starting a battle] Warnings ignored, prepare to fire!
+[Skill activation] Perfect distance!
+[Heavily damaged] If this continues... Then I won't last till the end.
+[Retreat] Sorry Commander, I couldn't complete the task, I'm really... Really sorry...
+[MVP] Yes! Looks like I'm not outdated just yet...
+[Restoration] Thank you for your care Commander, I feel a lot better already...
+[Halloween] Tonight... Must be a loud night, I'll stay in and read books.
+[Christmas] Merry Christmas, Commander! We have a feast tonight. I have to be careful not to eat too much.
+[New Year's Day] Commander, have you finished the plan for new year? If it's fine with you, I can lend a hand.
+[Valentine's day] Commander, is there a book that you want to read lately? If you're fine with me, I'm thinking about gifting you one...
+[Tanabata] Tanabata is accompanied by several stories. Which one do you want to hear?

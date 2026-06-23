@@ -1,0 +1,42 @@
+[Acquisition] G'day mate~ You'r my new commanda? I'm a poet but i sometime fight war too~
+[Secretary] The weather is crystal clear, stars are glittering like a spark~ the outside world is so wonderful! Let's get out more!
+[Secretary (post OATH)] Hey, Commander!  A new love song is airing! Make sure you listen to it next time!
+[OATH] The fluttering petals, falling into your heart, flowing into your feelings. I'll give you a happy poem, forever ~
+[Greeting] Hello~ Everyone, cheers! And the work is after that~
+[T-Doll Produced] Welcome deary~
+[Joining an echelon] Let's put a romance within the battle!
+[Enhancement] How come I be this charming, i wonder
+[Dummy-linking] The adventure team gradually become bigger
+[Logistics (start)] Mystery treasure~ It's waiting for me~
+[Logistics (end)] This feeling, leading my way, to home sweet home~
+[Autobattle] Let my gunshot be the ring for the end of the battle
+[Title] Girls' Frontline!
+[Starting a combat mission] Prepared for adventuring with me?
+[Starting a battle] With our brave spirit, off we go!
+[Skill activation] Here you go!
+[Heavily damaged] Uwah! My hat!
+[Retreat] damn... even kangaroo won't be this bad though...
+[MVP] (...) facing off the fear! And grab a victory!
+[Restoration] They just don't understand my song at all
+[Halloween] No worries! You can eat it, commander. there are still a lot of candies.
+[Christmas] The Christmas here is totally colder than my homeland. Well, it's just the turkey that is not really different...
+[New Year's Day] "On the first day, let our way, shine brightly." Commander, happy new year!
+[Valentine's day] "Let my feeling, melt with this chocolate, and reach you." Commander, here, drink my chocolate coffee.
+[Tanabata] "Like a shooting star, glittering in the sky, Fireflies in a summer." Commander, have you done writing you hope this year?
+[Acquisition] Commander, I'm here to report in! Huh, today's weather is great for adventuring.
+[Secretary] Could you help me look at this poem? I'm sure you'll like it, I spent a long time thinking about it.
+[Secretary (post OATH)] The fairy by the lakeside meets the fawn that is lost in the forest and shows it the way forward. That is what you mean to me.
+[OATH] Dancing petals~ drifts into my heart~ "Your feelings~ pours in along with them~" "My poem of happiness will be yours forever~❤"
+[Greeting] We meet again, Commander?.
+[T-Doll Produced] Wow, another little friend has come to join us. I wonder if she likes poems?
+[Joining an echelon] Ahhhh, time for me to show my stuff.
+[Enhancement] Thank you, Commander. I feel full of energy again.
+[Title] Girls' Frontline!
+[Starting a combat mission] Let's head out together!
+[Starting a battle] Hold on to your hat and prepare to get them!
+[Skill activation] Charge!
+[Heavily damaged] I... I'm strong, I cannot fall here!
+[Retreat] I retreat so I can advance better next time.
+[MVP] This strength gives me the impetus to create again.
+[Attack] Sing a hymn of praise as you look forward!
+[Defense] Now is the time to hold the line.

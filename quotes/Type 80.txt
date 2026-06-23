@@ -1,0 +1,43 @@
+[Acquisition] Umm... are you the commander? I'm Type 80. As long as you don't remove my core, you can do whatever you want.
+[Introduction] (CN: I'm Type 80 General-purpose Machinegun, designed with reference to PKM. Mostly operating in special forces, but due to the high cost/performance ratio I'm also being largely exported. Though I don't really care where to pew pew... But I can only get this type of bubble gum at my home town.)
+[Secretary] Commander, when are we going to start an operation?
+[Secretary (post OATH)] Commander, I'm clearly missing some gum. You ate it, didn't you?
+[OATH] Commander, is that envelope...? ...No way! I never thought anyone would be fond of someone like me... but okay. If you like me, Commander, you can do whatever you want.
+[Greeting] More work? Alright, I'll go.
+[T-Doll Produced] We have a new recruit? Okay, well... how about you go and greet them?
+[Joining an echelon] I'm fine with wherever.
+[Enhancement] So you want me to become stronger?
+[Dummy-linking] Now that I see them up close, I guess my eyes... aren't really that scary, huh?
+[Logistics (start)] This campaign is probably gonna take a while. Better bring lots of gum.
+[Logistics (end)] Yep, nothing beats the fun of shooting.
+[Autobattle] I'll take them out before I've even finished chewing my gum.
+[Title] Girls' Frontline!
+[Starting a combat mission] Finally. Let's hurry and move out.
+[Starting a battle] Guess I'll warm up on these guys.
+[Skill activation] I'm not stopping!
+[Heavily damaged] Ugh, they got me...
+[Retreat] I won't forgive them...!
+[MVP] That went great! When's the next battle?
+[Restoration] Hurry up and get me fixed. I need to pay them back for this.
+[Halloween] I thought about dressing up, but when I took my glasses off someone said I looked scary enough as is... should I be happy about that?
+[Christmas] For Christmas... I'd like some new glasses, if that's alright.
+[New Year's Day] Happy New Year, Commander. Wanna go visit a shrine? It is New Year's, after all.
+[Valentine's day] I don't have any chocolates, but how about some gum? It's sweet.
+[Tanabata] Tanabata's just the day when Hikoboshi and Orihime can get together, right? Why do we have to go along with it too?
+[Acquisition] So this is a neural upgrade... Commander, do you have a mirror here?
+[Secretary] If I designed a Model Soldier Raising Program for you... The first thing you'd do is fire your adjutant, right?
+[Secretary (post OATH)] It doesn't seem like there's any difference in my life. I'm busy when I should be busy and I don't even have a chance to relax. If only I had a few days of vacation... Do you understand what I mean?
+[OATH] Commander, is that envelope for...? I've always thought that...I am not the type to be liked. Okay, if you like me, then do as you please...❤
+[Greeting] Commander, have you seen Miss 59? I'm looking for her about something... Er, I'll tell you what it's about later.
+[T-Doll Produced] Are we getting a new comrade? Maybe we could become friends.
+[Joining an echelon] If it's a battle, I'm ready for one at any time.
+[Enhancement] I'll be more popular like this, right?
+[Title] Girls' Frontline!
+[Starting a combat mission] Time to show off my heroic stance!
+[Starting a battle] So all I need to do is take care of these guys, right?
+[Skill activation] Prepare to rain fire!
+[Heavily damaged] You asked for it!
+[Retreat] Ugh, things don't look good, better fall back to the rear.
+[MVP] This must be the result of my special training, right?
+[Attack] We're attacking, I'll cover you guys.
+[Defense] We're going to defend? Got it, we'll establish a defensive perimeter here.

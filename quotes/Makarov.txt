@@ -1,0 +1,50 @@
+[Acquisition] Rather than the Commander giving orders, working together is the better plan. Under me that is~
+[Secretary] Hm? What's the matter?
+[Secretary (post OATH)] Everyone's in great shape today. These outstanding results...it's all because of our close partnership, isn't it?
+[OATH] Commander, being able to receive your approval and stand by your side means everything to me.I will never forget this moment. Please let it last forever...
+[Greeting] Geez, I'm tired of waiting.
+[T-Doll Produced] Looks like a new weapon has been completed.
+[Joining an echelon] It's my turn now, huh? Alright!
+[Enhancement] I'm getting powered up!
+[Dummy-linking] Dummy linking? What about firepower and ammunition? Will this improve my combat ability?
+[Logistics (start)] I'll head out first. Commander, please take care of the others.
+[Logistics (end)] I'm back commander. Is there some surprise waiting for us?
+[Autobattle] Guys, stay calm. I'll be in command, now prepare for counterattack!
+[Title] Girls' Frontline!
+[Starting a combat mission] Here it go! The actual battle.
+[Starting a battle] Ms. Enemy, I found you!
+[Skill activation] Fire at will!
+[Heavily damaged] I'm sorry, I'll retreat.
+[Retreat] What did I...
+[MVP] Yeah! I took this win, didn't I?
+[Restoration] Ugh. As I thought, looks like I'm weak after getting medical treatment.
+[Halloween] Where are you hiding? I might just pull a prank!
+[Christmas] Merry Christmas, commander! I wonder, just what kinda guy is 'Santa'?
+[New Year's Day] Happy new year commander! This year as well, please guide us to victory!
+[Valentine's day] I taught everyone how to make chocolate. Commander, would you like to be my taste-tester?
+[Tanabata] To think that such a romantic day exists. The story of tanabata... let me hear of it.
+[Acquisition] Makarov reporting. I'm back.
+[Secretary] It's time to rest, Commander. You've been working for several hours straight now. There may be no end to work, but the scenery outside the window won't last forever.
+[Secretary (post OATH)] Let's plant a tree together, Commander. It might be nothing more than a seed that you can find anywhere, but under our care, I'm sure it'll become a nice big tree. When that day comes, we can enjoy the shade it gives us.
+[OATH] Commander, my value right now is represented by receiving your approval and being by your side. Please allow me to engrave this moment into my heart. I wish this memory would last forever...
+[Greeting] Welcome back, Commander.
+[T-Doll Produced] Is it someone new, or is it just the same old bunch?
+[Joining an echelon] I hope we'll get someone reliable, at least.
+[Enhancement] Not enough... I need to become stronger.
+[Dummy-linking] So this is dummy-linking. What about firepower and warheads? Will that affect my fighting power?
+[Logistics (start)] I'll be heading out, Commander. Please take care of my friends.
+[Logistics (end)] I'm back, Commander. Were there any surprises?
+[Autobattle] Don't panic, everyone, I'm here to lead you. Prepare to counterattack!
+[Title] Girls' Frontline!
+[Starting a combat mission] Allow me to see how resilient you truly are.
+[Starting a battle] Whether you're the sneaky type or the Crazy Ivan type, all you have to do is kill the enemy and come back safely.
+[Skill activation] I won't let you get your way!
+[Heavily damaged] It's just a scratch... I haven't lost yet...
+[Retreat] It's just tactics.
+[MVP] Take what is ours and let's head home.
+[Restoration] (Groan) It seems... I wasn't strong enough after all...
+[Attack] Focus your fire!
+[Defense] Mind your defense!
+[Phrase] Listen to me.
+[Tip] I've got something to tell you.
+[Loading] Hang on, we should take our time to look around first.

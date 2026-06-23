@@ -1,0 +1,26 @@
+[Acquisition] PP-2000 submachine gun. I will be staying by your side from now on, hehe~
+[Introduction] PP2000, having both assault pistol and PDW's traits. Due to the suitability for none-military type usage, after the design specs were released, many law enforcing organizations called for contracts, the manufacturer even requested for trademarks. But my performance are not weak at all... Really!
+[Secretary] What's the matter?
+[Secretary (post OATH)] Commander was my performance reliable today? After all you've trusted me all this time, I must be more confident with myself.
+[OATH] Commander, did anything go wrong? That's why you called me here right? Eh? Wha...? Can I really? I've... Finally being recognized by you Commander...
+[Greeting] I've been waiting for your return.
+[T-Doll Produced] Construction finished successfully.
+[Joining an echelon] Please count on me for this.
+[Enhancement] I will work even harder!
+[Dummy-linking] Expansion complete! With this kind of expansion, will I earn more trust from everyone?
+[Logistics (start)] PP-2000, operation begin! Check if we've left anything behind.
+[Logistics (end)] PP-2000, safely returned! Have we got everything?
+[Autobattle] Everyone will witness my true strength!
+[Title] Girls' Frontline!
+[Starting a combat mission] Move out!
+[Starting a battle] Watch your backs.
+[Skill activation] Aim! Attack!
+[Heavily damaged] No problems... I can continue!
+[Retreat] How did this happen...
+[MVP] Victory is ours!
+[Restoration] Eee... Will people continue to rely on me from now?
+[Halloween] Today's courage test... My reactions were, too interesting... It scared those who played monsters... Does that count as some form of success? Ehehe...
+[Christmas] It's christmas.  I want to help everyone. Ah, I can help by wrapping these presents. Let's start from this bear.
+[New Year's Day] Commander, it's new year. I'll work hard again this year.
+[Valentine's day] My handmade chocolate exploded, even though it's just one step away from completion. How unfortunate.
+[Tanabata] Although I've write my wish for tanabata, I lost my tanzaku. I can't hang it now...

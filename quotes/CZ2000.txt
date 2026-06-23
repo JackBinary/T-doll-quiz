@@ -1,0 +1,26 @@
+[Acquisition] CZ2000 reporting in! Commander, you can rely on me to watch everyone's back! ...Huhu~ always wanted to say this line!
+[Introduction] (ditto)
+[Secretary] GUAAAAAAA.....! Damn Skorpion! My hair isn't a crab!
+[Secretary (post OATH)] Commander are you still busy? Take me and Shrimpy on a walk when you are free~
+[OATH] Eee? ...Commander, you finally made the decision? This... Of course I'm prepared for this kind of situation! Just a little bit unexpected... Now... I'm suppose to give you my hand right? Here... Here you are... Waaahhhhhh...❤
+[Greeting] Today, let us work together!
+[T-Doll Produced] Commander, how's the impression of the new recruit?
+[Joining an echelon] Heheh~ You know that my help is indispensable after all.
+[Enhancement] Geez, how hopeless. Don't be too reliant on me.
+[Dummy-linking] T-there are so many crabs! Wha- They're not crabs!
+[Logistics (start)] Shrimpy, let's go for a walk~
+[Logistics (end)] Ammunition and distribution are important.
+[Autobattle] For this time's mission, this amount of preparation should be enough.
+[Title] Girls' Frontline!
+[Starting a combat mission] Shrimpy, let's go!
+[Starting a battle] Hmph, you're my opponent huh.
+[Skill activation] I haven't get serious!
+[Heavily damaged] C-calm down! I haven't giving up!
+[Retreat] Commander, I can't hold it anymore!
+[MVP] As expected~ Easy victory!
+[Restoration] This scratch isn't a big deal. This is common for m- ugh!
+[Halloween] Don't touch that box! It does not contain any candy!
+[Christmas] You too want to help, Commander? If it's just decorating the tree, I alone am enough.
+[New Year's Day] Commander, where's my new year gift! Please don't forget about Shrimpy's part as well!
+[Valentine's day] Wha... Commander, what a coincidence! Umm... Shrimpy, where's the chocolate that I've prepared earlier? What, you ate it?!
+[Tanabata] You want to see the stars outside? You're still a kid aren't you, Commander. I'll accompany you for a bit then.

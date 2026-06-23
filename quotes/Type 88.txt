@@ -1,0 +1,25 @@
+[Acquisition] QJY-88 General Purpose Machine Gun reporting, Commander. You... don't have anything scary here, right?
+[Secretary] Uwaa! What is this thing?? Umm... Commander, why are you looking at me like that?
+[Secretary (post OATH)] If you're done reading the magazine you borrowed then please return it to me... If not then... Just tell me which part you liked!
+[OATH] Commander, I don't get it... Why me... I'm not a smart girl... There's so many things I don't understand... But if you'll be by my side, I won't be scared of things I don't understand anymore! ...If I get startled again by things I shouldn't be, promise not to tease me, okay...?
+[Greeting] Commander, I will put the important documents here. Eh?! Not this magazine!
+[T-Doll Produced] New person is coming... I hope it is a person that talks gently.
+[Joining an echelon] Roger! I hope i can get along with the others.
+[Enhancement] I got another new parts!
+[Dummy-linking] I multiplied! Can't you remodel me in secret...
+[Logistics (start)] Well then, I'm going. I hope I can do it just as in strolling pace
+[Logistics (end)] I found a lot of interesting thing on the way! But... I was told not to bring them home... I wonder why...
+[Autobattle] We've finished adjusting the system strategy! It's flawless this time!
+[Title] Girls' Frontline!
+[Starting a combat mission] Everyone! It's about time for us to depart!
+[Starting a battle] The day where I can test the fruit of my remodeling is finally here!
+[Skill activation] Everyone, please be careful!
+[Heavily damaged] Ugh... did I equip a wrong parts by accident...?
+[Retreat] What was that?! It's scary!
+[MVP] I did it! Everyone, did you hurt somewhere?
+[Restoration] Hmm... since I have nothing to do... it's fine to slack right no-... N-no! I didn't say anything!
+[Halloween] Commander, help me! Everyone want to tell ghost stories so bad!
+[Christmas] I think I've heard about Santa already. However, For some people, it's no longer like the Christmas I understand...
+[New Year's Day] Commander, Happy New Year. Do you have any plan to go somewhere? Can you bring me along?
+[Valentine's day] Commander, I brought you a chocolate I made. This is a perfectly normal chocolate. I didn't do anything weird.
+[Tanabata] My wish you ask? I wish I could read the atmosphere when I talk to other people. Also to be able to give adequate response. It's easier said than being done though...

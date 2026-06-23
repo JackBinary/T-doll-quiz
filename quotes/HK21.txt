@@ -1,0 +1,25 @@
+[Acquisition] Phew... Big sis, I'm here at last... Commander, I'm sorry to trouble you, but please take care of me from now on.
+[Introduction] ditto
+[Secretary] A Combat Planning meeting...? Forget it, It's not like I can contribute, never mind me.
+[Secretary (post OATH)] Commander, you are not allowed to be so close to my sister while working! ... J-Just because!
+[OATH] Commander, I really... Just wanted my sister to notice me...  I don't know how I got your attention... How cunning... You'll be responsible for taking away part of my love for my sister!
+[Greeting] Onee-san, you're finally h-... What, it's just you, commander.
+[T-Doll Produced] Onee-san! It's you right?
+[Enhancement] I won't let anyone hurt my sister.
+[Dummy-linking] Why all of you look the same? Onee-san wouldn't be able to distinguish us!
+[Logistics (start)] You won't let my hand rest at all. Alright alright, I got it.
+[Logistics (end)] Is this enough？
+[Autobattle] You don't have to. I know it better than you.
+[Title] Girls' Frontline!
+[Starting a combat mission] Onee-san, I'll protect you!
+[Starting a battle] They're here!
+[Skill activation] Onee-san, please lend me your strength!
+[Heavily damaged] Eh, wait, I got no power.
+[Retreat] Tch, is this how far I can go...?
+[MVP] I won! With this onee-san will look at me even more.
+[Restoration] These parts are... can I use onee-san's part?
+[Halloween] Ghost stories and candies are for children. I'm an adult so I don't need any.
+[Christmas] Onee-san is decorating the christmas tree. W-what should I do... should I help her?
+[New Year's Day] Commander, won't you spend your christmas with your family? Eh? I'm your family too?
+[Valentine's day] Chocolate? There's no way I will give you any. This? This is onee-san's part!
+[Tanabata] Commander is taking onee-san with him... eh? What's the matter, commander?

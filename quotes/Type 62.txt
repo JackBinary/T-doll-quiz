@@ -1,0 +1,25 @@
+[Acquisition] Type 62, reporting in! Hello, Commander! …No, do you have anything bad to say?
+[Secretary] This place’s dolls are all female, huh. I know of this company where all they use are male dolls… is this what’s common nowadays?
+[Secretary (post OATH)] Commander’s workload is smoothly becoming easier for us to go through, huh. The opportunities for me to make my complaints is also becoming a lot lesser than before. I kind of miss the times when you were a lot clumsier.
+[OATH] Commander, how do you feel right now? …Are you worried? In most sci-fi films of the past, humans and robots always worked together against all odds to succeed. I think our story will be way more interesting than that.
+[Greeting] Did you eat properly?
+[T-Doll Produced] Will someone unexpected come?
+[Joining an echelon] There are all kind of people here... can they fight properly?
+[Enhancement] Eh? I can get stronger with this? That's quick!
+[Dummy-linking] Is this a clone? I used to love this kind of sci-fi.
+[Logistics (start)] I wonder if there is any way I can invite you to come along?
+[Logistics (end)] Finally back home~ I'm completely worn out.
+[Autobattle] It's not my first time. This will be done quick.
+[Title] Girls' Frontline!
+[Starting a combat mission] Let's start by checking our supply stock.
+[Starting a battle] They somehow look evil. They must be the bad guy!
+[Skill activation] I've warned you!
+[Heavily damaged] Umm... don't you think this situation is dire?
+[Retreat] If it comes to this... even Commander will giving in.
+[MVP] By the way, why is everyone doing some weird winning pose?
+[Restoration] Even if I retrieve all of my parts, will I stay the same?
+[Halloween] My left eye can see real ghost you know. Just kidding.
+[Christmas] My present is an old SF movie though, is there anyone who want to trade present with me?
+[New Year's Day] Let's dedicate the entire day to clean every nook and cranny of the lodging house. You too Commander, make up your room properlu
+[Valentine's day] You got so many chocolates, Commander. Even if I give you mine, there's now way you could tell it apart.
+[Tanabata] With a paper this small, you can't write all of your wishes. Doll and human alike.

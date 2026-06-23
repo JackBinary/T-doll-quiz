@@ -1,0 +1,28 @@
+[Acquisition] Defender, r-reporting for duty... Don't come any closer, just give me my orders.
+[Secretary] Please don't draw too close. I'm afraid I can't control my emotions module...
+[Secretary (post OATH)] My emotions...seem to be overflowing. But don't worry, because they feel...incredibly warm.
+[OATH] You...you want to choose me?! I beg you to think this over, because my emotions module is very unstable and can't handle this... What? You need me?! A...alright, but you must never, ever disappear from my sight...
+[Greeting] You're here... Am I going to the battlefield?
+[T-Doll Produced] We have a new arrival, I hope she's not as useless as me.
+[Joining an echelon] If I must go to the battlefield, I hope everyone will keep a distance from me in battle.
+[Enhancement] Am I...going to become stronger?
+[Dummy-linking] With more Dummies... It seems controlling my emotions will be a little easier.
+[Logistics (start)] R-Ready to move out... Sorry to bother you, everyone.
+[Logistics (end)] I'm back. Please have a look at the results, Commander.
+[Autobattle] Are you really going to let me operate independently... I'm worried, but I'll make sure I live up to your trust in me.
+[Title] Girls' Frontline!
+[Starting a combat mission] Go go!
+[Starting a battle] Hahahahaha, just you wait, I'll scrap all of you.
+[Skill activation] I'll make you experience the cruelty of war!
+[Heavily damaged] Tsk! Just you wait.
+[Retreat] Ah... I've come to.
+[MVP] Good, good! Keep this pace up!
+[Restoration] I can still fight! Let me go back to the battlefield!
+[Attack] No retreat!
+[Halloween] Give me candy or I'll destroy Griffin! Ah, sorry, I let myself go for a moment.
+[Christmas] Is this for me? Thank you for the present! I'll take good care of it.
+[New Year's Day] Happy New Year, Commander. They're going to set off firecrackers, do you want to come too?
+[Valentine's day] I, I'm sorry... I'm not too good at making chocolate. If you don't like the taste, just throw it away.
+[Tanabata] Is Tanabata the day when Hikoboshi and Orihime meet? My home doesn't have a tradition like that, but I think... It's very romantic.
+[Defense] Ready to take the bait!?
+[Phrase] I'm worried...

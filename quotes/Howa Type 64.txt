@@ -1,0 +1,25 @@
+[Acquisition] A completely new and strange environment, huh… Well, if I’m here then I’m here. I’ll do my utmost best to adapt. Please teach me well, Commander.
+[Secretary] Those T-Dolls seem to have never spoken to me before, huh, even though we’ve met before… Whatever, I feel like if I strike a conversation with them, I’ll lose in some way.
+[Secretary (post OATH)] Is this where we’re going on a date next? I’ve never heard of this place before… but you chose it, so there’s no need for me to be afraid.
+[OATH] Commander, please show me more of this world, and its many strange places. The thought of experiencing the ‘unknown’ makes me feel nothing but fright, but as long as there’s Commander… N-Nothing, what I mean is that as long as you don’t just throw me away, it’s fine.
+[Greeting] Eh? When did you show up?
+[T-Doll Produced] The number of strangers around here has increased.
+[Joining an echelon] Who else is in this unit?
+[Enhancement] This new power will take some getting used to.
+[Dummy-linking] Even though I'm still the same, I feel completely different.
+[Logistics (start)] The usual, right? Then, I'm off.
+[Logistics (end)] I saw a doll acquaintance along the way, but I couldn't say hello.
+[Autobattle] Just like the first time, I won't hold back!
+[Title] Girls' Frontline!
+[Starting a combat mission] Standby, commencing combat.
+[Starting a battle] Those guys can't seriously be our opponents.
+[Skill activation] Don't mind if I do!
+[Heavily damaged] Ngh... I knew it, this was a bad idea after all.
+[Retreat] Ow... Where did I go wrong...
+[MVP] Surely this victory will leave a deep impression on everybody.
+[Restoration] I'm going into sleep mode, please don't stare at my face.
+[Halloween] C-Commander, help me! I didn't know I was picking up candy from the road...w-what should I do?!
+[Christmas] Commander, I've prepared christmas cards but... could you give this to everyone secretly? What I wrote is a secret.
+[New Year's Day] Commander, Happy Hew Year. Ah, this? It's just a soba, would you like some? I too have something that I could cook.
+[Valentine's day] To think that I could get chocolate. T-this is not a prank right? Or perhaps I really am popular?
+[Tanabata] My wish from last year hasn't been granted. I need to urge on Orihime-sama this year.

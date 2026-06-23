@@ -1,0 +1,30 @@
+[Acquisition] Ta-daaaa! Spacewalker MPK making her official entrance! ...Wow! The Griffin base is filled with tall and tightly-packed buildings! This is perfect for parkour! Commander, wanna join my Parkour Assosiation?
+[Secretary] Commander, you've been sitting there for half an hour! Get up and move. Like this... (Slam!) Ahaha, a little accident. Looks like your office isn't roomy enough.
+[Secretary (post OATH)] Commander, ever since I got used to having you around, I can't bear to practice parkour on my own. It feels so lonely... Shall we go together after work today?
+[OATH] Commander, will you really let me stay forever? I must have caused you a lot of trouble flying about every day.  ...I didn't expect you to understand! I thought you were just a woolgathering sloth...  From now on, I can practice parkour anywhere in Griffin? Thank you, Commander! You're the absolute best!
+[Greeting] Commander, I just got scolded by my sis again... Hey, don't laugh!
+[T-Doll Produced] Hello, new friend! Wanna fly around Griffin together?
+[Joining an echelon] Trust me!
+[Enhancement] With this, big sis will finally stop worrying about me, right?
+[Dummy-linking] I'll soon be able to form my Parkour Association!
+[Logistics (start)] I don't wanna go to boring places... Can't we do a different mission?
+[Logistics (end)] I knew it⁠—Griffin is way more fun... I won't fall for it ever again!
+[Autobattle] Please take care of my big sis while I'm away, Commander! Don't let her turn into a sloth!
+[Title] Girls' Frontline!
+[Starting a combat mission] Warm-up complete. Setting off!
+[Starting a battle] Obstacles ahead!
+[Skill activation] Precision jump!
+[Heavily damaged] Oww... I messed up! It hurts a bit...
+[Retreat] This is too challenging. I advise against attempting it.
+[MVP] It's all thanks to my parkour training that we won this battle!
+[Restoration] The Repair Bay?! No, I'll be bored to death!
+[Attack] Climb up!
+[Halloween] They're totally teasing me... They can't make me play a vampire just because I like flying all over the place! Commander, you be the vampire!
+[Christmas] Commander, I've stolen the brightest star on the Christmas tree for you... I hear that if you make a wish on it, Santa Claus will make your wish come true!
+[New Year's Day] Happy New Year, Commander! This is a parkour training plan that I put together just for you... You said you wanted to get into better shape last year, but you ended up sitting on your butt the whole time. You mustn't slack off this year!
+[Valentine's day] Why is there so much chocolate on the table? This won't do! Eating too much sweet stuff is harmful to your health, let me clear this up for you... Huh? It's from big sis? She has never given ME any chocolate! Not fair!
+[Tanabata] Three...two...one... You can now open your eyes! ...What do you think? The Milky Way looks stunning tonight, doesn't it? Let me tell you a secret—this is the secret base I built on Griffin's rooftop, not even my sis knows about it... This stays between you and me, Commander!
+[Defense] Protect yourselves!
+[Phrase] To Griffin...and beyond!
+[Tip] Hush... Only big sis gets to call me "Naughty Monkey"! Still...if you insist, I'll let you call me by this nickname as well...but don't tell anyone else!
+[Loading] Let me see what big sis is doing... I hope she's not angry with me again?

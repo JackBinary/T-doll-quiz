@@ -1,0 +1,26 @@
+[Acquisition] Secret weapon OTs-12 'Yew Tree', reporting. Commander, is any further explanation required?
+[Introduction] Modified version of AKS-74U, "Tiss". Low noise assault rifle designed mostly for special operation, equipped with the signature sub-sonic ammunition. Not a lot of information are declared about me, since I'm a secret weapon, well... Or maybe just too similar to the original model, there just isn't much to declare?
+[Secretary] Um... What do you think of my recent performance?
+[Secretary (post OATH)] Had more cameos recently, all thanks to your attention on me... It's ok, there's no need to keep this happy thing secret.
+[OATH] Commander, is this... For me? Uh, don't apologize. I know of my value. But if I could become the greatest secret in your heart, it's good enough for me. Thank you Commander.
+[Greeting] Commander, do I need to appear today?....Ah, it's ok, I know, I'm a secret weapon.
+[T-Doll Produced] A new friend's coming.
+[Joining an echelon] Hmm? Had to rely on the secret weapon?
+[Enhancement] Understood, a secret modification.
+[Dummy-linking] Of course I'm being paid attention to by the commander!
+[Logistics (start)] Beginning procurement.
+[Logistics (end)] Coming back...Is everyone here?
+[Autobattle] It's a secret operation this time, will get it done!
+[Title] Girls' Frontline!
+[Starting a combat mission] We'll be going soon, everyone ready?
+[Starting a battle] Tiss, begin combat!
+[Skill activation] Confirmed target, attack!
+[Heavily damaged] Why... I had high expectations...
+[Retreat] Sorry everyone... I should have performed better...
+[MVP] How was it? Did the secret weapon disappoint you?
+[Restoration] Sorry, please give me another chance...
+[Halloween] It's finally my turn, marked by tonight's secret atmosphere. I will reveal a costume that won't lose to anyone.
+[Christmas] Merry Christmas, Commander. You see that kitchen over there? Keep my failure as secret from everyone.
+[New Year's Day] Commander, Happy New Year. I wish I can show off my secret weapon technique too this year.
+[Valentine's day] Commander, close your eyes. This is my present. Keep it secret from everyone.
+[Tanabata] My wish is to make the operation great success. Commander, give me some chance okay.

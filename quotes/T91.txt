@@ -1,0 +1,26 @@
+[Acquisition] Greetings Commander! I am T91, willing to give it my all for your duties!
+[Introduction] I'm the research product of "Hundred-Year Rifle Project", T91 Assault rifle. Being a derived product of T86, inherited both T86 and T85K2's frame structures, easy to carry and precise, reliable firing performance are the reasons for you to have me. I believe I will bring you more surprises in the future combats.
+[Secretary] Commander would you like some milk tea? Large cup? or Extra Large cup?
+[Secretary (post OATH)] Commander, do you know the milk tea that I just bought? Eh, you drank it again? Geez!
+[OATH] Commander... Yes! My heart is already prepared. This is what I wished for, and this is the answer you want. Thank you very much! That's... I'm... very happy!
+[Greeting] Commander, I've prepared the important documents.
+[T-Doll Produced] New girl, I'll teach you from the basic!
+[Joining an echelon] Everyone, just leave it to me!
+[Enhancement] Alright! With this I can be more useful to everyone!
+[Dummy-linking] Alright! Now I feel like I won't lose to anyone!
+[Logistics (start)] Leave it to me!
+[Logistics (end)] Mission complete! Commander, what's next?
+[Autobattle] Everyone, it's our showtime!
+[Title] Girls' Frontline!
+[Starting a combat mission] Everyone, let's fight for our victory! Everyone, let's go!
+[Starting a battle] Enemy has making its appearance!
+[Skill activation] This is my battlefield!
+[Heavily damaged] Eh, I failed to get through?
+[Retreat] Let's retreat here at once.
+[MVP] Let's celebrate this victory!
+[Restoration] To prepare for the next battle, I must endure this...
+[Halloween] I've prepared a lot of candies just for today. Everyone, come and get it quickly.
+[Christmas] Commander, Merry Christmas! This is your christmas present. Is this for me? Thank you very much.
+[New Year's Day] Happy New Year, Commander! My new year gift... I'll look forward to it, ufufu.
+[Valentine's day] Commander, this is my 54th attempt of milk tea-flavoured chocolate. Please have a taste. If this doesn't meet your taste... I'll make the 55th one.
+[Tanabata] The world to become peaceful and everyone can live a happy life, that's my wish. A plain one, you say? Ufufu. But, isn't it a common wish for everyone?

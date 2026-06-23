@@ -1,0 +1,25 @@
+[Acquisition] BM59, reporting in. Having been through numerous upgrades, I will definitely not let you down, Commander.
+[Secretary] How do I look today, Commander? Pretty as ever?
+[Secretary (post OATH)] You like my accessories today, Commander? Training goes without saying, but I can't slack off on my appearance either...since what I do reflects on you.
+[OATH] I've always wanted to remain true to myself, and for you to notice me. My wish has finally come true.Please keep being my Commander form here on out, okay?
+[Greeting] How are you today, Commander? If I want to be like the Commander, then I have to get it right!
+[T-Doll Produced] A new comrade has come. It would be nice to get to know them.
+[Joining an echelon] I'll be participating in battle!
+[Enhancement] Thank you. Compared to Garand and the others, I've become stronger.
+[Dummy-linking] I'm glad. With this, I won't lose to the other girls!
+[Logistics (start)] I'm heading out. Rest assured.
+[Logistics (end)] I've returned. That was a good experience!
+[Autobattle] You better be grateful to me.
+[Title] Girls' Frontline!
+[Starting a combat mission] All units are ready for combat, let's move out.
+[Starting a battle] Enemy spotted. Commencing attack.
+[Skill activation] This is the power of remodeling!
+[Heavily damaged] Ugh...I don't want to show everyone this side of me.
+[Retreat] I'm sorry, Commander. I've reached...my limit.
+[MVP] Are you that surprised to see me win?
+[Restoration] I'm sorry...I'll do better next time...
+[Halloween] Because of tonight, I want to dress myself with a special costume. Commander, will you choose me for the lifetime?
+[Christmas] Commander, Merry Christmas. Everyone is already prepared. Make sure to drop by later.
+[New Year's Day] Happy New Year, Commander! I've been working hard to get a slice of this beautiful life. I'll be even more active next year!
+[Valentine's day] Commander, please take this! I put my heart into practicing to make you chocolate that will meet your taste.
+[Tanabata] If you think about it, hanging up a strip of paper is a pretty mysterious tradition. Well, even if it is on top, it should come true if you wish hard enough.

@@ -1,0 +1,26 @@
+[Acquisition] Coming here and working at this place is really not easy, huh... Hello, Commander. I hope that the time has come for me to start work immediately.
+[Introduction] (Ditto)
+[Secretary] There are times where I wish that I was more ruthless and cold, since it seems that everyone likes that kind of character better... but I'm—
+[Secretary (post OATH)] Commander, when I'm with you, my body's temperature just seems to become abnormal... could this possibly be a fever?
+[OATH] Commander... Can I use this opportunity to give you a little 'confession'? Although this isn't going to be romantic as a movie, please let this clumsy self of mine to say it out loud... Commander, I... love you...
+[Greeting] Commander, thank you as well for your hard work today!
+[T-Doll Produced] Commander, how about that newcomer?
+[Joining an echelon] Please let the members be ordinary dolls!
+[Enhancement] Say goodbye to the past.
+[Dummy-linking] What if I change the position of the pigtails? Will the Commander be able to notice them?
+[Logistics (start)] If there's surplus, bring back as much as you can.
+[Logistics (end)] Are we still missing something?
+[Autobattle] Is it another enemy attack? Leave it to me!
+[Title] Girls' Frontline!
+[Starting a combat mission] Ammunition, distribution...that's it! And momentum!
+[Starting a battle] Are there any countermeasures?
+[Skill activation] Target sighted!
+[Heavily damaged] Ugh! I...I can't hold on for much longer!
+[Retreat] I can't go down like this. Everyone, withdraw!
+[MVP] I won! This is my victory!
+[Restoration] I was prepared to get hurt, but...I'm scared.
+[Halloween] What to do...I think its kinda cute rather than scary now that the other girls are monsters.
+[Christmas] Merry Christmas, Commander. Here, a present from me. I've been looking for it for a while now. I think you'll quite surprised, ehehe!
+[New Year's Day] The times are always changing, but the surroundings always seems the same.
+[Valentine's day] Lately, the dorm kitchens have been full of people. Chocolate making is way too intense. I don't think this is a fight I should get into...
+[Tanabata] I want to be pulled by the wind~. Uh...that's um...that's because I've never been pulled by the wind before. I'm just curious about how the wind feels. That's normal for a person, right? Right?

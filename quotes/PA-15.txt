@@ -1,0 +1,30 @@
+[Acquisition] Hello, Commander! PA-15 reporting. You will assign me the most exciting missions, right?
+[Secretary] You didn't look like the sort to have this kind of hobby, Commander. Although it's not a bad thing to be so straightforward about seeking excitement.
+[Secretary (post OATH)] Thanks for the hard work today. Want to have some fun at a night themed amusement park after work? Or do you want to quietly relax with a drink somewhere?
+[OATH] Ah, Commander, you're here. Huhu, are you here to swear an oath with me? What's with that expression? I can tell your thoughts with just one look. Then, shall we?
+[Greeting] Ahhhh, here it comes, here it comes! Something interesting is happening!
+[T-Doll Produced] Oooh, a cutie I can play with?
+[Joining an echelon] Ah~ It feels so good... That is to say, now I can take on stronger and more interesting things!
+[Enhancement] This feels so good...which means I can take on stronger and more interesting things!
+[Dummy-linking] Oooh, now I can have some fun!
+[Logistics (start)] Then I'm heading off to play! Just kidding. Salut, Commander.
+[Logistics (end)] I'm back with some cool souvenirs.
+[Autobattle] Kitty scurrying into the dark after a ball of yarn...here I come.
+[Title] Girls' Frontline!
+[Starting a combat mission] Let's give them a surprise!
+[Starting a battle] This is just an appetizer.
+[Skill activation] Mind if I open you up and take a look inside?
+[Heavily damaged] Ack, so this is what failure feels like... It's surprisingly not too bad.
+[Retreat] I didn't measure up. I'll do better next time... Désolée, Commander.
+[MVP] As I expected. More importantly, how about lining up the next mission?
+[Restoration] Haha...that tickles! Now do it on this side!
+[Attack] I'm going in!
+[Halloween] Commander! I'm going to take part in the event, I'll leave a Dummy here who'll handle everything else! I can hear whatever you tell her, so don't worry and keep working!
+[Christmas] Mer-ry Christ-mas! How was it, did the Dreamer hologram in your present scare you?
+[New Year's Day] The first day of each year is a brand new beginning, so let's start it with trying out some new tactics?
+[Valentine's day] Looks like it's another day of giving the Commander presents. In that case, want to take a guess? Which of these two boxes of chocolate does NOT contain a wasabi bomb?
+[Tanabata] Let's relax a little today... So what's your wish, Commander? I'll tell you my wish after you make yours.
+[Defense] En garde.
+[Phrase] Yo, what's so interesting?
+[Tip] I've got a new idea, want to give it a try?
+[Loading] I wonder what sort of adventures will be waiting for me today? I can't wait~

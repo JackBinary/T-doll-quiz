@@ -1,0 +1,27 @@
+[Acquisition] We meet again, Commander, as I said we would. Like the fate of a moth darting into flame...what a strange metaphor? Is that so?
+[Secretary] When humans doubt God, they are considered to have independent selves...but what happens when a doll doubts its manufacturer? Haha, I was only joking. Did I scare you?
+[Secretary (post OATH)] You and I are like a moth, soaring as it is entangled in flame until one day, it is reduced to ashes, and fades beautifully into nothingness. But who is the moth, and who is the flame? Please be a little more special, Commander.
+[OATH] What I like most about person-to-person relationships are these fragile vows. If they truly trusted each other, they wouldn't need to bind it like this. On the contrary, if their relationship was broken, then they can't be relying on a ring to maintain it. Now, what do you think our relationship will be, Commander?
+[Greeting] Oh, I've been waiting for you, Commander.
+[T-Doll Produced] Eh? Is that a new doll? Oh, I hadn't noticed. Shall we go meet her then?
+[Joining an echelon] Oh? Is the Commander not coming with us? Too bad.
+[Enhancement] Whether it be performance or tactics, if it's within my grasp, I will do my best.
+[Dummy-linking] What kind of reaction would humans have if they encountered someone sharing the exact same face?
+[Logistics (start)] I'll be back soon, so you don't need to feel lonely.
+[Logistics (end)] It's finally over. If just for a little longer, please allow me to be by your side.
+[Autobattle] I hope we'll find something interesting.
+[Title] Girls' Frontline!
+[Starting a combat mission] Let's go. Let's wrap this up quickly.
+[Starting a battle] Poor thing...is there any point in doing this?
+[Skill activation] Let's move a little.
+[Heavily damaged] Ah, I get to go home first...lucky me.
+[Retreat] Failure is our privilege, just as it is yours to be sad.
+[MVP] Tactics as beautiful and refreshing as the guillotine.
+[Restoration] Dolls really are quite convenient.
+[Halloween] "Trick or treat!" was it? Well, I don't really like sweets to begin with, so would it be okay to just prank, Commander?
+[Christmas] Is there really a need to celebrate a day when Jesus was born? If humans choose to believe in the existence of God, why would he betray them again? To be faithful but skeptical at the same time...is a strange thing. But the illumination certainly is beautiful.
+[New Year's Day] Happy New Year, Commander. I look forward to working with you again in this upcoming year. Allow me to congratulate you a little, though I have no idea as to what we should celebrate.
+[Valentine's day] Eh? A chocolate? Ah, that's no good! I totally forgot about it...just kidding! Commander, as thanks for all of your support, please take this from me! By the way, that was a most interesting reaction you made there.
+[Tanabata] It really is strange why humans choose to look up at the starry sky. I heard that the source of this culture came from a time when we weren't fully aware of the world. That means, only insects that have tasted their rotten fathers can be reborn...isn't that right, Commander?
+[Phrase] Is that so?
+[Loading] Good morning! Did I miss something?

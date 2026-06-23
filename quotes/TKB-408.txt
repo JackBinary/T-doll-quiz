@@ -1,0 +1,30 @@
+[Acquisition] TKB-408 reporting for duty. Hello, Commander! It’s a pleasure to meet you!
+[Secretary] Why do I have to write reflection reports for my artistic creations? Painting is supposed to be fun! Here, my report. Please forgive me for the mess I made toda... Oh, sorry, this one is for tomorrow... Wait, don’t confiscate it!
+[Secretary (post OATH)] Didn’t you say we’re having sandwiches for breakfast, Commander? I’m hungry... What? It’s my turn to cook today?! Th-Then let’s just have some snacks.
+[OATH] Commander?! W-What a surprise...! I have always known that we have a special bond, and you have confirmed my hunch with your action! So does this mean I’ll have more freedom when it comes to my creative endeavors...? Okay, I can tell from your face that the answer is no.
+[Greeting] There you are, Commander! What? You smell spray paint? Ahahaha, you’re imagining things!
+[T-Doll Produced] Another new companion! The more the merrier!
+[Joining an echelon] Everyone’s here, so why waste time worrying about formation? Let’s just go!
+[Enhancement] Lovely. I’m sure I can come up with an even more impactful design this time!
+[Dummy-linking] Heheh, now we have enough people to host a movie screening!
+[Logistics (start)] What do you want, Commander? I’ll do my best to get it for you!
+[Logistics (end)] Look at our haul this time! It’ll fill several carriages!
+[Autobattle] Just leave this to me!
+[Title] Girls' Frontline!
+[Starting a combat mission] Alright, pull yourselves together and keep your eyes extra peeled! We’re setting off!
+[Starting a battle] Victory is the only way! Advance!
+[Skill activation] Outta my way!
+[Heavily damaged] Heheh, the bullet that can do me in has yet to be created!
+[Retreat] You think I’d give up just like that? Just you wait!
+[MVP] I dedicate this victory to you, Commander!
+[Restoration] Hm, what movie should I watch to kill some time?
+[Attack] Now is our chance! Exterminate the enemy! Show no mercy!
+[Halloween] Today is my time to shine, right? Think about it, you’ll see terrifying monsters in the most unexpected places... Hold on, don’t shoot me down yet, everything is negotiable!
+[Christmas] Oh, an HD remastered collection of my favorite old movies! You sure know me, Commander! Right, since you’re on break anyway, let’s have a movie marathon tonight!
+[New Year's Day] How about a lively celebration? We’re prepare some bread and milk and invite everyone to have some fun! Let me tell you, this is definitely be an unforgettable day, I swear!
+[Valentine's day] Just to make it clear, I guarantee that this chocolate is 100% delicious, so just overlook the strange packaging... I can’t find any other pieces of paper except for my reflection reports!
+[Tanabata] I pray for further improvement in my creative endeavors... Preferably without the Commander making a fuss!
+[Defense] We have burned all our bridges. Everyone, stand your ground!
+[Phrase] Inspiration strikes!
+[Tip] My room is messy...? I have no time for tidying when I’m busy with painting. Can’t be helped!
+[Loading] Will this take long? That’s fine, then I’ll have time to watch a nice video.

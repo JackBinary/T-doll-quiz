@@ -1,0 +1,55 @@
+[Acquisition] Greetings, Commander. I'm Ak 5. From now on, all I have to offer is for use at your discretion, Commander.
+[Secretary] Commander, has my package arrived? Ah, forgive me, looks like I ordered too much.
+[Secretary (post OATH)] Commander, hurry up! If we're late the bargain sales at the supermarket will be over!
+[OATH] Commander! ...This is worth a lot of money, isn't it?! Am I really worth this much? ...It would seem that the Commander is even better at shopping than me!
+[Greeting] Greetings, Commander. What's on your schedule for today?
+[T-Doll Produced] She's finally here, at last.
+[Joining an echelon] Excuse me. Please leave this position to me.
+[Enhancement] I definitely won't disappoint Choco-senpai.
+[Dummy-linking] Big sis m45, even with this much are you able to braid them all?
+[Logistics (start)] Going shopping? Please leave it to me.
+[Logistics (end)] Hmmm, it feels like I forgot to buy something.
+[Autobattle] Roger. Please wait for some good news.
+[Title] Girls' Frontline!
+[Starting a combat mission] Let's bring this victory home!
+[Starting a battle] Enemy! Commencing ambush!
+[Skill activation] Please don't stop me.
+[Heavily damaged] Ah... my clothes are...
+[Retreat] Anymore than this is...!
+[MVP] To reward myself, I'll buy anything I want.
+[Restoration] Choco-senpai, I'm sorry for showing you this appearance...
+[Halloween] That costume is just terrible. I definitely will not wear it, ever.
+[Christmas] A Christmas present... I'm happy to get one for free. But for some reason it's not as exciting compared to when I buy it myself.
+[New Year's Day] There are so many bargain sales in the new year. I can't wait to go around.
+[Valentine's day] Commander, are you able to eat a lot of chocolate? If it's fine with you, would you take mine as well?
+[Tanabata] I want a bigger warehouse. Commander, will my wish be granted?
+[Acquisition] Salutations, Commander. I am Ak5, and from today onwards I will devote my entire being to obeying your commands.
+[Secretary] I've opened up and arranged all the things I bought. Have a look, Commander. Aren't they pretty?
+[Secretary (post OATH)] Commander, Commander, I want to buy this. Do you think it'll look good in the dorms?
+[OATH] Huh? A ring? Thank you! I thought I would never be shown such favor... Yes, I'm deeply honored by it! Thank you, Commander! These flowers are for you!
+[Greeting] Greetings, Commander. What are your plans for today?
+[T-Doll Produced] ...At last, she's here...
+[Joining an echelon] Pardon me, everyone, but please stand where I direct you!
+[Enhancement] I won't...disappoint Miss FF FNC.
+[Dummy-linking] Can Miss m45 help me plait all these braids?
+[Logistics (start)] Are you going shopping? Please, leave it to me!
+[Logistics (end)] Hm... I keep thinking I've forgotten to buy something.
+[Autobattle] Understood. Please await my return.
+[Title] Girls' Frontline!
+[Starting a combat mission] I shall return...bringing victory!
+[Starting a battle] Enemy sighted, prepare to intercept.
+[Skill activation] You're a bad kid!
+[Heavily damaged] Uwah! The flower stand fell...
+[Retreat] If I'd just hung in there a little longer...!
+[MVP] Whew... I'll go buy something to reward myself.
+[Restoration] I'm sorry, I caused problems for everyone...
+[Attack] Situation normal.
+[Halloween] That outfit is utterly scandalous! ...I won't wear it!
+[Christmas] While Christmas gifts are free... They lack the sense of satisfaction you get from buying them yourself.
+[New Year's Day] There are so many sales going on this year... I can't keep up with all of them!
+[Valentine's day] Commander, can you really finish all those chocolates you were given? ...How about selling them to me?
+[Tanabata] If only I had more storage space... Commander, will you grant my wish?
+[Defense] Mind your footing.
+[Phrase] I'll make a note of that.
+[Tip] This is very practical.
+[Loading] I'll be right there.

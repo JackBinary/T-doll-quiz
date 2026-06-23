@@ -1,0 +1,26 @@
+[Acquisition] Pleased to meet you, Commander. Want some chocolate?
+[Introduction] FNC's initial designs focused on operating and performance, but still lost many contests due to various gun failures. After being modified many times, I finally entered production, replaced FAL and sent for export to many other countries. Looks like victory belongs to those who endures.
+[Secretary] Commander,hurry up and give me some dessert, gimme gimme gimmme~!
+[Secretary (post OATH)] Commander let me help out! The earlier you finish work the earlier we can eat cakes together! Remember, let me have the strawberry this time.
+[OATH] Treating me to another meal? Well I guess I can't refuse that! Hmm? What did you say before that? ...What!?! How can you talk about this kind of things on the dinning table, what a sly move, how can I refuse that right now!
+[Greeting] Welcome back! (Noming noise)
+[T-Doll Produced] Commander, I want to eat dessert with the new companion!
+[Joining an echelon] What? Break time isn't over yet is it?
+[Enhancement] Thank you for the treat! (Noming noise)
+[Dummy-linking] Echelon is expanding again, can I have more treats then?
+[Logistics (start)] Ahh? We're leaving now? One more bite!
+[Logistics (end)] I'm back, food taste more delicious at home.
+[Autobattle] Alright, with my tummy filled, I'll give it my best.
+[Title] Girls' Frontline!
+[Starting a combat mission] Full on desserts, it's time to get work done!
+[Starting a battle] We got enemies! Gotta hide the snacks!
+[Skill activation] Fire fire!
+[Heavily damaged] Uuuu... My snacks...
+[Retreat] I think, it's time to return and eat snacks...
+[MVP] For rewards, I want more snacks and desserts!
+[Restoration] Oyy! Fetch me my breakfast, lunch, and dinner!
+[Halloween] (Pronounced very badly) Trick or Treat! Trick or Treat! Trick or Treat!
+[Christmas] Christmas is so good, I get to eat so much good stuff! It's so fun.
+[New Year's Day] It's new year's, so I get to eat a lot, right?
+[Valentine's day] Mr.Commander, I'll share some of my chocolate with you. Let's eat it together!
+[Tanabata] Looks like there will be so many foods in the festival. Commander, bring me there...

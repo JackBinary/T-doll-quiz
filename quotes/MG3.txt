@@ -1,0 +1,75 @@
+[Acquisition] I'm the newly joined MG3. I'll show you a storm-like firepower!
+[Secretary] W-where the hell do you think you're touching?! What if they get bigger?!
+[Secretary (post OATH)] Put more effort into it, Commander, I know you have the potential! Don't give up so easily!
+[OATH] Commander, which part of me do you interested in? Maybe that part huh. Eh, not that one? Great! From now on let's train together! Let's become strong together!
+[Greeting] Ooh! Welcome back!
+[T-Doll Produced] Great! Production complete!
+[Joining an echelon] Alright~! My body's been raring to go!
+[Enhancement] I'm getting fired up!
+[Dummy-linking] My values have increased? Hey, why are those distractions still there?
+[Logistics (start)] Got it, try to keep up.
+[Logistics (end)] We're back. It was pretty far this time.
+[Autobattle] Time to show you all the results of my special training! H-hey, that's not it!
+[Title] Girls' Frontline!
+[Starting a combat mission] O~kay! Let's go!
+[Starting a battle] I'll send them packing.
+[Skill activation] Too slow! Way too slow!
+[Heavily damaged] Ow...I won't forgive you!
+[Retreat] Damn! Fall back!
+[MVP] My values are victorious!
+[Restoration] Haaah...I suppose I'll take a break
+[Halloween] Oh give me a break! I just want to give these kids some candy or something like that...
+[Christmas] YES! Christmas means food! Really delicious food! The tension's rising!
+[New Year's Day] A mission early in the New Year means that tensions are rising!
+[Valentine's day] Are you gonna eat all of that chocolate?!
+[Tanabata] Alright! Time to write my wish! Help me do something about this chest that keeps getting in the way, please!
+[Acquisition] This is MG3, requesting permission to return to unit! I am now ready to strike down the enemy with an iron fist!
+[Secretary] Humans may have fragile bodies, but their makeup is truly marvelous... They can reshape their bodies with just some extra exercise and regain their stoutness with just a few extra meals... Can you teach me this power, Commander?
+[Secretary (post OATH)] All difficulties can be overcome in the face of overwhelming might. That's why I need to keep getting stronger—so I can clear away all obstacles from your path!
+[OATH] Commander, why did you pick me? Ahhhh, forget it, it doesn't matter anyway! From now on, you're going to keep exercising with me so we can grow stronger together!
+[Greeting] Remember to stay in high spirits today as well, Commander.
+[T-Doll Produced] I'll take good care of the newcomers.
+[Joining an echelon] Are we finally moving out? I'll show the enemy a thing or two!
+[Enhancement] Not enough! Nowhere near enough! I need to become stronger!
+[Dummy-linking] Why are there so many of me now...? And why do they all have those annoying things on them?
+[Logistics (start)] Got it, I'm heading out right now!
+[Logistics (end)] I'm back! Man, we went a long way today!
+[Autobattle] Everyone, behold my well-trained body! Hey, not that way!
+[Title] Girls' Frontline!
+[Starting a combat mission] Just wait for my good news!
+[Starting a battle] How long can the enemy hold out this time?
+[Skill activation] Time to taste a real bullet storm!
+[Heavily damaged] The battle won't end just like this!
+[Retreat] I'll just consider this letting the enemy catch their breath...
+[MVP] Crushing the enemy with sheer strength is a valid tactic too.
+[Restoration] Alright, alright... I'll go rest for a bit, then...
+[Attack] Commencing extermination!
+[Defense] Prepare an ambush immediately!
+[Phrase] Tsk, this chest of mine really gets in the way...
+[Tip] That's how it is.
+[Loading] Hold on.
+[Acquisition] This is MG3, requesting permission to join the unit! I am prepared to meet the enemy with an iron fist of pain!
+[Secretary] My body! My body's so small and light! Isn't this the perfect athlete's build? Alright, time for a hundred-meter dash— (pants) Why... How come my power output dropped too?!
+[Secretary (post OATH)] This polywheel cart can only send a bit of ammo right now, but I'm sure that in the future, it'll be able to deliver more construction materials and help many more cities develop!
+[OATH] You, you want to improve this polywheel cart with me? This is great! With your help, I'm sure it'll be even more perfect! Yup! That's our oath sealed... Commander, let's work hard together so it can be more useful!
+[Greeting] Got to be full of energy today, Commander.
+[T-Doll Produced] I'll take good care of the newbies.
+[Joining an echelon] It came to a perfect stop in the right place! Fantastic...!
+[Enhancement] Give me more! I need to become stronger!
+[Dummy-linking] There's so many mes here...? Hey, how come they still have those annoying things on them?
+[Logistics (start)] Got it, I'm right behind you!
+[Logistics (end)] I'm back! I really went a long way this time round!
+[Autobattle] Everyone, behold my finely-honed physique! Hey, not over there!
+[Title] Girls' Frontline!
+[Starting a combat mission] Just wait for my good news!
+[Starting a battle] How long will the enemy last this time?
+[Skill activation] Ammo locked and loaded!
+[Heavily damaged] (Whimper) How should I fix it when it's damaged like this...
+[Retreat] Let's just think of it as letting the enemy catch their breath...
+[MVP] Crushing your opponent with force is also part of the art of war.
+[Restoration] Ah, please help fix my cart too...
+[Attack] Commencing extermination!
+[Defense] Prepare for ambush!
+[Phrase] Cheh, my chest is so annoying...
+[Tip] That's how it is.
+[Loading] Hang on.

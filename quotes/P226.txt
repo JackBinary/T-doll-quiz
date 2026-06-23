@@ -1,0 +1,26 @@
+[Acquisition] You need me? As expected from an elite commander, you really know your stuff. Please look forward to my service.
+[Introduction] P226, this is a name to remember for all the elites. Originally designed to compete against M9 pistols, but due to their cheap price, I unfortunately wasn't a match, but eventually I became the standard gear for the US Special forces. The real Elites and those who knows the truth, will never miss the chance with their fated ones!
+[Secretary] M9 can only fool those country bumpkins, I believe you understand who is the better choice.
+[Secretary (post OATH)] Commander, it's time for us to be alone together right? Don't worry, "Baozi" won't know anything, hehe...
+[OATH] Commander looks like I'm the best match for you after all right? Let me congratulate you for making the choice that you will never regret in your life... Let me give you... The type of happiness reserved only for the Elites! ❤
+[Greeting] An elite needs to manage a tight schedule you know?
+[T-Doll Produced] Who's coming this time, please let me see her.
+[Joining an echelon] This seat is prepared for me.
+[Enhancement] Polishing an elite power is necessary. You really know your stuff, Commander!
+[Dummy-linking] Commander, how greedy of you!
+[Logistics (start)] For a real elite, logistic shouldn't be neglected!
+[Logistics (end)] With this, there is no problem with the equipment right?
+[Autobattle] I'll end this flawlessly!
+[Title] Girls' Frontline!
+[Starting a combat mission] I shall show you the difference between M9 and me!
+[Starting a battle] Baozi, let's go!
+[Skill activation] I shall show you the way of an elite!
+[Heavily damaged] What a poor treatment. Baozi, are you alright?
+[Retreat] An elite should know when to retreat.
+[MVP] This result is a testament of an elite!
+[Restoration] I should get repaired quickly. I don't want to show this state to M9!
+[Halloween] Did you enjoy yourself this evening? Well, it's only natural for an elite like me to be expected everyday.
+[Christmas] Merry Christmas, Commander! Come, let's make a snowman along with Baozi!
+[New Year's Day] Commander, is the mochi ready yet? I can't take it anymore. I'll eat together first with Baozi.
+[Valentine's day] Commander, compared to M9's chocolate, you already know which one can make you happier, don't you?
+[Tanabata] That's just strange. If you really could make your wish come true just by hiding it, then elites like us wouldn't be needed.

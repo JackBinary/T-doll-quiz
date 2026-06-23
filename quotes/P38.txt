@@ -1,0 +1,25 @@
+[Acquisition] This is... the fated encounter!
+[Secretary] How can I get more fans?
+[Secretary (post OATH)] I'll dedicate my secret melodies tonight ! Please look forward to it!
+[OATH] Eh? Becoming the team center, don't make fun of me. This is not commander-like at all! What did you say? Really? W-wait, this is too sudden. Is it fine for me to be by your side?
+[Greeting] I was waiting for you! Tehee~♪
+[T-Doll Produced] Assembling is completed!
+[Joining an echelon] The stage is calling me!
+[Enhancement] I feel like I can stand in the center now!
+[Dummy-linking] Dummy linking ? Isn't it time to go to battle yet?!
+[Logistics (start)] P38, team leader. I'm going!
+[Logistics (end)] P38, is back !... Huh? There is nobody home?
+[Autobattle] Soviet weapons? I don't want flower as a gift. Eh, this is a wrong address!
+[Title] Girls' Frontline!
+[Starting a combat mission] From this point, it is my turn! Right?
+[Starting a battle] Haa... I- It's fine! Just do it like rehearsal!
+[Skill activation] Fire! Shoot them!
+[Heavily damaged] Ehh... I've been kicked off the stage. Buhuuu~
+[Retreat] Awww.. I still lack sufficient practice, it seems...
+[MVP] I probably got more fans for that, right!?
+[Restoration] Buhuuu~ Won't anyone give me a shoulder to cry on?
+[Halloween] Tadaaa! Today I'm transforming into a witch!... Am I cute?
+[Christmas] To be able to celebrate Christmas this year with everyone, I'm sooo happy! Thank you everybody~!
+[New Year's Day] Thank you for always supporting me and become my fan. I'm counting on you again this year.
+[Valentine's day] A pop-idol is prohibited from having a romantic relationship. So, please settle for this obligatory chocolate, kyaaaha~♪
+[Tanabata] Everyone, thank you for coming to my Tanabata live performance. It makes me reeeally happy! Let's meet again for next year's Tanabata!

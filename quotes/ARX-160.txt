@@ -1,0 +1,26 @@
+[Acquisition] Ciao.. I'm ARX-160, a next generation weapon... Emmm, I don't look like one? Close enough though right?
+[Introduction] To replace Ms AR-70 from service, an assault rifle based on her was developed called ARX-160, the latter is both lighter and more ergonomic, swiftly exported to other countries' markets. The original prototypes were to cooperate with the military projects, it had quite the sci-fi looks to it in the shapes. But all of that was changed after project finalized. Ahh... Can't be chasing the popular fashions...
+[Secretary] Different types of magazines... Commander, which one is better?
+[Secretary (post OATH)] Commander are you tired today? Come lay down with me. Don't worry, you can be lazy with me together sometimes.
+[OATH] Commander, will you really be together with me? Hmm, nothing... I will be less lazy and work harder from now, until your satisfactions, please watch me.
+[Greeting] Hurry up and close the door... I'm all dried up.
+[T-Doll Produced] A new comrade? Hope she is a more mature type...
+[Joining an echelon] I've got some combat experience, not a problem!
+[Enhancement] I'm even stronger now, thanks to them.
+[Dummy-linking] Alright, another companion with hearts aligned.
+[Logistics (start)] Aww... Me again? Well, here I go.
+[Logistics (end)] Finally back... That work was such a hassle...
+[Autobattle] I came to support as promised, be grateful to me ok?
+[Title] Girls' Frontline!
+[Starting a combat mission] What a hassle... Lets end it quickly and go back to resting.
+[Starting a battle] Target found! You won't get away!
+[Skill activation] Watch this!
+[Heavily damaged] Wuuu... These enemies are strong...
+[Retreat] Don't force it, back away slowly! (Sigh)... Damn it...
+[MVP] Is this the expected performance of a weapon that entered live combat?
+[Restoration] Wuuu... I still got hurt in the end... So unlucky...
+[Halloween] Halloween is here, how can we prank the Commander this time...? Ahh, I know!
+[Christmas] Merry Christmas! Everyone let's have a dinner together. And then, I'll just sleep.
+[New Year's Day] Happy new year, Commander. As we realized it, it's already new year. From now on too, I'll counting on you.
+[Valentine's day] i wonder what present shall i give... Ehh? I-- It's nothing.
+[Tanabata] I hope there are easier missions. ...Uhh, nothing. I'm kidding.

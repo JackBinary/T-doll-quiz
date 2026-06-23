@@ -1,0 +1,24 @@
+[Introduction] (As above)
+[Secretary] Pardon me, Commander. But talking during a mission is just... But, if you want to talk about wild boars, I'll be up for it anytime!
+[Secretary (post OATH)] What a nice weather, Commander. The air feels nice too, a perfect day for observing the wildlife! Umm... if you're fine with it... we can go together...
+[OATH] Can I really receive this? I heard once you install this, you can't take this off ever. ...Understood, thank you for putting your trust in me! Right now and here, I hereby declare you as the honorary member of the wild boar conservation organization.
+[Greeting] Welcome back, Commander. Today's weather is perfect. The air is nice too, a good time for humans to go out.
+[T-Doll Produced] I wonder what kind of animal the new recruit like?
+[Joining an echelon] I'll carry out the mission as you command.
+[Enhancement] I definitely won't waste this expenses!
+[Dummy-linking] I got another member of wild boar conservation organization!
+[Logistics (start)] Well then, I'm off to procure the supplies! Please take care of your body when I'm away!
+[Logistics (end)] I've returned. I brought back a lot of supplies, image materials, and video recordings.
+[Autobattle] Off I go!
+[Title] Girls' Frontline!
+[Starting a combat mission] We've assembled, ready to go anytime!
+[Starting a battle] Enemy signal read, into the combat formation!
+[Skill activation] Focus... focus...
+[Heavily damaged] I won't admit... this defeat...
+[Retreat] Withdraw! Withdraw! Please don't force yourself to fight!
+[MVP] Good! Let's head back!
+[Restoration] Please don't erase the data on my private folder.
+[Halloween] Trick or Treat! Ah... umm... it's me, Commander! Not a ghost of wild boar!
+[Christmas] Commander, Merry Christmas. My wish, you ask? Those wild boars... Ah! I wish they won't be captured!
+[New Year's Day] Happy New Year. I made greeting card, please take it. Then, I'll go back to the mission.
+[Valentine's day] Commander, here. Wild boar-shaped chocolate cookies that I designed! I put too much attention to the shape... but I'm not sure how it tastes like...

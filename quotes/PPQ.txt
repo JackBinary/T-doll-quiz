@@ -1,0 +1,30 @@
+[Acquisition] Hello, Commander. This is the new recruit PPQ reporting. You want me to introduce myself? Er... I'll prove my personality to you with my tactics.
+[Secretary] You want to know what kind of flavors I like? Anything made with 99.95% purity sodium chloride or higher will do. If you don't have any, you can use the can I have on hand.
+[Secretary (post OATH)] Need some extra seasoning? I've got plenty of sodium chloride here.
+[OATH] I've always thought you viewed me like the other Dolls... Am I actually such a special person to you? But... I haven't thought about how to handle this relationship. Should I refuse you? No... I want to try and change. Commander, I want to try and express my feelings in a unique way. You'll adapt to it along with me, right?
+[Greeting] ...Hello. Are there new orders?
+[T-Doll Produced] Congratulations, Griffin has gotten stronger as an organization.
+[Joining an echelon] Inspection complete, I'm topped off on ammo!
+[Enhancement] The change in strength is very obvious... Thank you very much, Commander.
+[Dummy-linking] The group becomes stronger when more people join it.
+[Logistics (start)] I won't disappoint you on this operation.
+[Logistics (end)] The outcome was as expected.
+[Autobattle] I will carry out your plan without deviation.
+[Title] Girls' Frontline!
+[Starting a combat mission] I'll show you true power!
+[Starting a battle] I hope this enemy will live up to my training.
+[Skill activation] Let's go!
+[Heavily damaged] ...I'm a long way off from being able to punch through a steel plate with my bare hands...
+[Retreat] According to my calculations, it would be wise to retreat now.
+[MVP] Just as planned.
+[Restoration] I hope my new parts will last longer.
+[Attack] Come, the time of scrapping is at hand!
+[Halloween] Actually, adding a little salt when making candy actually makes it taste sweeter. Naturally, said salt content shouldn't exceed 0.2%, otherwise putting too much will make it taste salty.
+[Christmas] Does this event refer to how you dress up as Santa and give everyone gifts? In that case, I've got a technical manual for you — "3000 Ways To Climb A Chimney".
+[New Year's Day] Ah, the new year... I think my rollout warranty has expired... This day is a reminder to go in for servicing. After all, a new year ought to begin with bodily maintenance.
+[Valentine's day] Does this... festival involve me too? No, I'm not doubting you, but wouldn't it be very lonely if all relationships on this world were only between two people?
+[Tanabata] I've been thinking about it over and over again, but a bridge made of magpies just doesn't make sense. There's a major issue with its load-bearing capacity... Huh? Did I get it wrong?
+[Defense] The situation now favors a defense.
+[Phrase] Hmph.
+[Tip] Is something the matter? Need any help?
+[Loading] ...If you're bored, I suggest closing your eyes and resting.

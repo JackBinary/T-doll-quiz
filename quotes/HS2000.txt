@@ -1,0 +1,25 @@
+[Acquisition] So, this is the Commander's heart rate... Mm, I'll remember it. I will appreciate any advice you can give me.
+[Secretary] I like the sound of heartbeats... I envy those things humans have that we dolls don't.
+[Secretary (post OATH)] When the Commander is working, when you're happy, when you're sleeping... I remember the way your heart beats in each situation, but my favorite is when you're happy.
+[OATH] Commander, your heart rate is abnormally fast... Since the human heart does not lie, you're serious, aren't you? Strange... I feel like... my own heart "beat" is racing.....
+[Greeting] Commander, I've been a good girl.
+[T-Doll Produced] Ah, you're the new recruit. Nice to meet you, I'm HS2000. We'll be together from now on.
+[Joining an echelon] I'll take care of my own self, don't worry about me.
+[Enhancement] Yes, thank you. Commander, I'll work harder
+[Dummy-linking] Everyone, be a good girl.
+[Logistics (start)] See you later, Commander.
+[Logistics (end)] I brought back supplies. Commander, please receive it.
+[Autobattle] Our gain report... please look forward to it.
+[Title] Girls' Frontline!
+[Starting a combat mission] I want to be everyone's helping hand.
+[Starting a battle] The people over there... look like not the type that would listen to talks.
+[Skill activation] I'll protect everyone!
+[Heavily damaged] This is bad... I should treat this quickly...
+[Retreat] Looks like I can't stay here any longer...
+[MVP] There's no use in worrying about it. Please fall quietly.
+[Restoration] In treating the wounds, there's no difference between human and doll.
+[Halloween] Everyone... you're not looking well. Is that some kind of illness? Should I examine you?
+[Christmas] Commander, Merry Christmas. Please mind your portion so it won't hurt your stomach. Take care of yourself.
+[New Year's Day] Commander, how about taking health checkup for the beginning of the year? I won't miss any minor stuff. Please take care of your body.
+[Valentine's day] This heart-shaped chocolate is interesting. So humans use this shape to represent their hearts.
+[Tanabata] Wish came from bottom of the heart. Human's came from their heart, and doll's came from their neural cloud. Both should wish for happiness

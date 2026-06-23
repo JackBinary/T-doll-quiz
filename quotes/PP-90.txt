@@ -1,0 +1,26 @@
+[Acquisition] PP-90, at your service. Looking forward to your first order Commander.
+[Introduction] PP-90, KBP's attempt at creating a folding weapon with reference to Ares' FMG, can complete the transformation within five seconds and start firing. Very easy for disguise and carrying, but sacrificed a lot of performance and control. After all... We gotta give up something right? Anyways, be counting on you now, my Commander.
+[Secretary] Got something for me today? I look forward to it.
+[Secretary (post OATH)] Commander teach me how to make mid night snacks again. Don't worry, I'm in a super good mood right now, I promise it won't explode again!
+[OATH] Oh my... Commander, is this for me? No wonder you've been so close to me recently... Oh, of course I'm happy, this is the happiest moment of my life! You placed your trust in me like this, I must gather courage and face myself too in the future.
+[Greeting] Good morning Commander. Keep smiling!
+[T-Doll Produced] Commander, new comrade reporting in.
+[Joining an echelon] PP90, entering formation!
+[Enhancement] For me? Woo, I'm really happy!
+[Dummy-linking] Hehehe, I won't lose again.
+[Logistics (start)] Heh, will be a fun mission right?
+[Logistics (end)] I'm back, just a bit tired.
+[Autobattle] Don't worry, my conditions are super normal.
+[Title] Girls' Frontline!
+[Starting a combat mission] Slightly nervous, but I can do it.
+[Starting a battle] Started already?!
+[Skill activation] I will get angry now.
+[Heavily damaged] Can't hold anymore...
+[Retreat] Ehh... Messed that one up didn't I.
+[MVP] Hehe, performing like this then I won't have a problem.
+[Restoration] Commander will you encourage me a little...?
+[Halloween] Commander, look! I got a ton of sweets! Wanna share some?
+[Christmas] Hey, don't go putting star ornaments in my hair! I'm not a tree, you know! I'll get angry!
+[New Year's Day] Let's continue to do our best in the new year. What is your goal for this year?
+[Valentine's day] Here Commander! Please accept it! Do hurry and eat it before it melts.
+[Tanabata] If you hang this, then your wish will come true. I hope something good happens to you real soon.

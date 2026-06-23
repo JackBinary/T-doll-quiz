@@ -1,0 +1,25 @@
+[Acquisition] Are you the one leading this place? …You don’t look like it at all. Take out whatever majesty you have and display it. Do not undermine the identity of a Commander.
+[Secretary] Raise your head! Keep your chest up straight! Look straight ahead! Do not laugh! ...Very good, Commander. Let’s keep this up for the entirety of today. I’ll be very pleased.
+[Secretary (post OATH)] Commander, you’re not going to forget to help me to water the flowers today, right? …You’d better make me happy today, otherwise we won’t have another date.
+[OATH] Commander, us T-Dolls were given ‘masks’ to exist. The joys, sorrows and other emotions that we display to others are predetermined. However, you saw past a certain girl’s ‘mask’, seeing her true self… Commander, I’d like to listen to you talk about the story about how you saw past this girl’s ‘mask’.
+[Greeting] I'm looking forward to your action, Commander.
+[T-Doll Produced] Even if it's a new recruit, I'll train her strictly.
+[Joining an echelon] Everyone, get in position!
+[Enhancement] Battlefield doesn't need just a strong soldier.
+[Dummy-linking] I don't need to be distinguished. As long as you acknowledge that I am real, then that is all I need.
+[Logistics (start)] Don't lose focus when I'm not around, Commander.
+[Logistics (end)] I told them that offered to lend them their shoulder, they sure make light of me.
+[Autobattle] This is not an easy mission. Negligence is forbidden.
+[Title] Girls' Frontline!
+[Starting a combat mission] Failure won't be forgiven!
+[Starting a battle] Your mask... let's take it off.
+[Skill activation] Proceed as I say!
+[Heavily damaged] Is this your everything.
+[Retreat] Someday I will definitely return this debt!
+[MVP] We won. We will keep on winning. We will struggle on to the future.
+[Restoration] Keep this a secret from Negev. If she finds out, she will be worried.
+[Halloween] Hand me the sweets! If you don't comply, there will be no mercy for you! No, that's not how I should ask...
+[Christmas] For me to receive such amount of gift...that's unexpected. Tell me that this is not a prank so I must do the same next time?!
+[New Year's Day] Are you really fine with it? Even though you finally have a break, but you choose to spend it with me. I'm not the type that could relax. Oh dear, you do this to help me relax?
+[Valentine's day] Back then, you are fine with anything when I ask about your preference. But if you say that this one doesn't meet your taste, I won't forgive you.
+[Tanabata] Commander, between self happiness or other's happiness, which one do you think is more wonderful?

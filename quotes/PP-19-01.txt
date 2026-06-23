@@ -1,0 +1,21 @@
+[Acquisition] Destiny or coincidence... How would you describe our meeting here, Commander?
+[Introduction] I'm called PP-19-01 Vityaz, you can just call me "Warrior". Designed based on AKS-74u, converted Bizon's magazine to a more conventional magazine feed system. Don't be put off by the names like "Bizon" or "Warrior", I'm actually going for the cute route.
+[Secretary] So many vocabularies in this old dictionary are no longer in use, can't even find them in the Android data base.
+[Secretary (post OATH)] The old love novels are so romantic... Would you let me experience that first hands Commander?
+[OATH] Commander... I know, this is a traditional ceremony humans practices since a long time ago. But it does feel more embarrassing to experience this in person than reading it from the books... I guess I will have you redefine the phrase "Happiness" in my dictory then...❤
+[Greeting] Oh, you're back already Commander?
+[T-Doll Produced] You are... Wait, let me check the index again!
+[Joining an echelon] I've decided on a good strategy!
+[Enhancement] Can humans be powered up like this too?
+[Dummy-linking] That dictionary was a fake? Right...
+[Logistics (start)] Read a book while you wait Commander, I will be back shortly
+[Logistics (end)] Kept you waiting! I found a really good book!
+[Autobattle] Let's hurry up and get it done this time too.
+[Title] Girls' Frontline!
+[Starting a combat mission] Can I bring books out door with me, Commander?
+[Starting a battle] We'll deal with these guys first.
+[Skill activation] I'm full of energy right now!
+[Heavily damaged] Uuuu, looks like now isn't the time to read books.
+[Retreat] Uuuu, looks like the phrase "Failure" does exist in my dictionary.
+[MVP] The phrase "Triumphant" was made just for us!
+[Restoration] Back then, if the machines weren't working, they can be fixed by slamming it a few times.

@@ -1,0 +1,30 @@
+[Acquisition] Designation APC556, former personal bodyguard. Feel free to call me "Mia" if that's more convenient for you.
+[Secretary] Sorry, but a non-disclosure act forbids me from divulging any information regarding my former employers. But I can tell you that out of all the people I have worked for, you have the most legendary stories.
+[Secretary (post OATH)] As a bodyguard, the scariest thing isn't an ambush, but sentiment for your charge. Once your mind gets distracted, your vision, your breathing, and even the timing of your attack are all jumbled up.
+[OATH] You talk about protecting me when I'm your bodyguard... It sounds nonsensical but at the same time... it makes me kinda happy... I have always been the one protecting others, this is the first time someone has told me they'd protect me.
+[Greeting] Boss, where should we drive to today?
+[T-Doll Produced] Suspicious figures approaching. Commencing security checks...
+[Joining an echelon] Pack your things and get in.
+[Enhancement] A wise investment.
+[Dummy-linking] Hm, now we'll have to fight over who gets to drive...
+[Logistics (start)] Boss, have I done something that displeased you? If not, why are you sending me out on an exploration with these shedding pets?
+[Logistics (end)] Vacuum cleaner! I need a vacuum cleaner! All this hair sticking to my black clothes are driving me nuts!
+[Autobattle] Understood, Boss. We'll stick to the most familiar routine for today's show.
+[Title] Girls' Frontline!
+[Starting a combat mission] Remember, bullets don't have eyes.
+[Starting a battle] Look at their terrible dress sense. You can tell they're just small fries.
+[Skill activation] People over there, put your hands up!
+[Heavily damaged] I'll be fine... Just give me a second...
+[Retreat] One's performance is soulless until they have tasted failure.
+[MVP] Another perfect show.
+[Restoration] Careful with these rough machines! Don't mess up my hairdo...
+[Attack] Seize the opportunity and cut through their formation!
+[Halloween] It feels a bit like all hell has broken loose at the base today. I love it, Boss! ♪ Compared to the Dolls' usual reticence, I much prefer it when they let their hair down like this.
+[Christmas] "All I want for Christmases is..." ♪ Commander! Why are you eavesdropping on my singing?! What is it that I want...? That's a commercial secret.
+[New Year's Day] Happy New Year, Boss. I don't need a red packet, you can save that for the needy Dolls. I'm here to offer you a New Year drive.
+[Valentine's day] You're pretty popular, Boss. Looks like I won't have to go to the trouble of getting you chocolate.
+[Tanabata] Boss, are you looking for the magpie bridge in the legends? I'm wondering what it'd feel like to speed along it...
+[Defense] Protect yourselves!
+[Phrase] No time to explain. Get in the car.
+[Tip] Still working overtime, Boss? You've been wearing the same clothes for two days now, haven't you...? I'm begging you, would you please change into the fresh clothes that I've brought you?
+[Loading] Stop rushing me, Boss. I'm as impatient as you.

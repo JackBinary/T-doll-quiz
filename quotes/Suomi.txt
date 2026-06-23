@@ -1,0 +1,51 @@
+[Acquisition] Suomi Type 1931 reporting. Commander... Please allow me to carry on my duties under your commands!
+[Introduction] During the invasion of my homeland, I stepped into the fray as the most spectacular assault weapon, with the superior tactics of our soldiers, we dealt a decisive blow to the invaders. The high production cost is the source of my frustrations, but this reflects upon the attentions paid to details from our people. I will to be their pride and joy.
+[Secretary] Ah! Really, don't scare me like that!
+[Secretary (post OATH)] Commander how was the last concert? I enjoyed it, maybe we will go together again next time, just the two of us!
+[OATH] Has this day finally arrived? I thank you for your company Commander, looks like my duty has finally been fulfilled...Ahh, let me play some music to celebrate this moment! What? No need for it?
+[Greeting] Commander, I've tidied the room. You may start the work whenever.
+[T-Doll Produced] New comrade? They're a bit rude, like usual.
+[Joining an echelon] Umm, everyone, you don't have to get this close...
+[Enhancement] Please continue to adjust difficulties, I wish to become even stronger.
+[Dummy-linking] There will be no more problems with one more person!
+[Logistics (start)] Let us perform our duties, depart now.
+[Logistics (end)] All done, everyone is safe.
+[Autobattle] Rules are meant to be broken!
+[Title] Girls' Frontline!
+[Starting a combat mission] I'll bring back victory, even on my own.
+[Starting a battle] Enemy contact, let's defeat them.
+[Skill activation] I won't back down, not even a single step.
+[Heavily damaged] No I can't fall here, I still have duties.
+[Retreat] I'm... Disappearing now? But this isn't the end right?
+[MVP] I did it? Yes! I just made history.
+[Restoration] Ehh, Can I have a room with sauna?
+[Halloween] I'll be up on the stage and perform tonight. Let's hear some amazing musics from my hometown!
+[Christmas] Merry Christmas, commander..... are you satisfied with my costume tonight ? As the first one who's going to welcome Santa, I must dress myself up nicely.
+[New Year's Day] Commander, this year as well we must always moving forward to attain the great victory.
+[Valentine's day] Commander, here's my chocolate. Please try to compare it carefully with other girls' chocolate.
+[Tanabata] My wish you asked? Being with you is already enough.
+[Acquisition] Commander... I've got a lot to complain to you about. I suffered quite a bit thanks to that "solution" of yours. In exchange, I want you to go to a concert with me, okay?
+[Secretary] Prejudices aside, Mosin-Nagant really is an outstanding squad leader. The rest of those Soviet bears have their own strengths too, and getting along with them isn't difficult either... It's just that Papasha really is annoying.
+[Secretary (post OATH)] Everyone has different interests; I'm fully aware of that. That's why I won't force you to listen to music you don't enjoy. But at the very least, please let me cuddle up to you when I do. Don't worry, I'll be using earphones.
+[OATH] Has this day come at last? Thank you for your company, Commander. My mission is finally complete... Ah, why don't I play some music to celebrate? Eh? I don't need to?
+[Greeting] Good morning, Commander... No, I'm not drinking first thing in the morning! This is not for drinking!
+[T-Doll Produced] I'm the senior... so I need to lead them well.
+[Joining an echelon] Is Papasha there? ...No, I'm not specially looking out for her or anything.
+[Enhancement] This time, those Soviet bears will have nothing to say...!
+[Dummy-linking] Mm, another person is fine.
+[Logistics (start)] Time to move out for the sake of the mission.
+[Logistics (end)] All's well that ends well.
+[Autobattle] Rules are made to be broken!
+[Title] Girls' Frontline!
+[Starting a combat mission] Suomi-konepistooli m/31, ready to engage!
+[Starting a battle] I knew you were there from the beginning. It's time to see who's better!
+[Skill activation] This is one stiff drink.
+[Heavily damaged] Even though... I tried so hard...
+[Retreat] Let's pull back for now... We still have room to...
+[MVP] It's only to be expected, right?
+[Restoration] Could I have... a room with a sauna?
+[Attack] Get a load of this...!
+[Defense] Don't fire wildly!
+[Phrase] It is an honor.
+[Tip] Of course I'd know about something like this.
+[Loading] Calm down and let's go.

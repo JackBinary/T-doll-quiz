@@ -1,0 +1,26 @@
+[Acquisition] PSM pistol, reporting for duty! Um...are you perhaps shorthanded, Commander?
+[Introduction] It's a PSM small-caliber pistol. First use ... Focused on the demands of the commandos ... Well, maybe I will. Originally, I wanted a size that I could carry in my pocket, but because the loss of fire was so great, I started to wonder about my values. Well, do humans like to love this word of mouth?
+[Secretary] Commander, is there anything that I can do?
+[Secretary (post OATH)] Will I be the Echelon leader again next time? ...Ah, I am honored. My present self will never cower anymore.
+[OATH] I was brought out of the darkness and given the courage to stand on the battlefield. This was all thanks to you, Commander. Now, it's time for me to repay you.
+[Greeting] Хорошо, commander! Can I help you with anything? ... Absent?
+[T-Doll Produced] New friends ... Should I stay alone with two of you, commander?
+[Joining an echelon] Can I really help?
+[Enhancement] Is this power ... really good?
+[Dummy-linking] Is it my ... alternate? Спасибо! Seems useful.
+[Logistics (start)] Commander, this time me?
+[Logistics (end)] Commander, I'm back!
+[Autobattle] I can help everyone!
+[Title] Girls' Frontline!
+[Starting a combat mission] Is it kick-off? I'll try!
+[Starting a battle] Enemy discovered! Everyone, please!
+[Skill activation] At this distance, I can, something, too!
+[Heavily damaged] Ouch, it hurts! I wonder if you noticed ...
+[Retreat] I'm sorry, commander ... I can't surrender to the enemy ...
+[MVP] This is everyone's hand! Separately, I am nothing ...
+[Restoration] I'm sorry, commander ... Well, good night ...
+[Halloween] I've been hiding all the time ... I'm not very good at pranks...
+[Christmas] Merry Christmas, commander! Can you relax with me? I also like being with the commander.
+[New Year's Day] Happy New Year, Commander! This year, I will do my best to make myself more confident, so I hope the commander will also believe in me.
+[Valentine's day] Commander, if you don't like it ... can you receive it? I won't force you.
+[Tanabata] Will it really come true ... my wish. Get stronger. I want to protect everyone!

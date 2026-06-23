@@ -1,0 +1,30 @@
+[Acquisition] Hi, Boss! I’m the new staff, QSB-91! I’m a multi-purpose Doll who knows a bit of everything! You can call me by my nickname, Multi!
+[Secretary] Feeling unhappy, Boss? Here, look at my silly face! Huh, still sulking? Then let me perform my special trick – opening a bottle of wine while doing a handstand! Th-That didn’t work either? Looks like I’ll just have to beat up the culprit...
+[Secretary (post OATH)] Don’t look at me like that, Boss! I said I’d upgrade your service, and I will deliver! This pumpkin feast is made from pumpkins that I grew myself...
+[OATH] Boss, are you giving this to me instead of paying my wages?  Huh? No? You gave me something so valuable out of the blue... Guess I’ll have to upgrade your service package! ♪
+[Greeting] Hel-loooo, Boss! Multi, at your service today! I’m full of energy, as always! ♪
+[T-Doll Produced] Boss, induction for the new recruit is complete!
+[Joining an echelon] C’mon! Let us fight for Griffin’s tomorrow!
+[Enhancement] This warm and fuzzy feeling...reminds me of the time I took sneaky sips of rice wine at the restaurant!
+[Dummy-linking] Yippee! One more Multi, even better service!
+[Logistics (start)] I’ll have to be away for so long? Remember to tend to my vegetables for me, Boss...
+[Logistics (end)] Boss, I’m back! Come and see what I’ve picked up along the way!
+[Autobattle] Just leave it to your good old Multi!
+[Title] Girls' Frontline!
+[Starting a combat mission] For our year-end bonus, charge!
+[Starting a battle] So you’re the hecklers trying to make trouble for my boss?!
+[Skill activation] Let me show you what I’ve got!
+[Heavily damaged] (Sobs) Help, Boss!
+[Retreat] Dammit... The title of Star Employee eludes me again!
+[MVP] Woohoo! We’re yet another step closer to our KPI this month!
+[Restoration] Be gentle with me...
+[Attack] Not a single one of you is getting away!
+[Halloween] Heheh, pumpkins are left all over the place! What a glorious festival! Who are you? Why do you keep staring at me? Gr G36! I’m so sorry! My bad... (Sobs)
+[Christmas] Hush... Don’t tell anyone I’m here, Boss! The drunkards are having a party tonight. If they find me, they’ll bound me to the Christmas tree and use me as a bottle opener!
+[New Year's Day] Hello, Boss! I’m here on my New Year visit! I wish you success in all your endeavors in the coming ye— What?! You’ve run out of red packets?!
+[Valentine's day] You’ve received so much chocolate! That’s the Boss for you! But surely you can’t finish all that, right? Let me sort that out for you!
+[Tanabata] Beer and edamame are a must on a cool and breezy night! Wanna join us, Boss?
+[Defense] This is a trap to lure the enemy in!
+[Phrase] Multi! As in multi-purpose!
+[Tip] Why do you keep staring at my hair buns? Have you discovered where I hide my bottle opener...? Hush! This will be our secret...
+[Loading] Be patient, Boss. It’ll be ready soon! ♪

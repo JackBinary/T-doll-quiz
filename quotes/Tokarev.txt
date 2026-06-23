@@ -1,0 +1,26 @@
+[Acquisition] Ah. commander. I'll be under your care.
+[Introduction] In order to succeed Miss Nagant to complete the combat mission, TT-33 was developed by Comrade Tokarev and became a self-defense weapon for the military. In the future Patriotic War, I was honored to be a comrade in arms of the officers and soldiers, and have witnessed countless sacrifice and victory ... Thank you for giving me the opportunity, I will continue to protect everyone.
+[Secretary] Commander, can I speak to you for a second? If you are a so-called gentleman then you can't go around touching people like that.
+[Secretary (post OATH)] I'm not leaving until you go to bed. I'm going to make sure that I take good care of you, because after all, we made vows to each other.
+[OATH] Huh, Commander, what are you doing here? I can handle it here by myself... Huh? Pardon? "Business" between two people? I don't really get what you mean, but you'll show me, right?
+[Greeting] Commander. May a nice day come upon us.
+[T-Doll Produced] Crafting is complete. A new team member... Who could it be ?
+[Joining an echelon] Are you fine with me ?
+[Enhancement] It seems perfect for today. Little by little isn't it?
+[Dummy-linking] Dummy-linking isn't it? Then, Commander, please make me happy.
+[Logistics (start)] до свидания。 See you~ ! Commander, don't worry.
+[Logistics (end)] хорошо！ Commander, did you do well too ?
+[Autobattle] It'll be my turn to protect everybody !
+[Title] Girls' Frontline!
+[Starting a combat mission] Tokarev TT-33 Handgun, advancing.
+[Starting a battle] Those are enemy troops. Open your eyes well and once you get a good angle, shoot.
+[Skill activation] Safety. Released!
+[Heavily damaged] Kyaa~ ! It- ... It hurts !
+[Retreat] I'm not strong enough. I'm sorry.
+[MVP] I won for Commander !
+[Restoration] I'm sorry. I am... only causing you trouble, aren't it ? I'll be sure to repay you.
+[Halloween] Monsters don't scare me...kyaah! Commander...is it okay... if I stay close to you for today?
+[Christmas] It'll be Christmas soon, Commander. I brought some cookies. Here, say "Aaah"...
+[New Year's Day] Commander, I came back to sleep. Yaawnn~ Let me rest a little, please. Sorry, I ended up using your bed.
+[Valentine's day] Commander, today is... Please take this! It's nothing fancy, but... I hope you'll accept it. Haaah, thank goodness! I'm so happy!
+[Tanabata] Is it the day when we make a wish to the stars? I will pass, because my wish has been granted.

@@ -1,0 +1,49 @@
+[Acquisition] Hello, T-5000 here. If your expectations were high, then please forget it.
+[Introduction] ORSIS Company's first product T-5000, Developed with the pinnacle technology, given my supreme performance... But being this popular makes me a little uneasy at times, all these fame, someone else can have it.
+[Secretary] Maybe this hair style, is a bit too eye-catching, for a sniper...
+[Secretary (post OATH)] Commander I've always meant to ask, that signed "Masked Red Soul" poster in your room... Wait, could it be...?
+[OATH] Commander I've been trying my best to avoid your attentions... But no matter what happened, you've always kept an eye on me in secret... I'm... I'm starting to like that expression of yours...❤
+[Greeting] I've left the documents at their usual place. Is there anything else?
+[T-Doll Produced] Hey there new girl...huh? Sign? S-sorry, you've got the wrong person.
+[Joining an echelon] I'll be relying on your support, everyone.
+[Enhancement] Does it also increase my presence?
+[Dummy-linking] Another person...doesn't that make us more noticeble?!
+[Logistics (start)] Is it a support request? Leave it to me.
+[Logistics (end)] Mission complete. Commander, shall we go again?
+[Autobattle] I don't have a dream, but I can protect the dreams of others.
+[Title] Girls' Frontline!
+[Starting a combat mission] Victory will be ours.
+[Starting a battle] Let's respond calmly.
+[Skill activation] Here I go!
+[Heavily damaged] My body is falling apart...
+[Retreat] If fighting is a sin, then let me carry it.
+[MVP] I will fight against fate, and I will win!
+[Restoration] I didn't want to stand out, but I ended up being the laughingstock anyway...
+[Halloween] Regarding the party, is there anything you would like for me to be in charge of? Huh?! Did you already add my name to the costume parade?! Oh no...
+[Christmas] W-wait a minute everyone, Santa is over there! I don't have any gifts to hand out! Please stop chasing after me!
+[New Year's Day] The Burning Fever New Year Special will be airing today! Wanna watch it with me, Commander?!
+[Valentine's day] Will my chocolate stand out? Well, this is all I need.
+[Tanabata] I have but one wish. But even so, that wish must be kept a secret even to God.
+[Acquisition] Hello, T-5000 here. If your expectations were high, then please forget it.
+[Introduction] ORSIS Company's first product T-5000, Developed with the pinnacle technology, given my supreme performance... But being this popular makes me a little uneasy at times, all these fame, someone else can have it.
+[Greeting] I've left the documents at their usual place. Is there anything else?
+[T-Doll Produced] Hey there new girl...huh? Sign? S-sorry, you've got the wrong person.
+[Joining an echelon] I'll be relying on your support, everyone.
+[Enhancement] Does it also increase my presence?
+[Dummy-linking] Another person...doesn't that make us more noticeble?!
+[Logistics (start)] Is it a support request? Leave it to me.
+[Logistics (end)] Mission complete. Commander, shall we go again?
+[Autobattle] I don't have a dream, but I can protect the dreams of others.
+[Title] Girls' Frontline!
+[Starting a combat mission] Victory will be ours.
+[Starting a battle] Let's respond calmly.
+[Skill activation] Here I go!
+[Heavily damaged] My body is falling apart...
+[Retreat] If fighting is a sin, then let me carry it.
+[MVP] I will fight against fate, and I will win!
+[Restoration] I didn't want to stand out, but I ended up being the laughingstock anyway...
+[Halloween] Regarding the party, is there anything you would like for me to be in charge of? Huh?! Did you already add my name to the costume parade?! Oh no...
+[Christmas] W-wait a minute everyone, Santa is over there! I don't have any gifts to hand out! Please stop chasing after me!
+[New Year's Day] The Burning Fever New Year Special will be airing today! Wanna watch it with me, Commander?!
+[Valentine's day] Will my chocolate stand out? Well, this is all I need.
+[Tanabata] I have but one wish. But even so, that wish must be kept a secret even to God.

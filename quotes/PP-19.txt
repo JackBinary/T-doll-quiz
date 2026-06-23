@@ -1,0 +1,66 @@
+[Acquisition] PP19 reporting in! Are you the Commander? Please do well to remember me.
+[Introduction] PP19 Bizon SMG, excels in the field of firepower, accuracy, bullet count and balancing. I'm not bragging myself, after all I am an offspring of both AK and SVD, absorbed quite a bit of advantages while continue to have distinctive self features... Yes, this helical magazine, real special right?
+[Secretary] Commander are there any other tasks?
+[Secretary (post OATH)] Commander you overslept your scheduled wake up time again today. If you continue like this I will have to wake you up personally!
+[OATH] What is that expression of yours Commander, you can share with me if anything is on your mind... Ahh?! WHAT! No I mean, what is this all of a sudden! Even though I'm... I mean I still... I accept...
+[Greeting] Morning Commander! What is this? Come on wake yourself up, we're starting the work.
+[T-Doll Produced] A new companion has joined us.
+[Joining an echelon] Alright, it's my turn!
+[Enhancement] Like this? Hmm... Actually feel more powerful now.
+[Dummy-linking] Expanded the echelon eh... Seems like you don't dislike me Commander.
+[Logistics (start)] No problem at all, going now.
+[Logistics (end)] Hmm, that's that done.
+[Autobattle] I won't fall behind even if it's a support mission!
+[Title] Girls' Frontline!
+[Starting a combat mission] Let's get going now, deal with all the troubles!
+[Starting a battle] Finally here!
+[Skill activation] Don't underestimate me!
+[Heavily damaged] Damn it, I'll get you back for this! Commander stop looking at me like that!
+[Retreat] No other way around... Damn you, this isn't over yet!
+[MVP] Of course! Victory means rush full ahead and indulge in joys of battle.
+[Restoration] Right, I understand, I will be more careful next time.
+[Acquisition] PP19 reporting in! Are you the Commander? Please do well to remember me.
+[Introduction] PP19 Bizon SMG, excels in the field of firepower, accuracy, bullet count and balancing. I'm not bragging myself, after all I am an offspring of both AK and SVD, absorbed quite a bit of advantages while continue to have distinctive self features... Yes, this helical magazine, real special right?
+[Secretary] Going into battle like this... maybe the enemies will be too surprised to fight back, it's worth a try!
+[Secretary (post OATH)] Is it because of this body that I've been sleeping in recently?... Commander, can you wake me up tomorrow?
+[OATH] What is that expression of yours Commander, you can share with me if anything is on your mind... Ahh?! WHAT! No I mean, what is this all of a sudden! Even though I'm... I mean I still... I accept...
+[Greeting] Morning Commander! What is this? Come on wake yourself up, we're starting the work.
+[T-Doll Produced] A new companion has joined us.
+[Joining an echelon] Alright, it's my turn!
+[Enhancement] Like this? Hmm... Actually feel more powerful now.
+[Dummy-linking] Expanded the echelon eh... Seems like you don't dislike me Commander.
+[Logistics (start)] No problem at all, going now.
+[Logistics (end)] Hmm, that's that done.
+[Autobattle] I won't fall behind even if it's a support mission!
+[Title] Girls' Frontline!
+[Starting a combat mission] Let's get going now, deal with all the troubles!
+[Starting a battle] Finally here!
+[Skill activation] Don't underestimate me!
+[Heavily damaged] Damn it, I'll get you back for this! Commander stop looking at me like that!
+[Retreat] No other way around... Damn you, this isn't over yet!
+[MVP] Of course! Victory means rush full ahead and indulge in joys of battle.
+[Restoration] Right, I understand, I will be more careful next time.
+[Acquisition] Yo, Commander, I've changed to a new body, how does it look?
+[Secretary] (Pants) It's so hot here... I should be okay if I only take off one piece of clothing, right?
+[Secretary (post OATH)] Commander, you're taking longer and longer to get out of bed! If you don't get up right now I'm going to drag you to the office, sheets and all!
+[Greeting] Morning! If you're still tired, want to do some aerobic exercises?
+[T-Doll Produced] Who is it this time? Is it a familiar face?
+[Joining an echelon] Let's go now! Time for a bull run!
+[Enhancement] I think I can do more delicate things than before!
+[Dummy-linking] Dummy-linking, hm... So you DO like me, don't you, Commander?
+[Logistics (start)] Oh, I'm fine, let's hurry up and move out.
+[Logistics (end)] Humph, I guess you could say it's done.
+[Autobattle] Even if this is just a reinforcement op, I won't fall behind!
+[Title] Girls' Frontline!
+[Starting a combat mission] Run!
+[Starting a battle] Come on, I can hardly wait!
+[Skill activation] Where are you looking?!
+[Heavily damaged] Dammit... Don't think this is over!
+[Retreat] Don't get cocky, next time I'll definitely...
+[MVP] We did it! Turns out using a little bit of strategy when fighting works pretty well.
+[Restoration] Tsk, got it, I'll be more careful next time.
+[Attack] Charge!
+[Defense] Wait!
+[Phrase] Not bad!
+[Tip] I've got something to tell you.
+[Loading] Could you give me a moment?

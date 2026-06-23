@@ -1,0 +1,26 @@
+[Acquisition] Lord Commander, are you the one that I am fated to defend?
+[Introduction] (ditto)
+[Secretary] Lord Commander, do you like my hair? Please take care not to knock off my bad luck deflector when touching it...
+[Secretary (post OATH)] What have I been doing these past few days? A few days ago while looking through some files, I learned that the knights of old were all equestrians. Therefore, I've spent the past few days capturing horses...
+[OATH] Lord Commander, do you truly wish to entrust me with something so weighty? I know that my skills are not yet adequate, and it is taking all my effort to ensure your safety. However, please do not worry. I will protect your heart, even if it costs me my life.
+[Greeting] The base was relatively peaceful while you were away, Lord Commander.
+[T-Doll Produced] Is that a new companion? Let us do our best to protect her!
+[Joining an echelon] I'll be sure to live up to your expectations!
+[Enhancement] I shall bear in mind the favor that the Lord Commander has shown me.
+[Dummy-linking] The power to protect the Lord Commander has grown even stronger!
+[Logistics (start)] Please take care of yourself while I'm away!
+[Logistics (end)] I have returned. Has there been any changes?
+[Autobattle] The bad luck deflector still seems to be okay...
+[Title] Girls' Frontline!
+[Starting a combat mission] In the name of the Lord Commander, advance!
+[Starting a battle] Don't be afraid! I shall be your shield!
+[Skill activation] No matter who it is, I alone shall halt their advance!
+[Heavily damaged] Guh...even so...I...will never give up!
+[Retreat] My bad luck deflector...
+[MVP] This glory belongs to the Lord Commander!
+[Restoration] Ugh...this much pain...is nothing!
+[Halloween] Lord Commander, please hide at once! The base is in utter chaos right now...! I'm not sure how much longer I can hold off...! Anyways, lower your voice and hide!
+[Christmas] Merry Christmas, Lord Commander. Please take this security bag I made for you. Ring this bell, and I'll rush to your side as soon as I can!
+[New Year's Day] Happy New Year, Lord Commander. I shall protect you this year as well!
+[Valentine's day] Lord Commander, please let me check the chocolate first. We cannot guarantee that all doll cooking modules have passed food safety measures.
+[Tanabata] Lord Commander, allow me to accompany you to tonight's astronomical viewing. I'm not going to disturb you. But... if something falls... it's going to hit you hard...

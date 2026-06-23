@@ -1,0 +1,25 @@
+[Acquisition] G17, reporting! Hey...at least smile a little huh?
+[Secretary] Boss, your eyes got a strange gleam in them. Please take them off me for the time being.
+[Secretary (post OATH)] Commander, I learned a new hypnosis trick, want to try it? You'll fall deep asleep, then it'll get really dangerous……
+[OATH] Boss, what a strange expression... huh? Wait a sec! Why is it me? But, I'm kinda glad. Tee-hee, from now on, by Boss's side, I'll get to observe a whole lot more!
+[Greeting] Boss, if this week's schedule seems to be too tough, I can help you?
+[T-Doll Produced] A new ally. I'm looking forward to find out what kinda gal she is!
+[Joining an echelon] Glock 17, ready for war!
+[Enhancement] My intuition has sharpened. You have my gratitude, Boss.
+[Dummy-linking] Don't be nervous. Because everyone is watching.
+[Logistics (start)] Going out. What should I bring?
+[Logistics (end)] It's quiet as usual.
+[Autobattle] It's not too late yet!
+[Title] Girls' Frontline!
+[Starting a combat mission] Glock 17, going out!
+[Starting a battle] Fire!
+[Skill activation] Don't be scared!
+[Heavily damaged] Terrible! Even though I was the best!
+[Retreat] As a result ... It is due to my lack of observation ....
+[MVP] Intuition is enough on battle. Rational intellect? I don't need that.
+[Restoration] Don't observe me!
+[Halloween] It's halloween huh. Let's give a lesson to anyone who dare to prank to you boss.
+[Christmas] Merry Christmas! You look so busy, that's not good. I'll accompany you.
+[New Year's Day] Happy New Year. You look so happy welcoming new year with me. It's written in your face.
+[Valentine's day] Boss, you look like you got a headache. Did you get that much chocolate? If that's the case, I'll help you by eating some ;) .
+[Tanabata] Today you can guess what kind of wish everyone wrote just from looking at their face. Wait, don't look at mine!

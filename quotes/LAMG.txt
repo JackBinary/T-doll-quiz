@@ -1,0 +1,30 @@
+[Acquisition] LAMG has arrived at the destination. So you're to be my next Commander? Please take me back to base.
+[Secretary] Come to think of it, I seem to have joined Griffin way before you did, but all manners of things happened, and I underwent a long repair process... so I'll need some help getting to know Griffin as it is now.
+[Secretary (post OATH)] A few years ago, I escorted a commander named "Anna" to the base. She was amazing, sadly I never saw her again afterwards... So I feel very fortunate that I get to keep serving under your command.
+[OATH] You've got to be joking... I mean, I'm just an ordinary Doll at the Griffin base... I don't understand what it is about me that you appreciate so much, but since you've made up your mind about this... Of course I won't turn you down.
+[Greeting] Commander, would you like a cup of coffee? Maybe with a dash of vodka?
+[T-Doll Produced] A new Doll is reporting for duty. I'll help her through the procedure.
+[Joining an echelon] From now on, we're teammates. Let's do our best together.
+[Enhancement] I can't believe there's such efficient and energy-saving technology these days...
+[Dummy-linking] Excuse me... How do you like your coffee?
+[Logistics (start)] I wonder if we'll come across some sort of mysterious underground winery...
+[Logistics (end)] I found some lovely wine glasses along the way. I'll give them a wash... Hm, I got you one too.
+[Autobattle] Roger, Commander! I will complete my mission even if you're not around.
+[Title] Girls' Frontline!
+[Starting a combat mission] Please leave your backs to me.
+[Starting a battle] Enemies detected ahead. Prepare for battle.
+[Skill activation] Focus fire!
+[Heavily damaged] ...Don't give up! Keep fighting!
+[Retreat] Just a temporary retreat...
+[MVP] Let's have a drink once we get back!
+[Restoration] I just have to close my eyes and wait? Understood.
+[Attack] Charge with me!
+[Halloween] I'm not going anywhere today... No matter where I go, some weirdly-dressed freak would jump out and scare me. I'm heading back for a drink to calm my nerves, want to join me?
+[Christmas] Merry Christmas, Commander. Here's a present to thank you for taking care of me in the past year. Now I'm off to the training ground. I don't think I'll have to worry about getting a place there today.
+[New Year's Day] I sometimes feel like I don't belong here... like I belong in another time... It could be due to my previous neural cloud malfunction. I'm used to spending such occasions on my own. Don't worry about me, Commander.
+[Valentine's day] I'm here to give you chocolate on behalf of a few friends who wish to remain anonymous, Commander. Chocolate from me? I've been busy helping my friends make theirs, so you can think of these as partially mine too!
+[Tanabata] You've also heard the legend, yeah? Cowherd is such a useless man. It's just a heavenly river, no? He could've just swum across to his beloved...
+[Defense] Cover me!
+[Phrase] I need some time to myself.
+[Tip] You want me to say something... all of a sudden? I know you're feeling bored, but I can't really think of anything interesting to say on the spot... Um, what are your plans tomorrow?
+[Loading] Hush, just wait patiently a little longer. It'll be our turn soon.

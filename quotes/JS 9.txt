@@ -1,0 +1,26 @@
+[Acquisition] Commander, this is my first suggestion to you - please make sure the work you give me is within my abilities to accomplish. Thank you.
+[Introduction] (Ditto)
+[Secretary] If you go to sleep early and wake up early, then all your problems will be easily solved.
+[Secretary (post OATH)] Overtime again? Didn't we agree that you would rest earlier? Seriously, you never listen to what I tell you... I-I tried making some snacks, so you should take a short break.
+[OATH] Commander... I-I'm not used to stuff like this... As I thought...there's no way I'm getting out of this, right? Alright, I'll let you have your way just this once... ❤
+[Greeting] If this keeps up, you'll end up working overtime. Do be careful, Commander.
+[T-Doll Produced] Let's give some advice to the newcomer.
+[Joining an echelon] Teamwork relies on everyone's power.
+[Enhancement] Even slight improvements are good. You'll definitely grow stronger if you can learn to harness that power.
+[Dummy-linking] Yes! My work-life balance is perfect!
+[Logistics (start)] Let's start counting. Departing!
+[Logistics (end)] Commander, mission complete. If you need me, I'll be on standby.
+[Autobattle] There are quite a lot of self-sustaining operations available.
+[Title] Girls' Frontline!
+[Starting a combat mission] Remember your training, and there shouldn't be any mistakes.
+[Starting a battle] It's the enemy! Moving to intercept!
+[Skill activation] Alright! Keep your breath steady!
+[Heavily damaged] If this keeps up...then perhaps...
+[Retreat] No good...we can't keep this up!
+[MVP] We may have won, but don't get too used to it. Let's aim even higher next time!
+[Restoration] My apologies, Commander. I know it wasn't intentional, but I still can't get used to it.
+[Halloween] What ghost? How pointless. Why don't you go to bed a little more early? Midnight snacks are bad for you.
+[Christmas] I'm sorry, there is nothing I could do in the kitchen. So I came here to help with decorating the tree.
+[New Year's Day] Commander, one year has passed again. It's time for you to fix your bad habit. Also, stop pulling an all-nighter.
+[Valentine's day] You'll gain weight if you eat too much. But since today is special, please eat in moderation.
+[Tanabata] I wish I could sleep properly, so I could prepare everyone's meal properly. Is that weird? For a lot of people, this is not a wish, isn't it.

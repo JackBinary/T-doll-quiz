@@ -1,0 +1,26 @@
+[Acquisition] RPD reporting in, Commander. It is an honor to fight alongside you.
+[Introduction] The RPD light machine gun designed for sports operations is simple to operate and does not require excessive production conditions. It is a weapon born to meet the needs of war. I used to have an insignificant performance in the defense of the motherland. Now I am honored to meet you. I will work hard for victory.
+[Secretary] It's my honor!
+[Secretary (post OATH)] Are you tired, Commander? Do you want grab to grab a drink somewhere? "You can't carry the weight of the world on your shoulders", that's what you taught me, right?
+[OATH] Commander! I don't... deserve something like this... Surely, there are more deserving girls than me. I see... I never though that I would ever be this loved. Then just this once... I'll accept it! Hehe♪
+[Greeting] Commander, is there any mission today? I'm ready anytime.
+[T-Doll Produced] You're finally here, new comrade!
+[Joining an echelon] Let's go to the battlefield together!
+[Enhancement] I'll definitely return you a favour!
+[Dummy-linking] I can protect everyone even more.
+[Logistics (start)] Alright, let's go!
+[Logistics (end)] Home is where the heart is.
+[Autobattle] It's alright, I'll protect everyone!
+[Title] Girls' Frontline!
+[Starting a combat mission] Depart! For victory!
+[Starting a battle] It's the time for the decisive battle! Eeei!
+[Skill activation] For victory!
+[Heavily damaged] Please don't mind me, keep advancing!
+[Retreat] My apologies, If only I was stronger... No, this is not your fault, Commander. Everything is my...
+[MVP] This victory, I'd like to celebrate it with everyone.
+[Restoration] Doing all these repairs... thank you
+[Halloween] I've prepared lots of candies for tonight. I hope everyone won't lose control.
+[Christmas] Merry Christmas, Commander. I can hear a beautiful song from afar. It reminds me of my hometown.
+[New Year's Day] Commander, Happy New Year. Have I been useful for everyone last year? Ehehe, I'm glad. I'll do my best again this year.
+[Valentine's day] There is something I can do for this kind of festival right? You want chocolate from me?
+[Tanabata] My happiness is when I can make other people happy. This too is my wish.

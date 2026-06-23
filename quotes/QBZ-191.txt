@@ -1,0 +1,30 @@
+[Acquisition] Stepping through this door brought a lot of old memories to mind... But I won't turn back. From now on, I am QBZ-191 of Griffin.
+[Secretary] My favorite part of the base is naturally — the cafeteria! At last, I don't have to start a fire on my own to cook, and all the food they make looks so delicious...
+[Secretary (post OATH)] You keep saying you don't mind not knowing about me, but the truth is, you're really curious about it, aren't you? In that case, I'll give you a little hint: "A stitch in time..."
+[OATH] I thought that the destiny of a Doll like myself was to wander from place to place until I faded away one day... I didn't expect that I would be staying here for such a special reason. Thank you for giving me a place where I can rest at ease, Commander.
+[Greeting] You're here, Commander. Now measuring today's mood index... Just kidding, I don't have such a function.
+[T-Doll Produced] New colleagues? I'll have to tell them about my beacons again...
+[Joining an echelon] I'm glad to be in the same team as all of you. Protecting you is my job.
+[Enhancement] It feels like... how they impart kung fu in those wuxia stories.
+[Dummy-linking] Hm... It seems I've mastered an incredible technique...
+[Logistics (start)] One must prepare many things for a long journey, like instant food, a field cooking kit, backup signal beacons...
+[Logistics (end)] Home at last... Wait a minute, did anyone see the signal beacons on my head?!
+[Autobattle] Battlefield data collected. Ready to move out!
+[Title] Girls' Frontline!
+[Starting a combat mission] Leave your backs to me!
+[Starting a battle] My strength is as the strength of ten because my heart is pure!
+[Skill activation] Bring out your champion!
+[Heavily damaged] Serve right and justice... one last time...
+[Retreat] Fall back, I'll cover you!
+[MVP] This glory is ours!
+[Restoration] Don't worry, this is just like a massage for me.
+[Attack] The situation is good! Begin the attack!
+[Halloween] Commander, there are all manner of ghouls and ghosts at large tonight, so please take my hand and don't let go... I'm scared too, but I'll make sure I protect you!
+[Christmas] This is my gift for you, Commander. Thank you for everything you've done. Mm, I hardly ever say such mushy things, it feels weird...
+[New Year's Day] Happy new year, Commander, and happy new year to you too, girls... What? You want me to play the Nian? Because I've got sockets for horns on my head? Heck no!
+[Valentine's day] The whole base smells of chocolate. No wonder everyone says Valentine's Day is such a sweet occasion...
+[Tanabata] Excuse me, Commander. I'm trying to thread a needle before the moon, and I can't be the maiden with the deftest hands if I don't make it.
+[Defense] Mind your defense!
+[Phrase] I'll cover you!
+[Tip] Are you hungry, Commander? Would you like me to cook for you? Unfortunately, I'm nowhere near as good a cook as Miss G36, and I usually only make instant food...
+[Loading] Let's relax while we're waiting!

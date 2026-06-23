@@ -1,0 +1,10 @@
+[Acquisition] I finally get to meet you, Commander!~ I'm OTs-44, may I stay here with you?
+[Secretary] Are you still busy working, Commander? Isn't it time to relax?
+[Secretary (post OATH)] What game are you playing? Let me playing with you. Just like before, don't forget to reward me when I win!
+[OATH] Ah... such bliss... Who could have thought that it would be me... I might have used up all of my luck... But, it's alright. Even if i lose everything now, as long as you are with me, I'll forever be blessed... Commander...
+[Title] Girls' Frontline!
+[Acquisition] I finally get to meet you, Commander!~ I'm OTs-44, may I stay here with you?
+[Secretary] Commander! Do you want to play with me? Piggy wants to play too!
+[Secretary (post OATH)] Do you want to play a game with me today again, Commander? I'll leave Piggy behind this time, since you always say I'm cheating! If I beat you fair and square, give me a reward, okay?
+[OATH] Ah... happiness came so early for me... I must be the luckiest tactical doll in the world! I'll work my hardest to be of more help, and grow up as fast as I can! When the time comes, whether it's to make red tea or to serve you wine, just leave everything to me!
+[Title] Girls' Frontline!

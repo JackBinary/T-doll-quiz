@@ -1,0 +1,23 @@
+[Acquisition] Emm? Who is here to pick me up? ...one, ...two, Hehe, that's a lot of Commanders~
+[Secretary] Eh? Didn't the Commander just leave? Guess I got the wrong person again~
+[Secretary (post OATH)] As long as I am by your side, commander, I will be drunk even without drinking... Vodka probably isn't as strong as you.
+[OATH] Commander, there's something you probably don't know... Sometimes, my flushed face isn't because I've been drinking. It's just there's someone in my eyes that gets me wasted even faster...
+[Greeting] Commander, won't you have some vodka? You'll feel great!
+[T-Doll Produced] Yooou seem awfully familiar~. Is it just a coincidence?
+[Joining an echelon] Hello, my little enlisted ladies!
+[Enhancement] Ufufu, with only this much...I'm not satisfied yet~
+[Dummy-linking] Did the number of people around here increase again? I can't be mistaken this time, right?
+[Logistics (start)] This'll take a while. Is there enough vodka?
+[Logistics (end)] A miscalculation? Ah sorry~. I can only see one zero~
+[Autobattle] I'll do this my way.
+[Title] Girls' Frontline!
+[Starting a combat mission] Gunpower and alcohol...I wonder which one excites me more~.
+[Starting a battle] I'll go out with the lot of you~.
+[Skill activation] Nyahaha~! Around and around~
+[Heavily damaged] How dare you do that to my vodka...! I'll kill you all!
+[Retreat] Huuuh~? Is it over already?
+[MVP] Woohoo~! Feels like you're flying with all that alcohol in your body~!
+[Restoration] After resting from the alcohol anesthetic, could you fix me twelve more~.
+[Halloween] Listen kids, vodka is definitely better than sweets.
+[Christmas] Commander, during a cold night like this, booze works wonders you know. It'll warm up your body... it'll feel good...
+[Valentine's day] From me... it's a special whiskey bonbon. Well, there is no need for chocolate.

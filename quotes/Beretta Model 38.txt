@@ -1,0 +1,32 @@
+[Acquisition] M38, let's get along from now on, Commander.
+[Introduction] Due to market needs, military made some modifications on MAB18 in regards of operating ability, outcome was me, MAB38, one of the spectacular SMGs ever entered the battlefield. I had a lot activities and good performances on foreign regions during and after the war. Though speaking of heritage, I should be relatively pure...
+[Secretary] Eh? Don't worry, I'm not in a bad mood
+[Secretary (post OATH)] Commander, I'm also studying tactical knowledge, since I'm staying by your side forever, I must become your handy servant!
+[OATH] Commander, calling me all the way out here, am I being sold... Ahhh?! You're... But I... I've still to meet your expectations... But I will stay be your side and give it my all!
+[Greeting] I've been waiting for you, please guide me today too.
+[T-Doll Produced] Looks like a new companion just finished production.
+[Joining an echelon] Understood.
+[Enhancement] Thank you very much!
+[Dummy-linking] Expanding again? Thank you so much, I will work hard like I've always been.
+[Logistics (start)] Eh? Am I being sold again? Understood, I'll be on my way!
+[Logistics (end)] I'm back, sorry I didn't find a buyer.
+[Autobattle] This time, allow me to save everybody.
+[Title] Girls' Frontline!
+[Starting a combat mission] Move out.
+[Starting a battle] I won't go easy on you.
+[Skill activation] Ready-- Strike!
+[Heavily damaged] Uuuu... I underestimated them.
+[Retreat] That was... Naive of me...
+[MVP] Let's move forward, one step at a time.
+[Restoration] I will continue to work hard! Please don't give up on me!
+[Halloween] Halloween! Can we go play with the kids?
+[Christmas] Commander, just because today's Christmas doesn't mean you can slack like this! We have mission tomorrow.
+[New Year's Day] Happy New Year! Where is the venue for new year party?
+[Valentine's day] Commander! Thank you as always! This... is my gratitude for looking after me all the time.
+[Tanabata] Making a wish is just naive. Soldier shouldn't do that. T-The festival is different story though.
+[Title] Girls' Frontline!
+[Halloween] Halloween! Can we go play with the kids?
+[Christmas] Commander, just because today's Christmas doesn't mean you can slack like this! We have mission tomorrow.
+[New Year's Day] Happy New Year! Where is the venue for new year party?
+[Valentine's day] Commander! Thank you as always! This... is my gratitude for looking after me all the time.
+[Tanabata] Making a wish is just naive. Soldier shouldn't do that. T-The festival is different story though.

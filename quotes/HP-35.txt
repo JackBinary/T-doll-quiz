@@ -1,0 +1,52 @@
+[Acquisition] This is FN Browning, I salute you. A pleasant breeze blows today, Commander. Why don't we head outside for a stroll before we start working?
+[Secretary] Your clothes are wrinkled. Please stay still, let me smooth them out for you. Etiquette is very important even when you're at work.
+[Secretary (post OATH)] If I can have a cup of tea with my dearest beloved in the secret hideout that I've recently discovered, all my exhaustion from today will be swept away... What say you?
+[OATH] What's this all about, Commander? I see, but I'm not prepared for this. Has our relationship got to such a point? Alright, if you're so certain, then I trust your judgment...
+[Greeting] Welcome back. How do you feel today?
+[T-Doll Produced] Commander, we've got a new arrival!
+[Joining an echelon] Everyone who's going into battle with me today, I'll be in your care.
+[Enhancement] Thank you very much. I feel like I can ride further now.
+[Dummy-linking] Oh my, are you all going to ride pillion?
+[Logistics (start)] I'll be back soon, don't look down on a bicycle's performance.
+[Logistics (end)] I'm back, turns out transporting goods by bike is kind of tiring...
+[Autobattle] Leave it all to me. I won't disappoint you.
+[Title] Girls' Frontline!
+[Starting a combat mission] Let's go and crush those people who are ruining the mood.
+[Starting a battle] You don't even deserve to be the margarine spread on my bread.
+[Skill activation] I'll crush you to dust!
+[Heavily damaged] You broke my bike, I won't let that slide!
+[Retreat] Dammit, this disgusting lot... Next time I'll make sure I smash you all to bits!
+[MVP] Commander, everyone, that was amazing!
+[Restoration] Please fix my dress along with me.
+[Attack] Drive over their faces!
+[Halloween] You're saying I look a little pale? I'm sorry, I'm not used to these occasions...that's because I can't tell who's friend or foe. Why don't I change to tranquilizer rounds and put down any suspicious people I see?
+[Christmas] Merry Christmas, Commander! It's cold today, but the party at night is going to be warm, right? Make sure you come, okay?
+[New Year's Day] It would be a waste not to go out for a ride in weather like this. Don't worry, a true bicycle gangster can run wild even in a fancy dress!
+[Valentine's day] Do you have any particular preference for the thickness of your chocolate? I can only give you a fitting present if I understand you completely.
+[Tanabata] What kind of wish should I write down... They're all lovely ones. I might as well wish that the god who makes these wishes come true will be happy too.
+[Defense] It'll be bad if they damage my dress.
+[Tip] This is an important reminder, so please take a look.
+[Loading] A moment please.
+[Acquisition] This is FN Browning, I salute you. A pleasant breeze blows today, Commander. Why don't we head outside for a stroll before we start working?
+[Secretary] Let's sneak out for another ride today, Commander! I've got everything ready - both my dress and the bikes!
+[Secretary (post OATH)] Hold on, before we go for a ride today, I have a surprise to tell you! I've started learning how to brew tea, and I've even made some dessert! Would you like to try some, Commander?
+[OATH] Ahaha, I know what this is - it's proof of our kinship as the rampaging duo, right? C'mon, don't be shy. Now that we've exchanged our tokens, don't mince your steps and just get on the bike!
+[Greeting] Commander! Run faster, I'm already at the finish line!
+[T-Doll Produced] Newbie, go out for a ride with me!
+[Joining an echelon] Hah, everyone's all lined up.
+[Enhancement] Taller, faster, prettier~
+[Dummy-linking] Oh my, are you all going to ride pillion?
+[Logistics (start)] I'm already prepared for this, can we head out?
+[Logistics (end)] I'm back, I had lots of fun!
+[Autobattle] Leave it all to me. I won't disappoint you.
+[Title] Girls' Frontline!
+[Starting a combat mission] Let's go! Onward to the dawn!
+[Starting a battle] Beepbeep — I'm riding, anyone blocking my path will be knocked away!
+[Skill activation] Guns are so cool!
+[Heavily damaged] I, I need to bear with this (sobs)
+[Retreat] If we can't keep going, how about next time? Okay?
+[MVP] We can't stop here, we need to keep heading forward!
+[Restoration] Please fix my dress along with me.
+[Attack] Go—
+[Defense] Ehhhhh, it's a red light, better stop.
+[Loading] A moment please.

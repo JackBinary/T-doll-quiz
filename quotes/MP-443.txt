@@ -1,0 +1,51 @@
+[Acquisition] Oh my, I was looking for interesting stone gems, I wasn't expecting to find something even more interesting... Commander, would you mind becoming a part of Rook's collection?
+[Introduction] (ditto)
+[Secretary] Eh? You can't give these diamonds to me? But they are so beautiful... Commander is so stingy.
+[Secretary (post OATH)] Commander, let's count the amount of gems we found. If one catches your interest, I'll even give it to you...❤
+[OATH] Commander, you wish to keep me as your most precious collection? Perhaps... my value as a 'gem' is finally acknowledged by Commander... Hehe, then from now on, I belong exclusively and only to you...❤
+[Greeting] Good morning, Commander. I look forward to today's mission.
+[T-Doll Produced] I wonder what kind of unpolished gemstone that will come this time.
+[Joining an echelon] Can you prepare a comfortable place for me?
+[Enhancement] You have to cut it properly.
+[Dummy-linking] I wonder if my sister can tell which one is me.
+[Logistics (start)] I wonder What kind of gemstone that will waiting for me?
+[Logistics (end)] Ahahaha, I can tell that this time's gemstone will be good-shaped one.
+[Autobattle] This battlefield... I should add it to my collection.
+[Title] Girls' Frontline!
+[Starting a combat mission] Well now, what's the target this time?
+[Starting a battle] Those who don't deserve a place in my collection, just disappear already.
+[Skill activation] Onward to overtake them!
+[Heavily damaged] Give me a break, I'm not good at this.
+[Retreat] Sorry, I can only go this far. That's too bad.
+[MVP] Ahaha, there's something worth to be put into my collection.
+[Restoration] Let's look for another one over hhere.
+[Halloween] My sister aside, why does Makarov partake in this event?
+[Christmas] Try decorating the tree with my gemstone, it will definitely bring good luck.
+[New Year's Day] Little sister's been going around in high spirits since morning, as energetic as always. The performance she puts on for the new year is pretty nice, huh?
+[Valentine's day] Ah, the chocolate is over here. The star-shaped over there is a stone from my collection. Don't get them confused, alright?
+[Tanabata] Among those stars, there are definitely gemstones that I never see before. Aah, sorry. I just lost in thought.
+[Acquisition] I happened to stumble across something as valuable as a stone. However, this time I'm sharing it with everyone!
+[Secretary] Did all that knocking and bangin wake you up? Well, since it's already gotten you up, why not give me an opinion on my latest creation?
+[Secretary (post OATH)] Do you like my stones? At the very least, do you want to trade them for something of equal value? They're very precious, you know!
+[OATH] Commander, do you want to make me your most prized possession? Looks like you've finally acknowledge my value as a "stone"... Teehee, then from now on, I'll be yours and yours alone...♥
+[Greeting] Yo~ Commander, want to see my new carving? This one combines everyone's strong points.
+[T-Doll Produced] We're getting a new member? I'll get a nice meeting gift ready for her.
+[Joining an echelon] This is a good chance to get closer to others.
+[Enhancement] I wonder if my carving skills have gotten better too? Since I've still got time, let's try it out!
+[Dummy-linking] I wonder if my sisters can tell which one is the real me.
+[Logistics (start)] I wonder what stones we'll find this time?
+[Logistics (end)] Teehee, looks like I can carve these stones into a pretty good shape.
+[Autobattle] The battlefield will become part of my collections!
+[Title] Girls' Frontline!
+[Starting a combat mission] Best tell me now if there are any trophies you want!
+[Starting a battle] If you won't settle down, I'll fix you good!
+[Skill activation] Maximum firepower!
+[Heavily damaged] Thank goodness, my stones didn't break...
+[Retreat] We'd best not get too hardheaded under the circumstances...
+[MVP] A victory lovely enough to keep!
+[Restoration] This stone's broken... I'll have to find a new one.
+[Attack] Everyone, time to attack!
+[Defense] All we can do now is bide our time...
+[Phrase] Found it!
+[Tip] Are there fun stones here?
+[Loading] I'll work hard to find stones today!

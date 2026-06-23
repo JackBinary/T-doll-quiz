@@ -1,0 +1,25 @@
+[Acquisition] FG42, reporting for duty. It is my humble wish to hone myself further under the Commander.
+[Secretary] Commander, don't worry, everyone is actively preparing.
+[Secretary (post OATH)] Commander, how did today's snacks taste? ... it was better, wasn't it! I didn't strictly follow the recipe this time, but I seem to have gotten an unexpectedly good result!
+[OATH] Since I was chosen by you, that means the path that I chose was the correct one. I once had various worries, but now that you are by my side, I will no longer be lost. Thank you, Commander!
+[Greeting] Commander, you're late again. I'll add two more hours to your overtime.
+[T-Doll Produced] I will be the one who drill the discipline to the new member.
+[Joining an echelon] And now since I've joined this team, I will not tolerate anyone who disturb the public moral.
+[Enhancement] I appreciate the equipment strengthening but I want practical experience more.
+[Dummy-linking] Please rest assured. Although my dummy has increased, I have no intention to neglect my training.
+[Logistics (start)] I will definitely accomplish this mission!
+[Logistics (end)] I've returned. The result was perfect.
+[Autobattle] It's been a while, let's get serious...!
+[Title] Girls' Frontline!
+[Starting a combat mission] Commencing action! Watch your step!
+[Starting a battle] Encountering the enemy!
+[Skill activation] It's our chance!
+[Heavily damaged] Ugh! I'm separated from everyone...! This is a failure.
+[Retreat] To think that will lead to this result... I'm really... sorry...
+[MVP] I offer this victory and it's thanks to everyone. My gratitude.
+[Restoration] Looks like my field experience is nowhere near enough... I need to put more effort on training...
+[Halloween] Even if it's a celebration day, try to dress with consideration. Also... regarding the feast, be considerate of it as well.
+[Christmas] Commander, Merry Christmas. Also there's a prankster, who peeking on everyone Christmas preparation.
+[New Year's Day] It's already new year, Commander. This year mission is going to be dangerous as well, so please don't let your guard down.
+[Valentine's day] Commander, even if it's valentine you've been eating too much chocolate. Honestly, I've been telling you for so many times, please watch your calories intake.
+[Tanabata] My wish is meant to be accomplished by myself. That's why I put my faith in this sky, and in you, Commander.

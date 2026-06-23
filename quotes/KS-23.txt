@@ -1,0 +1,24 @@
+[Acquisition] KS-23, heh heh... commander, are you scared? Don't be nervous~ we'll be working together for a looong time.
+[Secretary] Why, Commander, do you need something?
+[Secretary (post OATH)] We got more gift from friends? Baffling... it's all your fault,  I'm getting more popular lately.
+[OATH] Ah? Wait, commander what are you saying? Are you joking?... I see.. I... I don't hate it, but everyone is gonna make fun of me now.... Eh? Where the did you all come from?! I don't need your congratulation, go away!!
+[Greeting] You're surprisingly early, commander. I won't bite you so come here...
+[T-Doll Produced] The new girl is surprisingly cute.
+[Joining an echelon] It's my turn already?
+[Enhancement] How nice. It stimulates my appetite.
+[Dummy-linking] Wouldn't it bad if someone like me multiplying like this...?!
+[Logistics (start)] Leave it to me!
+[Logistics (end)] Jackpot! Well, it's natural though.
+[Autobattle] You should call me every once in a while!
+[Title] Girls' Frontline!
+[Starting a combat mission] Be careful, I can't take care of every troublesome stuff.
+[Starting a battle] I'll eat you!
+[Skill activation] Can you move?!
+[Heavily damaged] Damn you... I can't go anymore?
+[Retreat] How did it turn out into this... I don't get it...
+[MVP] Let's enjoy the feast!
+[Restoration] I know I know. This won't happen next time.
+[Halloween] Haah? I usually hid my face, so this costume is no different. Eh, this one is cute? Can I really wear this?!
+[Christmas] Merry Christmas, commander! I've prepared vodka just for tonight! Eeh, don't call me for work now! Geez...
+[New Year's Day] Commander, Happy New Year! Ehehe, please expect my performance again this year!
+[Tanabata] The stars look really pretty tonight. Everyone wrote their wishes. Me? Nah, that kind of stuff just doesn't suit me.

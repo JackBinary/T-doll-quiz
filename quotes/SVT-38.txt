@@ -1,0 +1,24 @@
+[Acquisition] SVT-38 reporting. Commander, your orders?
+[Secretary] Ah, my apologies, I fell asleep.
+[Secretary (post OATH)] Today's arrangement seems to be sound as always... Goodness, after being with you for some time, I've become quite lazy...
+[OATH] W-What are you saying all of a sudden, Commander?! I-Is this also a conquest, or... Ah, no, whatever. It's nice to enjoy oneself occasionally. Anyway, this time is precious.
+[Greeting] I've been waiting.
+[T-Doll Produced] Production is complete.
+[Joining an echelon] I'll be sure to win!
+[Enhancement] Oh, resources are here!
+[Dummy-linking] Dummy-linking? Then we shall not lose.
+[Logistics (start)] It's time to go. Don't be late.
+[Logistics (end)] I've safely returned. There are no problems in particular worth reporting.
+[Autobattle] Just leave it to me, Mosin-Nagant. I won't lose in such a place
+[Title] Girls' Frontline!
+[Starting a combat mission] Let's go
+[Starting a battle] Don't get reckless.
+[Skill activation] Ready, fire!
+[Heavily damaged] Ngh, get down!
+[Retreat] Impossible...I lost...?
+[MVP] Hmph, it's not a big deal.
+[Restoration] Ugh...this is...why...?
+[Halloween] I though I'd be a ghost to spook people. but am I normally that scary? I see...
+[New Year's Day] Don't worry about the new year. Commander, show me your plans for the New Year.
+[Valentine's day] Because it is such a day, I can't go without being grateful. Here, these are my thanks.
+[Tanabata] Tanabata, huh? Then I'll decorate a tanzaku as well. Don't remove it. I dislike things that pierce.

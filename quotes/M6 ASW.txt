@@ -1,0 +1,29 @@
+[Acquisition] Hang on to this, Commander. It's your survival pack. Come, let's head to the frontline.
+[Secretary] Don't fall asleep, Commander. Sleeping in a place like this leads to hypothermia. If you're really tired, then rest when you get back.
+[Secretary (post OATH)] You can't pack a supply bag like that, let me do it. Also, your cupboard and desk are a mess, at least mark them properly so you can find the necessary items during an emergency... Do you need a diagram?
+[OATH] An oath? Alright, then. You are a trustworthy person and I have no objections to it. Don't worry, our relationship won't change because of a ring. The only things that can change us are the memories built up by being around each other. And in my memories, you are someone precious to me.
+[Greeting] Safety first, Commander.
+[T-Doll Produced] We have a newcomer, I need to see if we have enough supplies.
+[Joining an echelon] Everyone, check your gear again.
+[Enhancement] This way, our chances of survival will increase.
+[Dummy-linking] I hope these dummies will be able to draw more fire.
+[Logistics (start)] I've finished making a list of the requests. I'll be heading out now.
+[Logistics (end)] M6ASW reporting. I've returned and accomplished all my objectives.
+[Autobattle] I am familiar with both survival and victory.
+[Title] Girls' Frontline!
+[Starting a combat mission] First, ensure the mission is complete. Then worry about your own safety. Move out!
+[Starting a battle] Fire!
+[Skill activation] I have more than one way to attack.
+[Heavily damaged] Tsk... Don't worry about me, take care of yourself!
+[Retreat] Order received. Fall back and preserve your strength!
+[MVP] We've won. Let's celebrate before the next battle comes, everyone!
+[Restoration] These supplies... They weren't drawn from the other Dolls' daily necessities, were they?
+[Attack] Suppress the enemy, don't give them a chance to catch their breath!
+[Halloween] I prepared a lot of candy, enough to handle all our colleagues on the base asking me for some if need be. No, I didn't go out of my way to buy it, I saved it up every day.
+[Christmas] Listen to the crisp ringing of the bells... Only in safe places can you consider it a form of entertainment rather than a warning or a guide.
+[New Year's Day] Happy New Year, Commander. Have you received a red packet yet? Whether or not you have, just take this. It's a little token of appreciation from the team.
+[Valentine's day] Chocolate is a valuable source of energy. I made you some highly purified chocolate that's easily to store in a supply pouch.
+[Tanabata] I have too many wishes, so let's start with the one that's least likely to come true. I wish the world would be peaceful and safe.
+[Defense] Fall back!
+[Tip] This should be recorded in the survival manual.
+[Loading] I'm preparing, please wait.

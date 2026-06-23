@@ -1,0 +1,27 @@
+[MP7] Live2D
+[Acquisition] "Caretaker", have you finally come to welcome me? Thanks for your hard work.
+[Introduction] (ditto)
+[Secretary] Genius exist among T-dolls as well, I'll show you when I get a chance.
+[Secretary (post OATH)] That "gold digger" looks dumb but she's quite a genius at her work... However, I won't lose to her, at... anything...
+[OATH] Eh? "Feeder"... a-are you serious? Tch... how troubling, I'm not good with this kind of things.... However, I've always wanted to answer to your feelings, thank you... I'll be counting on you from now on~
+[Greeting] Hmm? Is there anything you need help with?
+[T-Doll Produced] A newbie? What nickname should I give you?
+[Joining an echelon] I will unleash my full potential here!
+[Enhancement] You wish for me to become stronger? I will repay you one day for this.
+[Dummy-linking] Do we really need this many? Oh well, not like it's a bad thing.
+[Logistics (start)] Only these? Alright, I got it.
+[Logistics (end)] I've returned, came back with some high quality merchandise this time too.
+[Autobattle] It's alright to relax like this sometimes, right?
+[Title] Girls' Frontline!
+[Starting a combat mission] What kind of enemies will we encounter this time~?
+[Starting a battle] Striking first!
+[Skill activation] Take that!
+[Heavily damaged] Wa.. wait! Time-out! Time-out!
+[Retreat] Those ones... why are they so hard to deal with...?
+[MVP] Did you see that! This is what I'm capable of!
+[Restoration] I've avoided the vitals, don't worry about it.
+[Halloween] I got some candy from a Go board. It's a bit too sweet for my tastes, though.
+[Christmas] Feeder~, Merry Christmas! I usually stay away from lively events, but I will partake in some of that food!
+[New Year's Day] There's free time in the New Year...to sleep...let's go grab a movie.
+[Valentine's day] The delicate art of chocolate-making is easy for a genius like me!
+[Tanabata] My one wish? Hmm, that's hard to say. Stuff like that is no good for a genius like me

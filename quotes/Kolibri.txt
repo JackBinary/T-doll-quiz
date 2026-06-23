@@ -1,0 +1,30 @@
+[Acquisition] Standing before you is the one and only Kolibri — your most reliable protector and friend from now on!
+[Secretary] Your desk is always a mess, Commander. Why don't I teach you the best techniques for tidying and sorting stuff?
+[Secretary (post OATH)] You've been looking down recently, is something bothering you? Oh, it's because you've lost the queens from 30 chess sets recently and haven't been able to find the culprit. What a shame... Wait, don't open that closet!
+[OATH] Eh? Ehhhhh?! Why this, all of a sudden? No, wait, my electronic hummingbirds should have told me about this right away, and I even set them up in advance... Hmm, since you've taken the initiative, you'd better prepare to have another cute little Doll in your home!
+[Greeting] Are you curious about how I'm always waiting here each day to greet you without fail? Naturally, it's because my cute little electronic hummingbirds are keeping an eye on you at all times!
+[T-Doll Produced] Latest news from the hummingbirds — our new friend is ready to report!
+[Joining an echelon] The lineup still isn't neat enough. All together now, right face~!
+[Enhancement] I feel like collecting myself more and more!
+[Dummy-linking] A geometric increase in the number of hummingbirds leads to the grandest of concertos!
+[Logistics (start)] Let's go, new treasures await!
+[Logistics (end)] What a big harvest~ Commander, are there any exquisite little items that have caught your interest?
+[Autobattle] Don't worry, I'm fully confident of completing this operation!
+[Title] Girls' Frontline!
+[Starting a combat mission] Listen up! Together~ march!
+[Starting a battle] Enjoy this lovely rhythm!
+[Skill activation] The intel is accurate!
+[Heavily damaged] This is a totally unexpected situation!
+[Retreat] We lack sufficient intelligence, so we mustn't be rash. Fall back for now!
+[MVP] When I'm around, victory is a foregone conclusion!
+[Restoration] Thank you very much! I'll be counting on you to fix my electronic hummingbirds as well.
+[Attack] We've gathered intelligence on them, now's the best time to attack!
+[Halloween] This little body of mine is pretty handy! Although it means people think of me as a kid, it also means I get delicious candy! Let me see, after this, there's Children's Day too...
+[Christmas] I've already hung up stockings for all my electronic hummingbirds. Now I'll get many times the usual number of presents... Ah, the presents are obviously going to the electronic hummingbirds, of course. However, the hummingbirds are mine, so what's theirs is also mine, hehe~
+[New Year's Day] A new year represents a new beginning, so let's start by tidying up!
+[Valentine's day] Chocolates? It would be nice if someone paid more attention to how they were molded, but then I wouldn't be able to bear eating them. In any case, thank you!
+[Tanabata] Speaking of wishes, I want more treasures. After all, in my eyes, there's no limit to the amount of exquisite beauties in the world!
+[Defense] Keep your formation steady, the electronic hummingbirds are on their way!
+[Phrase] Aha~
+[Tip] Electronic hummingbirds and regular hummingbirds are totally different!
+[Loading] There's nowhere in Griffin from top to bottom where I can't see!

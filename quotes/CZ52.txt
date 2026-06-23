@@ -1,0 +1,26 @@
+[Acquisition] Greetings Commander, I'm CZ52, even though I'm just a new member, I humbly implore you to look after me from now on.
+[Introduction] (ditto)
+[Secretary] I do not wish to leave anything unfinished after going into combat, so I write wills to myself beforehand.
+[Secretary (post OATH)] I've written many wills before, but I not very familiar with writing love letters... Maybe Commander can teach me? Heehee~
+[OATH] Commander, I thank you for fulfilling this wish of mine, to have received your response, I'm in a world of happiness... Please keep your eyes on me, keep guiding me, continue to hold me... And love me.
+[Greeting] Commander, nothing's more reassuring than having you around.
+[T-Doll Produced] I'm glad, there is new comrade joining in again.
+[Joining an echelon] Being together with comrades is always pleasant.
+[Enhancement] For the sake of our future, this power is necessary.
+[Dummy-linking] Commander... thank you very much. I'll be sure to look after these girls.
+[Logistics (start)] For this journey, where is our destination?
+[Logistics (end)] Commander, if we only got this, will it be enough?
+[Autobattle] Through my own will, I'll accomplish this mission.
+[Title] Girls' Frontline!
+[Starting a combat mission] I've written my will. Shall we proceed?
+[Starting a battle] Pardon me but, could you leave?
+[Skill activation] For everyone's sake, please lend me your strength!
+[Heavily damaged] No...! Just a little more, keep going!
+[Retreat] We can't advance anymore...? Even my wish is...
+[MVP] Commander, I'm so happy! This victory will bring everyone happiness.
+[Restoration] Commander... to make you worry like this, I truly apologize for my transgression.
+[Halloween] They became ghost because their regret is still lingering around. What a poor soul...
+[Christmas] Whaa...! 75 is putting on a Santa's beard...? Th-this... what should I do?
+[New Year's Day] The time will definitely bring a new answer for us. So this year as well, I will keep doing my best.
+[Valentine's day] Commander, please take this chocolate. Ah, this is more embarrassing than I thought.
+[Tanabata] It's all around the world... so I believed. There are happiness waiting for me in every corner of this world.

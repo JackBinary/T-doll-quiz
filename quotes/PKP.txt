@@ -1,0 +1,50 @@
+[Acquisition] Let me tell you some good news, officer... you have obtained the trump card of victory.
+[Secretary] As long as a battle plan has my name on it, it is perfect.
+[Secretary (post OATH)] Tsk, this job's a little troublesome... hey, let's get it done this time too, alright?
+[OATH] I have never thought that relying on others is something that would have any meaning. But as long as I stand before you, the words "I can't do it" become less intimidating. Have I become stronger, or become weaker... officer, why don't you tell me the answer?
+[Greeting] You're late!
+[T-Doll Produced] Is it another useless girl?
+[Joining an echelon] I'm alone is enough.
+[Enhancement] Stronger! I'll get even stronger!
+[Dummy-linking] You want to win that bad? Hmph.
+[Logistics (start)] Just wait, this will be quick.
+[Logistics (end)] Satisfied?
+[Autobattle] Leave it to me.
+[Title] Girls' Frontline!
+[Starting a combat mission] Anyone who weigh me down can just disappear alongside the enemy!
+[Starting a battle] Hah, small fry.
+[Skill activation] An eyesore can just disappear!
+[Heavily damaged] I can only follow up this far...
+[Retreat] I've... lost? Impossible...
+[MVP] It's only natural for me to win this battle.
+[Restoration] Hmph! Go ahead if you want to laugh! Next time will definitely...!
+[Halloween] I have no intention to keep up with those girls trivial activity. T-there's candy? I-Is it true?
+[Christmas] I'll tell you a good news. I've prepared a christmas present for you.
+[New Year's Day] Happy New Year? That's just an excuse to skip work. Go move your ass right now!
+[Valentine's day] Do you find it unusual for me to make a chocolate? Looks like you got it wrong there. I'm a perfect being after all.
+[Tanabata] Will this really make your wish come true? Hmph, human is such a cheap creature.
+[Acquisition] I have some good news, Commander. You've obtained a winning card, namely myself.
+[Secretary] This bear is my beloved friend. I don't insist that my friends be as capable as me, only that they don't get in my way.
+[Secretary (post OATH)] I wish I were taller... I can't reach that object, could you lift me up?
+[OATH] A ring? I don't think I can accept it, given my current age and abilities. However, it represents your expectations for me, isn't that right? I'm also confident that I won't disappoint you in the future.
+[Greeting] ...You're too slow!
+[T-Doll Produced] Another useless doll?
+[Joining an echelon] Are you saying I need to work with others because I'm not yet strong enough?
+[Enhancement] Stronger... I can be stronger!
+[Dummy-linking] So you want to win that badly? Hehe...
+[Logistics (start)] Wait here, I'll be back right away.
+[Logistics (end)] Are you happy now?
+[Autobattle] Leave it to me.
+[Title] Girls' Frontline!
+[Starting a combat mission] Anyone who slows me down can vanish along with the enemy.
+[Starting a battle] Humph, mere trash.
+[Skill activation] Nobody can snatch my victory.
+[Heavily damaged] I won't be this pathetic next time...
+[Retreat] ...I actually lost?! I can't believe it.
+[MVP] I simply won. It was only to be expected.
+[Restoration] ...Don't look at me. Let me be alone for a while.
+[Attack] GO!
+[Defense] Stop!
+[Phrase] Humph, so be it.
+[Tip] Watch it.
+[Loading] Don't rush me, I'm coming.

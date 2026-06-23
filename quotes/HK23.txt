@@ -1,0 +1,25 @@
+[Acquisition] You... You are the Commander? I'm HK23, please, don't be too harsh on me....
+[Introduction] I'm HK23, a modified version of HK21A1 that fires 5.56mm calibre munitions. Originally designed to compete for SAW... But eventually lost. Maybe there wasn't any expectations for someone like me to begin with... Hehe...
+[Secretary] SAW's nearby! Quick, hide!
+[Secretary (post OATH)] Commander, you can't do anything dangerous, ok? Or else I'll be worried...
+[OATH] Commander... This is my first time, staring directly into your eyes. You reassured me time and time again... From now on... I won't be alone anymore, right? ❤
+[Greeting] Commander, what will do today. Do you know?
+[T-Doll Produced] It would be nice if she's a nice girl.
+[Joining an echelon] Because everyone is here, it eases me.
+[Enhancement] Will it give me more courage?
+[Logistics (start)] Even as back up unit, I'll do my best.
+[Logistics (end)] Haa, I've returned safely~
+[Autobattle] Let's end this fight quickly?
+[Title] Girls' Frontline!
+[Starting a combat mission] Can I just watch from the sideline? I-I'm joking...
+[Starting a battle] Uwaa, don't come any closer!
+[Skill activation] I-It's scary!
+[Heavily damaged] No good, anymore than this is just, impossible!
+[Retreat] Big trouble! I'm sorry! I should go!
+[MVP] It's finally calm down, that's good~
+[Restoration] I'm sorry, I didn't find any use...
+[Halloween] It's so lively here. Even if there's a ghost, I won't be scared.
+[Christmas] G3 onee-chan looks so busy. Let's help her decorating the christmas tree.
+[New Year's Day] There's nothing to worry about on a new year right.
+[Valentine's day] Because I don't know what your favourite taste is, I made this much. Did I make too much?
+[Tanabata] It's so crowded. I can walk in town without being scared.

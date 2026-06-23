@@ -1,0 +1,25 @@
+[Acquisition] I'm Super-Shorty! ...Hey, where are you looking, Commander!? I'm down here!
+[Secretary] Commander, do you know where Mossberg's hiding?
+[Secretary (post OATH)] Commander! Stop buying me children's clothes! I won't be able to wear these on a date...
+[OATH] I kind of had a feeling this was coming, but I didn't think it would be so soon. Being able to stay by your side forever is the happiest thing I can think of, but... aaargh! What kind of face am I making right now? I'm so embarrassed! You better take responsibility!
+[Greeting] What are the plans for today, Commander?
+[T-Doll Produced] Hey, new recruit! Let's get ourselves acquainted!
+[Joining an echelon] I'll help everyone out!
+[Enhancement] Hey now, don't make me grow taller!
+[Dummy-linking] Perfect for playing hide and seek!
+[Logistics (start)] I'll be right back! Just wait a bit!
+[Logistics (end)] Good job, everyone! Let's see what we got.
+[Autobattle] I won't let you have your way!
+[Title] Girls' Frontline!
+[Starting a combat mission] Stick to the plan, and... move out!
+[Starting a battle] Attention! Begin the operation!
+[Skill activation] You've got guts!
+[Heavily damaged] Urgh... they made a fool out of me!
+[Retreat] I messed up... that's not like me...
+[MVP] Let's keep on winning like this!
+[Restoration] When you gotta rest, you gotta rest!
+[Halloween] Mossberg is so terrible at hiding! What kind of jack-o'-lantern has yellow ears sticking out of it?
+[Christmas] Merry Christmas, Commander! These tiny little trees really suit me! You should put down several more!
+[New Year's Day] I didn't grow any taller this year, did I...? Oh, thank goodness! I like my height just the way it is now.
+[Valentine's day] I hid my chocolates in your office! If you wanna eat 'em, you'll have to find 'em yourself! Mmfufu!
+[Tanabata] I hope I won't grow any taller... umm, that's actually kind of weird, isn't it?

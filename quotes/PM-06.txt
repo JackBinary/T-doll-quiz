@@ -1,0 +1,26 @@
+[Acquisition] Woah~ This is your uniform? Such an eye catching, magnificent shade of red! Looks like we'll get along nicely!
+[Introduction] ditto
+[Secretary] Our dorms would be better if we had more red furniture... Hehe~ Commander, did you hear what I said?
+[Secretary (post OATH)] Night missions really are the best after all! Hmm? You want to go for a walk with me instead?... You really know how to make things difficult, Commander...
+[OATH] Commander, whatever business you have with me can it wait 'til evening? Woah! Isn't this...! This kind of thing can't wait! Looks like we'll have more important things to do tonight, Hehe~
+[Greeting] You seem to be in good spirits today.
+[T-Doll Produced] If you see any red paper rookies, please send them my personal invitation.
+[Joining an echelon] Who's the leader? I can do it~.
+[Enhancement] Any extra parts?
+[Dummy-linking] Wow~! Red visor! C'mere and give me a hug!
+[Logistics (start)] Nice place I'm heading out to. I'll check to see if there's anything leftover.
+[Logistics (end)] Was there any trouble? No, not really. Though being exposed to that sunlight was a bit tough.
+[Autobattle] I won't stop even if we get there!
+[Title] Girls' Frontline!
+[Starting a combat mission] Ehehe, the enemy will be on red alert soon!
+[Starting a battle] Come! Let's raise these lethal weapons to our eyes!
+[Skill activation] Let's see what color your blood is!
+[Heavily damaged] Feel free to wash your hands. Should I return this to you?
+[Retreat] That's too bad...guess this is where we say goodbye.
+[MVP] Commander, mind if I open another bottle of red wine tonight? Ehehehe.
+[Restoration] The only downside of this outfit is that it's hard to see blood on it.
+[Halloween] Is this... red wine? Or perhaps... blood? Well, whatever! Cheers!
+[Christmas] Santa Claus? Pfft, no no no, you got the wrong person. Well, that's true that we wear the same red clothes.
+[New Year's Day] Those eastern dolls' new year is so lively! Everything is decorated in red! Let me participate!
+[Valentine's day] I put a little red wine in here. Don't get drunk okay~.
+[Tanabata] What an unusual lively night! Aren't there more people here now than at noon?

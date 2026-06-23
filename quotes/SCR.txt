@@ -1,0 +1,30 @@
+[Acquisition] Hello, Commander, I am SCR, just starting here today. Follow my account and become a Cherry Bomb! ...What's that? That's what my fans are called!
+[Secretary] Commander, there's something I must bring up. Griffin's way of storing fresh fruit is terribly amateur. Are you guys eating enough fruit? Vitamin deficiency is lethal, you know?
+[Secretary (post OATH)] Look this way, Commander! I've started a new channel just for sharing my life at Griffin... Yep, that's right! From now on, you are also part of my life! Let's bring our careers to new heights together!
+[OATH] I love fruit because it's fragrant and sweet. I love planting trees because my labor literally comes to fruition. I love livestreaming because it allows me to share my life...  I also love you because to me, you're an inseparable part of all this.  I'll gladly share my future with you.
+[Greeting] Welcome back, Commander. That's it for the ads.
+[T-Doll Produced] New friends? I've prepared some fruit pies as welcoming gifts.
+[Joining an echelon] Want some cherries, my lovelies? Try to get along, alright?
+[Enhancement] Fruit is only sweet when it's completely ripe. That's just common sense.
+[Dummy-linking] Heh... So this is what it feels like to see myself from a third perspective.
+[Logistics (start)] Can I film the whole thing? No? That's a shame...
+[Logistics (end)] It's such a wasteland out there... Not much green no matter where I looked. What a pity.
+[Autobattle] Don't worry, I'll get rid of all the pests! Leave it to me!
+[Title] Girls' Frontline!
+[Starting a combat mission] Let's go, guys! Time to get rid of some pests!
+[Starting a battle] Pests and anti-fans should all just die!
+[Skill activation] Eliminate the pests!
+[Heavily damaged] I'll need to get new clothes again...
+[Retreat] Terminating the stream for now...
+[MVP] Yay! This will gain me more followers, I bet!
+[Restoration] Sorry, I can't take off my mask... Can you fix me while leaving it on?
+[Attack] Get me the pesticide!
+[Halloween] Assholes! Don't go wasting my produce! Give me back my pumpkins!
+[Christmas] Commander~ This basket of apples is for you—I hand-picked them all! I wish you health and protection in the upcoming year!
+[New Year's Day] Happy New Year, Commander. With the new year upon us, spring is also fast approaching. Would you consider my suggestion of creating an orchard here at Griffin? I promise I'll take good care of it, pretty please~?
+[Valentine's day] Commander, chocolate for you! Sorry, but if I don't go online today, my fans will definitely get the wrong idea, so I've got to be on live the whole day. Sorry again!
+[Tanabata] Happy Tanabata, Commander! Miss 100 Shiki and the others have already put up the bamboos, are you also going to hang up a tanzaku? My wish? ...Hm, I wish for even more followers.
+[Defense] The weeds are the tricky bit...
+[Phrase] Harvest time!
+[Tip] Why Cherry Bomb? Because cherries are delicious...and super difficult to grow. It's a reference to a folk song, have you not heard it before, Commander?
+[Loading] Patience, patience.

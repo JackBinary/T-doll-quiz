@@ -1,0 +1,30 @@
+[Acquisition] Nice seeing you, dear Commander. I'm looking forward to our time together.
+[Secretary] Maggie Ponzi is a name that belongs to the past, so if you want to know those stories of hers, please send money to this account... Eh? Guess I don't need to hoard that much money anymore. Ahem, old habits die hard.
+[Secretary (post OATH)] Half a peg of lemonade, half a peg of juniper berries, half a peg of minted liqueur... and topped off with mystery flavored ice cubes; it's a strange recipe, isn't it? It's my first time mixing anything and I wasn't even able to open the shaker, so this might taste terrible. Even so, would you mind trying out this creation of mine, the “Miss Haunted House”?
+[OATH] ...I do not possess a name; I'm not Maggie, nor is she Katherine. Maybe one day the true Ms. Maggie will be back, or maybe never, but I'm no longer afraid of the outcomes, Commander. I believe we are a match made to enjoy the last drink of our lives together.
+[Greeting] A wonderful day starts with half a cup of whisky on the rocks.
+[T-Doll Produced] This method truly is efficient, and times are certainly moving on.
+[Joining an echelon] Teams... It's been long since I've had cooperations of this sort.
+[Enhancement] Having my body upgraded feels really good. Even more so when I'm not the one paying the bills.
+[Dummy-linking] This is why I strive to live for as long as possible; to continuously witness the birth of new technologies.
+[Logistics (start)] Another lengthy journey is about to begin.
+[Logistics (end)] I'm back. How delightful to be able to use that phrase.
+[Autobattle] Relax, I never miss my shots.
+[Title] Girls' Frontline!
+[Starting a combat mission] Time to move, my darlings.
+[Starting a battle] Short-sighted goons have appeared. This is getting exciting.
+[Skill activation] This is a fair trade!
+[Heavily damaged] Am I about to be... abandoned by this era?
+[Retreat] Backing down is a strategy to preserve strength.
+[MVP] A Bloody Mary, please!
+[Restoration] For the record, Commander is the one paying these bills.
+[Attack] Now's the time to put all the cards on the table.
+[Halloween] I wonder who's the lucky one that can snatch these alcohol candies? Every single one of them is a fruit of my careful concoctions... and they even hold their own little secrets. Oh my, look at your craving eyes. Would you like to have one?
+[Christmas] Opening a Christmas present is similar to a gambler rolling his dice. What kind of surprises await inside? Nobody knows. But unbeknownst to him, that anticipation and hope are the real gifts the universe bestowed to us.
+[New Year's Day] A cocktail often needs a moving story to be remembered. A forgotten memory, however, needs a special holiday. Commander, this is my specially-mixed “Happy New Year” for you.
+[Valentine's day] The one gifting the chocolate might not care about the recipient, but the one not gifting anything definitely doesn't have anyone in mind. This sense of formality is like the color of wheat fields blowing in the autumn wind, reminiscent of the heartfelt emotions of one witnessing the little blond-haired prince.
+[Tanabata] Instead of praying to others, I'd rather pray to myself. As long as I give all I have, things will eventually come to fruition... Don't you think so? It's with this mindset that I joined Griffin, Commander.
+[Defense] Oh dear, we need to adequately confuse the enemy.
+[Phrase] Why not have a glass?
+[Tip] Death haunts me, hence why I will savor every glass of fine wine.
+[Loading] We got lot of time to kill, how about a game of Texas Hold 'Em?

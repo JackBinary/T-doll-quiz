@@ -1,0 +1,23 @@
+[Acquisition] Hello Commander, am I late? Did I miss anything interesting?
+[Secretary] Need me to do something? I won't do it if it's too ordinary~
+[Secretary (post OATH)] Commander, don't I look more radiant than usual today? This radiance will always be yours, Commander.
+[OATH] Oh, so it seems... you're finally acknowledging my charm. We have already come so far together, and we already have such a perfect synergy with one another. Alright, deeply embrace me to commemorate this moment!
+[Greeting] Oh, Commander. Shall we deepen our combination some more today?
+[T-Doll Produced] A new comrade? Welcome!
+[Joining an echelon] Let's rehearse this properly!
+[Enhancement] Thanks. That was very kind of you, Commander.
+[Dummy-linking] Out of all of these, I shine the brightest!
+[Logistics (start)] It's not as brilliant as a mission, but that's alright.
+[Logistics (end)] Use it well!
+[Autobattle] Ufufu! What great timing!
+[Title] Girls' Frontline!
+[Starting a combat mission] Ufu~♪ Watch this!
+[Starting a battle] Let me show you this splendid form!
+[Skill activation] Don't forget your lines!
+[Heavily damaged] Ngh...how regrettable!
+[Retreat] Ugh, let's at least make our withdrawal splendid!
+[MVP] Commander, let's win with even more brilliance next time!
+[Restoration] This opponent has some nerve to do this to me!
+[Halloween] Scary monsters and delicious sweets all in one evening...will make a wonderful complement to my dance!
+[Christmas] Commander, what kind of surprise present have you prepared for me? My eyes are pretty sharp, you know.
+[Tanabata] Such a romantic event...how lovely.

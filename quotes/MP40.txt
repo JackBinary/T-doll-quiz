@@ -1,0 +1,33 @@
+[Acquisition] Commander, I will do my best for you!
+[Introduction] In order to meet the needs of the war, the MP40 submachine gun, which was continuously improved from the early submachine guns, was originally produced as an armored and paratrooper weapons. Simple manufacturing, stable performance, and easy control made me popular later, not only as the main weapon of the army, but even as a symbol that was firmly held in the hands of soldiers.
+[Secretary] Ah! You scared me!
+[Secretary (post OATH)] How was my piano performance last time, Commander? Expressing my feelings through the prim and orderly music score was something that I learned from you while by your side... You really think so? I'm so glad!
+[OATH] Commander, what are your plans for today...e-eh? This is...aah...for you to be springing this on me...it's completely unexpected. But, I am so very happy. You have my gratitude, Commander
+[Greeting] You've returned, Commander.
+[T-Doll Produced] Production complete, let's greet the new recruit.
+[Joining an echelon] Me? I-I'll do my best!
+[Enhancement] I'll work even harder, thank you very much!
+[Dummy-linking] Dummy-linking complete. Was this according to procedure?
+[Logistics (start)] Commander, I'm going out. You can expect a good report!
+[Logistics (end)] I've returned. Everything went smoothly as planned.
+[Autobattle] What a sound plan. Just leave it to me!
+[Title] Girls' Frontline!
+[Starting a combat mission] Sortie, isn't it. I'll do my best with everyone!
+[Starting a battle] Enemy forces approaching. Everyone, please use caution!
+[Skill activation] Ready, fire!
+[Heavily damaged] Aagh...I-I'll do my best
+[Retreat] Ngh...no way...
+[MVP] We won! What a relief...
+[Restoration] Right...we'll leave the replenishment to you.
+[Halloween] If you don't hand out candy, the children will pull a prank on you. What a weird custom, I'm not good with this.
+[Christmas] Merry Christmas, commander. These look delicious... but I will pass.
+[New Year's Day] Happy New Year. I will aim higher this year!
+[Valentine's day] You like chocolate? Then, I'll give you one. Eeh, you got it wrong, it's not like I want to lose weight.
+[Tanabata] My wish? What should I write. If I write about my weight, the others will see it, this is troubling.
+[Acquisition] Hello commander, I'll do my best for your business !
+[Introduction] In order to meet the needs of the war, the MP40 submachine gun, which was continuously improved from the early submachine guns, was originally produced as an armored and paratrooper weapons. Simple manufacturing, stable performance, and easy control made me popular later, not only as the main weapon of the army, but even as a symbol that was firmly held in the hands of soldiers.
+[Secretary] Commander, would you like for me to rub your shoulders? I'm very good at massaging, so please leave it to me!
+[Secretary (post OATH)] Commander, while there may be lies and betrayal in the adult world, I would never betray you!
+[Greeting] You've returned, Commander.
+[T-Doll Produced] Production complete, let us greet the new recruit.
+[Title] Girls' Frontline!

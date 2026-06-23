@@ -1,0 +1,30 @@
+[Acquisition] LTLX7000 reporting. I hope you're a reliable person, Commander.
+[Secretary] Why are you staring at me? Human moles are caused by melanin, while they're nothing more than decorations for Dolls. Don't poke them, it feels weird.
+[Secretary (post OATH)] Stop touching me, Commander, you know I'm already powered on. All I want is to lie here with you for a little while longer...
+[OATH] A ring? I don't... No. Things being what they are now, I no longer want to run away from my feelings. Commander, you probably know already, but I'm not as reliable as I look, and in my heart I have always been seeking your support... Is the real me what you're looking for? If it is...then come, I am yours.
+[Greeting] You're late. Don't you think having me wait here by myself is a bit much?
+[T-Doll Produced] Are there any soft little Dolls for me to touch?
+[Joining an echelon] You want me to lead the others? I... Ahem, I value everyone's judgement.
+[Enhancement] If only my personality could be as easily modified as my abilities.
+[Dummy-linking] If we all have independent wills, then we can huddle up with each other for warmth.
+[Logistics (start)] Before I go, could you give me a hug? Ah, I was just kidding. I'll be off.
+[Logistics (end)] These items are on the list, and these were an unexpected harvest. They're all for you.
+[Autobattle] Leave it to me. I'll give you a satisfactory outcome.
+[Title] Girls' Frontline!
+[Starting a combat mission] Crushing the enemy is my duty.
+[Starting a battle] What thoroughly uncute enemies.
+[Skill activation] It's useless.
+[Heavily damaged] Uwah! My shield and clothes are...
+[Retreat] Hurry up and run, there's no salvaging the situation!
+[MVP] A successful ending. Commander, you really are a trustworthy person.
+[Restoration] You're here... Please, could you let me lean on your shoulder?
+[Attack] Charge, my shield will protect you!
+[Halloween] Ah, Halloween. Dolls dressed as monsters aren't as threatening as a virus, but if you need a companion, nothing would delight me more than to oblige.
+[Christmas] "Jingle bells, jingle bells, jingle all the way..." Ah, that's a very old child's song. When I sing it, I feel like a child myself.
+[New Year's Day] I want to spend the first day of the new year with the person whom I'm closest to. So... Are you free, Commander?
+[Valentine's day] How should I blend chocolate and milk in order to solidify them... Ahh! Commander, what are you doing here? Get out, get out now!
+[Tanabata] My wish is to be able to entrust myself to someone else in peace. Therefore, stick out your hand, Commander. This ought to be tied around your wrist.
+[Defense] Careful, get behind me.
+[Phrase] Mm... It's here.
+[Tip] Who made these little post-it notes? In any case, let's look at them.
+[Loading] Are you here? I'm coming to the door, give me a while!

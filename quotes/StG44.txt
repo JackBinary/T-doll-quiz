@@ -1,0 +1,50 @@
+[Acquisition] Pleased to make your acquaintance. A-ah, there's no need for a handshake or anything.
+[Secretary] Can you please stop staring at me like that?
+[Secretary (post OATH)] Commander, even if you have a lot of work, don't slack on your appearance! Come, let me fix you up.
+[OATH] Commander, why are you so close? Uh, I don't dislike you, but...what...?! Really?! I've always been bothering you so much... Then...can I scoot a little closer to you?
+[Greeting] So carefree enough, eh?
+[T-Doll Produced] The production seems to have been done.
+[Joining an echelon] Understood. Count on me!
+[Enhancement] Ufufu, as it should be.
+[Dummy-linking] Enhancement complete! Umm, please prepare a nice dress too.
+[Logistics (start)] Sure, I'll be heading off soon.
+[Logistics (end)] I'm back in one piece. First off, I'll take a bath.
+[Autobattle] Living without making the own hands dirty, how great!
+[Title] Girls' Frontline!
+[Starting a combat mission] Here we go!
+[Starting a battle] I'll give you some beatings!
+[Skill activation] Fire! Fire!
+[Heavily damaged] Ugh, I'll be retreating
+[Retreat] Such myself is lose... you just watch it now!
+[MVP] It's a sure thing.
+[Restoration] Aauuu, my whole body damaged! Commander, I'll leave the cleaning to you.
+[Halloween] I'm not used to being around little children... My clothes might get dirty... But, Happy Halloween, Commander.
+[Christmas] Are you enjoying Christmas? Ah, look look Commander, snow! What a wonderful scenery!
+[New Year's Day] Happy New Year! I hope we can also enjoy the next New Year Eve with everybody!
+[Valentine's day] Commander, I'm much indebted to you, so these are my true feelings! I just hope you don't dislike sweets.
+[Tanabata] Tanabata festival... I want to go, but my clothes will get dirty... What should I do...
+[Acquisition] Commander, how's my look now? Umm... let's shake hand properly this time.
+[Secretary] What is it, Commander? I'm currently busy. Please wait for three more minutes.
+[Secretary (post OATH)] Commander, even if you have a lot of work, don't slack on your appearance! Come, let me fix you up.
+[OATH] Commander, why are you so close? Uh, I don't dislike you, but...what...?! Really?! I've always been bothering you so much... Then...can I scoot a little closer to you?
+[Greeting] Hello, Commander. I will do my best today.
+[T-Doll Produced] New comrade has joined.
+[Joining an echelon] I just changed into a new clothes, great!
+[Enhancement] Look, I'm strong as expected.
+[Dummy-linking] Linking complete! Umm, can you please prepare a clean clothes.
+[Logistics (start)] Roger. I'll depart immediately.
+[Logistics (end)] I've returned safely. I'll be taking a bath.
+[Autobattle] How wonderful it is, to not dirtying your hands!
+[Title] Girls' Frontline!
+[Starting a combat mission] This prestigious mission, let's start!
+[Starting a battle] Enemy movement, prepare for counter attack!
+[Skill activation] I won't left any single enemy! Fire, fire!
+[Heavily damaged] Eh, my clothes got dirty... What should I do...
+[Retreat] Is this how far I can go? I wish I could advance for one more step...
+[MVP] Look, how is it? I can be useful for you too.
+[Restoration] Uuh, it's all got dirty! Commander, can you clean this?
+[Halloween] I will pass on that dirty clothes! Halloween costume? Aah, so that's it.
+[Christmas] Merry Christmas, Commander. Should I wear the dress I've prepared beforehand?
+[New Year's Day] Our endeavour last year has been paid off. Let's do our best again this year, Commander!
+[Valentine's day] Eh, a present? Ufufu, this is an order made necktie. I'll be happy if you like it.
+[Tanabata] My wish you ask? I wish I won't get dirty when I got home.

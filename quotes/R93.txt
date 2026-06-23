@@ -1,0 +1,25 @@
+[Acquisition] Hello Commander! BlaserR93 reporting! Hehe, a complete victory is guaranteed as long as I'm involved! If you don't believe me then... Do you want to make a bet?
+[Secretary] Aiya... I was so close to winning this week's lottery, what a pity. Commander, can you help me pick the numbers next time?
+[Secretary (post OATH)] Since I've been by your side, I've been able to accomplish many things without relying on getting lucky. But still I think it's because of you that I've been so very fortunate.
+[OATH] Commander, are you really picking me? I never thought a day would come that I'd be this fortunate off the battlefield... I must've used up all the luck I had left! But as long as I can be by your side, what use is luck anyways, right? Thank you, Commander... Not just my luck, I will give my all to you.
+[Greeting] Looks like something good will happen today!
+[T-Doll Produced] Oh? A lucky new kid has arrived!
+[Joining an echelon] Alright! We're all set!
+[Enhancement] My luck has gotten even stronger!
+[Dummy-linking] Commander, thank you so much! I'm feeling super lucky!
+[Logistics (start)] Today's fortunes are looking pretty good, so you should get something nice.
+[Logistics (end)] Oh, I was very lucky this time around!
+[Autobattle] Fear not, Commander! I'm always lucky when it comes to combat!
+[Title] Girls' Frontline!
+[Starting a combat mission] It's the start of a new game! I've got this match in the bag!
+[Starting a battle] You guys are lucky enough to go up against me.
+[Skill activation] I did not need luck to aid me in spotting you.
+[Heavily damaged] Ehehe, sorry about that. It seems like luck's run out.
+[Retreat] How...did we lose? No helping it now. Let's play another game.
+[MVP] Can you see it now? This is my trump card.
+[Restoration] I'm sorry, Commander. This time luck wasn't on our side.
+[Halloween] Do you want to know if the Commander will be surprised this year? Ehehe, there's definitely a winner this time! Uwaah! Now's no the time to be asking that!
+[Christmas] Look at all of these Christmas presents! You'll still need some luck to get whatever you want.
+[New Year's Day] Commander, Happy New Year! Surely you'll be blessed with new fortunes in the new year!
+[Valentine's day] In this some cases, you don't have to rely on luck!  For example, today you'll always receive chocolate from me!
+[Tanabata] I've heard that humans require luck to find someone to spend Tanabata with. Is that true, Commander?

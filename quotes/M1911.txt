@@ -1,0 +1,53 @@
+[Acquisition] What a fateful encounter! Never in my imagination would I have expected to meet you here, Commander.
+[Introduction] To stop tougher enemies, my homeland had started to develop a new standard handgun. And I became the winner in an unprecedented strict selection and was given the name M1911. I had made wonders in war times, and been well trusted after war for decades. Commander, please entrust me with your safety without doubt.
+[Secretary] Are you free?
+[Secretary (post OATH)] Darling, you need anything over there? We are already in this relationship, there need to be so courteous about is it ?
+[OATH] Commander, my feelings ... I guess it was finally rewarded ...oh ...oh, it's too hasty, I do not know what to do ... oh! I will do my best to fight back from now on!
+[Greeting] Hey there~ So, what are we going to do today ?
+[T-Doll Produced] Mechanical manufacturing complete!
+[Joining an echelon] Nice choice!
+[Enhancement] I can feel my Darling's love~
+[Dummy-linking] Upgrade done! There is a lot of me, and a lot of love~ !
+[Logistics (start)] Commander, I'm going out. Please don't let yourself feel too lonely!
+[Logistics (end)] Commander! I'm back. Did you feel lonely ?
+[Autobattle] Commander!!! I am right here! Hurry up and look at me~~ !
+[Title] Girls' Frontline!
+[Starting a combat mission] Advance!!! Be sure to wait for my return.
+[Starting a battle] The enemy is right there !
+[Skill activation] Here I shooooot~
+[Heavily damaged] As long as I have my love for Darling, I am invincible!
+[Retreat] Impossible... My power for Commander was not enough... ?
+[MVP] I did it! Darling~ ♥
+[Restoration] Are you done with emergency care? Commander, please be gentle with me.
+[Halloween] Trick or Treat! Come play together!
+[Christmas] Darling~ Let's spend Christmas just the two of us together!
+[New Year's Day] Happy New Year! Let's visit the shrine together.
+[Valentine's day] This is true feeling chocolate. It is full of my love. *giggles
+[Tanabata] I wish I could become your wonderful woman, that's what I wrote in my tanzaku!
+[Acquisition] This is certainly a fated resumption. How is it, commander. Do you dig my current appearance?
+[Introduction] To stop tougher enemies, my homeland had started to develop a new standard handgun. And I became the winner in an unprecedented strict selection and was given the name M1911. I had made wonders in war times, and been well trusted after war for decades. Commander, please entrust me with your safety without doubt.
+[Secretary] What are you doing, commander?
+[Secretary (post OATH)] Commander, do you need anything else? We already have this kind of relationship, don't you think you shouldn't hold back?
+[OATH] Commander, my feelings ...I guess it was finally rewarded ...oh ...oh, it's too hasty, I do not know what to do ...oh! I will do my best to fight back from now on!
+[Greeting] We meet again, commander. I feel so happy today.
+[T-Doll Produced] This is your belonging, commander.
+[Joining an echelon] Do you look at me properly, commander?
+[Enhancement] I truly appreciate that you trust me this much.
+[Dummy-linking] Upgrade done ! There is a lot of me, and a lot of love~ !
+[Logistics (start)] Commander, i'm going out. Don't get depressed too much please !
+[Logistics (end)] Commander! I'm back. Did you feel lonely ?
+[Autobattle] Commander !!! I am right here ! Hurry up and look at me~~ !
+[Title] Girls' Frontline!
+[Starting a combat mission] Commander, please put your faith on me.
+[Starting a battle] The time has come, commencing operation!
+[Skill activation] Open fire!
+[Heavily damaged] Eeh, on a place like this...
+[Retreat] I'm sorry, commander. Please don't assault me.
+[MVP] Ehehe, I devote this victory for you. I'll expecting my reward.
+[Restoration] Emergency care are done ? Please Commander, be gentle with me.
+[Halloween] Commander, how does the candied apple taste? Ehehe, you said you like it before, so I prepare it specially for tonight.
+[Christmas] Merry Christmas, Commander! M9 looks so pretty tonight. I'll throw away a picture with her! Ufufu, I'm joking.
+[New Year's Day] Commander, it's an honor to be with you for the entire year. I'll keep giving my best to keep being useful to you.
+[Valentine's day] Commander, the chocolate I gave you earlier have some letters engraved into it. Why did I do it you ask? I won't tell, ufufu.
+[Tanabata] Wow, to think such celebration exists. There is no need for me to wish for anything. I'm fine as it is.
+[Title] Girls' Frontline!

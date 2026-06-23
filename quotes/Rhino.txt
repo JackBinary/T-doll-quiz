@@ -1,0 +1,30 @@
+[Acquisition] Where is this place? This isn't the car heading back to the Stasi! Ah — so I'm a Griffin Doll now? Ah... this is a little sudden, my name is Rhino...
+[Secretary] Commander, I just tidied up the office and found this behind the bookshelf— Huh? Judging by your reaction, it seems I've stumbled onto something unbelievable...
+[Secretary (post OATH)] I'll take everything you say to heart and everything I say to you comes from the heart. I'm so glad I met you, Commander.
+[OATH] Commander, what's the meaning of this? Are you planning to trick me again...  If this is a joke, then I'll take it seriously, but... I want it to be serious. For the 110th time, you're seriously not bluffing me about this, right?
+[Greeting] Hello, Commander. I've finished sorting out the tasks for the day, and here is your coffee, brewed the way you like it.
+[T-Doll Produced] I've finished the vetting process for our new colleague.
+[Joining an echelon] So I'm to complete this mission as part of a team? Got it!
+[Enhancement] I've grown in various areas... Enhancement results obtained.
+[Dummy-linking] Mm, this feels very comforting.
+[Logistics (start)] I can go out at any time, all my stuff is prepared... Wait a minute, does playing Suomi's Christmas album really improve combat effectiveness?
+[Logistics (end)] Finally, it's over... I'll never trust the base rumors again! That's right, including what you say too, Commander!
+[Autobattle] Synchronizing data... completed. Leave the rest to me.
+[Title] Girls' Frontline.
+[Starting a combat mission] Switch to squad comms. Operation team, move out.
+[Starting a battle] Target locked, commencing operation.
+[Skill activation] Leave it all to fate!
+[Heavily damaged] Even if you do this... I won't be afraid of you!
+[Retreat] Mission terminated, squad, fall back.
+[MVP] Just as I promised, Commander.
+[Restoration] Sorry to cause you trouble.
+[Attack] There's a gap in the enemy's formation!
+[Halloween] Didn't you say there'd be no tricks if I gave you treats? Why did you still mess up my documents... Oooooh, that does it, it's time for pistols at dawn!
+[Christmas] I wrapped presents and decorated a Christmas tree as requested, so when will we be exchanging gifts... Huh? It's not an official event?
+[New Year's Day] Happy new year, Commander! I heard the Dolls on the base say that I'll be very lucky if I gave them red packets today. Ah... they bluffed me again!?
+[Valentine's day] Commander, please accept this chocolate I made for you as thanks for taking care of me all this time. Um... that's all I meant... I'm not planning anything weird!
+[Tanabata] Are you viewing the moon too, Commander? The moon tonight doesn't seem particularly special compared to before...
+[Defense] Fill the gap in our formation!
+[Phrase] I was tricked again?
+[Tip] Is there anything I can help you with? No, not Among Them! I'll believe everything the others say!
+[Loading] It's been a while, if only I could have a cup of coffee.

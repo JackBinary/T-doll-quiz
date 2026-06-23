@@ -1,0 +1,26 @@
+[Acquisition] So I only need to report to you, Commander? ...Then according to the rules, I belong to you now.
+[Introduction] I'm CETME's Ameli Light Machinegun, officially entered service for the Spanish armed forces in 1982. Compared to similar type MGs, I am one of the lighter ones, but due to production quality being poor, the gun parts frequently suffer from all kinds of problems... Commander if you don't mind, you can still make use of me, sort of.
+[Secretary] I can't understand complicated things... Commander you just have to tell me the conclusions.
+[Secretary (post OATH)] Commander, this is the button that felt off last time... Please sew it back on when you have time for me.
+[OATH] Commander... This isn't against the rules? Looks like I have to make my own choice this time then... If this is what you want, then I suppose... It can't be helped...❤
+[Greeting] At time, as prescribed.
+[T-Doll Produced] Newcome, please, hold this button.
+[Joining an echelon] Is it here? Understood.
+[Enhancement] Do I meet your standards, Сommander?
+[Dummy-linking] If nothing it's decided, then let's decide it with rock-paper-scissors.
+[Logistics (start)] Will be back within the specified time.
+[Logistics (end)] I guess the specified time wasn't exceeded?
+[Autobattle] Ah... I can do it the way I like... I'll try.
+[Title] Girls' Frontline!
+[Starting a combat mission] Final spareparts check is complete. There should be no problem.
+[Starting a battle] I will defeat accordingly to what was required.
+[Skill activation] It is my turn.
+[Heavily damaged] My button got like this again... I wonder how many times it happened.
+[Retreat] I'm not allowed to fail I'm sorry.
+[MVP] Anyway since we're won, that means objective is completed, which is a good thing.
+[Restoration] Let's fix the equipment first.
+[Halloween] I'm sorry, the button seems to have fallen into the candy box, did you see it? Ah ... Commander, what are you eating?
+[Christmas] Merry Christmas, commander. Let's give a button to Santa immediately as it is.
+[New Year's Day] Uh ... Every year at this time, I feel tight. Shall we buy new buttons with new year balls?
+[Valentine's day] The commander, would you like this chocolate, right? Isn't it a festival like this?
+[Tanabata] Commander, can you teach me how to write my wish? Also can I write for you too? Ah... no good?

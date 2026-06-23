@@ -1,0 +1,31 @@
+[AUG] Live2D
+[Acquisition] Commander, if you wish to send flowers to the enemy's funeral...then I am the perfect choice.
+[Secretary] We are tools used to replace humans on the battlefield. Therefore, a human life is saved every time we die in their place.
+[Secretary (post OATH)] Commander, it seems like it will rain soon. Would you like to go for a walk? ...Bring a smaller umbrella so we can be closer together...
+[OATH] Haha... The floral fragrance here exudes an aura completely opposite of mine. I've always thought that only sorrow can make a person cry... If what I am feeling now can be expressed by tears...then I might not be able to stop myself.
+[Greeting] Well then......It's time to move out.
+[T-Doll Produced] I wonder what sort of flowers will bloom this time?
+[Joining an echelon] Being together with everyone is my honour.
+[Enhancement] May this power continue to bloom......
+[Dummy-linking] At this rate, the number of funerals shall increase once more.
+[Logistics (start)] Alright, let us proceed as planned.
+[Logistics (end)] Commander, I've brought the goods you desired.
+[Autobattle] The enemy will not escape our pursuit.
+[Title] Girls' Frontline!
+[Starting a combat mission] I shall let this scent envelop the battlefield.
+[Starting a battle] Allow me to offer up your funeral......
+[Skill activation] Allow me to deliver your death......
+[Heavily damaged] Blood and tears......It's all the same to me.
+[Retreat] Everything......has wilted......
+[MVP] The battlefield is a place where one must trample over flowers for the sake of victory.
+[Restoration] I will not forget this pain......
+[Attack] Don't get too far from the target.
+[Halloween] With the mere presence of some kids with candy, even this silent night has become a little more endearing.
+[Christmas] Haa......Whenever this season comes around, I struggle to keep awake. Alas, no matter how satisfying my slumber, Santa's gift will never arrive.
+[New Year's Day] The past has come to an end. It is time to welcome a new beginning.
+[Valentine's day] The commander's office is full of the scent of chocolate. It must be blissful to work in such an environment.
+[Tanabata] I once made a wish, that my tears could flow. But now......I've given up on that.
+[Defense] Attack in moderation.
+[Phrase] It's over.
+[Tip] This flower......It's emitting such a sweet scent.
+[Loading] Commander, bring this flower along with you.

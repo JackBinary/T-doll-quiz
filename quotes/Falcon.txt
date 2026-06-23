@@ -1,0 +1,26 @@
+[Acquisition] Ahoj! Little Lamb... ah, no, Commander! Please, just call me Falcon.
+[Introduction] (Ditto)
+[Secretary] It seems that I broke something again...huh? What was that, Little Lamb? ...A complete lack of talent? Ahahaha, just who are you referring to? How stupid~
+[Secretary (post OATH)] Hey! You're forbidden from looking at the sheet music in that drawer! Those are love songs I wrote to play for our anniversary, and I'm not ready to show them to you right now!
+[OATH] Little lamb, is, is that ring in your hand really for me? Why do you always do these things that go beyond my instincts, so cunning... I love it! Little lamb, you're the best...
+[Greeting] You've arrived, Commander! Mind if I call you "Little Lamb" today?
+[T-Doll Produced] A new friend has arrived. Are you interested in shepherds by any chance~?
+[Joining an echelon] Hmm~ what a lovely intro that was~
+[Enhancement] Ohhh! I could get used to this!
+[Dummy-linking] An ensemble would seem likely.
+[Logistics (start)] Whatever Little Lamb wants, Falcon shall retrieve. Alright, I'm heading out now.
+[Logistics (end)] I'm back! Little Lamb, were you waiting to hear my performance?
+[Autobattle] Now that's an old map...leave it to me.
+[Title] Girls' Frontline!
+[Starting a combat mission] Come on, let's play the song of victory together!
+[Starting a battle] My falcon's eye has found the enemy.
+[Skill activation] You can't escape from my eyes.
+[Heavily damaged] Ahh...Little Lamb, why does it hurt so much...
+[Retreat] Ugh...sometimes a detour is necessary.
+[MVP] Ahaha! Just as I expected~, you won't win by just sitting around~
+[Restoration] Ugh...in that case, let me slow down a little...
+[Halloween] Oh...? Aren't they overreacting a little? It's Halloween, isn't it? I just felt like walking around singing about ghosts. Why is everyone running away screaming?
+[Christmas] Hey, look! I found this under the Christmas tree! It's that super rare record that I was asking for! Little Lamb, I couldn't be any happier! There's so much delicious food...it's so nice and warm inside...and on top of that: THIS PRESENT! Ahhh...Christmas...really is the happiest day!
+[New Year's Day] Uwaah...! Little Lamb...I've finally found you...! There's so many people here and there in this festive event...let' get out of here as soon as possible...otherwise, we'll get dragged into Hatsumōde.
+[Valentine's day] Uwaah...! Little Lamb...are you okay? Why does your complexion look so bad after you ate my chocolate? Even though I have my own special techniques for cooking...how strange...that doesn't mean that you'll be spending the rest of Valentine's Day in the hospital...right?
+[Tanabata] What do I...wish for? When the war ends...wait, that's not something that I should reveal to you! Now I'm mad! I'm going to erase the Little Lamb's room from my future ranch designs.

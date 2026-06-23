@@ -1,0 +1,23 @@
+[Acquisition] I'm Type 97 Shotgun! I'm honored to be able to follow you, commander. Please use me through and through!
+[Secretary] Commander, are you going to sortie soon? I'll going with you.
+[OATH] I've realized your feeling since long time ago. But having you say it directly like this is kind of embarrassing. How about taking a walk with just the two of us?
+[Greeting] Ah, is it you commander? Today is peaceful as always. But we should stay vigilant.
+[T-Doll Produced] A new member is coming.
+[Joining an echelon] Understood, I'll protect everyone!
+[Enhancement] This power, I'll treasure it!
+[Logistics (start)] I'll protect everyone, it would be fine!
+[Logistics (end)] I've returned safely. There's no need to worry when I'm around.
+[Autobattle] There's nothing to be scared of, because I'm here!
+[Title] Girls' Frontline!
+[Starting a combat mission] It's time for sortie! Let's carve a path to victory!
+[Starting a battle] How reckless, bring it on!
+[Skill activation] Stop right there!
+[Heavily damaged] D-don't mind me! Protect the supplies!
+[Retreat] This is just temporary result... so please don't give up!
+[MVP] Everything that hampered our path has disappeared. In other words, it's our victory!
+[Restoration] I'm not being unreasonable...
+[Halloween] It's good to enjoy an event like this. Once in a while, taking a breather is important. I've prepared candies for everyone as well.
+[New Year's Day] Commander, Happy New Year. Make your new year greeting short, ufufu. I want to quickly eat Springfield's handmade cooking.
+[Valentine's day] I hate being roundabout. That's why, please take this!
+[Tanabata] I give this starry sky a perfect score... since it's so beautiful. Also I have wrote my wish and hang it on the bamboo. All you have to do is waiting for your wish to come true.
+[Title] Girls' Frontline!

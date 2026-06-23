@@ -1,0 +1,32 @@
+[Acquisition] Good afternoon.....I.....Eh.....nothing......
+[Introduction] AS Val low noise assault rifle, produced mostly for recons and special operatives. "Val" means "Big waves", with the specially designed suppressor and sub-sonic rounds, compare to other low noise weapons of similar range I have more destructive power and even lower noise.
+[Secretary] Ah? Me?
+[Secretary (post OATH)] Commander Can I bring my friends here the next holiday? Everybody was happy last time, don't you think so?
+[OATH] Ehh? You...? Me...? Teddy...? Ahh no, that doesn't count! Anyway! Thank you for cherishing me like this, I will work hard to pay you back Commander!
+[Greeting] Hello.
+[T-Doll Produced] Construction is over it seems.
+[Joining an echelon] Count on me...
+[Enhancement] My body feels hot...
+[Dummy-linking] Dummy linking complete. It's getting a little noisier.
+[Logistics (start)] I'm off, Teddy can come with me too.
+[Logistics (end)] I'm back, I've grown up a little no?
+[Autobattle] Count on me here.
+[Title] Girls' Frontline!
+[Starting a combat mission] I chose to fight...
+[Starting a battle] Be careful...
+[Skill activation] Target confirmed... Fire!
+[Heavily damaged] Critically damage...
+[Retreat] Re... Retreating...
+[MVP] All thanks to Teddy.
+[Restoration] Uuu, please fix my Teddy too.
+[Halloween] Halloween ... It's so noisy, I'm not fond of it.
+[Christmas] Who decorate the tree with my Teddy? That's so mean!
+[New Year's Day] The new year has begin, Commander. Did I grow up a little into an adult? Eh, Teddy is getting bigger? That's because... I just washed him earlier.
+[Valentine's day] It's valentine... Commander, do you want something? I won't give you Kuma though.
+[Tanabata] Tanabata? I'm satisfied with the current situation, I don't have any wish in particular.
+[Acquisition] I will no longer regret over the past Commander, from now on, I will show you my courage, for Teddy too.
+[Introduction] AS Val low noise assault rifle, produced mostly for recons and special operatives. "Val" means "Big waves", with the specially designed suppressor and sub-sonic rounds, compare to other low noise weapons of similar range I have more destructive power and even lower noise.
+[Secretary] You believe that I'm more enthusiastic than before? I only think I should be contributing more since I've been granted more strength.
+[Secretary (post OATH)] You wish to speak to me...? Ahh! Wai... hold on, let me put teddy away, can't let him know about this! Somethings are not meant to be shared, not even with friends! That's too embarrassing!
+[OATH] Ehh? You...? Me...? Teddy...? Ahh no, that doesn't count! Anyway! Thank you for cherishing me like this, I will work hard to pay you back Commander!
+[Title] Girls' Frontline!

@@ -1,0 +1,26 @@
+[Acquisition] I'll be in your care from now on, Commander!
+[Introduction] Hola, Commander! I'm Astra Model 357. 357 refers to the .357 Magnum round, even the bullet is more famous than me, haha... After serving as a police revolver for over 10 years, my production stopped when the company folded. Sigh... that was a firearms company with a long history, I guess I'm the last witness...
+[Secretary] I'm hungry...
+[Secretary (post OATH)] Commander, you didn't finish the story you told me last time. Come to my room and tell me the rest some time!
+[OATH] Eh? Commander, so suddenly... you really mean it? Mhm! Of course, I'm okay with it. Today I'm so happy!　Can you give me a hug?
+[Greeting] Welcome back. Let's eat!
+[T-Doll Produced] A new weapon is coming.
+[Joining an echelon] I'll do my best~
+[Enhancement] I could still go for another 10 meals~
+[Dummy-linking] Ooh, there are lot of me! Don't take away my food.
+[Logistics (start)] Come on come on, let's depart!
+[Logistics (end)] I'm back~ Aah~ Looks like I got kinda hungry~
+[Autobattle] Here here, look at me!
+[Title] Girls' Frontline!
+[Starting a combat mission] Anything's possible if you do it with spirit!
+[Starting a battle] Is it fine to fight?
+[Skill activation] Prepare! Commencing fire!
+[Heavily damaged] Uugh... It hurts...
+[Retreat] I want to eat pudding...
+[MVP] My reward is, chocolate looks good~
+[Restoration] I got beat. I'll fill my stomach first once we get home.
+[Halloween] Commander, what should I do ... I just ate FNC's snacks by accident, and now she's crying ... Ah, I'm so sorry ...
+[Christmas] When I give FNC that cake, she looks so happy, thank goodness. Well then commander, Merry Christmas!
+[New Year's Day] Happy New Year! I look forward to my new year shopping~
+[Valentine's day] Eeh, I should hand over the chocolate? I thought it was fine to eat it. Too bad, you can have it.
+[Tanabata] I was looking forward to the festival ... I want to see if the yukata suits me ...

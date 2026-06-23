@@ -1,0 +1,21 @@
+[Acquisition] Ooh! Nice to meet ya, Commander! You look like an interesting person.
+[Introduction] (As above)
+[Secretary] That one toy? Ah, I've gotten bored of it. By the way Commander, do you have something new? Give it to me!
+[Secretary (post OATH)] Hey Commander, I've been thinking that swimming looks really fun lately. So, will you take me to the pool? What? My water resistant property isn't that good? Can't be helped then. Take me to water park instead!
+[OATH] Got something cool to show me, Commander? An Oath? Oh, sure! In return, please keep this certificate I ordered. An Oath is meant to be exchanged, right?
+[Greeting] You're finally come back. I've been waiting for ya.
+[T-Doll Produced] There's a new recruit you say? Let's take a look together.
+[Joining an echelon] If you make me the squad leader, mission will go more smoothly!
+[Enhancement] Not bad! Commander, one more time!
+[Dummy-linking] Ooh! I can use all these dummies to pull an interesting prank!
+[Logistics (start)] Heheh, I can't wait to see what kind of way we'll encounter later.
+[Logistics (end)] I've returned! How's the souvenir?
+[Autobattle] I'll play a lot with the prey!
+[Title] Girls' Frontline!
+[Starting a combat mission] Let's go and get the enemy!
+[MVP] I've fight to my heart content. Thanks, Commander!
+[Restoration] No need to worry, this is just a scratch. I'll take a rest, see ya later.
+[Halloween] I've been excitedly waiting for today! Come Commander, change into this! Let's scare the enemy away while you're dressed as the devil!
+[Christmas] Huh, you're already up? I plan to put the present while it's still dark. Since it turned out like this, I'll just give it directly.
+[New Year's Day] I have my own plan for this year's new year party, make sure to come later okay? Also... don't forget about my new year money.
+[Valentine's day] Just giving you chocolate would be boring, don't you think so? Come here, there's chocolate fondue for you!

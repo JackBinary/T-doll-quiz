@@ -1,0 +1,55 @@
+[Acquisition] Type 100 (Sakura) standing at attention. Commander, from today onwards, please teach me well.
+[Secretary] Commander, please inform me of any possible places where I can be utilized.
+[Secretary (post OATH)] Commander, good work today. I’ve heated up the bath for you, or do you wish to talk a bit first?
+[OATH] Commander, sorry… At first, I wanted to be perfect, to win your approval… But now, is whatever I’ve done enough? ...Whatever the case, I will not back down. I will continue to work my hardest for you.
+[Greeting] Commander, let's work together as well today. Type 100 will do her utmost.
+[T-Doll Produced] A new comrade has entered.
+[Joining an echelon] Type 100, joining the operation. I will do my best.
+[Enhancement] Hmm. I want to remodel a few things.
+[Dummy-linking] Thank you for raising us, Commander.
+[Logistics (start)] I'll be going. Your order, I will definitely accomplish it.
+[Logistics (end)] I'm back. I'm sorry Commander, I can only bring back this much.
+[Autobattle] Everyone, I'll be needing your help.
+[Title] Girls' Frontline!
+[Starting a combat mission] Type 100, preparation complete, going out.
+[Starting a battle] E-enemy spotted, commence attack!
+[Skill activation] Get down!
+[Heavily damaged] Aah, even though I went through a lot to prepare for this, now I can't use it at all.
+[Retreat] Next time... I hope I can shoot more bullets...
+[MVP] I'm glad, it's our victory.
+[Restoration] My apologies. I should have done better...
+[Halloween] Look out the window. It seems like the Parade of One Hundred Demons is here. Seems interesting.
+[Christmas] Merry Christmas, Commander. Eh, I look like I'm not enjoying this? You're right, but I love beautiful decorations.
+[New Year's Day] Commander, Happy New Year. Let's make the new year enjoyable and do our best together!
+[Valentine's day] Commander, here is my chocolate. I want to make a perfect one, but it ended up standing out too much.
+[Tanabata] Has the day to make a Tanabata wish arrived? I don't know what to ask for. Is it cheaper to spend more, I wonder?
+[Acquisition] Thank you for your concern, Commander. 100 Shiki... 100 Shiki will always follow you and always continue improving!
+[Secretary] 100 Shiki is honored to be able to follow you and complete your orders, Commander.
+[Secretary (post OATH)] Commander, your smile is like the cherry blossoms blooming... Ah, I can't believe I said that...
+[OATH] I'm sorry, Commander... I'll do my best to be more perfect and earn your approval... I won't just stand in place!
+[Greeting] Nice to meet you, Commander.
+[T-Doll Produced] A new colleague has joined us...
+[Joining an echelon] 100 Shiki will work harder, so don't worry, Commander!
+[Enhancement] I feel... I feel like I can do more for you now, Commander...
+[Dummy-linking] Commander, thank you for nurturing me!
+[Logistics (start)] I'm heading out... I will carry out your instructions.
+[Logistics (end)] I'm back... I'm sorry I only brought back this much.
+[Autobattle] Everyone, I'm here to help!
+[Title] Girls' Frontline!
+[Starting a combat mission] Yes, 100 Shiki will proceed with all haste!
+[Starting a battle] Enemy attack! Repel them!
+[Skill activation] Seize their weakness!
+[Heavily damaged] Was I... pushing myself too hard... I don't want to disappoint the Commander...
+[Retreat] We must prepare more thoroughly next time.
+[MVP] We won! Commander, 100 Shiki did not disappoint you!
+[Restoration] My sincerest apologies, Commander... I wanted... to do better...
+[Attack] Charge! Forward!
+[Halloween] Commander, quick, look outside the window... It looks like the Night Parade of one Hundred Demons... It seems kind of fun...
+[Christmas] Merry Christmas, Commander. Huh? I don't look like I'm interested in this sort of thing... Well, that's true... But I like pretty decorations...
+[New Year's Day] Happy New Year, Commander. I hope our new year will go well. Let's do our best.
+[Valentine's day] Commander, this is... my chocolate. I wanted to make it more perfect, but I think I went too far...
+[Tanabata] Tanabata... Is that a day of making wishes? I'm not too sure what kind of wish I should make... Maybe something to make my life easier, I guess...
+[Defense] Defend! Hold fast!
+[Phrase] Nice to meet you.
+[Tip] 100 Shiki would like to mention something.
+[Loading] A moment please, Commander.

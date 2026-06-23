@@ -1,0 +1,26 @@
+[Acquisition] Commander? Don't expect too much from me okay~?
+[Introduction] Mmmm? Me? After a huge amount of selection and tests, finally being named M249 Squad Automatic Weapon (SAW). Even though continued to be modified through actual combat, but still quite impossible to satisfy everybody's needs, so a passing grade will suffice right?
+[Secretary] Eh? What did you say? I didn't hear you just now.
+[Secretary (post OATH)] Ehh? I did a good job today? Can't help it, you were starring at me the whole time, I did put some effort into the work since I didn't want to disappoint you...
+[OATH] Commander did I hear it correctly, are you serious? When did this happen? Whatever really... I'm just joking, I'll be a bit less lazy from now on, just for you, be grateful okay?
+[Greeting] Morning Commander... Anything you want? Other wise I'm going back to sleep...
+[T-Doll Produced] Ahh, new recruit...
+[Joining an echelon] Alright alright, I got it.
+[Enhancement] Hmmm? You actually know your stuff...
+[Dummy-linking] Not bad, so many fluffy looking me... Oh no, did I just become even lazier...
+[Logistics (start)] Alright, just get it done?
+[Logistics (end)] I'm back, is this good enough?
+[Autobattle] This kind of operation, I'll just wing it.
+[Title] Girls' Frontline!
+[Starting a combat mission] Earlier we leave, earlier we come back.
+[Starting a battle] Live combat? Looked forward to this actually.
+[Skill activation] You lot aren't even strong.
+[Heavily damaged] Eh! This is bad... Somebody give me a magazine!
+[Retreat] Can't handle it with this kind of attitude... Then next time I'll be serious.
+[MVP] Wow... Unbelievably easy, maybe I can slack off a bit next time.
+[Restoration] Commander, I will improve for next time, so... please don't deny me.
+[Halloween] This kind of festival is super annoying, costumes and field trips... Mmmm? Don't want to go? I never said that though.
+[Christmas] Merry Christmas, Commander. It's a busy period of time but I too am doing my best... at sleeping.
+[New Year's Day] Commander, Happy New Year. Eh, you want to to be more diligent than last year? I'll give you a good result, there's nothing to worry about.
+[Valentine's day] Looks like everyone got their present. There's one from me too. It would be nice if I got something fluffy in return.
+[Tanabata] My wish huh... The current situation isn't half bad. Everyone is already here with me... Commander too.

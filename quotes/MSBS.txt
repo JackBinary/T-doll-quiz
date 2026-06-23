@@ -1,0 +1,30 @@
+[Acquisition] Commander, MSBS reporting! Am I the first newcomer today? Wait, really?
+[Secretary] Are you looking for a ballistic rangefinder? I haven't seen anything like that around. I did see an interesting telescope-like thing though, and I messed around with it a little. Yup, it's the one on your table... I mean, it was totally asking for it, lying out there in the open to tempt me and all!
+[Secretary (post OATH)] Today's breakfast tastes great! Where did you get it? What, you made it yourself?! Ugh... This is bad, I'll be the one to make breakfast next time, I'll make sure it tastes better than this!
+[OATH] Commander, this is... Oh, I know! It's the proof that you've acknowledged me, right? All my efforts to this day have been aimed at proving that I'm the best doll of them all. It's been like that in the past and it'll continue to be like that in the future! So please keep watching me as I surpass all my opponents and rush ahead of the pack!
+[Greeting] Commander, I'm the earliest today, right?
+[T-Doll Produced] Commander, the newcomers are ready for onboarding!
+[Joining an echelon] MSBS reporting, ready to fight alongside everyone else! Where are your weapons? Why are you hiding them?
+[Enhancement] I don't feel very enhanced... How about doing it a few more times?
+[Dummy-linking] My seniors said that they would take care of my dummies for me when I wasn't using them. Honestly, it's not like I'd do anything to them...
+[Logistics (start)] Since we need to carefully investigate this place, I won't be so hasty going there and back... As for why I'm carrying all these bags... Well, I don't get to go out often, so I Need to bring more stuff back!
+[Logistics (end)] I found lots of fun parts outside and I brought them all back! What's with that look on your face? They're really parts! I didn't touch a single one of them!
+[Autobattle] I won't disappoint you!
+[Title] Girls' Frontline!
+[Starting a combat mission] I'll bring the best results back for you!
+[Starting a battle] None of you will escape!
+[Skill activation] Next!
+[Heavily damaged] Never mind me, my wounds aren't that bad... What? The enemy has the advantage? Help me up right now!
+[Retreat] My seniors must be really disappointed...
+[MVP] I'm a long way off from my seniors~!
+[Restoration] What an intricate mechanical design, and taking it apart is pretty difficult too... Eh? It uses the repair parts from my body?!
+[Attack] Ammo locked and loaded. Watch me break through the enemy formation!
+[Halloween] Commander, I got lots of candy from my seniors after dressing up as a monster! I can't finish them all by myself though, so help me share them with the other kids!
+[Christmas] You need a big enough tree to hold enough presents for everyone. Just give me a bit. I'll bring a big one back from outside the base!
+[New Year's Day] Happy New Year, Commander! It'll be a brand new day after midnight tonight. Instead of sleeping, let's party, party, party~!
+[Valentine's day] I added some extra food glue to this batch so you could taste it sooner. Although I'm not sure how it tastes, I'm sure it won't be too bad. Try it!
+[Tanabata] So I can wish for dexterous hands today? I wonder if it'll upgrade my parts...
+[Defense] Meh, it's only an enemy advance. Let them come!
+[Phrase] Number One!
+[Tip] Every time I look my seniors up to have fun, I get so embarrassed when I see how neat and tidy their rooms are, without a single bit of extraneous junk in them! Huh? Did you just say their rooms were full of stuff when you went to look at them? Seriously?!
+[Loading] If we keep waiting like this, we'll waste all our time!

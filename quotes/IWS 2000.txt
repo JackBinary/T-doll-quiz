@@ -1,0 +1,26 @@
+[Acquisition] IWS2000 (Steyr 2000) reporting, Commander, let me become your strength!
+[Introduction] ditto
+[Secretary] Commander, Do you need help? Any tasks are fine.
+[Secretary (post OATH)] I'm wearing the hairband you gave me today as well. Although it has been dropped a few times, I have always found it back.
+[OATH] I…… have always anticipated for this day. To gain your trust, to be relied upon by you, this was the reason why I existed here…… Now, please let me stay by your side, Commander.
+[Greeting] Commander! I'll fetch the files now... Ehh, where did I put it?
+[T-Doll Produced] Let me guide the new girl.
+[Joining an echelon] Please entrust me for this task!
+[Enhancement] I will cherish this strength.
+[Dummy-linking] Great! I will be of a greater help to everybody!
+[Logistics (start)] To meet the objective, I will be leading everyone.
+[Logistics (end)] Commander, are you satisfied enough with this result?
+[Autobattle] I will continue to work hard, for the sake of not disappointing everyone's hope in me.
+[Title] Girls' Frontline!
+[Starting a combat mission] This battle, please let me handle it!
+[Starting a battle] Everyone, be careful!
+[Skill activation] I won't lose to anyone with my firepower.
+[Heavily damaged] ...What an ugly state, I can't let the others see me like this.
+[Retreat] No... I can't accept this kind of defeat!
+[MVP] Keeping this up, the Commander will rate highly of me!
+[Restoration] Sorry, I brought everyone trouble.
+[Halloween] How would you like to spend tonight? First of all, I prepared about a hundred ghost stories!
+[Christmas] Commander, Merry Christmas! Today I will be Santa and give everyone presents!
+[New Year's Day] From now on, please feel free to rely on me. I'll make all your New Year wishes and victories come true.
+[Valentine's day] Um, I put all my heart and energy into making this chocolate, so, please take it with peace of mind and - wah! I dropped it!
+[Tanabata] Today, there are people whose wishes come true. Well, when will my wishes be...? Wah, no! It's nothing!

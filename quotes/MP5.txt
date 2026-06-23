@@ -1,0 +1,24 @@
+[Acquisition] MP5, reporting in. Sma... I might be a bit small but I will definitely help out!
+[Introduction] To combat the extreme world situation, competition for new generation of SMGs started. In the end, me, MP5 emerged from all the competitors. From a insignificant design, to the standard armament of many nation's law enforcement agencies and special forces. High accuracy and low recoil, can easily be operated even with just one hand.
+[Secretary] What is your favourite colour Commander? Mine is black.
+[Secretary (post OATH)] I'll help out with your work Commander... Don't treat me like a kid any more, okay.
+[OATH] Commander, This... This is for me? Despite me being tiny, in every aspect, I can still be by your side? ...Yes, Yes I will!
+[Greeting] Please guide me today too.
+[T-Doll Produced] Looks like we have a new member.
+[Joining an echelon] I... I'll do my best!
+[Enhancement] If only my chest can grow with it...
+[Dummy-linking] Squadron expanded? Then, has my body expanded to... Ehhh!! Nothing!
+[Logistics (start)] Ok! ...Then I'm off!
+[Logistics (end)] I'm back, have my body changed at all?
+[Autobattle] This time, I will give it my best shot.
+[Title] Girls' Frontline!
+[Starting a combat mission] I fight for peace!
+[Starting a battle] Wh...What to do...?
+[Skill activation] Prepare... Fire!
+[Heavily damaged] Ahh!! This is so annoying~~
+[Retreat] I... I'm really no good...
+[MVP] Emmm~ We won at last.
+[Restoration] I'm so sorry, I think I will need adjustments again.
+[Halloween] Commander, today is my favourite day of the year! Everyone always give me so much sweets, hehe.
+[Valentine's day] I... I made some chocolate! If you don't mind, please help yourself to it!
+[Title] Girls' Frontline!

@@ -1,0 +1,50 @@
+[Acquisition] I am Ribeyrolles 1918; I'll be in your care from now on. I would appreciate it if you were to add an extra bed to the sick bay for me...
+[Secretary] The blood bag? Don't worry, I'm not dying...
+[Secretary (post OATH)] Commander, today as well please take care of my injury. You're the best in this aspect after all.
+[OATH] Commander, is this really alright? Until now I've only do nothing but giving you troubles. If this is absolutely necessary, I won't say no. Because right now, I can only rely on you, Commander.
+[Greeting] Has my medication been resupplied?
+[T-Doll Produced] Is anyone there?
+[Joining an echelon] I'll show you my strength!... Hopefully...
+[Enhancement] Does this really make me stronger? Maybe... Can I take some of this to my bed for medicinal use?
+[Dummy-linking] Would you please prepare another bed in the sick bay?...
+[Logistics (start)] If it's just going out, perhaps, it'll be fine.
+[Logistics (end)] I've fallen over so many times, but I barely made it.
+[Autobattle] Commander, please pray so I can make it back alive.
+[Title] Girls' Frontline!
+[Starting a combat mission] I've prepared the bandages. Let's heading out.
+[Starting a battle] There's no helping it.
+[Skill activation] So my hand won't tremble.
+[Heavily damaged] Ugh, this is prone to happen.
+[Retreat] There's no need to feel down. Rest assured, I'm used to it.
+[MVP] We won? Ah no, I'm just a little surprised.
+[Restoration] Just give up already. No matter how many times I get repaired, this is always happened.
+[Halloween] Ah, Commander, this bandage is not a mummy disguise. Please don't touch it.
+[Christmas] I fell when I was trying to decorate the christmas tree earlier. But it's alright, it only made my body clanking.
+[New Year's Day] Commander, you managed to survive this year. Are you not happy?
+[Valentine's day] Commander, please take this chocolate. I tried to make from ingredients that I don't need to buy.
+[Tanabata] I could ask for good fortune with just one wish. That sounds a bit too good to be true, even for God.
+[Acquisition] Commander, Ribeyrolles reporting... My body doesn't feel so weak now...
+[Secretary] Don't worry... My hands won't be scalded so easily now.
+[Secretary (post OATH)] ...I didn't think that someone like me would gain your attention. You've done so much for me, so in future... In future, I'll do my best to take care of you too, just like before... when you were taking care of me...
+[OATH] Commander, is this... really alright? Am I not causing you a lot of problems... Still, if you insist on doing this, I won't say no... After all, I can't rely on anyone aside from you now...
+[Greeting] I, I can start working right now!
+[T-Doll Produced] Are we getting a newcomer? I hope we can practice together.
+[Joining an echelon] I'll do my best this time...
+[Enhancement] So I HAVE become stronger... This feels quite reassuring.
+[Dummy-linking] Another bed in the ward... Thank you.
+[Logistics (start)] If we're just heading out, it shouldn't be a problem...
+[Logistics (end)] Although I tripped and fell over many times... I guess it turned out well.
+[Autobattle] Commander, please pray that I'll come back alive.
+[Title] Girls' Frontline!
+[Starting a combat mission] I don't need my bloodbag, let's just head right out.
+[Starting a battle] Careful, prepare to engage!
+[Skill activation] Allow me.
+[Heavily damaged] Ugh, I guess it wasn't enough after all...
+[Retreat] We have to retreat... But I'm not happy with this...
+[MVP] We won at last! Whew-- Looks like all my training finally paid off.
+[Restoration] Don't bother, you won't be able to finishing fixing it all...
+[Attack] Please witness the fruits of my training!
+[Defense] ...Ow, that hurts!
+[Phrase] Mm... I'm listening.
+[Tip] Ah...
+[Loading] Is it okay... If we go this way?

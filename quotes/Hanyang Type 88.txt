@@ -1,0 +1,52 @@
+[Acquisition] Welcome to the CA club! Hanyang Type 88, it's a pleasure to be of service to you, master.
+[Introduction] A domestically made rifle based on G88, Type 88 Hanyang. As one of the earliest produced weapon, I was part of many important revolutions and patriotic wars, I'm filled with the memories of that era. It is my honor to appear before you, right now, in my brand new appearance. So, welcome, Master.
+[Secretary] It'll be hot out for the next few days, huh?  Though for me, it's not a big deal.
+[Secretary (post OATH)] Master what would you order today? Bath water? Dinner? Or my... Special good night sleep?
+[OATH] What are your orders right now Master? Ehh- You want Ai...? That's... That's fine. But you have to be responsible for now ok? Alright then, Master, please take good care of Ai from now on.
+[Greeting] Ah, Master, welcome back.
+[T-Doll Produced] New companion, do you want to be a maid too?
+[Joining an echelon] Nice to meet you. Ahh, would you like a cup of coffee?
+[Enhancement] Ummuu... Grown up a little no? Not too shabby.
+[Dummy-linking] The shop is expanded. Master have to work hard too!
+[Logistics (start)] Going out to procure food materials.
+[Logistics (end)] I'm back! Is the shop ok?
+[Autobattle] Dessert after the main course coming up~ Do enjoy.
+[Title] Girls' Frontline!
+[Starting a combat mission] Please witness the power of a senior worker!
+[Starting a battle] Disruptive guests are not welcome!
+[Skill activation] Yes~ On my way!
+[Heavily damaged] Uuuu... Please don't bully Ai.
+[Retreat] Could this be... The signs of bankruptcy? No, I can't give up!
+[MVP] Everything up to the satisfaction of Master, please await my return.
+[Restoration] I'm sorry, master... Please take care of Ai this time.
+[Halloween] Halloween? Master, please visit the shop, we have more Cosplay event for everyone!
+[Christmas] Merry Christmas! Won't you be participating in the shop's christmas event? You might score a jackpot you know.
+[New Year's Day] Master, Happy New Year. How do you want to spend the new year? How about enjoying some coffee in leisure?
+[Valentine's day] Look at this, Master. It's my special chocolate cake, ufufu. Its magical taste... please enjoy it to your heart content.
+[Tanabata] Take care of yourself, Master. Tanabata night where we will spend our time together will become a hot one. Eh? I was talking about the climate.
+[Acquisition] Greetings, master. Starting today, I'll provide a brand new service.
+[Introduction] A domestically made rifle based on G88, Type 88 Hanyang. As one of the earliest produced weapon, I was part of many important revolutions and patriotic wars, I'm filled with the memories of that era. It is my honor to appear before you, right now, in my brand new appearance. So, welcome, Master.
+[Secretary] Have you see today's forecast? There's clothes recommendation here as well.
+[Secretary (post OATH)] Master what would you order today? Bath water? Dinner? Or my... Special good night sleep?
+[OATH] What are your orders right now Master? Ehh- You want Ai...? That's... That's fine. But you have to be responsible for now ok? Alright then, Master, please take good care of Ai from now on.
+[Greeting] Ah, Master, welcome back.
+[T-Doll Produced] New companion, do you want to be a maid too?
+[Joining an echelon] Everyone, it's been a while. Make use of me again this time.
+[Enhancement] You made me grow this much. Thank you very much, Master.
+[Dummy-linking] The shop is expanded. Master have to work hard too!
+[Logistics (start)] Going out to procure food materials.
+[Logistics (end)] I'm back! Is the shop ok?
+[Autobattle] Dessert after the main course coming up~ Do enjoy.
+[Title] Girls' Frontline!
+[Starting a combat mission] Order accepted! I can go anytime!
+[Starting a battle] I'll show you lots of hospitality!
+[Skill activation] Violence is prohibited in the store!
+[Heavily damaged] Uuh... Master is going to scold me...
+[Retreat] My hospitality... where did it go wrong?
+[MVP] Looks like I managed to satisfy the guest again this time. Let's show some hospitality again next time.
+[Restoration] My apologize, for causing you inconvenience.
+[Halloween] Halloween? Master, please visit the shop, we have more Cosplay event for everyone!
+[Christmas] Merry Christmas! Won't you be participating in the shop's christmas event? You may score a jackpot you know.
+[New Year's Day] Master, Happy New Year. How do you want to spend the new year? How about enjoying some coffee in leisure? -->
+[Valentine's day] Look at this, Master. It's my special chocolate cake, ufufu. Its magical taste... please enjoy it to your heart content.
+[Tanabata] Take care of yourself, Master. Tanabata night where we will spend our time together will be a hot one. Eh? I was talking about the climate.

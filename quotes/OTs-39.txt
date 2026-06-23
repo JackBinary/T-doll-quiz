@@ -1,0 +1,26 @@
+[Acquisition] Not everybody can become an eye-catching one, but everyone still have their own duties... Commander, what kind of duty will you be giving me?
+[Introduction] (ditto)
+[Secretary] Do you still remember every T-doll's name Commander? No one wishes to be forgotten... So please, do well to remember us.
+[Secretary (post OATH)] Commander, it feels so natural being with you before long...I hope this moment could last forever.
+[OATH] Commander, thank you for always looking after me...I'm immature, and I can't get rid of all of the obstacles in your path. But, I will always be by your side, and I won't give that place to anyone.
+[Greeting] Your orders, Commander.
+[T-Doll Produced] Nice to meet you, newcomer.
+[Joining an echelon] I'll do the best I possibly can.
+[Enhancement] I like it, this growing feeling.
+[Dummy-linking] Commander, thank you for your approval. I will do my best from now on.
+[Logistics (start)] I'll bring you the best supplies
+[Logistics (end)] Commander, I got what I came for.
+[Autobattle] Well return home victorious!
+[Title] Girls' Frontline!
+[Starting a combat mission] Fight for the mission!
+[Starting a battle] Preparations are complete!
+[Skill activation] I'll make a gap!
+[Heavily damaged] Ah...I should be a little more careful...
+[Retreat] To let it...end like this...
+[MVP] Commander, let's enjoy this victorious moment together!
+[Restoration] My apologies...for something like this, surely the Commander would be disappointed.
+[Halloween] I wanted to eat something sweet. 44 ended up giving me an apple.
+[Christmas] Commander, Merry Christmas. I've prepared some dessert for the party, I'll serve it up a little later.
+[New Year's Day] I wonder how I'll grow next year?
+[Valentine's day] Looks like you ended up receiving a lot of chocolates, Commander. Do you remember who you received each one from?
+[Tanabata] If you can hear me God, please allow everyone to become happier.

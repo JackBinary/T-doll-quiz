@@ -1,0 +1,31 @@
+[Acquisition] ...Oh, I can introduce myself now? I'm XM556. Nice to meet you, Commander.
+[Introduction] ...Oh, I can introduce myself now? I'm XM556. Nice to meet you, Commander.
+[Secretary] I might be small, but I'm really strong and fast, and I'm perfectly adequate as a fighter. That means being small is actually an advantage instead. At times, the enemy doesn't even notice me at all, so I carry this shield... Not being noticed is a good thing? But that won't do, I need to protect everyone.
+[Secretary (post OATH)] I used to say that you shouldn't look down on me for my size, because I was good at taking care of others. I guess I might have been pushing myself too hard there, because when I'm in front of you, I can finally relax and let someone spoil me instead... But don't tell anyone that, okay?
+[OATH] I've been to all kinds of places, but this is the first base where I've been so at ease. And you're the nicest human I've ever seen. With you around, I can joke around with others and I don't need to take on so many responsibilities.  You want to be with me forever? Sure thing, I feel the same way too. I'm glad I met you, Commander.
+[Greeting] Are you up? Commander, when are we heading out?
+[T-Doll Produced] Incoming newcomer.
+[Joining an echelon] Take me with you, you can't go wrong with me.
+[Enhancement] Thanks, I feel strength surging inside me like a fountain.
+[Dummy-linking] Maaaan, I look so short now...
+[Logistics (start)] Relax and leave it to me, it'll all turn out alright.
+[Logistics (end)] You see? I told you I'd come back with a big haul.
+[Autobattle] I can do this.
+[Title] Girls' Frontline
+[Starting a combat mission] Go, I'll protect all of you.
+[Starting a battle] Let's see which of us is more accurate.
+[Skill activation] Eat lead!
+[Heavily damaged] Ah... I don't have anything to say.
+[Retreat] Tactical retreat!
+[MVP] Thanks for the hard work, everyone!
+[Restoration] Make sure you buff up my shield so it stands otu more.
+[Attack] Even a microgun is still a gatling gun, you know?
+[Halloween] Halloween? I'll pass, because of my height, nobody's going to be scared of me regardless of my costume... You're saying I should dress up as Hanako of the Toilet? But wouldn't I be too tall for that... and aren't we supposed to dress up as Western monsters?
+[Christmas] Step aside, Commander! Who said that! Who said I could stand in for a Christmas tree?! I'll teach you how to respect your elders!
+[New Year's Day] Happy new year, Commander. Here, some pocket money for you... What do you mean you should be giving it to me? Why is that? Still, if you're offering, I won't say no, you know? Haha, this is so weird!
+[Valentine's day] I'm sorry, I didn't prepare anything today because I hate chocolate. Haha, don't be so hurt. Here, want some bubble gum? It's chocolate-flavored, so it sort of counts, I guess... In any case, I like you lots, Commander, with or without chocolate.
+[Tanabata] I don't have any special wishes I want granted, so I won't put up any tanzaku... What did you say?! Of course it's not because I'm not tall enough to reach the branches! How tall can a lousy bamboo be, anyway?! Even if I'm not particularly bothered by you making fun of my height, that's too much!
+[Defense] Come on, see if you can break my shield.
+[Phrase] Leave it to me.
+[Tip] I like orange-flavored bubble gum. Don't you think its citrus scent helps clear the head? Here, try a piece.
+[Loading] (Yawn) I'll catch a nap.

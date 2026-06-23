@@ -1,0 +1,25 @@
+[Acquisition] Greetings Commander, thank you for enlisting Type 81 Carbine's service. I will take you to your victorious destination, this journey will be a pleasing one.
+[Introduction] I'm Type 81 Carbine developed by the 8th Route Army. Combining features from Type Czech, Arisaka, Type Nameless and Hanyang rifles, received positive feedbacks from the servicing army at the time. But due to the manufacturing material being railway steel and manufacturing difficulties, I did not enter large scale production. But despite this, I believe I have bought victories to all those who needed me.
+[Secretary] Commander, would you like coffee or milk? Relax a little.
+[Secretary (post OATH)] If it's for you, I will provide any kind of service.
+[OATH] Commander is this... Is this the destination you are expecting? Whether it is a start or a destination, I will continue to accompany you. Please let me stay by yourself until we reach the destination of happiness...
+[Greeting] Commander! Thank you for your hard work! Is there anything you'd like for me to help with?
+[T-Doll Produced] Some new passengers have arrived!
+[Joining an echelon] We're ready to leave at any time!
+[Enhancement] This is the result of our hard work!
+[Dummy-linking] Are you a new crew member? That'd be really helpful!
+[Logistics (start)] I promise to complete the mission. Now then, let's go!
+[Logistics (end)] Commander. have you received everything you were looking for?
+[Autobattle] Seems like a pretty easy trip!
+[Title] Girls' Frontline!
+[Starting a combat mission] Attention all passengers, we will be departing shortly!
+[Starting a battle] The enemy is attacking! Please be careful!
+[Skill activation] Opening a path!
+[Heavily damaged] My deepest apologies... to be in such an unnatural state is quite unacceptable don't you think?
+[Retreat] My sincerest apologies... but I don't think I can make it to the final station...
+[MVP] Ehehe, let's depart in anticipation of the next victory!
+[Restoration] Apparently my training wasn't enough...I must do more!
+[Halloween] Am I perhaps drunk in this car? I felt like I just saw something strange.
+[Christmas] Commander, Merry Christmas. Please be sure that you haven't forgotten any of your personal belongings after the party.
+[New Year's Day] Commander, where is your destination this year? Please let me go with you!
+[Valentine's day] Commander, a Valentine's chocolate! Please be sure you enjoy it with lots of feeling.

@@ -1,0 +1,30 @@
+[Acquisition] I'm CMR-30. Are you the ball-boy? Or... Oh, never mind, it doesn't matter! Is there a tennis court around here? I'd like to kill some time before my onboarding process is complete.
+[Secretary] Come, have a little coffee to lift your spirits. I added an entire box of sugar to it... Why do you look so surprised? It's the best food for perking up, didn't you know? Now drink!
+[Secretary (post OATH)] Here, take this broom and go clean up. In life, we always have to face unexpected difficulties and deal with them, so you need to work hard too. I hope I'll come back to a clean room after my tennis game.
+[OATH] An Oath? You want me to be your life coach? Hmph, well, seeing how sincere you are, I guess you're not kidding. Alright then, I accept your invitation! Although, I hope you're prepared for my training, because I'm super strict, you know!
+[Greeting] What took you so long? I already practiced several sets of swings.
+[T-Doll Produced] We've got new rookies? Hope they're smart.
+[Joining an echelon] Everyone, face me!
+[Enhancement] Thank you, I'll remember your contributions!
+[Dummy-linking] They'd be much stronger if you gave them neural clouds like mine.
+[Logistics (start)] Are petty errands like this the only thing you have for me? Oh well, I guess I'll help you out, then.
+[Logistics (end)] I'm back. Are these the things you wanted?
+[Autobattle] Keep your eyes peeled and watch me. Whether it's in sports or battle, my goal is a grand slam!
+[Title] Girls' Frontline!
+[Starting a combat mission] Come with me!
+[Starting a battle] Enemies like this are a piece of cake!
+[Skill activation] Super Rebound!
+[Heavily damaged] ...Dammit, I can't be beaten here...
+[Retreat] ...At this rate, I'll still be a shrimp who can only beat the weak, right...
+[MVP] Did you see that? This is how you lead a team!
+[Restoration] If, if the other members of the team ask about me, tell them I'm resting... It's better that they not see me when I'm looking like this...
+[Attack] Don't miss this opportunity, attack!
+[Halloween] While candy is interesting, I'll... I'll pass on all this scary dress-up stuff... What the heck, aren't I allowed to have a character flaw or two?!
+[Christmas] Here, this is your Christmas gift, a tennis racquet for training. You looked so excited about it, so I went and got you one. Make sure you practice with it, okay?
+[New Year's Day] Happy new year, this is... a red packet? Hey, are you treating me like a kid just because I'm small?
+[Valentine's day] Hey, this chocolate is no good at all! Honestly, just follow me into the kitchen; I'll give you a personal lesson on the right way to make chocolate!
+[Tanabata] I hope everyone will get a little smarter so I don't have to waste my effort explaining right and wrong to them.
+[Defense] They're no match for me!
+[Phrase] You can't go wrong by listening to me!
+[Tip] You want to play tennis with me? Are you familiar with the rules? In that case—We'll start by practicing a thousand swings. Given your current standards, you'll need some training from hell to even begin to come close to me.
+[Loading] Rather than space out, why not play a game of tennis!

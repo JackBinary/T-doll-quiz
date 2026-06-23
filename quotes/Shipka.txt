@@ -1,0 +1,26 @@
+[Acquisition] Shipka has arrived, Commander. I'll be looking forward to the welcoming ceremony.
+[Introduction] Shipka has arrived, Commander. I'll be looking forward to the welcoming ceremony.
+[Secretary] Recreational activities? I'm not interested in that rowdy stuff.
+[Secretary (post OATH)] Commander, did you like my performance last time? It seems like I've been getting more popular!
+[OATH] Eh?... Are you serious? Sorry...I was butting heads with you so much before...I wasn't doing it on purpose... What? You knew? Hmph...you've been playing with me this whole time...already knew? Really…… Feels like I've been played by you……
+[Greeting] It's a bit later than scheduled, but we still have time, right?
+[T-Doll Produced] Don't let impolite people near me.
+[Joining an echelon] Are you fine with deciding this so casually?
+[Enhancement] So you want to make me stronger?
+[Dummy-linking] They're quite well-built... Don't mistake them for the original, okay?
+[Logistics (start)] Always these trifling missions... tch!
+[Logistics (end)] I'll take a rest first, so, later.
+[Autobattle] Come on, let me feel once more the taste of victory...
+[Title] Girls' Frontline!
+[Starting a combat mission] Don't make me wait.
+[Starting a battle] Become the losers of history!
+[Skill activation] Ill-mannered brutes!
+[Heavily damaged] Ngh! Don't these hooligans have any manners?
+[Retreat] Hmph, I knew it would turn out like this.
+[MVP] A historical victory.
+[Restoration] Only I can understand this pain.
+[Halloween] Won't they get tired from making all that fuss in the middle of the night?
+[Christmas] Even though it's the birthday of God, it seems everyone is rejoicing more than he is.
+[New Year's Day] A new epoch is coming. However, history never disappears.
+[Valentine's day] I dropped my handmade chocolate. If you still want some, go buy it yourself.
+[Tanabata] In a holiday of such tradition, people who don't even know its meaning ganging together to make a big racket are just like a bunch of idiots.

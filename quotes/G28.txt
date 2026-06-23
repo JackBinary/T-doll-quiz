@@ -1,0 +1,25 @@
+[Acquisition] Sniping weapon G-28! Commander hurry up and take me home, if you don't mind having me around!
+[Introduction] ditto
+[Secretary] Eh? What did you say? I didn't hear it! ...Hehe, I was kidding.
+[Secretary (post OATH)] You would like more of my cooking? Of course, I'll go cook more right away!
+[OATH] Commander... This... This is really for me? Haha, I won! I won this with my own ability this time! Come on Commander, let's shout louder! Let everyone hear how happy we are!
+[Greeting] I will be counting on you today too Commander.
+[T-Doll Produced] We got a new friend. Let's all get along.
+[Joining an echelon] Nice to meet you everyone, will be troubling you guys again today.
+[Enhancement] How gentle of you Commander, hehe.
+[Dummy-linking] Aww~ They're so cute just like me, we need more of them.
+[Logistics (start)] Commander don't forget about me ok?
+[Logistics (end)] I'm baaaack~ Did you miss me?
+[Autobattle] Gotta leave a good impression on everyone~
+[Title] Girls' Frontline!
+[Starting a combat mission] Are we ready everyone?
+[Starting a battle] So then, let's start!
+[Skill activation] Say good bye!
+[Heavily damaged] Sorry, I wasn't paying enough attention. Heh~
+[Retreat] Ouch~ Commander, really sorry about this~ heh...
+[MVP] Haha~ Did you see that 416? Looks like I am the new generation's weapon of choice!
+[Restoration] Hehe... It was an accident ok? It's not my fault you know.
+[Halloween] As expected, magical girl suits me better than witch. Don't you think so, Commander?
+[New Year's Day] Alright!
+[Valentine's day] Ehehe, I did my best for this chocolate. Eat it quickly.
+[Tanabata] I wish for Commander to be happy. Ufufu, how is it? Hang it quickly.

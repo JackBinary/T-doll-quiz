@@ -1,0 +1,74 @@
+[G36] Live2D
+[Acquisition] Guten tag. I will exclusively serve as your maid from now on, Master.
+[Introduction] HK50? Yes, Master, that was my former name, it's a little nostalgic... Among many assault rifles, I won out, and gained a new name, G36. The me that everyone recognizes, will serve you under this name as well, my Master.
+[Secretary] If you have requests please let me know, I believe in your judgements.
+[Secretary (post OATH)] It's going to be another busy day today, yet you're the only one who knows how much hardship comes with my work... So, are there anything you'd like me to procure for you? I'll continue to keep this a secret from everyone.
+[OATH] I have only been able to give my all because you need me, Master. From now on, please let me stay by your side as your bespoke maid.
+[Greeting] Guten Tag, master. Would you like to start your work now? Maintaining condition is important, so don't forget your meal.
+[T-Doll Produced] New apprentice? I'll train her strictly.
+[Joining an echelon] Please leave the troublesome things to me.
+[Enhancement] Danke. Master's kindness shall be repaid gratefully.
+[Dummy-linking] Hmhm, as the number of hands, the efficiency of our work also increases.
+[Logistics (start)] As Master's wish, I shall accomplish it for you.
+[Logistics (end)] This is the result of Master's wish.
+[Autobattle] If it's a group task, It would be a field I am proud of.
+[Title] Girls' Frontline!
+[Starting a combat mission] For Master's sake, I'm off!
+[Starting a battle] As for Trash... They're to be driven out.
+[Skill activation] Filth are to be cleansed!
+[Heavily damaged] No need to worry, I still can fight.
+[Retreat] My apologies, Master...
+[MVP] This is an obvious duty for a maid.
+[Restoration] Once a while, to have Master look after me is quite pleasant.
+[Halloween] Master, you shouldn't be spoiling everyone so much. You've given out too much candies tonight. They might not be able to go into battle if they get cavities.
+[Christmas] Merry Christmas, Master! My work was hard, but everyone helped me so it was very fun.
+[New Year's Day] Master, Happy new year! This year, I would like to provide an even higher standard of service, both at home and on missions. I look forward to serving you.
+[Valentine's day] Master? Even if it's valentine's day, please restrain yourself from gorging too heavily on chocolate. You will get cavities.
+[Tanabata] Has the preparation for tanzaku finished? Everyone's wish will come true. Of course, your wish as well, commander.
+[Acquisition] Commander, The services I provide have all undergone upgrades. Please use them as you see fit.
+[Introduction] HK50? Yes, Master, that was my former name, it's a little nostalgic... Among all the competing assault rifles, I won out in the end and gained a new name, G36. The me that have gained everyone recognition, will serve you under that name as well, Master.
+[Secretary] My sister often comes to my dorm to sleep with me. Good grief, she’s not a little kid anymore.
+[Secretary (post OATH)] It's going to be another busy day today, yet you're the only one who knows how much hardship comes with my work... So, are there anything you'd like me to procure for you? I'll continue to keep this a secret from everyone.
+[OATH] I have only been able to give my all because you need me, Master. From now on, please let me stay by your side as your bespoke maid.
+[Greeting] Guten Tag, master. Would you like to start your work now? Maintaining condition is important, so don't forget your meal.
+[T-Doll Produced] New apprentice? I'll train her strictly.
+[Joining an echelon] I've studied everyone's　tactics. I can adjust to it anytime.
+[Enhancement] Danke! Your expectation is my greatest motivation.
+[Dummy-linking] Hmhm, as the number of hands increase, the efficiency of our work also increases.
+[Logistics (start)] As Master's wish, I shall accomplish it for you.
+[Logistics (end)] This is the result of Master's wish.
+[Autobattle] If it's a group task, It would be a field I am proud of.
+[Title] Girls' Frontline!
+[Starting a combat mission] I'm ready anytime. Prepare for sortie!
+[Starting a battle] Enemy disorientating! Each unit, please be careful!
+[Skill activation] I can see you well!
+[Heavily damaged] From this point onward, I'll defeat you!
+[Retreat] For myself to be failing here, I won't admit it.
+[MVP] Commander, are you satisfied with this time's victory?
+[Restoration] Once a while, to have Master look after me is quite pleasant.
+[Halloween] Master, you shouldn't be spoiling everyone so much. You've given out too much candies tonight. They might not be able to go into battle if they get cavities.
+[Christmas] Merry Christmas, Master! My work was hard, but everyone helped me so it was very fun.
+[New Year's Day] Master, Happy new year! This year, I would like to provide an even higher standard of service, both at home and on missions. I look forward to serving you.
+[Valentine's day] Master? Even if it's valentine's day, please restrain yourself from gorging too heavily on chocolate. You will get cavities.
+[Tanabata] Has the preparation for tanzaku finished? Everyone's wish will come true. Of course, your wish as well, commander.
+[Acquisition] Guten tag. I will exclusively serve as your maid from now on, Master.
+[Introduction] HK50? Yes, Master, that was my former name, it's a little nostalgic... Among many assault rifles, I won out, and gained a new name, G36. The me that everyone recognizes, will serve you under this name as well, my Master.
+[Secretary] Eh? This is how big my gun really is? ...Then I must hurry up and grow taller.
+[Secretary (post OATH)] Would I look be better if I take the glasses off? Which would Master prefer? ...No you can't like both...
+[OATH] I have only been able to give my all because you need me, Master. From now on, please let me stay by your side as your bespoke maid.
+[Greeting] Guten Tag, master. Would you like to start your work now? Maintaining condition is important, so don't forget your meal.
+[T-Doll Produced] New apprentice? I'll train her strictly.
+[Joining an echelon] Please leave the troublesome things to me.
+[Enhancement] Danke. Master's kindness shall be repaid gratefully.
+[Dummy-linking] Hmhm, as the number of hands, the efficiency of our work also increases.
+[Logistics (start)] As Master's wish, I shall accomplish it for you.
+[Logistics (end)] This is the result of Master's wish.
+[Autobattle] If it's a group task, It would be a field I am proud of.
+[Title] Girls' Frontline!
+[Starting a combat mission] For Master's sake, I'm off!
+[Starting a battle] As for Trash... They're to be driven out.
+[Skill activation] Filth are to be cleansed!
+[Heavily damaged] No need to worry, I still can fight.
+[Retreat] My apologies, Master...
+[MVP] This is an obvious duty for a maid.
+[Restoration] Once a while, to have Master look after me is quite pleasant.

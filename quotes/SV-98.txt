@@ -1,0 +1,50 @@
+[Acquisition] SV-98, reporting in, what are your orders?
+[Introduction] SV-98, designed for counter-terrorist, rescuing hostages and other long distance sniping roles, in order to replace the frontline combat focused SVD. Accuracy and convertibility are my proud traits, but it does require regular and careful maintenances. But I believe that the Commander will look after me with care, please take care of me.
+[Secretary] What's our next target?
+[Secretary (post OATH)] Today's workload is a bit more than expected... Whatever, no matter how hard it gets, I'll be with you!
+[OATH] Eh? This...this is beyond my expectations. But, I won't need to note this down right? Because once is more than enough. Commander, I'll never forget this moment.
+[Greeting] Welcome back.
+[T-Doll Produced] New equipment finished construction.
+[Joining an echelon] I won't disappoint you!
+[Enhancement] Thank you, I will keep up the hardwork.
+[Dummy-linking] Linking complete. Everyone check your optics.
+[Logistics (start)] Commander I'm going. Look after yourself while I'm away.
+[Logistics (end)] I'm back, mission accomplished.
+[Autobattle] Covering operation? Leave it to me.
+[Title] Girls' Frontline!
+[Starting a combat mission] Move out!
+[Starting a battle] Contact, watch the surroundings!
+[Skill activation] Locked on, fire!
+[Heavily damaged] Noo, I underestimated them.
+[Retreat] Wasn't careful enough, retreating...
+[MVP] This is all due to my accuracy training.
+[Restoration] Wah, misjudged that one badly.
+[Halloween] I'm not really fond of Halloween... You see, I'm not really good at costumes or pulling pranks.
+[Christmas] It's so much fun spending time together with everyone during Christmas! Commander, let's put on some Christmas bells!
+[New Year's Day] Commander, Happy New Year! I'll be practicing my singing! Please listen to it, okay?
+[Valentine's day] Commander, um... Please, accept this! I'm so sorry the shape isn't that good, though...
+[Acquisition] Commander, I've updated my image and my calculating capabilities! I'll be sure to bring you some more victories. Hey now, don't just stare. Let's get to work right away!
+[Secretary] Is there a new mission, Commander? Want me to check the winning percentage?
+[Secretary (post OATH)] Today's workload is a bit more than expected... Whatever, no matter how hard it gets, I'll be with you!
+[OATH] Eh? This...this is beyond my expectations. But, I won't need to note this down right? Because once is more than enough. Commander, I'll never forget this moment.
+[Greeting] Hello, Commander. I will assist with strategizing today.
+[T-Doll Produced] Construction of the new equipment has been completed. Welcome!
+[Joining an echelon] Team joined. Ready to go!
+[Enhancement] This power is beyond calculation. Thank you so much!
+[Dummy-linking] Linking complete. Everyone check your optics.
+[Logistics (start)] Commander I'm going. Look after yourself while I'm away.
+[Logistics (end)] I'm back, mission accomplished.
+[Autobattle] Covering operation? Leave it to me.
+[Title] Girls' Frontline!
+[Starting a combat mission] Orders came through, everyone. Let's go!
+[Starting a battle] Enemy sighted. Preparing to shoot!
+[Skill activation] Calculation complete. Now, prepare yourselves.
+[Heavily damaged] *cough* Was there a mistake in my calculations?
+[Retreat] No way...where did I go wrong with my calculations?
+[MVP] Operation complete, just as I had calculated! Great job, everybody!
+[Restoration] Wah, misjudged that one badly.
+[Halloween] TRICK OR TREAT! I said too much and my voice was too loud. I never meant to surprise everyone like that.
+[Christmas] Merry Christmas, Commander! Let's go decorate the tree together!
+[New Year's Day] Happy New Year, Commander! We've been practicing our choir singing. Wanna hear it?
+[Valentine's day] Commander, h-here...please accept this! Sure it doesn't look that pretty, but I'll definitely make you a better one next time!
+[Tanabata] My wish is to be with everyone all the time. But is that really a wish? It's already come true!

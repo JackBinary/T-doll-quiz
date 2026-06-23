@@ -1,0 +1,27 @@
+[AK-12] Live2D
+[Acquisition] Hmm... a New Commander? How long will you pique my interest, we shall see~
+[Introduction] ditto
+[Secretary] To avoid excessively consuming processing power, I'll usually "shut" my eyes, rest assured, this will not affect my field of vision and judgement.
+[Secretary (post OATH)] ....Hmmm? Commander are you peeking at me? Why not do it openly, we are used to each other by now, right?
+[OATH] Commander, I had little confidence with my patience on you at first. But you've always manage to become so uniquely interesting, it's hard for me to ignore... Oh dear, is this the so called "Charm"? It really fills me with something to look forward to...
+[Greeting] Is that you Commander, I didn't even have to look.
+[T-Doll Produced] A new employee? Hurry up and introduce yourself!
+[Joining an echelon] If only that person is here too...
+[Enhancement] Performance upgrade is a waste without tactical understandings.
+[Dummy-linking] Dummy doll's performance cannot be compare to me. I have to rely on myself of course!
+[Logistics (start)] Don't need any deep computation for this kind of missions.
+[Logistics (end)] Finally done. Whats up next.
+[Autobattle] Starting automated operations.
+[Title] Girls' Frontline!
+[Starting a combat mission] Time to get serious, mission start.
+[Starting a battle] Prepare for attack.
+[Skill activation] Radar scan, start.
+[Heavily damaged] Damage exceeds predicted levels.
+[Retreat] Mission failed, preparing to retreat.
+[MVP] Saving mission results... Save complete.
+[Restoration] Verifying mission data.
+[Halloween] What is it? Ah, it's just candy. Ah, look over there! There's a shrine maiden!
+[Christmas] I love this season. The crimson red of blood on pure white snow. Ah, I was talking about Santa.
+[New Year's Day] Hatsumodo? I'll pass. I already went there.
+[Valentine's day] That damn AN-94 forcing me to receive this chocolate. Ah, Commander. Are you hungry? I got sweets.
+[Tanabata] I don't remember any of my wish. Moreover let's go to the festival already.

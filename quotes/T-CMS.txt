@@ -1,0 +1,25 @@
+[Acquisition] Truvelo-CMS, reporting for duty... Umm, Commander, I said reporting for duty, did you hear me?...
+[Secretary] It's not that I don't like children. I just don't know why they always pick on me... Auu...
+[Secretary (post OATH)] Com-man-der~! You can't be sneaking foods with so much calories! D-Don't pretend like you didn't hear me, that's not an excuse! I'm gonna get angry, really! As punishment, you're accompanying me on a backpacking trip to the peak this weekend... Yes, just the two of us.
+[OATH] Aiya? Is it really okay for me to accept this gift? Thank you so much... Thank you for appreciating me, and thank you for always paying attention to me... Even though my voice is so soft... But as for my reply, I will shout it out with all of my heart!
+[Greeting] Good morning, Commander. Um, I'm right here, over here.
+[T-Doll Produced] Commander, it appears that a new comrade has arrived. Would you like to say hello?
+[Joining an echelon] I'll do my best to keep up with everyone!
+[Enhancement] Mhm, this time it shouldn't fail.
+[Dummy-linking] Oh my, another me! Her voice is too small...
+[Logistics (start)] Commander, do you require any other supplies? Then, I'll go retrieve the ones on the list.
+[Logistics (end)] Commander, I have just returned. Uh, um Commander... please turn around. I'm right here!
+[Autobattle] Yes, I remember the layout of this place. I can win! Maybe...
+[Title] Girls' Frontline!
+[Starting a combat mission] Commander, please rest assured. I will bring you victory!
+[Starting a battle] I've found the enemy force! They don't seem to have noticed me yet.
+[Skill activation] No, stop it!
+[Heavily damaged] Uwaah...my designer sunglasses...
+[Retreat] It's okay. We'll turn this around another day, Commander!
+[MVP] This victory belongs to the Commander.
+[Restoration] Ugh, this just shouldn't even be repaired. The cost is probably higher than my salary.
+[Halloween] Uwah, I'm scared. There are a lot of kids with strange costume packed near the front door... Eh, I only need to hand them sweets? Uuh... these are all the sweets that I have, so please just leave quickly!
+[Christmas] Commander, Merry Christmas. Although enjoying the mountaintop wind alone is nice, but having company and meal together like this, somehow... feels so warm. I don't want to go anywhere else anymore. You too... won't go anywhere, right Commander?
+[New Year's Day] Commander, Happy New Year. This year's firecracker sure is loud isn't it, ufufu. And finally, you seems to be able to lipread me.
+[Valentine's day] Commander, are you still asleep? Umm, I will leave my chocolate here, so don't forget about tomo- Kyaah! Don't hold my hand suddenly like that, you really surprised me!
+[Tanabata] Hmm? My wish you asked? I want to appear more dignified in front of the children. Commander, why are you laughing, geez! I want to appear more dignified in front of you too. Next year as well, I wish I can stay by your side.

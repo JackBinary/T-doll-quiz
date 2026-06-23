@@ -1,0 +1,35 @@
+[Acquisition] IDW here ! Are you the commander who is willing to adopt me ? I'll do my best !
+[Secretary] You like cats, Commeownder? So you like me?
+[Secretary (post OATH)] Commander, how's the weather outside? Let's go sunbathing together, I've been wanting to do that since forever!
+[OATH] What? Really? All I wanted...was home. I never though about having you all to meowself. But if that's what you want, Commeownder...I'm helping meowself
+[Greeting] Morning commander! Let me give you a hand~!
+[T-Doll Produced] A new friend, Let's play together~!
+[Joining an echelon] IDW is comming~!
+[Enhancement] I'm stronger! It seem to be lovery!
+[Dummy-linking] So many cat ears nya!
+[Logistics (start)] Les't go searching for food!
+[Logistics (end)] I'm back! I'm really full nya~!
+[Autobattle] Time to be bodyguard
+[Title] Girls' Frontline!
+[Starting a combat mission] Commence a missionnya~!
+[Starting a battle] Drive them out nya!
+[Skill activation] Now my turn nyan~!
+[Heavily damaged] Oh no, at this rate they'll throw me away...
+[Retreat] I failed...I won't be popular ...
+[MVP] Victory! Commander, Well done nya~!
+[Restoration] Uyuu...Please don't tell anyone, they'll hate me~
+[Halloween] Auu... It sure is a bit chilly tonight... I-It's because of where I grew up that I'm not too great at this!
+[Introduction] I'm IDW Submachine gun da nyaa! I was originally designed as a Purrsonal Defense Weapon. But because of ammo caliber issues, sales wasn't too good da nyaa... After changing many masters, I've been redesigned as I am meow. As a Submachine gun, I still have lots of purrtential, da nya!
+[Secretary] No matter if I'm cute or cool, Commander will like me as I am, right?
+[Secretary (post OATH)] Commander, how's the weather outside? Let's go soak up the sun together, I've waited for this allll day!
+[OATH] What? Really? All I wanted...was a home. I never though about having you all to meowself. But if that's what you want, Commeownder...I'm helping meowself!
+[Greeting] Morning, commander! Let me give you a hand~!
+[T-Doll Produced] A new friend! Let's play together~!
+[Joining an echelon] IDW-da nya is joining the battle!
+[Dummy-linking] So many cat ears nya!
+[Logistics (start)] Les't go searching for food!
+[Logistics (end)] I'm back! I'm really full nya~!
+[Autobattle] Time to be bodyguard
+[Title] Girls' Frontline!
+[Restoration] Uyuu...Please don't tell anyone, they'll hate me~
+[Halloween] Auu... It sure is a bit chilly tonight... I-It's because of where I grew up that I'm not too great at this!

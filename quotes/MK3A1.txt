@@ -1,0 +1,30 @@
+[Acquisition] Hello, Commander! I am MK3A1, I'll be working for Miss Persica of Griffin starting from today... Working for you? R-really? I thought... No, it's nothing.
+[Secretary] Commander, when are you planning to start using a cybernetic body? I can help you with all the upgrades and modifications! You'll also be the first to try out all of my newest inventions! ...You don't have such plans yet? Alright.
+[Secretary (post OATH)] You're too fragile, Commander... I must build a machine that can give you proper protection... Don't worry, I won't make any modifications to your body. There are a lot of technological hurdles to overcome, but I won't give up!
+[OATH] I-is this really okay? A Doll like me, who always reeks of machine oil...? I'm not saying no, I just really wasn't expecting it. I'll accept it gladly, of course! It's you, after all! Then... I'll be in your care? I'll keep doing my best and make you more interesting tools!
+[Greeting] Commander, I've made some slight modifications to your scheduling system. Now you can arrange your to-do list in order of importance. Let's work hard together!
+[T-Doll Produced] The craftsmanship is even better than mine...!
+[Joining an echelon] Please stand in a queue here to get your enhancement components!
+[Enhancement] Hm... Can I not do this myself?
+[Dummy-linking] Can I take this apart and have a look inside? Don't worry, I'll put it back together!
+[Logistics (start)] Can I keep what I pick up along the way, Commander?
+[Logistics (end)] Quite a good haul this time. Please look forward to my upcoming work!
+[Autobattle] I'll be going then! Wait for my good news, Commander!
+[Title] Girls' Frontline!
+[Starting a combat mission] It's nice to stretch my legs outside the workshop every once in a while!
+[Starting a battle] A mechanism I've never seen before! Let me check it out!
+[Skill activation] Have a taste of my spanner!
+[Heavily damaged] Crap... I lost some of my parts...
+[Retreat] I have a backup plan... Buy some time with a smoke grenade!
+[MVP] Our preparation was so meticulous, there's no way we could've lost!
+[Restoration] I can do better...
+[Attack] Dismantle them all!
+[Halloween] Sorry, Commander... I'm a bit tired today, can we leave any discussion till tomorrow? No? Alright, then please keep it short. MDR and the others are running a haunted house with functioning railcars? Yep, I built it for them. You're very welcome to go and experience it yourself.
+[Christmas] I've been working on this Christmas tree for an entire week, and I finally finished it today, but they said a metal tree wasn't festive enough and moved it away just like that... I don't understand, I thought it was really cool...
+[New Year's Day] Happy New Year, Commander! A new year should be marked with new beginnings, so I'm thinking maybe I could also be transferred to a new post? For example, I could go work at Miss Persica's workshop... No? Fine.
+[Valentine's day] It's done, Commander! MK3A1's special high-speed chocolate-making machine! This baby can churn out chocolate automatically in just a minute! You'll never have to worry about running out of chocolate ever again! ...But don't make my White Day chocolate with it. I didn't build this for you to do that!
+[Tanabata] Commander, my Tanabata wish is to get a new spanner! ...I should write that down and hang it on the bamboo? But the bamboo won't give me a new spanner, YOU will!
+[Defense] Watch out! Protect yourselves!
+[Phrase] I'll show you!
+[Tip] As a mechanic, it's only natural that I always keep a spanner on my person...
+[Loading] Is it not ready yet? Still not ready? This is killing me!

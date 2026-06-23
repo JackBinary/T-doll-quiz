@@ -1,0 +1,27 @@
+[Mk48] Live2D
+[Acquisition] Oh my, so you are commander? I`m Mk48, hope we can have plenty of fun here♥
+[Introduction] So to replace those not so highly rated machineguns, Mk48 MOD 0 was born, both for military contracts and private contract sales. There are no more future for those heavy weighted MGs like M60 and M240, compare to them, my performance is clearly more superior... Durability? Why not just spend money and build another one?
+[Secretary] I like nice guys like you, Commander.
+[Secretary (post OATH)] Commander would you like another shoulder massage? Told you last time was an accident, no need to be afraid... Hehe...
+[OATH] ahh... Yes... I'm an absolute winner. Of course I have you to thank for my Commander, I will pay you back for this... Hehe...
+[Greeting] Try not to bore me.
+[T-Doll Produced] New girl? Shall I try her strength?
+[Joining an echelon] I'm here because all of you are useless, you all should be grateful.
+[Enhancement] Good, more spotlights are on me.
+[Dummy-linking] Ufufuw, you can't get enough of talented people like me.
+[Logistics (start)] Hurry it up, I'm a busy person.
+[Logistics (end)] I'm back, we got the best outcome.
+[Autobattle] Everyone, come with me. In exchange, don't disappoint me.
+[Title] Girls' Frontline!
+[Starting a combat mission] Let the game begin.
+[Starting a battle] Since it's the first time, I'll go easy on you.
+[Skill activation] I'll end you faster if you get on your knees.
+[Heavily damaged] Ahh, such stimulating experience, what a waste.
+[Retreat] A rare experience, I will remember this.
+[MVP] Yes, focus all the spotlights on me!
+[Restoration] Are you here to comfort or to blame me? I'm ok either way~
+[Halloween] A dress up party? Okay, I'll show you some thing very, very good...
+[Christmas] We've got some much good food and drink. Tonight we're going to enjoy ourselves.
+[New Year's Day] What kind of fun will you bring me this year... I'll get my hopes up for you.
+[Valentine's day] My my, you got drunk from these chocolates? I thought you could hold a bit more.
+[Tanabata] Commander, my wish is right here. Will you make it true? Oh my, don't run away.

@@ -1,0 +1,24 @@
+[Acquisition] Hello, Commander. EM-2 Assault Rifle, reporting for enrollment today. ...Hmm, based on your reaction, this introduction should leave a good impression.
+[Secretary] 1, 2, 3... 58, 60. Ah, I found it, Commander. Here is the number "60 minus 1" document you requested. I apologize for describing it like that, but I have to avoid that accursed number.
+[Secretary (post OATH)] Commander, I guarantee you'll like the biscuits today, I've made them myself. Ahaha... My past self wouldn't have been so confident. It's all thanks to you, Commander.
+[OATH] W-What?... You've actually chose me? Ahaha... Even though I still don't have much confidence in myself, if you're by my side... I won't be scared any more, even if I have to face that accursed number. Please take care of me from now on, Commander.
+[Greeting] Good afternoon, Commander. What kind of test should we conduct on the base today?
+[T-Doll Produced] Looks like a new comrade has arrived.
+[Joining an echelon] Let's try this offensive tactic!
+[Enhancement] Isn't this good? With this, my capabilities has increased!
+[Dummy-linking] Dummy linking, isn't it? I should prepare more cookies.
+[Logistics (start)] I just saw the operation plan, but I'm not sure if I can ca-... No, for now let's try it out!
+[Logistics (end)] We got a lot of war spoils. Looks like the strategy went well.
+[Autobattle] Off I go! I'm sure that I can carry this time's mission well! Or so I think...
+[Title] Girls' Frontline!
+[Starting a combat mission] Preparation is complete. All left is to put it into practice!
+[Starting a battle] Let's carry out the plan, and enjoy the cookies afterwards!
+[Skill activation] I should hit it from here.
+[Heavily damaged] Huh? Did I underestimated the enemy's strength...
+[Retreat] Aah... I can't enjoy the cookies for a while...
+[MVP] Looks like calculations were spot on.
+[Restoration] I'm for causing the trouble. We shall revise our strategy.
+[Christmas] It would be nice if I receive delicious cookies as present this year. How about you Commander? What kind of gift do you want?
+[New Year's Day] Happy New Year. I wish for the holiday to be peaceful this year. Otherwise I won't be able to enjoy the newly produced cookies!
+[Valentine's day] I also made chocolate chip cookies in addition to valentine chocolate. How is it? Does it meet your taste?
+[Tanabata] Since today is an equivalent to valentine day, how about preparing for some present? For instance, how about cookies... I-is it weird?

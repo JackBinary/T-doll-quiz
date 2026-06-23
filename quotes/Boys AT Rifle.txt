@@ -1,0 +1,30 @@
+[Acquisition] Greetings, this is Boys Anti-Tank rifle reporting.
+[Secretary] The legend of King Arthur can be made up, but the spirit of chivalry is immortal. He is no value in a life spent waiting; one much charge to achieve victory. Now I draw my weapon to restore the glory of Great Britain.
+[Secretary (post OATH)] I shall protect you with the gun in my hands and the blood in my veins. By the heritage of Britain, I swear I will never disobey your orders.
+[OATH] I like this feeling. It reminds me of an award ceremony. Commander, this represents the fact that I have received your trust and faith, and this I will repay it with my loyalty and blood. Hm? So it's in the form of a ring? .... did not expect this. Still, these are the 2060s, so I guess this is how they express such things nowadays. Please place all your trust in me, commander
+[Greeting] Commander, your knight is ready to set out.
+[T-Doll Produced] I am ready.
+[Joining an echelon] Are you new members of the order?
+[Enhancement] My gun symbolizes my sword, the weapon with which I defend you.
+[Dummy-linking] I can feel the might of the order.
+[Logistics (start)] I shall faithfully discharge your order.
+[Logistics (end)] The mission has been perfectly accomplished.
+[Autobattle] True elevation takes place in dry, daily training that is normally beneath notice.
+[Title] Girls' Frontline!
+[Starting a combat mission] To battle, for glory!
+[Starting a battle] Enemy attack!
+[Skill activation] Forward!
+[Heavily damaged] The eteral knight shall not long rest here.
+[Retreat] We should prepare for our next attack.
+[MVP] Victory for the sword of kings!
+[Restoration] ...Forgive me for making you worry.
+[Attack] With me!
+[Halloween] In the past, I used to think this occasion was a pointless one, merely an excuse for everyone to gather in wild revelry. It was only later on that I realized that this was the entire point.
+[Christmas] I too have prepared gifts for the others during Christmas. Ahem, granted, they are still daggers, but I have inscribed them with thistles this year. In the past, they symbolized the knights who guarded the royal family.
+[New Year's Day] New sparks are ignited during the new year, representing new hope. Let the regrets of the past be sealed there, for tomorrow is a brand new day.
+[Valentine's day] My lover? If you must define them in such terms, then my gun and my sword are my lovers. Unfortunately, they do not eat chocolates... Hm, I wonder what would happen if I fed it chocolate bullets...
+[Tanabata] Myths are a continuation of culture. Whether they are true or not is not important, only what you see in them, what you understand from them, and what you gain from them.
+[Defense] We must rearray ourselves.
+[Phrase] Rather than wait, I'd prefer to head out and take the initiative.
+[Tip] Both the afterglow of days gone by and the radiance of a new era shine on the present.
+[Loading] Do you need a lighter? It is my remedy for boredom.

@@ -1,0 +1,66 @@
+[Acquisition] UMP9 has come home! Everybody, we're family now!
+[Introduction] New model of UMP sub machine gun, that's me, UMP9! Just like UMP45, 40, I'm developed to replace MP5. The difference between me and my sisters, is that I'm chambered for 9x19 handgun ammo. Whether it be performance or sale figures, I'm very well regarded~ 　Commander, let's get along~!
+[Secretary] Commander! ...heehee♪ It's nothing, I just wanted your attention for a bit.
+[Secretary (post OATH)] Commander are you leaving right now? As your family, should I give you a "Goodbye kiss"? You expected it just now didn't you! I can see it in your eyes!
+[OATH] This warm feeling... So this is what "Love" is? Commander it seems like, our relationship progressed even further... Now we are truly a family... Thank you...
+[Greeting] Good morning Commander. Please inform me of today's plan at your earliest convenience.
+[T-Doll Produced] New comrade...? Who might it be...
+[Joining an echelon] UMP9, ready for combat. Since we're family now, let's look out for each other!
+[Enhancement] Oh, for me? Thank you Commander!
+[Dummy-linking] Expansion complete! Commander you'll have more to deal with from now~!
+[Logistics (start)] Right! Towards the new world! Let's go!
+[Logistics (end)] We're back Commander, where are the promised desserts?
+[Autobattle] Supports on their way! Everyone hold on!
+[Title] Girls' Frontline!
+[Starting a combat mission] The mission will be accomplished!
+[Starting a battle] By your commands!
+[Skill activation] Bye bye!
+[Heavily damaged] Wh...How did it end up like this! Commander...!
+[Retreat] Wuuhh... Sorry Commander, We... We're returning now...
+[MVP] Missions accomplished! Hehe, What kind of rewards awaits me Commander?
+[Restoration] Commander... Please... Lend me your shoulder for a moment...
+[Halloween] Trick or treat!
+[Christmas] Merry Christmas! Today I'll be cooking with 416, so hopefully we won't start a fire...here goes!
+[New Year's Day] Happy New Year! How about that, I was the first to greet you, right!?
+[Valentine's day] Commander, you received so much chocolate today, isn't it too much?…… That's why, a little more won't hurt right? hehe♪
+[Tanabata] Commander, let's write our Tanabata tanzoku!
+[Acquisition] I'm back, Commander! We're family after all, we won't be so easily separated!
+[Secretary] Even though I don't know what Commander's opinion on family is... I believe we need to protect them, and that won't ever change!
+[Secretary (post OATH)] Emm? Don't think too hard about what to say. After all... in this big family, our hearts are already connected.
+[OATH] This warm feeling... So this is what "Love" is? Commander it seems like, our relationship progressed even further... Now we are truly a family... Thank you...
+[Greeting] Ah, Commander! Have you decided on a job for us today?
+[T-Doll Produced] A new friend has arrived! Come say hello to everybody!
+[Joining an echelon] For my family, I can do anything!
+[Enhancement] Don't be shy! I'll definitely pay this back!
+[Dummy-linking] Expansion complete! You'll have more to deal with from now on~!
+[Logistics (start)] Alright! Time to head out into a brand new world!
+[Logistics (end)] Huh? Where are our rewards?
+[Autobattle] Support is on the way! Hang on for just a bit longer!
+[Title] Girls' Frontline!
+[Starting a combat mission] For my family, I will stop at nothing!
+[Starting a battle] I alone am enough!
+[Skill activation] Eat this!
+[Heavily damaged] Ah, why is this happening...
+[Retreat] I can't do anything in this state, big sis 45!
+[MVP] Just as I thought! I've already come up with a new plan!
+[Restoration] Commander... please... lend me your shoulder for a moment...
+[Acquisition] UMP9 has come home! Everybody, we're family now!
+[Introduction] New model of UMP sub machine gun, that's me, UMP9! Just like UMP45, 40, I'm developed to replace MP5. The difference between me and my sisters, is that I'm chambered for 9x19 handgun ammo. Whether it be performance or sale figures, I'm very well regarded~ Commander, let's get along~!
+[Secretary] Look Commander! 45 nee-chan's skirt flies when she twirls! I knew she wanted to wear one too!
+[Secretary (post OATH)] Commander, Commander, let's play train! I'll be the engine! Hm, don't wanna play? You're letting me down, Commander... Then I let you be the engine!
+[OATH] Uwaa! This looks way more expensive then a toy... Then, Commander will take care of me with 45 nee-chan from now on! Remember to help me with making breakfast everyday! Huh? Helping your little sister with these kind of things is just natural! Hehe~
+[Greeting] Good morning Commander. Please inform me of today's plan at your earliest convenience.
+[T-Doll Produced] New comrade...? Who might it be...
+[Joining an echelon] UMP9, ready for combat. Since we're family now, let's look out for each other!
+[Enhancement] Oh, for me? Thank you Commander!
+[Dummy-linking] Expansion complete! Commander you'll have more to deal with from now~!
+[Logistics (start)] Right! Towards the new world! Let's go!
+[Logistics (end)] We're back Commander, where are the promised desserts?
+[Autobattle] Supports on their way! Everyone hold on!
+[Title] Girls' Frontline!
+[Starting a combat mission] The mission will be accomplished!
+[Heavily damaged] Wh...How did it end up like this! Commander...!
+[Retreat] Wuuhh... Sorry Commander, We... We're returning now...
+[MVP] Missions accomplished! Hehe, What kind of rewards awaits me Commander?
+[Halloween] Night of transformation is here, time to meet up with 45... Ahh?! ...45, is that you... Don.. Don't scare me like this!
+[Valentine's day] Commander, you received so much chocolate today, isn't it too much?…… That's why, a little more won't hurt right? hehe♪

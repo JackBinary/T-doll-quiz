@@ -1,0 +1,22 @@
+[Acquisition] Greetings, are you my Commander? ...I see, you scored a passing grade with the impressions, let's get along.
+[Introduction] (ditto)
+[Secretary] You can't get a good grade on the battlefield if you don't do your home works.
+[Secretary (post OATH)] Commander, the report feedback states all the criteria are slipping... Looks like we need more additional classes everyday.
+[OATH] Commander, after all the tests and trials, I've finally arrived at this step... Whatever comments and ratings are now no longer important to me, because I now have this kind of ending... Anything you like it, to me, are full mark answers.
+[Greeting] You're being punctual again today.
+[Joining an echelon] Surely, this will be an excellent team.
+[Enhancement] Strengthening shouldn't be unbalanced.
+[Logistics (start)] Indeed, we certainly need a new supplies.
+[Title] Girls' Frontline!
+[Starting a combat mission] Don't waste your time to pursue a meaningless goal. Everyone, do you understand what this means?
+[Starting a battle] My examination is quite strict you know.
+[Skill activation] Catchpoint!
+[Heavily damaged] Even I...
+[Retreat] When this happen, this definitely is a failure.
+[MVP] This may deserve a perfect score.
+[Restoration] Nngh, this is a bad score.
+[Halloween] I'm out of candy. Those children aren't half-hearted when it comes to this.
+[Christmas] T-turkey?! Please put it away! Quickly!
+[New Year's Day] I'm looking forward to the end-year evaluation. I wonder what kind of evaluation will you receive, commander?
+[Valentine's day] Don't you think just giving chocolate isn't enough? How about I teach you how to make one?
+[Tanabata] The next training exam is near. Would be better if you make a wish to pass the test, Commander.

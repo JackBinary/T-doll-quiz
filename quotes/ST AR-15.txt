@@ -1,0 +1,56 @@
+[ST AR-15] Live2D
+[Acquisition] ST AR-15. Please allow me to formally join this honorable squad and watch me as I bring you victory.
+[Introduction] AR-15 was created as a small caliber rifle after the end of the war. After numerous setbacks, I finally entered military service as the M16. However, the name AR-15 is used when I'm produced for the civilian sector. I have been updated as a modern weapon, so please don't confuse me with antiquated things like the M16.
+[Secretary] When... will it be my turn?
+[Secretary (post OATH)] Commander, is my performance today acceptable? Everyone is one step closer to their goal, one day, our dreams... shall all come true.
+[OATH] Commander... is this a dream ? (laughs) What was...I lost for all this time ? ...Please allow me to keep looking at you, as I'm afraid... that I'll wake up from this reverie if I close my eyes...
+[Greeting] Commander are today's operations prepared? I'm available on standby.
+[T-Doll Produced] The new T-doll... which side will she be from?
+[Joining an echelon] Colt AR15, entering formation! Let us bring back victory!
+[Enhancement] This is... the power I always craved for...
+[Dummy-linking] No matter how many you add, they will always be driven by one will...
+[Logistics (start)] Commander, please take care while I'm escorting the logistics.
+[Logistics (end)] I've returned, Commander your next orders?
+[Autobattle] My chance... is it finally here?
+[Title] Girls' Frontline!
+[Starting a combat mission] Engage! Honour and glory awaits me!
+[Starting a battle] Come... I won't lose to you!
+[Skill activation] This is your fate!
+[Heavily damaged] Eh? ...Where? What do I do!
+[Retreat] Dark... so dark... somebody... save me...
+[MVP] Commander, are my performances up to military standard? Or was I able to exceed them?
+[Restoration] I'll never... forgive them!
+[Attack] Hurry up, improve the efficiency!
+[Halloween] Umm, Just candy is enough for me. Commander, would you like some gummy candy? Or would you rather have some cookies?
+[Christmas] Commander! Merry Christmas! I'm putting up some decorations! ...Do you prefer something simpler?
+[New Year's Day] Happy New Years, Commander! Please bless me with more opportunities in this coming year!
+[Valentine's day] Have the other girls given you chocolate, Commander? I... I'll do my best too! I won't admit defeat, whether in love or on the battlefield.
+[Tanabata] I wish M16 would do some more work. I wish M4A1 would become more dependable... Ah, yes. We should write these wishes down first.
+[Defense] Halt, free fire!
+[Introduction] AR-15 was created as a small caliber rifle after the end of the war. After numerous setbacks, I finally entered military service as the M16. However, the name AR-15 is used when I'm produced for the civilian sector. I have been updated as a modern weapon, so please don't confuse me with antiquated things like the M16.
+[Secretary] I won't be holding back, when everyone needs me.
+[Secretary (post OATH)] Commander, is my performance today acceptable? Everyone is one step closer to their goal, one day, our dreams... shall all come true.
+[OATH] Commander... is this a dream ? (laughs) What was...I lost for all this time ? ...Please allow me to keep looking at you, as I'm afraid... that I'll wake up from this reverie if I close my eyes...
+[Greeting] Commander are today's operations prepared? I'm available on standby.
+[T-Doll Produced] The new T-doll... which side will she be from?
+[Joining an echelon] Is this, what everybody wishes for?
+[Enhancement] Only this feeling can soothe me.
+[Dummy-linking] No matter how many you add, they will always be driven by one will...
+[Logistics (start)] Commander, please take care while I'm escorting the logistics.
+[Logistics (end)] I've returned, Commander your next orders?
+[Autobattle] My chance... is it finally here?
+[Title] Girls' Frontline!
+[Starting a combat mission] The glory I wanted is in this battle!
+[Starting a battle] Confirm the amount of enemies!
+[Skill activation] I've changed myself!
+[Heavily damaged] No. I cannot fall here...
+[Retreat] This result again? But I will never give up!
+[MVP] Commander, can this victory be considered 'spectacular'?
+[Restoration] I'll never... forgive them!
+[Attack] Hurry up, improve the efficiency!
+[Halloween] Umm, Just candy is enough for me. Commander, would you like some gummy candy? Or would you rather have some cookies?
+[Christmas] Commander! Merry Christmas! I'm putting up some decorations! ...Do you prefer something simpler?
+[New Year's Day] Happy New Years, Commander! Please bless me with more opportunities in this coming year!
+[Valentine's day] Have the other girls given you chocolate, Commander? I... I'll do my best too! I won't admit defeat, whether in love or on the battlefield.
+[Tanabata] I wish M16 would do some more work. I wish M4A1 would become more dependable... Ah, yes. We should write these wishes down first.
+[Defense] Halt, free fire!

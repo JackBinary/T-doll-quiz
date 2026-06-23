@@ -1,0 +1,30 @@
+[Acquisition] Yo!☆ This is UTS-15, nice to meet you! That's just a temporary name, of course. One day I'll have my very own stage name and become a beloved idol!
+[Secretary] Commander, what kind of idols do you usually follow? Got any preferences for stage names? If you don't mind, please let me take a look at the accounts that you follow!
+[Secretary (post OATH)] Y-you want to meet now?! But I've been holed up in my dorm for three days... Hm, I know I shouldn't hide my true self when I'm with you, but... at least let me tidy up a little!
+[OATH] Commander... Why... I'm clearly far from perfect and I'm not outstanding enough to become an idol yet... I don't deserve such a gift right now... ...This isn't me being self-important! I just... I understand. I will work hard on improving myself!
+[Greeting] Perk up! Doesn't the very sight of me fill you with energy?!
+[T-Doll Produced] I can hear my future fans knocking on the door.
+[Joining an echelon] Let's set off to save the world!
+[Enhancement] I'm another step closer to my goal of becoming an idol!☆
+[Dummy-linking] Tee-hee!☆ Another me, another new project.
+[Logistics (start)] One, two, three... H-hold on! I still have several suitcases to load onto the truck, wait for me!
+[Logistics (end)] Commander, I'm back... S-stop staring at me! I look hideous right now...
+[Autobattle] Let's complete the mission together while listening to the playlist I just shared!
+[Title] Girls' Frontline!
+[Starting a combat mission] Let's put on a splendid performance as I sing!
+[Starting a battle] For the sake of love and peace, I must exterminate you!
+[Skill activation] This is a bullet packed full of love!
+[Heavily damaged] A true idol... won't give up so easily!
+[Retreat] Is it time to bow out? My stage...
+[MVP] A successful performance!☆
+[Restoration] I must keep up my image even in the repair tank!
+[Attack] Everyone, fire!
+[Halloween] I won't scribble all over my face! Even if it's Halloween, there's no way I'll ruin my exquisite makeup! Ahhh! Who did this?! Who rubbed makeup remover all over my face?!
+[Christmas] I'm very grateful to Santa Claus for delivering all our presents, but I just don't get the point of coming down the chimney... It makes your clothes all sooty, and it messes up your hair and makeup...
+[New Year's Day] A live performance is just the thing for such a boisterous occasion! Commander, don't bother joining the crowd. Just stay and watch my performance!
+[Valentine's day] Happy Valentine's Day, Commander!☆ Here's my handmade chocolate. Unwrap it and have a look~! I'm quite proud of the blue star on it. It will remind you of me.
+[Tanabata] They say Hikoboshi and Orihime will meet again on a bridge of magpies today. I wonder if there's any suitable BGM for their date?
+[Defense] Rearranging formation!
+[Phrase] As an idol...
+[Tip] Commander, I'm in the middle of some essential idol training, so don't disturb me~
+[Loading] How about I sing a song while we wait?

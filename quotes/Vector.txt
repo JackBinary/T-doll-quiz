@@ -1,0 +1,26 @@
+[Acquisition] Oh? A new commander? Well...let's all get along.
+[Introduction] KRISS Vector SMG, original name was Super V. When the prototype was first announced it quickly became everybody's laughing stock for over a year. Might be weird looking, but it was designed with the user's ergonomics in mind, heh, you could at least be thankful for that.
+[Secretary] Advice? Will you even listen?
+[Secretary (post OATH)] How much longer can you keep up with this act? If you can't pretend any longer then say so. I don't want to believe in a lie...
+[OATH] I'd never expected a result like this. Since I've always been difficult with you, I'll take it as my loss this time. But, don't think that it's going to end just like this.
+[Greeting] I'm the secretary today... Heh, disappointed?
+[T-Doll Produced] More new products? Not all that interesting...
+[Joining an echelon] Carry on, don't mind me.
+[Enhancement] More modifications? Emm... Whatever.
+[Dummy-linking] Is this really ok?
+[Logistics (start)] Going.
+[Logistics (end)] Back.
+[Autobattle] Just following orders.
+[Title] Girls' Frontline!
+[Starting a combat mission] Is the strategy meeting over? Well then, let's go.
+[Starting a battle] Hehe... Bring it.
+[Skill activation] Meaningless.
+[Heavily damaged] Are you serious? Stay away!
+[Retreat] So this is my fate...
+[MVP] Joys of victory? It means nothing to me.
+[Restoration] Can you leave me alone?
+[Halloween] Hummph!...I have always like this sort of things. This kind of atmosphere every now and then is not so bad after all.
+[Christmas] Christmas? Present... For me? No, I'm fine. What are you going to do?
+[New Year's Day] For a person to put up with me for over a year, as expected of Commander.
+[Valentine's day] Commander, take this...And? Ufufu, and I thought I might be the only one who wouldn't receive any Chocolate.
+[Tanabata] Out of everyone's wishes, there's no way they can all come true. But something like an unexpected wish could also come true, couldn't it?

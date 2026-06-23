@@ -1,0 +1,26 @@
+[Acquisition] (smirking) Surprised, Commander? MG5, I'll be serving under your orders from now on.
+[Introduction] Demonstrated as HK121, officially entered service after four years, then also given a new name. Sir, this is the story of me, MG5. As the new standardized model for all general purpose machineguns, a lot of efforts were put into both the development and production. But just speaking like this seems a little informal, please witness my prowess in actual combat.
+[Secretary] Commander, do you have any orders? I can depart at anytime.
+[Secretary (post OATH)] Don't fret, Commander, I will keep myself safe for this operation. There's no need to worry, we agreed on this a long time ago.
+[OATH] Is this your decisions Sir? No, I have no objections, should I say... This is what I hoped for. All of my chances were given to me by you Commander, I am lucky to receive this honourable title.
+[Greeting] We meet again Sir, when will you give the combat orders? Let me find some entertainment then.
+[T-Doll Produced] A new member arrived. They will be under my protections.
+[Joining an echelon] Gut! I've arrived just in time haven't I?
+[Enhancement] Danke! Looks like you know how to make use of my strengths.
+[Dummy-linking] A Smart choice Sir, you will see the result of this very soon.
+[Logistics (start)] No objections, departing now.
+[Logistics (end)] I've returned, an easy task.
+[Autobattle] Leave it to me, from this point on it's my time to shine.
+[Title] Girls' Frontline!
+[Starting a combat mission] I'll be enough with me here! Bare witness to my strengths!!
+[Starting a battle] You fools!
+[Skill activation] I do pity you useless struggles
+[Heavily damaged] I... I can still... Fight...
+[Retreat] I... Couldn't win...
+[MVP] "Weapon of any situation"——Yes, that'd be me.
+[Restoration] Sorry, will have to rely on you for the maintenance.
+[Halloween] Halloween? I know a couple of related stories... Surprised? There are plenty of fairy tales where I'm from.
+[Christmas] Merry Christmas, commander. Let me help with cleaning the windows, since it's a little bit dangerous, it'll be better if I do it.
+[New Year's Day] Happy New Year, commander. Will you look forward for my success this year too?
+[Valentine's day] I'll be having a drinking party. Your chocolate is on the table, eat it later.
+[Tanabata] To get stronger be victorious without anyone's help. That is my wish, Commander. I will make it happen.

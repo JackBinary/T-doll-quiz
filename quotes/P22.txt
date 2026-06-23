@@ -1,0 +1,22 @@
+[Acquisition] (On her phone) Aiya, the Commander's here to get me, I'll talk to you later—— Hello Commander, I'm P22, is there anything you need help with?
+[Secretary] (On her phone) That's why I said the Commander's tactic is... eh? Do you need something, Commander? Oh, I wasn't talking to you just now, don't mind me.
+[Secretary (post OATH)] If you can't think of anything to chat about, then let's just talk about you, Commander. Haha, as long as it's about the Commander, I'll never get bored.
+[OATH] I think you're acting kinda weird, Commander...don't you think so? Hmm... this is out of the ordinary, but my heart has already made a decision. As for my answer, would you mind if I put this on first before telling you? Hehe~
+[Greeting] (On her phone) What do I think about the Commander? Pretty OK, I guess...
+[T-Doll Produced] I think it's a handgun. No, definitely a submachine gun.
+[Joining an echelon] Everyone here is pretty funny.
+[Enhancement] Did I get any stronger? I'm not quite sure.
+[Dummy-linking] These dummies can't even talk to me...too bad.
+[Logistics (start)] It'll take quite a while, so what do you want to talk about along the way?
+[Logistics (end)] Yep, that was a pretty decent stroll.
+[Autobattle] Leave it over there. There'll be plenty of loot later.
+[Title] Girls' Frontline!
+[Starting a combat mission] Are we...not too late?
+[Starting a battle] The left? Or the right? No, let's hit the closest ones first!
+[Skill activation] Let me help.
+[Heavily damaged] I see, so that's what your purpose is, guh...
+[Retreat] Are you heading home first? Yeah...let's do that.
+[MVP] You did it, Commander! Me too!
+[Restoration] Here? Ouch...! Y-yeah, here! Right here! Please be gentle!
+[Valentine's day] (On her phone) Do you really think the Commander will like it? I'm not very confident! Well, whatever. It's you're fault if it doesn't work out.
+[Tanabata] Wishes, huh... Is there already an answer? Hold on, gotta make sure the Commander doesn't find out about this!

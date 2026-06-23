@@ -1,0 +1,72 @@
+[Acquisition] UMP45 has arrived. Commander, let's get along from now on~
+[Introduction] Due to the reducing amount frontline battles and increasing amount of special operations, I, UMP45, full name ".45 Calibre Universal Submachine Gun" was born. Spectacular performance, low recoil during continuous fire and easily assembled, very suitable for services such as special forces and special police... Under the condition that we do actually want to protect the hostages, hehe...
+[Secretary] I've been waiting for you, Commander.
+[Secretary (post OATH)] Was I really out for that long? Missed me? You don't look like you did though... That's more like it. There's the dopey face that's so reassuring, hehe...
+[OATH] Despite knowing my true nature, you'd still accept me?... Hehe, worry more about your own future, Commander~
+[Greeting] Preparing to work hard? Hope you can still make it in time hehe...♪
+[T-Doll Produced] New recruit? Will you still remember me?
+[Joining an echelon] Sending me to my death again? hehe.
+[Enhancement] For me? Hmm, how can I make use of this?
+[Dummy-linking] One more? Oh well... One more it is...
+[Logistics (start)] I know, you just don't want me to have a break.
+[Logistics (end)] Oh I'm back, what's next?
+[Autobattle] Can everyone stay alive for a bit longer?
+[Title] Girls' Frontline!
+[Starting a combat mission] Alright alright, lets go already.
+[Starting a battle] We're starting 9, watch for them.
+[Skill activation] Goodbye bugs!
+[Heavily damaged] Hmm, finally met someone... I really want to wipe out.
+[Retreat] Ehh, this doesn't happen very often, right...?
+[MVP] Hehe, wasn't even trying, can we push on?
+[Restoration] Give me a break sometimes Commander, hehe.
+[Attack] OK, let's go.
+[Halloween] Halloween is here, Does Commander like this festival? ……Me? I don't hate it, after all, it's "lively".
+[Christmas] Commander, Merry Christmas! So, what's the plan for tonight, Commander? ...Do you perhaps want to have dinner with me?... Ah, N-Nothing! I didn't say anything at all!
+[New Year's Day] Happy New Years, Commander! ...To be able to keep fighting by your side... yes, that'd be nice.
+[Valentine's day] Commander, I made this chocolate for you. Of course, I also prepared enough for everyone else... It's not bad, right?
+[Tanabata] You want know what I wished for? Hehe, I'm not tell you! It's a secret!
+[Acquisition] Let's get to know each other all over again, Commander... while I still feel that this world can be saved.
+[Introduction] Due to the reducing amount frontline battles and increasing amount of special operations, I, UMP45, full name ".45 Calibre Universal Submachine Gun" was born. Spectacular performance, low recoil during continuous fire and easily assembled, very suitable for services such as special forces and special police... Under the condition that we do actually want to protect the hostages, hehe...
+[Secretary] What do you need me to do? ...Heh, then I'll decide for you.
+[Secretary (post OATH)] Huh? I wasn't daydreaming. Do you think I'm anything like you? It was just... I realized that I've been living this kind of life with you for a while now. Well, I can't tell if it's because of your incredible silliness or if I've become the silly one.
+[OATH] Knowing I'm like this, you still want to accept me? Want to change me? Don't be delusional. Being with me, you had better worry about the future, haha♪
+[Greeting] Preparing to work hard? Hope you can still make it in time hehe...♪
+[T-Doll Produced] Hmm? Kids to do the dirty work?
+[Joining an echelon] You guys must love each other.
+[Enhancement] Sympathy? Heh, thank you.
+[Dummy-linking] One more? Oh well... One more it is...
+[Logistics (start)] I know, you just don't want me to have a break.
+[Logistics (end)] Oh I'm back, what's next?
+[Autobattle] Can everyone stay alive for a bit longer?
+[Title] Girls' Frontline!
+[Starting a combat mission] It's payday. Let's move, 9.
+[Starting a battle] What kind of monster will it be this time?
+[Skill activation] How pitiful, insects.
+[Heavily damaged] I guess...I should've done a little more.
+[Retreat] This...wasn't the ending I was looking for. But, now you know what to do next time, right?
+[MVP] I like this ending. However, this is isn't over yet. Fufu, isn't that right?
+[Restoration] Give me a break sometimes Commander, hehe.
+[Halloween] Halloween is here, Does Commander like this festival? ……Me? I don't hate it, after all, it's "lively".
+[Christmas] Commander, Merry Christmas! So, what's the plan for tonight, Commander? ...Do you perhaps want to have dinner with me?... Ah, N-Nothing! I didn't say anything at all!
+[New Year's Day] Happy New Years, Commander! ...To be able to keep fighting by your side... yes, that'd be nice.
+[Valentine's day] Commander, this is the chocolate I made. Of course, I have also prepared enough for everybody…… not bad right?
+[Tanabata] You want know what I wished for? Hehe, I'm not tell you! It's a secret!
+[Acquisition] UMP45 is here. Commander, you want to get along with me, right♪
+[Introduction] Due to the reducing amount frontline battles and increasing amount of special operations, I, UMP45, full name ".45 Calibre Universal Submachine Gun" is born. Spectacular performance, low recoil during continuous fire and easily assembled, very suitable for services such as special forces and special police... Under the condition that we do actually want to protect the hostages, hehe...
+[Secretary] Nose? Um, what's on my nose, Commander? Is it the pastries I've been eating?
+[Secretary (post OATH)] I'm not a child, you're not allowed to give me any candy! Eh? Y-you're gonna give all of them to 9? ....You're not allowed to not give me any candy!
+[OATH] Ehh? Even if I look like this, you'll still let me stay? W-well if you were a new toy for me to play with, I'd be happier... Then until Commander become an adult worthy of praise, I'll have to raise you properly!
+[Greeting] Preparing to work hard? Hope you can still make it in time hehe...♪
+[Enhancement] For me? Hmm, how can I make use of this?
+[Dummy-linking] One more? Oh well... One more it is...
+[Logistics (start)] I know, you just don't want me to have a break.
+[Logistics (end)] Oh I'm back, what's next?
+[Autobattle] Can everyone stay alive for a bit longer?
+[Title] Girls' Frontline!
+[Starting a combat mission] Alright alright, lets go already.
+[Starting a battle] We're starting 9, watch for them.
+[Retreat] Ehh, this doesn't happen very often, right...?
+[MVP] Hehe, wasn't even trying, can we push on?
+[Restoration] Give me a break sometimes Commander, hehe.
+[Halloween] Halloween is here, Does Commander like this festival? ……Me? I don't hate it, after all, it's "lively".
+[Valentine's day] Commander, this is the chocolate I made. Of course, I have also prepared enough for everybody…… not bad right?

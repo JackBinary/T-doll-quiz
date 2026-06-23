@@ -1,0 +1,26 @@
+[Acquisition] Ballista, joining your echelons from now on... Where are you looking at? The combat situation is tight right now, please focus.
+[Introduction] (ditto)
+[Secretary] Is there an order? Otherwise please do not interrupt my work.
+[Secretary (post OATH)] Commander, we're still in the middle of work, please stop bothering me. Geez, just this once, there's no next time.
+[OATH] Commander, I didn't expect you to choose me... even though I've always been selfish, I'm ashamed to myself. But for you to accept me as who I am, makes me really happy.
+[Greeting] You've arrived.
+[T-Doll Produced] Commander, new member has arrived.
+[Joining an echelon] Battle formation has been arranged.
+[Enhancement] Let's move into shooting practice.
+[Dummy-linking] Linking complete. No abnormalities.
+[Logistics (start)] This time route is... Yes, understood. I'll depart at once.
+[Logistics (end)] List checking complete. Mission complete.
+[Autobattle] Maintenance complete. Action begin.
+[Title] Girls' Frontline!
+[Starting a combat mission] Objective confirmed, commencing operation.
+[Starting a battle] Confirming the number of enemies.
+[Skill activation] Focus, focus!
+[Heavily damaged] N-no way... I was caught from this angle,
+[Retreat] My alertness, is still not enough?
+[MVP] Aah, we won. What's the next objective?
+[Restoration] No matter how small a scratch is, you should repair it properly.
+[Halloween] That FNC, she was definitely eating candy in secret when we're telling ghost stories. Honestly, I want her to be more serious.
+[Christmas] Merry Christmas, Commander. Forget about today's work and enjoy the moment.
+[New Year's Day] Commander, why are you still here? You are getting in the way of cleaning.
+[Valentine's day] Commander, please tell me about your impression of this chocolate. I want to use it as mixing reference.
+[Tanabata] My wish you ask? Sorry, give me some time to think it in private.

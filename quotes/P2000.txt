@@ -1,0 +1,20 @@
+[Acquisition] Ruby the genius driver is here! Bring me the best car you've got, and I'll bring victory home!
+[Secretary] Who's the no-good bastard who doubted my capabilities in the combat report? Commander, please pass a message to her: Victory only goes to those that go beyond limitations! ...What, win-loss ratio? Never heard of it.
+[Secretary (post OATH)] Hey, Hey! I have wasted a whole day reading documents with you, shouldn't it be your turn to make it up to me? ...What compensation do I want? Hehe... Hop in and you'll see!
+[OATH] Oh? Is this the rumored ultimate honor that the commander will personally bestow? Don't you think it's a little too late for that? Not that my unrivalled driving skill needs your validation... Wait, I didn't say I don't want it! Hurry up and put it on!
+[Greeting] How about enjoying a cup of coffee while watching the weather forecast?
+[Joining an echelon] Let's get to work! Everyone, time to get serious and line up!
+[Enhancement] Is this what it feels like to push it to the limit? I love it!
+[Dummy-linking] Genius racer cultivation program, commence!
+[Logistics (start)] Are you sure the weather will be okay? 1000% sure?
+[Logistics (end)] The best time of this track has once again been beaten by Ruby! Commander, do you have a special reward for me?
+[Autobattle] Routine Patrol? I know, I know...
+[Title] Girls' Frontline!
+[Starting a combat mission] Put the police lights- I mean turn the headlights on!
+[Starting a battle] Our one and only goal- Racing towards victory!!
+[Skill activation] Cyclone drift!
+[Heavily damaged] You! Cheated!
+[Retreat] I blame the bad weather!
+[MVP] Piece of cake~
+[Restoration] Getting a relaxing massage in here from time to time should be quite nice.
+[Loading] One moment, the weather forecast updated...

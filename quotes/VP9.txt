@@ -1,0 +1,30 @@
+[Acquisition] Commander~ This is VP9... Huh? We have to shake hands?! W-w-w-wait, let me wipe my hand first!!
+[Secretary] Commander, is that Griffin's avocado-flavored potato chips in your hands? I hear they're super tasty! Please give me some~!
+[Secretary (post OATH)] Commander, we're going to volunteer at the elderly home today... You haven't forgotten, have you? Sheesh, we're going to be late! Let's set off!
+[OATH] You'd like to donate a ring? Thank you for the kind gesture~ But it's a bit difficult to turn it into cash... Huh? You mean you want to join me in helping those in need?! (weeps) I didn't know you're such a kind soul...! Alright, then with this ring as our witness, let's work together and make more people smile in happiness!
+[Greeting] Commander, have you done your good deed of the day?
+[T-Doll Produced] A new friend! I wonder if she'd be interested in doing charity work together with me?
+[Joining an echelon] Hello, everyone! Let's do our best together in the upcoming mission!
+[Enhancement] If only there were an enhancement option to increase my appetite. After all, there's so much good food in the world I simply can't eat it all!
+[Dummy-linking] There's more of me... That makes it easier to solicit donations in different places!
+[Logistics (start)] Where are those who need help?
+[Logistics (end)] I'm back~ Not only did I receive lots of donations, I also bought some cheap and tasty snacks! It's a great haul~!
+[Autobattle] I should collect some donations along the way... Not very likely, I suppose.
+[Title] Girls' Frontline!
+[Starting a combat mission] Alright, off we go~!
+[Starting a battle] It's starting! Charge!
+[Skill activation] Okay, here I go!
+[Heavily damaged] Th-th-the donation box!
+[Retreat] If I take too much damage, I'll have to spend a lot of money on repairs... Better retreat soon...!
+[MVP] Fight more, earn more, then help more people, heheh~!
+[Restoration] ...If I hadn't got hurt, all these resources could've been used to help more people...
+[Attack] Spare no effort! Follow my lead!
+[Halloween] It's finally Halloween! Heheheh, I'm also gonna dress up this year. Then I'll be able to grift lots of tasty sweets in the evening~!
+[Christmas] Commander, can I borrow Santa Claus' outfit after the Christmas party? I want to go and give out some presents to impoverished children... Huh? W-why are you putting on the outfit yourself? You're coming with me? That's wonderful! Thank you!
+[New Year's Day] Commander, this red packet is for me?! Wow, Happy Lunar New Year! Heheheh, more money for the donation box~!
+[Valentine's day] Commander, this is obligatory chocolate. Please buy some for charity to help the refugees! You want something more heartfelt? No problem, here's a very heartfelt letter of gratitude! Please accept it too!
+[Tanabata] The story of Cowherd and Weaver Girl may just be a legend, but hearing it always makes me want to do something for them... Since I'm feeling so motivated, I'm gonna go and help more people in need tonight!
+[Defense] Don't be afraid, I'll keep you all safe!
+[Phrase] Hello~ Would you like to make a donation?
+[Tip] I hear the café has introduced some new desserts. If I don't go soon, they'd be all sold out. Maybe I should slip away quietly now... Oh, Commander?! I-I didn't say anything!
+[Loading] I'm getting hungry... Is it not our meal break yet?

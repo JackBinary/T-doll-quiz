@@ -1,0 +1,46 @@
+[Acquisition] Super SASS reporting in! Nice to meet you! I'll be counting on you from now!
+[Introduction] AR-10 Super SASS, formerly known as AR-10 SASS sniper rifle, but unfortunately lost to other competitors of the same market. After some modifications done, formally renamed as Super SASS and released for civilian market. Learn and improvising are my driving motives since AR-10 days, after all giving up is worse than losing, hehe.
+[Secretary] Commander, you've worked hard! Want anything to drink?
+[Secretary (post OATH)] Commander, what do you plan on doing today? The same as last time? Do you still remember what we did? Hehe...I remember all of it.
+[OATH] Commander isn't this meeting a bit different than usual? Eh.. For me? Aww that's not fair, now I have to work extra hard now! Hehe,  but I can still manage it.
+[Greeting] Commander, are you done with your break? Let's get back to work then.
+[T-Doll Produced] A new friend, welcome!
+[Joining an echelon] Everyone, lets do our best!
+[Enhancement] This is just what I wanted! Thank you!
+[Dummy-linking] There's more of us now, lets do our best!
+[Logistics (start)] OK, Let's go together everyone!
+[Logistics (end)] Commander, I came back safely!
+[Autobattle] Sorry, I'm a little late!
+[Title] Girls' Frontline!
+[Starting a combat mission] I'm a little nervous but I'll be okay!
+[Starting a battle] It's the start of the battle
+[Skill activation] Take this!
+[Heavily damaged] Huh? What is this? What am I doing?
+[Retreat] Commander, Don't mind it too much, There's always next time
+[MVP] Ehehe, It's thanks to everyone else I won! Hooray!
+[Restoration] If there's sweets then... Uh, Okay, I'll go take them.
+[Halloween] This is my first present of the night! Let's see what's inside... Ah!! ...I just knew it was a trap...
+[Acquisition] Commander, perhaps becoming like this would better meet my seniors' expectations, don't you think?
+[Secretary] No matter what difficulties we encounter, I'll do my best to overcome them with you, Commander. Don't you agree?
+[Secretary (post OATH)] At long last, we're together alone... Commander, don't let yourself be bothered by trivial things. Entrust yourself to me.
+[OATH] Commander, is there something special about today's get-together? Hm? Prepared for me? This is too much! Doesn't this mean I have to work even harder? Heheh, though this will be a piece of cake for me.
+[Greeting] Commander, is there a training plan for today?
+[T-Doll Produced] I hope I'll be able to get along with our new friend!
+[Joining an echelon] I'll treasure this opportunity!
+[Enhancement] I want to find a place to test my gun out!
+[Dummy-linking] I'll have more chances to deploy now, so I'll do my best!
+[Logistics (start)] Okay, I'll lead everybody out!
+[Logistics (end)] Commander, we've returned safe and sound.
+[Autobattle] Sorry, I'm late!
+[Title] Girls' Frontline!
+[Starting a combat mission] The time to show the results of my training has come!
+[Starting a battle] Looks like an opponent worth challenging.
+[Skill activation] An opening!
+[Heavily damaged] Don't think I'm admitting defeat!
+[Retreat] Are you an obstacle for me? I'm looking forward to challenging you again!
+[MVP] This is what I need to do, for everyone and for you, Commander!
+[Restoration] If only there were snacks... No, never mind, I'll get them myself...
+[Attack] Everyone, let's give it our all!
+[Defense] Be careful and wait for an opportunity!
+[Tip] Hi hi~ This is very important~ Remember to take notes!
+[Loading] Thank you for waiting, Commander.

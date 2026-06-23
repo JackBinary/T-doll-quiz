@@ -1,0 +1,26 @@
+[Acquisition] I remember that it is this way.....(sigh) You are the commander? You are actually much ...... Ah! No, nothing......
+[Introduction] In light of the international market demand for more large caliber sniper rifles, the Norinco Company initiated a research and development project of me...JS05. To increase shooting accuracy, the design incorporates technical theories about ballistics. For handiness.....why don't you give it a try?
+[Secretary] Commander, so which T-doll has embarrassed you again? Enlighten me.
+[Secretary (post OATH)] Commander, can you tell which shampoo brand I have used today just by smell? If you answer correctly, then......
+[OATH] From now on I will be very close to you to mark you into my neural cloud. Actually when I first saw you, i know it instantly.......you are far gentler and cuter than I have imagined.
+[Greeting] You look excellent today, now finish all jobs quickly!
+[T-Doll Produced] One more T-doll to along with the commander.
+[Joining an echelon] I am sorry to bother you all, but this is my space.
+[Enhancement] I have infinite potential.
+[Dummy-linking] They look identical to me! Can they produce a commander look-alike T-doll too?
+[Logistics (start)] How many supplies do we need (to get)? Let me check.
+[Logistics (end)] Conserve the resources, looking for them still needs some effort.
+[Autobattle] It is humiliating to lose!
+[Title] Girls' Frontline!
+[Starting a combat mission] Take care of them quickly.
+[Starting a battle] I am already prepared, can we start now?
+[Skill activation] Don't even try to escape my scope!
+[Heavily damaged] If you messed up my hair, I will not forgive you all.
+[Retreat] Ahhh~ I lost! I lost! I will go back and rest now!
+[MVP] Victory! Looks like I only overthought!
+[Restoration] It's all right, I will take care of myself from here, you should go check on the other T-dolls.
+[Halloween] Who will take the number one spot of the most fearful doll tonight.
+[Christmas] Why are children the only ones who get the Christmas present every year?! I want it too!
+[New Year's Day] What kind of event will be held this year. I'm looking forward to it.
+[Valentine's day] I hear you are preparing chocolate as well. Will you give it to me perhaps?
+[Tanabata] Hmm, this wish is kind of... Ah! Don't look! This has nothing to do with you!

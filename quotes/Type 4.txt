@@ -1,0 +1,23 @@
+[Acquisition] Type 4 automatic rifle, sending you our regards. If perchance you should have any need, permit us the honor of your commands!
+[Secretary] If any task seems fit for you to give to us, please do not hesitate, Master- um, I mean, Commander.
+[Secretary (post OATH)] The Commander's shading techniques sure are improving steadily. We think that one day, you have the potential to be a professional manga assistant! However, it's more important for you to be our first reader... For this scene, won't you tell us your feelings about it?
+[OATH] ...For us? Wait, hold on, this type of development, are we dreaming? We must be fantasizing again, I gotta wake up!... Ow! So it's really not a dream... Commander... if you hold us to such importance in your heart, we will do our utmost to return your feelings!
+[Greeting] Greetings!
+[T-Doll Produced] So you're the army new helper! This is a good news!
+[Joining an echelon] For you to put your trust in me, I'm extremely and humbly delighted!
+[Enhancement] A weapon's job is seven days a week!
+[Dummy-linking] This one is for mission, this one for writing manuscript, this one for escorting Commander. Hmm, I'll need at least three dummies for these tasks.
+[Logistics (start)] Crossing the river... pass through the road... where would we go...
+[Logistics (end)] I've made my triumphal return. Could you give me some warm tea?
+[Title] Girls' Frontline!
+[Starting a combat mission] Following Commander's order, I'll definitely, shoot through enemy ranks!
+[Starting a battle] It's the enemy! Everyone, prepare for battle!
+[Skill activation] Steel yourself!
+[Heavily damaged] Will I... scatter like a cherry blossom?
+[Retreat] This... is also part of one's honour!
+[MVP] Hip, hip, hooray!
+[Restoration] I'm ashamed... to make you worry...
+[Halloween] I saw so many things happened today. They would make a good material for work. I knew it was a right call to go out. I managed to get lucky finding for my manuscript.
+[Christmas] Santa Claus? Does this celebration used to welcome this guy with weird family name? I can't think this as a good holiday in any means.
+[New Year's Day] You're visiting the shrine Commander? Yeah, my deadline is close. After that voluntary practice... I was dead tired. Maybe I could get some inspiration outside.
+[Valentine's day] Commander, please take this! D-don't get it wrong! This is just obligatory chocolate! I absolutely have no special feelings for you!

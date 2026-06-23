@@ -1,0 +1,26 @@
+[Acquisition] Hello Commander! Mossberg 500 shotgun here. I'm very happy to meet you! Quick! Quick! Give me some orders!
+[Secretary] Is there something interesting? Wait for me!
+[Secretary (post OATH)] Commander, lets get everyone to play on the weekend! Lively parties are the best parties, right?
+[OATH] Wah! Commander, are you really serious?! This isn't some kind of punishment game, right? Hey! I'm asking a serious question! Since you've always teased me... T-Then let me take it seriously. Commander, from this day on, please take good care of me
+[Greeting] Hello! Ready for combat? I'm looking forward to today's mission.
+[T-Doll Produced] New friends! Wanna party together?
+[Joining an echelon] At last, it's my turn!
+[Enhancement] Thank you! This is the best!
+[Dummy-linking] Ehehe. This'll make me more popular, right?
+[Logistics (start)] I'm heading out~! Let's go all the way!
+[Logistics (end)] Ehehe. I've returned safely, Commander.
+[Autobattle] Sorry to keep you waiting! Let's go everyone!
+[Title] Girls' Frontline!
+[Starting a combat mission] Let's go! Is everybody ready?
+[Starting a battle] Now, let's duel!
+[Skill activation] Go, go~!
+[Heavily damaged] Tch...I played around a bit too much...
+[Retreat] We lost? There's no way...
+[MVP] Good job! You did great, everyone.
+[Restoration] Uwaa...finally I can take a bath.
+[Halloween] Uwaah, Commander! Monsters! Huh, fakes? Eh...I guess they are.
+[Christmas] Merry Christmas! You already know what I want, right Commander? I hope you won't disappoint me!
+[New Year's Day] Happy New Year~! It's the beginning of a new journey! Are you ready for it, Commander?
+[Valentine's day] Eh? Chocolate? Why? Will everyone be happy if they send it?
+[Tanabata] I see, so I just need to write a wish? Great idea! Let's do it!
+[Title] Girls' Frontline!

@@ -1,0 +1,25 @@
+[Acquisition] Hmph, you must be truly blessed to have a most noble and resplendent doll like me.
+[Secretary] Why do you keep staring at my hand all the time? Ah, very good! This is indeed a traditional henna, famous back in my hometown. Paint one onto your body and it will protect you.
+[Secretary (post OATH)] Today I made you a tomato and fried egg rice bowl, since you said you preferred to eat Chinese food? Try it. Isn't it tasty? It's delicious isn't it?
+[OATH] Hm, it's just like a luxury item made especially for me, so I'll take it. The size is perfect, so I don't think I'll remove it from now on. While I already own lots of expensive and high-end accessories, I know that there is only one thing that I have made with all my heart.
+[Greeting] What's next? I'm busy right now. I don't have the time to be dealing with these endless missions and unnecessary plans.
+[T-Doll Produced] Just like me, I wonder if they were born from a proud creator...
+[Joining an echelon] If I've been looking after myself after all this time, I guess it can't be helped that I look after the other kids, too.
+[Enhancement] Isn't this strong enough to scare the other dolls?
+[Dummy-linking] Twice the power!
+[Logistics (start)] Oi! I'm heading out now. Be back soon.
+[Logistics (end)] I'm back. Take what you want.
+[Autobattle] There won't be any problems since I'll be there. Don't worry.
+[Title] Girls' Frontline!
+[Starting a combat mission] What a waste of supplies. I alone am enough!
+[Starting a battle] We do this for glory! Advance!
+[Skill activation] Is that all? Clearly there's no need for you to do your best.
+[Heavily damaged] Dammit...what can a piece of junk like you do...
+[Retreat] Remember this! I'll be sure to return the favor!
+[MVP] Hahaha, as expected from me!
+[Restoration] I'm off to get some rest...
+[Halloween] Trick or treat! Wait...that's it?! I'm not a child in that area.
+[Christmas] Merry Christmas! Hopefully you were able to procure a gift for me, right? Right? If you're ready to do that, I'll give you some fresh chicken curry! That is, unless...
+[New Year's Day] Hey, so um...Happy New Year. What? You sure were slow to react to that. Have you prepared a gift to give to me?
+[Valentine's day] Happy Valentine's. Here's my chocolate for you. There reason that the color is unique is because I filled it with gold. Does it taste better than the ones that the other dolls made?
+[Tanabata] Here, I made you an amulet. If you put it on, it'll remove your troubles and also help you sleep better. So, now that you have that, quit looking at the stars, and quit sneaking peaks at the other dolls.

@@ -1,0 +1,27 @@
+[Acquisition] Finally found me, huh? I'm MP-446, but please call me "Viking"!
+[Secretary] Commander, won't you play with me?
+[Secretary (post OATH)] Commander, has anything interesting happened lately? I want to write it down! Doesn't matter what it is, you're mine so whatever it is just tell me!
+[OATH] Commander, why there is nobody here? ...Eh?! Wha-w-w-w-w-why?... It's embarassing... but I won't let your hand go!
+[Greeting] Oh, good morning commander! Will you stay by my side all day long?
+[T-Doll Produced] New friend is coming! Let's greet her!
+[Joining an echelon] Viking! Participating! Please take care of me!
+[Enhancement] Ooh! I'm getting stronger! We will be together!
+[Dummy-linking] Ooh! I'm multiplied! But how will I name her...
+[Logistics (start)] Going out together with everyone again!
+[Logistics (end)] I'm back! Aah, it was fun!
+[Autobattle] Viking is here!
+[Title] Girls' Frontline!
+[Starting a combat mission] It's Viking's turn~ departing!
+[Starting a battle] I found the enemy!
+[Skill activation] Everyone hold on!
+[Heavily damaged] Eeh, why? But with just this I won't fall!
+[Retreat] Ugh... frustating! I want to be relied upon more!
+[MVP] Haha! Everyone! Viking the big success! Remember it!
+[Restoration] I'm alone here? ...It can't be helped, I'll bear with it...
+[Halloween] Ooh! Today is the beloved Halloween! Let's all get fired up! Eh, no one is participating?
+[Christmas] Merry Christmas Commander! This Viking will capture Santa Claus!
+[New Year's Day] Commander! Happy New Year! Let's play a lot again!
+[Valentine's day] Commander, please take this! This is a high class chocolate. You ate it already?!
+[Tanabata] Tanabata request…ehe, you can say that's already come true just because we are all together!
+[OATH] Commander, why there is nobody here? ...Eh?! Wha-w-w-w-w-why?... It's embarassing... but I won't let your hand go!
+[Title] Girls' Frontline!

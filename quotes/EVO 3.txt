@@ -1,0 +1,42 @@
+[Acquisition] Hello, Commander~ Scorpion EVO 3, officially part of the team as of today. Please look after me~
+[Secretary] Are you still modifying the battle plan?  I'm going to need it to carry out the mission.
+[Secretary (post OATH)] Have you rested well, Commander? Why don't you enjoy it a bit longer since you rarely get the chance to have a break? I'll take care of the things here for you.
+[OATH] Oh? Commander, is this for me? This is a little unexpected... I thought that based on my performance, I would've had no chance. No, I'm very happy. This is the biggest honor of my life.  Let me tell vz. 61 right now. She will also definitely be very happy.
+[Greeting] Taking a walk because the weather's nice...let's go train instead!
+[T-Doll Produced] A new member has arrived, I wonder if she's cute?
+[Joining an echelon] HI~! Wait, what's this about vz. 61?
+[Enhancement] Very good! Just like that!
+[Dummy-linking] Now this is preferential! Ufufu, thanks!
+[Logistics (start)] Nice, I'm gonna love this.
+[Logistics (end)] Expedition complete, all is well!
+[Autobattle] Leave it to me, everything's gonna be alright!
+[Title] Girls' Frontline!
+[Starting a combat mission] Alright! Let's go all out!
+[Starting a battle] Proceed with caution!
+[Skill activation] Careful now!
+[Heavily damaged] I can't believe...that this is happening to me...
+[Retreat] Rather than doing something foolish, wouldn't it make sense to withdraw now?
+[MVP] That's one for me, vz. 61!
+[Restoration] This will take some getting used to...
+[Halloween] That might be where vz. 61 will be attacking from tonight. Rest easy, I'll be sure to protect your candy.
+[Christmas] Merry Christmas, Commander! Here, a present from me. You look absolutely cool with those new glasses on!
+[New Year's Day] You mustn't catch a cold early in the New Year, Commander.
+[Valentine's day] Commander, this is a chocolate that has been made through trial and error. Please accept it, if you like. O-oh, thanks.
+[Tanabata] vz. 61 brought a lot of fireworks. Let's all go play together this evening!
+[Acquisition] Hello, Commander~ Scorpion EVO 3, officially part of the team as of today. Please look after me~
+[Greeting] Taking a walk because the weather's nice...let's go train instead!
+[T-Doll Produced] A new member has arrived, I wonder if she's cute?
+[Joining an echelon] HI~! Wait, what's this about vz. 61?
+[Enhancement] Very good! Just like that!
+[Dummy-linking] Now this is preferential! Ufufu, thanks!
+[Logistics (start)] Nice, I'm gonna love this.
+[Logistics (end)] Expedition complete, all is well!
+[Autobattle] Leave it to me, everything's gonna be alright!
+[Title] Girls' Frontline!
+[Starting a combat mission] Alright! Let's go all out!
+[Starting a battle] Proceed with caution!
+[Skill activation] Careful now!
+[Heavily damaged] I can't believe...that this is happening to me...
+[Retreat] Rather than doing something foolish, wouldn't it make sense to withdraw now?
+[MVP] That's one for me, vz. 61!
+[Restoration] This will take some getting used to...

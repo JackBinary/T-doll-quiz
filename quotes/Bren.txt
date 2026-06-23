@@ -1,0 +1,49 @@
+[Acquisition] Bren light machine gun. I can handle whatever mission you throw at me.
+[Secretary] Is there a problem? Make it short.
+[Secretary (post OATH)] Am I pressing too hard? Sorry, I've rarely given massages before... I'm satisfied as long as you're comfortable.
+[OATH] Commander, you've chosen me, which means... My dedication has finally be answered. I'm very sorry for all the inconveniences I've caused you, but please, let me continue to improve myself for you!
+[Greeting] You came. Then let's start the strategy meeting immediately.
+[T-Doll Produced] It's complete. Are you sure not to check it?
+[Joining an echelon] I'll definitely give a good result.
+[Enhancement] That's it, I'm getting stronger!
+[Dummy-linking] Dummy linking? With this I won't lose to those German weapons.
+[Logistics (start)] Roger. Depart!
+[Logistics (end)] I've returned. The mission wasn't get delayed and already completed.
+[Autobattle] Even if it's a supporting mission, I won't be left behind.
+[Title] Girls' Frontline!
+[Starting a battle] Be prepared!
+[Skill activation] Fire!
+[Heavily damaged] Ugh... I'm being defeated... again...
+[Retreat] Impossible...
+[MVP] Hmph, is this all?
+[Restoration] Can I get stronger?
+[Halloween] Pumpkins are food. Isn't it a waste to wear it on head?
+[Christmas] Commander, Merry Christmas. It's not bad to take breather sometime.
+[New Year's Day] It can't be helped since it's new year. I too will take a break.
+[Valentine's day] If you have spare time to receive chocolate, get your ass to work already!
+[Tanabata] You ask what did I write in my tanzaku? I want to get stronger, that's all.
+[Acquisition] The current me has obtained a brand new strength. Commander, order me by all your means.
+[Secretary] What's the matter, Commander? Is there any order?
+[Secretary (post OATH)] Commander, is this too strong? My apologize, I'm not used to massage other people. I think it would be nice if you can relax.
+[OATH] Commander, you've chosen me, which means... My dedication has finally be answered. I'm very sorry for all the inconveniences I've caused you, but please, let me continue to improve myself for you!
+[Greeting] Greetings, Commander. Where should we attack today?
+[T-Doll Produced] A new soldier has joining in.
+[Joining an echelon] Roger that. Please witness my strength!
+[Enhancement] My gratitude. This also is what I wished for.
+[Dummy-linking] Dummy linking? With this I won't lose to those German weapons.
+[Logistics (start)] Roger. Depart!
+[Logistics (end)] I've returned. The mission wasn't get delayed and already completed.
+[Autobattle] Even if it's a supporting mission, I won't be left behind.
+[Title] Girls' Frontline!
+[Starting a combat mission] To the new battleground, depart!
+[Starting a battle] Hmph, let's do this.
+[Skill activation] I will not give mercy!
+[Heavily damaged] Ugh... my upgrade... seems isn't enough.
+[Retreat] I'll learn from this failure. Next time... definitely...!
+[MVP] I thought I can fight a good battle. But it seems that I overestimated my opponent.
+[Restoration] Can I really get stronger?
+[Halloween] Whether it's ghost or nightmare, get lost! Hmm? Ah, it's just everyone wearing costume. They're so into it.
+[Christmas] Merry Christmas, Commander. I've being charged to cook for tonight. No need to worry, I'll only make fried fish.
+[New Year's Day] New year has come, Commander. I'm grateful that you put your faith in me. I'll be under your care again this year.
+[Valentine's day] Commander, do you like sweets? I hope this can meet your taste.
+[Tanabata] My wish is to be useful existence to you. Commander, please witness my determination.

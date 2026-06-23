@@ -1,0 +1,30 @@
+[Acquisition] VP1915 Villar Perosa reporting. Will you be my Commander from now on? I'll be in your care then. Feel free to call me Perosa.
+[Secretary] We'll be having our tactical theory examination tomorrow. Has everyone received the notification? Don't think you can get out of it by acting cute around me or the Commander, it's useless. If you fail, you can prepare yourself for a loaded-pack cross-country run. I'm serious this time.
+[Secretary (post OATH)] You've worked hard today, Commander. I made some supper for you in the kitchen. It looks pretty good, doesn't it? How does it taste? Is it better than before?
+[OATH] From a tactical theory point of view, giving such a present is often intended to lower the other party's guard in order to enact the next step of one's plan. Now then, Commander, what is your strategic plan? ...No matter what it is, I am willing to carry it out to the end.
+[Greeting] Commander, the list of today's missions has been updated.
+[T-Doll Produced] New arrivals, please come with me to fill in the necessary paperwork and complete the entrance assessment.
+[Joining an echelon] Everyone, please be rational and stop pouncing on me.
+[Enhancement] Sometimes, a small price must be paid for victory.
+[Dummy-linking] Make full use of your abilities.
+[Logistics (start)] Is everyone present? Let's move out, then.
+[Logistics (end)] Commander, we're back. Everyone's here and nobody needs repairs.
+[Autobattle] I understand my teammates' situation. Don't worry, I'll take "special care" of the newcomers.
+[Title] Girls' Frontline!
+[Starting a combat mission] The information on the enemy has been shared and the objective area has been designated. Move out!
+[Starting a battle] Prioritize attacking the enemy's command units.
+[Skill activation] Let's go together!
+[Heavily damaged] Don't mind me, keep attacking!
+[Retreat] Fall back to the base! I'll cover you.
+[MVP] Every path we chose led us toward victory.
+[Restoration] I'll be back soon.
+[Attack] Increase firepower output!
+[Halloween] Do you think you can do what you want just because you're wearing the skin of a monster? My eyes can see very well, it was YOU who stole my chess pieces. Now cough them up before I get angry!
+[Christmas] While it's true that I don't care about what I wear, that doesn't mean I'm willing to play Santa Claus on Christmas... And I've also told you countless times, stop pouncing me!
+[New Year's Day] One must not lower one's guard no matter what the occasion is. That much should be common knowledge, right? But after seeing them laugh so happily, I'm inclined to forget that just for today and let everyone have a good rest.
+[Valentine's day] Does that expectant look in your eyes mean that you're waiting for chocolate from me? I'm sorry, Commander, but I'm not the sort of person who celebrates pointless occasions like this one. So no, I don't have chocolate, but I do have a big stack of mission reports.
+[Tanabata] ...As I thought, all the Dolls who skipped their shifts are hiding here to watch the stars, just nice for me to catch you all at once. You're all going into confinement where you can think about what you've done.
+[Defense] Vanguard, mind your defense!
+[Phrase] Remain rational.
+[Tip] It's not often that we have no missions. How about a game of chess?
+[Loading] Being impatient is taboo on the battlefield.

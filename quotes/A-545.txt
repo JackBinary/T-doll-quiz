@@ -1,0 +1,30 @@
+[Acquisition] A-545, serving under your command starting from today. I hope you are as competent as your position suggests... But first, show me how well you hold your liquor.
+[Secretary] Some of the Dolls don't approve of my style of leadership? That's alright, they will come to like it; all it takes is a little "communication".
+[Secretary (post OATH)] We don't need watery drinks at home⁠—you should've known. So now I'm confiscating all this booze with low alcohol content.
+[OATH] No wonder you've become such a good drinker lately, so you have an ulterior motive...  Still, I understand that this is a show of sincerity.  It'll be nice to have a good drinking partner who appreciates a lovely drink from now on. It's decided then.
+[Greeting] All on-duty personnel is lined up. We can now get on with our work.
+[T-Doll Produced] The Vodka Club has increased in size again. Let's test out how the new members carry their alcohol first.
+[Joining an echelon] You must all do as I say. If that doesn't sit well with any of you, come forward now.
+[Enhancement] Only the truly powerful has what it takes to join my perfect team...so don't forget my club members.
+[Dummy-linking] This is the enemy's worst nightmare⁠—now multiplied.
+[Logistics (start)] We might recruit new members for the Vodka Club.
+[Logistics (end)] I'm back. Why is everyone such a lightweight?
+[Autobattle] Inform all members of the Vodka Club to prepare a drinking party!
+[Title] Girls' Frontline!
+[Starting a combat mission] I will bring you a satisfactory result.
+[Starting a battle] There is nothing but destruction in store for the enemy.
+[Skill activation] Petty tricks.
+[Heavily damaged] The bullet that can do me in doesn't even exist yet!
+[Retreat] This is my responsibility. My teammates are not to blame...
+[MVP] Know what you're really worth and the truth won't be so hard to bear.
+[Restoration] I wouldn't have had to waste my time on being repaired if I could have a bottle of decent booze.
+[Attack] A sound judgment. You all got that?!
+[Halloween] Nobody's Halloween costume is actually scary. Looks like the Dolls could use some guidance.
+[Christmas] To me, the fact that there's no fighting and that everyone is safe and sound is the best gift for today. Enjoy this moment, Commander.
+[New Year's Day] Just this once, let's bring out all the stockpile of the Vodka Club, so that everyone can drink to their heart's content!
+[Valentine's day] You seem to be quite interested in my super-sized liqueur chocolate? Of course you can have one, but you should know that it's filled with my favorite kind of hard liquor; just one would be enough to... Alright... Someone get the Commander a stretcher!
+[Tanabata] This person wished for cleverer hands? Compared to that, I'd much rather wish for my grand dream⁠—that all drinking water would turn into vodka⁠—to come true. If it really does come true, I'll pay my tribute to whoever granted it.
+[Defense] Very well. Execute the order!
+[Phrase] That's all you've got?
+[Tip] As T-Dolls, even though our primary weapon is our firearm, we mustn't neglect our training in CQC either. Being adept at physical combat is the only way we can fight back when we're out of ammo.
+[Loading] I don't have enough booze with me to kill all this time.

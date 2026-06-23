@@ -1,0 +1,26 @@
+[Acquisition] Eh? I was only following where other dolls were going, so how did I end up here? …Uhm, hello! Do you know what this place is?
+[Introduction] (Ditto)
+[Secretary] Does Commander know what’s the most recent trendy thing to say? I can’t keep up with all these new trends.
+[Secretary (post OATH)] Pretty much everyone likes Commander, and whatever I like is whatever’s in at the moment, isn’t it? So, my love for the Commander is in a class of its own~
+[OATH] Commander, would you like for me to be together with you forever? Although this might be something that isn’t hard for me to do, just as long as you don’t dislike me sticking with you… But it doesn’t matter if you try to run or fly away, I won’t lose my place by your side so easily!
+[Greeting] First things first, let's peak in to see what the others are doing!
+[T-Doll Produced] We are all family now!
+[Joining an echelon] Yes! Project 90, reporting for duty!
+[Enhancement] Without further delay, I can't lose now right?
+[Dummy-linking] Commander, I am all you need...I'm not quite the same, am I.
+[Logistics (start)] So, our mission is to destroy all of the cargo, isn't it? Just kidding!
+[Logistics (end)] So many goodies! I wonder which ones should I use!
+[Autobattle] So, I just need to do it like before, right? Then I'll do just fine!
+[Title] Girls' Frontline!
+[Starting a combat mission] It's finally time! What are we gonna do today?
+[Starting a battle] All I need to do is to beat every one of them, right?
+[Skill activation] Haha, where do you think you're shooting!
+[Heavily damaged] Aw man...couldn't dodge enough...
+[Retreat] Ehhh, we're going back already?... w-wait up!
+[MVP] I spin my gun because it's my victory pose!
+[Restoration] We dolls can heal our wounds pretty quickly... but unfortunately that doesn't seem to be the case for humans.
+[Halloween] Don't be surprised by my cosplay tonight! I'm planning on mimicing a lot of characters!
+[Christmas] Dressing up as Santa is so sad... because everyone is asleep when the person is giving presents and no one gets to see the costume...
+[New Year's Day] Commander, Happy New Year! I'm not entirely sure how it's supposed to be happy, but saying Happy New Year together will surely make us happy!
+[Valentine's day] I'm pretty sure the first person who decided to gift chocolate on Valentine's never expected so many people would copy him.
+[Tanabata] Commander, what'd you write down for your wish? I wanna write the down the same thing!

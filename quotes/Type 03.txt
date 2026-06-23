@@ -1,0 +1,25 @@
+[Acquisition] We meet at last Commander, I'm Type 03. There must be a lot to learn under your guidance.
+[Introduction] (ditto)
+[Secretary] By "Attack", Commander must mean more than physical, we should attack the enemy mentally as well.
+[Secretary (post OATH)] Commander, if at any point you feel down, please look at this knot. Surely, your luck will increase dramatically.
+[OATH] Commander, that last word you just used was a bit different than usual...I'm wondering about how I should answer. I've always known about your feelings, but somehow, this feeling has changed. Right now...these vows I've exchanged with the Commander...surely, I could never forget them.
+[Greeting] I will continue to burn the Commander's teachings deep into my mind today.
+[T-Doll Produced] You guys will be the ones to build the future. Work hard, rookie!
+[Joining an echelon] There must've been some deep thought that went into assigning me this position.
+[Enhancement] It's all thanks to the Commander. Thank you!
+[Dummy-linking] When we stand together like this, the camouflage effect can't be beat.
+[Logistics (start)] Commander, I will definitely return with good news.
+[Logistics (end)] I hope you'll find this useful.
+[Autobattle] Commander, so long as I have your favor, then surely nothing could go wrong.
+[Title] Girls' Frontline!
+[Starting a combat mission] We have but one purpose, and that is to win!
+[Starting a battle] Everything we've done...has lead up to this moment!
+[Skill activation] Forward! Forward!
+[Heavily damaged] I...will not let up one bit!
+[Retreat] How...How could I show my face after this pitiful performance...
+[MVP] Just one victory will not satisfy the Commander's expectations. I will continue...to do my upmost!
+[Restoration] Apparently, it's highly necessary to reflect from the beginning of the Commander's handbook.
+[Halloween] Wearing a costume? I must refuse when it comes to make up. Wearing a mask is enough for- Wha- wait, what are you doing, Type 95?
+[Christmas] Commander, for tonight's party, could you give a greeting in front of everyone? For me, it's a greatest gift.
+[New Year's Day] Commander, Happy New Year. Type 95 and the rest are choosing the flower decoration, how about we take a peek?
+[Valentine's day] Commander, would you please give me your thoughts about this chocolate in detail? I need you to write it down, and don't miss a single thing!

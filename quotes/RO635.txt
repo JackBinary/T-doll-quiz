@@ -1,0 +1,51 @@
+[Acquisition] Nice to meet you, Commander. RO635 is on standby, awaiting your orders.
+[Introduction] 9mm SMG developed with M16A2 as the basis, actually manage to maintain a fair share of the market, even in the era dominated by MP5. Great balance and performance, but my proudest achievement was my service in policing agencies and special combat units, took part in all kinds of anti-crime operations, it was my honour and glory.
+[Secretary] Is there a mission, Commander?
+[Secretary (post OATH)] Get rid of this ridiculous picture! You only beat me once in a game, I won't hold back next time!
+[OATH] I believe you have your reasons for choosing me...But, please don't stand so close, because everyone...everyone's watching... I'm so embarrassed!
+[Greeting] Good morning Commander, this is today's report, please review.
+[T-Doll Produced] Commander, a new squad member is reporting in.
+[Joining an echelon] All units, prepare for operation!
+[Enhancement] Some spare parts, M16 you want it?
+[Dummy-linking] With this we won't have anything holding me down.
+[Logistics (start)] Stay alert, watch your surroundings, move!
+[Logistics (end)] Operation finished, target achieved.
+[Autobattle] Standing by doing nothing is equally as guilty as the criminal!
+[Title] Girls' Frontline!
+[Starting a combat mission] Enemy location confirmed, moving out!
+[Starting a battle] Target confirmed, commence removal!
+[Skill activation] Answer for your crimes!
+[Heavily damaged] No... How did they get our intel!?
+[Retreat] Sorry Commander... We'll have to prematurely cancel this operation...
+[MVP] Hell is where you're headed.
+[Restoration] Commander this is my vacant request slip... Please review...
+[Halloween] That girl M4, saying she isn't at all interested in Halloween when she'll still get candy anyway. Maybe I should have taken some, too...
+[Christmas] Merry Christmas, Commander. Be careful out there, alright? M16 will definitely be out drinking.
+[New Year's Day] Happy New Years, Commander. If possible, I would like to recommend M16 for a gold medal. My thanks in advance.
+[Valentine's day] Commander...ummm...what I wanted to say was...here! You understand right?! These are my feelings!
+[Tanabata] Commander, did you happen to see M16 pass through here? She saw the wish I wrote onto the tanzaku...huh!? Th-that's a secret!
+[Acquisition] It's been a while, Commander. I'm sure that as I am now, I'll be able to solve many more problems for you. Awaiting your command.
+[Secretary] SOP-II, stop doing the hundred-meter dash in the base corridors! And 15, don't think I don't know you've been secretly drinking the whisky that M16 left behind! Both of you, learn the dorm rules already!
+[Secretary (post OATH)] Commander, have you been pulling an all-nighter again? Wait, there are Dolls looking... Oh all right, on account of how hard you've been working, I'll let you hold me like this for a while.
+[OATH] I'm sure you have your reasons for choosing me... But, please don't stand so close, because everyone...everyone's watching... I'm so embarrassed!
+[Greeting] Commander, there are still some documents which require your inspection... I've also sorted out the personal letters from the other Dolls and left them on your table.
+[T-Doll Produced] There's a new Doll reporting, don't you want to go see her, Commander?
+[Joining an echelon] Prepare to move out at any time.
+[Enhancement] The odds of keeping SOP-II from misbehaving have gone up a little.
+[Dummy-linking] Now I won't lose.
+[Logistics (start)] Stay alert, stay on your guard, and head out!
+[Logistics (end)] Mission complete. Things went better than expected.
+[Autobattle] Nothing will change if you only watch from the side!
+[Title] Girls' Frontline!
+[Starting a combat mission] Target locked, commencing attack.
+[Starting a battle] Objective sighted, carry out elimination orders at once.
+[Skill activation] Count up your sins!
+[Heavily damaged] Something unexpected...came up...
+[Retreat] Justice may be late...but it always arrives!
+[MVP] This outcome was inevitable.
+[Restoration] Commander, this is my leave application... I hope you'll approve it...
+[Attack] The odds favor us, take this opportunity!
+[Defense] Don't be careless, maintain your defensive posture!
+[Phrase] It is as you see.
+[Tip] Commander, there's something I need to tell you.
+[Loading] Commander, could you wait a moment?

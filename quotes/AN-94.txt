@@ -1,0 +1,51 @@
+[AN-94] Live2D
+[Acquisition] Hello, Commander. I, AN-94, will be under your command from now on... Um...I want to ask... No, never mind...
+[Secretary] Weapons are tools that are constantly improved. I'm sure we'll be replaced by an even superior weapon someday...
+[Secretary (post OATH)] Hm? I didn't laugh? ...The joke was indeed quite funny, but... Alright, I will laugh again for you.
+[OATH] Commander, am I already irreplaceable in your heart? I'm always the one working hard for others, yet you're willing to make an effort for me...Please allow me to repay your recognition from now on.
+[Greeting] Commander, your orders?
+[T-Doll Produced] It's a new recruit. Let's welcome her.
+[Joining an echelon] I'll measure this formation's efficiency.
+[Enhancement] With this, I'll be able to become her strength.
+[Dummy-linking] Commander, thank you. From now on let's continue to work hard.
+[Logistics (start)] Preparations are complete. I can head out anytime.
+[Logistics (end)] I'm back. What's the next mission?
+[Autobattle] I'll fulfill my mission perfectly.
+[Title] Girls' Frontline!
+[Starting a combat mission] We're okay over here. Let's head out.
+[Starting a battle] Enemies sighted, don't break up formation!
+[Skill activation] I won't let anyone down!
+[Heavily damaged] But, I can do more...
+[Retreat] As I thought, no matter what, I can't be that girl's alternative. I'm sorry.
+[MVP] I did what I was able to do. That's all. Commander, good work to you too.
+[Restoration] If it was AK-12, surely she'd do a better job.
+[Halloween] Did I just see a Will-O-Wisp...? No... is it just my imagination?
+[Christmas] I'm eating well so I'm fine. Everyone seems to be having fun, it's just that if I'm there, the atmosphere turns cold.
+[New Year's Day] If it's a huge cleanup you can do it anytime. Why does it have to be today?
+[Valentine's day] I prepared chocolate for everyone. This one is for you, Commander, and this one is for... I'll send it to her later.
+[Tanabata] I'm fine with things now. Wishes are too luxurious.
+[Acquisition] This is AN-94, returning to unit... It's been a while, Commander.
+[Secretary] You say my eyes have grown sharper than before... The model of my eyes should still be the same. The reason why you feel that way is probably because I'm looking you in the eyes more often now.
+[Secretary (post OATH)] I should be laughing now, right? I know, you've told me this joke several times before. No, I don't mind. A nice, boring day is a luxury for me... So tell it again, Commander.
+[OATH] Commander, am I already irreplaceable in your heart? I've always been... the one working hard for others, yet you're willing to go this far for me... Please allow me to repay your recognition of me from now on.
+[Greeting] Sorry to keep you waiting, Commander. Ready to carry out your orders at any time.
+[T-Doll Produced] It seems this freshly-built Doll will need thorough instruction. Allow me to handle it.
+[Joining an echelon] Are we moving out now? I'll take care of 15.
+[Enhancement] Thank you very much. I will make good use of these resources when planning our tactics.
+[Dummy-linking] Thank you for your care, Commander... I will continue to work hard.
+[Logistics (start)] Preparations complete. Ready to move out at any time.
+[Logistics (end)] I'm back. What's the next mission?
+[Autobattle] I will ensure nothing goes wrong.
+[Title] Girls' Frontline!
+[Starting a combat mission] Order received. Deploying now.
+[Starting a battle] Preparing to intercept the enemy. All units, take cover.
+[Skill activation] Understood.
+[Heavily damaged] ...I'm fine. Please take care of the other team members.
+[Retreat] Don't lose yourself in battle — a momentary setback means nothing!
+[MVP] It isn't time to celebrate yet. We're a long way off from true victory.
+[Restoration] I'm sure AK-12 would have done it better...
+[Attack] Maintain current speed. I'll cover you.
+[Defense] Mind your blind spots. I'll cover you.
+[Phrase] I'm sorry...
+[Tip] If you don't mind me...
+[Loading] Alright, I'm heading over now.

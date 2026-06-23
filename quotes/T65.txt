@@ -1,0 +1,25 @@
+[Acquisition] I'm T65! Why I didn't come until now? You know, I-I'm... Hey Commander, are you listening?!
+[Secretary] Are you working properly? Didn't you chattering just now?
+[Secretary (post OATH)] Geez! You always laughing when I do something embarrassing! God, something is wrong with you!
+[OATH] W-what? Taking out something like that so suddenly... I know that I still lacking in some aspects. But it's only you, who are willing to accept me for the way I am.
+[Greeting] I'll watch you strictly during work today. Be prepared!
+[T-Doll Produced] New recruit? Don't tell me she's an amateur?
+[Joining an echelon] That's a right decision.
+[Enhancement] Great! I won't lose in term of power!
+[Dummy-linking] How many ribbon do I wear at the moment?
+[Logistics (start)] You even need a hand on something like this?
+[Logistics (end)] I've worked enough. This is suffice right?
+[Autobattle] For this battle, I don't have to put all my might.
+[Title] Girls' Frontline!
+[Starting a combat mission] Failure is unforgivable. Let's go.
+[Starting a battle] Let's show them what we got!
+[Skill activation] Don't look down on me!
+[Heavily damaged] Ugh... you lot, I won't forgive you!
+[Retreat] To think that I'm failed...
+[MVP] This is just one victory, don't get conceited.
+[Restoration] I'm currently in a bad mood, don't talk to me.
+[Halloween] My ribbon is candy-shaped! This will definitely be popular among children!
+[Christmas] Commander, Merry Christmas! Umm... after everyone open their present... can I get the ribbons?
+[New Year's Day] Commander, you can't just laze around on a new year! That would be my loss too.
+[Valentine's day] Well... I made you these ordinary chocolates. You better take them quick.
+[Tanabata] Commander, hang my tanzaku a little higher. The said it would be easier to grant.

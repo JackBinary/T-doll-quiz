@@ -1,0 +1,25 @@
+[Acquisition] M9 here! I'm super popular!
+[Secretary] M1911 seems to hate me. I really wanna get along with her.
+[Secretary (post OATH)] You're all glittery today, Commander. It is, of course, all thanks to me. Praise me!
+[OATH] Commander... So you do think I'm the most glittery and charming? No? Really? Ah, I get it now! Let's shine together then!
+[Greeting] Welcome back, commander!
+[T-Doll Produced] New encounters are still interesting!
+[Joining an echelon] I'm busy with my makeup!
+[Enhancement] New hair-band? Thank you~
+[Dummy-linking] There are many of me, and a lot of sparkling chances!
+[Logistics (start)] Sparkling M9, going out!
+[Logistics (end)] Sparkling M9 is back!
+[Autobattle] Tehehee~ As expected, my popular little myself is essential. I'm coming right away!
+[Title] Girls' Frontline!
+[Starting a combat mission] Let's get this over with quickly, I want to do some shopping after!
+[Starting a battle] I found the bad guys!
+[Skill activation] Ready~ FIRE!
+[Heavily damaged] Huhuu~... It hurts.
+[Retreat] Huhuu~... Defeat... I've never heard of it.
+[MVP] Yay! Now I can go do some shopping!
+[Restoration] Awww... I wish you'd keep this secret from that outdated thing...
+[Halloween] Halloween is the best! I can get so much candy!
+[Christmas] I love christmas! Is there no present for me?
+[New Year's Day] It's new year! Happy New Year!
+[Valentine's day] I'll give you this chocolate! This is M9's gratitude!
+[Tanabata] This is the day when Hikoboshi and Orihime meet! M9 will pray too!

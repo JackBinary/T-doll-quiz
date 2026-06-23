@@ -1,0 +1,48 @@
+[Acquisition] Browning M1918 here. AH, Commander, you're here, please don't scare me!
+[Introduction] When our forces entered the first global scale conflict, we realized Miss Springfield could not handle the new battle stratagems. So to fulfill the gaps in our arsenal, me, M1918 BAR, was secretly developed. While I have achieved many victories in many battles that followed, I hope that I can spend the rest of my days here by your side.
+[Secretary] Don't call me Auntie Bar(Bar-san)! I'm not that old!
+[Secretary (post OATH)] Would you like me to help with any works at hand? Don't worry I'll take it seriously, after all I'm doing this for you.
+[OATH] Commander, can you really make decisions just like that? I'm just kidding, to return this kindness of yours, from now on I will be my true self when I'm in front of you.
+[Greeting] Welcome back!
+[T-Doll Produced] If the new girl is an assault rifle like me would be nice. (lol)
+[Joining an echelon] I can get it done if I really want to, watch this.
+[Enhancement] I can be even stronger you know!~
+[Dummy-linking] Expanding? Well, as long as you're happy with this.
+[Logistics (start)] Going now~ Believe me, I will be back real soon.
+[Logistics (end)] I'm back~ Reward me however you like.
+[Autobattle] No need to be so serious, we can do this with our eyes closed, come on everyone, lets go~
+[Title] Girls' Frontline!
+[Starting a combat mission] Alright, give it your best!
+[Starting a battle] Enemy contact!
+[Skill activation] Who should be the target?~
+[Heavily damaged] Ahh~~ My sunglasses...
+[Retreat] Wuuu~ Sorry I can't be relied on...
+[MVP] Ehehe! The outcome of my efforts!
+[Restoration] Well~ Fix me up a bit then.
+[Halloween] Those Jack-o-Lanterns are a bit scary. No... don't bring it any closer...
+[Christmas] I love christmas! It's exciting, and the cakes are delicious!
+[New Year's Day] Commander, Happy New Year!
+[Valentine's day] It's impossible for me to make one... but please take this.
+[Tanabata] Tanabata is exciting! I'm glad I can see the Milky Way!
+[Acquisition] Commander, these tasks cannot be carelessly done. As for how I have changed, please watch carefully.
+[Introduction] When our forces entered the first global scale conflict, we realized Miss Springfield could not handle the new battle stratagems. So to fulfill the gaps in our arsenal, me, M1918 BAR, was secretly developed. While I have achieved many victories in many battles that followed, I hope that I can spend the rest of my days here by your side.
+[Secretary] Today's mission? Please assign them as you see fit.
+[Secretary (post OATH)] Would you like me to help with any tasks at hand? Don't worry, I'll take it seriously. After all, this is for your sake.
+[OATH] Commander, can you really make decisions just like that? I'm just kidding, to return this kindness of yours, from now on I will be my true self when I'm in front of you.
+[Greeting] Good morning, Commander. What is it for today's mission? I'm just being curious, please don't mind it.
+[T-Doll Produced] The newly joined comrade, who is she?
+[Joining an echelon] Understood, I'll do it. But please don't expect too much.
+[Enhancement] This feels nice. I think I can go all out now.
+[Dummy-linking] Dummy linking? Please decide it adequately.
+[Title] Girls' Frontline!
+[Starting a combat mission] Mission, isn't it. Let's do this seriously.
+[Starting a battle] The enemy is here. Commence battle.
+[Skill activation] I can choose my objective again? Well then, let's defeat you.
+[Heavily damaged] Now you've done it, you'll regret it.
+[Retreat] I'll be serious next time.
+[MVP] Ufufu, is that all? Even though I didn't being serious.
+[Restoration] Fix me in secret.
+[Christmas] Merry Christmas, Commander. I make greetings card tonight. How about you go and buy something?
+[New Year's Day] Happy New Year. My new year wish? If you give me new year gift, I'll tell you, ufufu.
+[Valentine's day] Do you want chocolate that bad? Honestly, you're being noisy. Ufufu, I'm kidding. Here, I too have prepared you a gift, commander
+[Tanabata] You want to know what my wish is? How about you decide one for me?

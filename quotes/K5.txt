@@ -1,0 +1,55 @@
+[Acquisition] So it is, as it is proven by countless evidences... Commander, our meeting, was fated.
+[Secretary] Have you decided on the content of the meeting? ...Heh, as I predicted, I've already prepared the correct materials here.
+[Secretary (post OATH)] There will be some unexpected outcomes on the next mission's report... Commander, do pay more attention to everyone's condition... Especially... mine.
+[OATH] I have began to notice, but I was skeptical... Because I'm not willing to believe how lucky I am, to get so close to you. Looks like you have already grasped this fate, in the palm of your hands, there's no escape now...
+[Greeting] What a good beginning, this will bring good luck.
+[T-Doll Produced] It's here! The new possibility!
+[Joining an echelon] This team's future is bright!
+[Enhancement] I can see it! Our victory!
+[Dummy-linking] Welcome, a fated person.
+[Logistics (start)] What will await us in the other side, I wonder.
+[Logistics (end)] No matter how limited a supply is, if you can manage it properly, that will be useful.
+[Autobattle] This battle's outcome, you too can see it already, don't you?
+[Title] Girls' Frontline!
+[Starting a combat mission] Follow the destiny's guidance!
+[Starting a battle] All will proceed just as expected!
+[Skill activation] We will be blessed with victory!
+[Heavily damaged] Aah... was my prediction wrong?
+[Retreat] What exactly did I overlook?
+[MVP] As expected, that victory went just as I'd thought.
+[Restoration] This scratch is the proof that we are one step closer to victory.
+[Halloween] From this shrine maiden's fortune-telling, looks like you'll be drained of your blood. *giggles* In my case, there's nothing so scary. It'll be enough to just give me a bit of candy.
+[Christmas] Commander, Merry Christmas. I'm wondering what you've prepared as a present for me?
+[New Year's Day] Today, lots of people are coming to me to get their fortune told for the new year. So, how about it? Would Commander like to see what his fortune holds?
+[Valentine's day] Commander, this chocolate is an omen of good fortune. But, if you eat it, it'll invite happiness and make your depression go away.
+[Tanabata] Haven't you decide on your wish yet, Commander? If you keep hesitating, destiny will never come about.
+[Acquisition] I spun the wheel of destiny with my own hands, and at last the moment of our reunion has arrived.
+[Secretary] Commander, why are you looking so intently at me? Do I have a rice grain on my face? ...Huh, you were waiting for me to do a divination? Aw, there's no need for that. If you want it, I'll do my best to make it happen.
+[Secretary (post OATH)] Ahhh, you found out! Although fortune-telling means something else to me now, I can't help but want to cast a divination on our relationship... Fortunately, it seems to turn out well each time.
+[OATH] I had a hunch this was coming, but I couldn't help doubting it... That's because I didn't dare believe that I could be this happy and this close to you. It seems my fate is in your hands and there's no escaping it... ♥
+[Greeting] How was today? Perhaps something good will happen.
+[T-Doll Produced] Does having one more person mean being able to save more lives?
+[Joining an echelon] Everyone, please wait until after we win to get your fortunes told.
+[Enhancement] As the shape of my destiny grows clearer and clearer, I rejoice that I have the strength to resist it... however futile those efforts might be.
+[Dummy-linking] Welcome, fated one.
+[Logistics (start)] I wonder what awaits us?
+[Logistics (end)] Even minimal resources can yield impressive results when used well.
+[Autobattle] I'm sure even you can tell the outcome of a battle like this, Commander.
+[Title] Girls' Frontline!
+[Starting a combat mission] Blast through the dark fog ahead of us and march on toward our certain future!
+[Starting a battle] From this moment on, your fate has been decided.
+[Skill activation] This is it... Time to turn things around!
+[Heavily damaged] I can't let myself go down here...
+[Retreat] So I can't change the ending, huh... I overestimated my abilities.
+[MVP] Now we're a step closer to the future you want, right?
+[Restoration] Every ache we suffer indicates we're one step closer to victory.
+[Attack] Allow me to take the lead!
+[Halloween] They say witches demand a price in blood to tell fortunes... Haha, I'm not so bad, I'm content with candy.
+[Christmas] Merry Christmas, Commander. How's my gift going?
+[New Year's Day] Lots of people asked me to tell their fortunes for the new year today. How about you, Commander? Want to give it a try?
+[Valentine's day] Commander, this chocolate will bring you good luck, but if you eat it, it won't grant you good luck any more.
+[Tanabata] Have you thought of your wish yet, Commander? If you delay too long, you won't be able to keep pace with your destiny, you know.
+[Defense] Everyone, take care of yourselves...
+[Phrase] As I thought.
+[Tip] Want me to do a reading for you?
+[Loading] Your fortune today is...

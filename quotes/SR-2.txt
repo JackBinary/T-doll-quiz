@@ -1,0 +1,30 @@
+[Acquisition] I'm SR-2. Here, Commander, I'm pulling down my mask so you can see me properly. Huh? What do you mean, I look wild?
+[Secretary] Being calm isn't just about being motionless. You can also be energetic without being born lively.
+[Secretary (post OATH)] This seems to be breaking a lot of rules... But if that's okay, you'll also get used to the way I do things! After all, it's not my fault that you couldn't take your eyes off a Doll like me...right, Commander?
+[OATH] Ha, do you even have to think about such things? Then I'll...stay for a bit. My mask is down... So what's going to happen next?
+[Greeting] Hello, Commander, let's go break something.
+[T-Doll Produced] Let's move forward with no regrets.
+[Joining an echelon] Nice to meet you, everyone! Don't forget to save an enemy for me.
+[Enhancement] Woohoo! Full speed ahead!
+[Dummy-linking] You know where you're supposed to shoot?
+[Logistics (start)] I'm itching for some action!
+[Logistics (end)] I haven't had enough fun yet!
+[Autobattle] Hm... This feels a bit dull.
+[Title] Girls' Frontline!
+[Starting a combat mission] People only pay attention to you if you set foot in the heart of danger.
+[Starting a battle] Are you prepared for the world to break apart?
+[Skill activation] If you want to get past us, you're free to try.
+[Heavily damaged] I might have...run too far ahead, haha.
+[Retreat] ...I haven't had enough yet.
+[MVP] I think I forgot something... Oh, I remember! The corpses behind me!
+[Restoration] I wish I could regenerate as I fight.
+[Attack] Chase them down!
+[Halloween] Let's see what scary little things are lurking in the dark. When I catch them, both tricks and treats will be involved.
+[Christmas] For Christmas, I wish for enemies who are strong enough to take two hits.
+[New Year's Day] Who told me a special monster was going to attack at New Year? I've been waiting. A change of pace would be the greatest treat!
+[Valentine's day] Aha, Commander. Have you finally caught on then, you slow dummy? Hm... Alright, maybe I've been a bit too hasty...
+[Tanabata] Commander, come and set off some fireworks with me! The biggest ones! Hahaha... Hm? We're not supposed to set off fireworks at this festival? But what else could be as exhilarating?
+[Defense] Slow them down, then we'll circle around them.
+[Phrase] Where else can we go if not forward?
+[Tip] We only slow down and think if we can't beat them, right? If we can, we'll just have to bulldoze our way through.
+[Loading] Commander, when will you be done with your analysis? Why don't you give the order now? I'm raring to go.

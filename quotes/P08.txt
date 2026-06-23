@@ -1,0 +1,24 @@
+[Acquisition] P08 pistol. I may not be the best at everything, but I look forward to working under you!
+[Secretary] How will we proceed with today's tactics training?
+[OATH] Commander, why did you acknowledge someone like me? Would you want to achieve glorious victory together? ... Yeah! From here on out, I'll fight for your cause, I'll be your strength!
+[Greeting] Welcome back, Commander! Nothing out of the ordinary happened here.
+[T-Doll Produced] The production of a new gun has ended.
+[Joining an echelon] Yes, sir! Right away!
+[Enhancement] Enhancement completed!
+[Dummy-linking] Dummy... Linking? I have to get more powerful, right?
+[Logistics (start)] I'll be going, Commander.
+[Logistics (end)] I'm back. Mission complete without any issue.
+[Autobattle] I want to be useful to everyone. Somehow, I’ll get you to recognize my strength!
+[Title] Girls' Frontline!
+[Starting a combat mission] I'll accomplish my duty without fail.
+[Starting a battle] Enemy spotted. Take your combat stations !
+[Skill activation] Attack !
+[Heavily damaged] Ah! It’s difficult for me to find compatible parts!
+[Retreat] I'm terribly sorry. I’ve failed... my mission.
+[MVP] Mission complete!
+[Restoration] Next time...I'll be sure not to disappoint anyone!
+[Halloween] Today is Halloween, Commander. I am not a kid anymore, I don't want candies!
+[Christmas] Merry Christmas! It's so lively and fun in the city!
+[New Year's Day] Happy new year, Commander!
+[Valentine's day] Happy Valentine! Confessing to someone you like will make her happy. *giggles
+[Tanabata] Tanabata sure is nice. The story of Orihime and Hikoboshi... sure is heartbreaking.

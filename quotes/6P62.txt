@@ -1,0 +1,26 @@
+[Acquisition] Greetings, I'am 6P62. It's fine if you don't recogize me now, as you'll recognize my strengths soon enough!
+[Introduction] ditto
+[Secretary] Are you sortieing, Commander? I'm always ready to go.
+[Secretary (post OATH)] Commander, you've completed your duties for today. Why don't you spread your wings a little. Rest is also important... I've keep telling you this for a long time.
+[OATH] Eh, is this for me, Commander? Is this my reward for saving up supplies? Ufufu, I'm just joking. Thank you, Commander. Thanks to you, I've been able to come this far. From now on, I'll do my best to meet your expectations.
+[Greeting] Commander, let's work harder today for victory!
+[T-Doll Produced] New sister inarms, let's welcome her.
+[Joining an echelon] Machine gun 6P62, joining the team. Let's work together.
+[Enhancement] What an amazing power, thank you.
+[Dummy-linking] Thanks for noticing. That was a lot of expenses.
+[Logistics (start)] This is an important mission alright, leave it to me.
+[Logistics (end)] Mission complete, good work.
+[Autobattle] I will provide cover. Crush the enemy with all your might.
+[Title] Girls' Frontline!
+[Starting a combat mission] Battlefield is just around the corner. Everyone, let's go!
+[Starting a battle] Commencing battle!
+[Skill activation] Look at the reality!
+[Heavily damaged] Hold on, my injury is too serious.
+[Retreat] Withdraw! Did we lack advanced preparation.
+[MVP] How is it. The taste of victory isn't that bad right.
+[Restoration] Now, come here and relax.
+[Halloween] Please keep the pranks moderate. And don't surpass the 「…」budget.
+[Christmas] Merry Christmas, Commander! Have you prepared the christmas present?
+[New Year's Day] Happy New Year! Let's celebrate today with all our heart!
+[Valentine's day] I put my feelings into this chocolate. Commander, please take this!
+[Tanabata] My wish huh... That's right, if I can get my hand on that limited edition item... C-commander! Don't look!

@@ -1,0 +1,29 @@
+[Acquisition] This place is pretty good... spacious facilities, lots of staff, fully-equiped... oh. You must be that kind-hearted boss who's generous with the paychecks, right? My codename is APC9K; you can just call me 9K for short. Please take care of me~
+[Secretary] Boss, doing overtime every day must be tiring, right? In that case, I'll chat with you to keep your spirits up! Ah... hearing me speak makes you feel even more tired? You're such a meanie, boss!
+[Secretary (post OATH)] Have you been good and staying at home while I've been out dispatch these past few days, boss?
+[OATH] Boss, why did you ask me to come all the way out here? It's really suspicious... don't tell me some crazed stalker fan is giving you trouble? Well, I'm glad to hear that's not the case... so you've got a gift you want to give me?... oh dear. I don't know how to tell you this, but... you've just acquired a No. 1 crazed fan.
+[Greeting] You're here, boss! this way, boss. See how sparkling clean the floor is after I mopped it?
+[T-Doll Produced] Our new employees have arrived? I'll bring them over to have them pay their respects to their new big sis, 9k.
+[Enhancement] Yup, now I can send three of your haters flying with a single punch, boss!
+[Dummy-linking] You're on shift today. Your job is to finish all the tasks on your list.
+[Logistics (start)] We're going out on a long trip... what presents should I get for my big sis and the boss?
+[Logistics (end)] I'm back! Present? Isn't me coming back the present of all?
+[Autobattle] Free time is boring, but a packed schedule isn't a good thing either.
+[Title] Girls' Frontline!
+[Starting a combat mission] Good, I've got three purple and three red mags. I'm ready to go!
+[Starting a battle] Are you the ones spreading rumors about my boss?
+[Skill activation] Don't even think of touching me!
+[Heavily damaged] Down to my red mags...
+[Retreat] ...The cleanup... Will just be left to big sis!
+[MVP] That was a pretty good battle. I'll probably get a lot of likes for it~
+[Restoration] Remember to get me spare mags... of both colors!
+[Attack] Hey, you! Time for a spanking!
+[Halloween] Come one, come all, it's the Boss' handmade candy! Stocks are limited, so it's first-come first serve! Shhh, Boss, don't expose me! I'm helping you to monetize the fanbase...
+[Christmas] Did Big Sis come over just now? (Sigh) Don't you even know the song she was humming just now? You really are a blockhead, boss...
+[New Year's Day] Happy New Year, Boss. Ready to go around the base for your New Year's visitations? Don't worry, I've presighted the entire place with artillery. If any Doll tries to steal red packets, I'll give the order to fire.
+[Valentine's day] Ah, Valentine's Day... What a lovely occasion! It's a time when the fans are driven to spend; therefore, can I auction off your V-Day date slots for this year, Boss?
+[Tanabata] Boss, have you seen Big Sis? She must be looking for a place to go for a joyride.
+[Defense] You've got spirit! Just you wait!
+[Phrase] Do your best, Boss!
+[Tip] You want to know my work history? Didn't Big Sis tell you all about it... Well, they're all interesting stories, but unfortunately I can't talk about them.
+[Loading] Well, if you're bored, why not have a chat with me?

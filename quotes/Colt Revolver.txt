@@ -1,0 +1,59 @@
+[Acquisition] You called for me, Commander? Do you have cola? Hey~ you have cola right?
+[Introduction] Hoo-ah! That's right, I'm the legendary and mythical, the one and only M1873 Single Action Army Revolver! After decades of changes and evolution, I've become a timeless super superstar! I wonder how many brave heroes of the West have trusted me to win their duels? I can't even remember them all! But because of them, I have earned the nickname, "Peacemaker." You better remember it!
+[Secretary] You want to know my age... Commander, this kind of thing, it's best if you let it go.
+[Secretary (post OATH)] Commander, take this ! Cola Beam ! Are you awake now ? Give your face a rub and continue your work,I'll be there by your side !
+[OATH] Eh? What are we celebration today? eh? Commander? With me? ...Really? Then prepare to soak in cola water with me forever!
+[Greeting] Commander, did you already drink your cola today ?
+[T-Doll Produced] Yahaa !! A new friend is here ! Let's give her some cola !
+[Joining an echelon] Yeehaa ! You really like me, right ?
+[Enhancement] Yeehaa ! It's cola !
+[Dummy-linking] Wooaah, There's so many of "me"s now!
+[Logistics (start)] To get more cola, Let's go !
+[Logistics (end)] I'm back~ We found a giant can of cola !
+[Autobattle] Hehehe! M9-chan, this time I'll really make it rain cola.
+[Title] Girl's Frontline
+[Starting a combat mission] Yaho~ I am the leader !
+[Starting a battle] Yahoo~ Looks like enemy~
+[Skill activation] Readyyy- Fire!
+[Heavily damaged] Yahoo... It looks like I took an attack.
+[Retreat] Aww.. My skin is ruined now...
+[MVP] The victory of cola is the best and the tastiest !
+[Restoration] Aah~ Hot shower and cold cola are really legit.
+[Attack] Yahoo! Here comes the attacking order!
+[Halloween] Give me a treat! Or I'll play a trick!
+[Christmas] Merry Christmas ! Our Christmas tree is so beautiful !
+[New Year's Day] Now is the celebration! It's the New Year cola!
+[Valentine's day] This is M1903's chocolate. Would you take one?
+[Tanabata] Even during tanabata, cola is the best. Orihime and Hikoboshi have their Milky Way, I'm here having my Cola Way.
+[Phrase] Yahoo!
+[Tip] Let me tell you something good!
+[Loading] Wait, let me drink my cola first!
+[Acquisition] Heh heh. Commander, Right now, my power have increased by 200%! The rest 800%, please use cola to fill it up!
+[Secretary] Commander, have you scheduled the next duel yet?
+[Secretary (post OATH)] Take this! *Cola beam*! You're fully awake now, aren't you! Now, wipe your face and do your best today! I'll by your side!
+[OATH] Eh? What are we celebration today? eh? Commander? With me? ...Really? Then prepare to soak in cola water with me forever!
+[Greeting] Commander, today's weather will be cola rain!
+[T-Doll Produced] A new partner, welcome! Take this cold cola!
+[Joining an echelon] Alright! I was tired of waiting!
+[Enhancement] Wow, my firepower went up!
+[Dummy-linking] Wooaah, There's so many of "me"s now!
+[Logistics (start)] To find more cola, Let's go!
+[Logistics (end)] I'm back~ We found a giant can of cola!
+[Autobattle] Hehehe! M9-chan, this time I'll really make it rain cola.
+[Title] Girl's Frontline
+[Starting a combat mission] Are you ready? We're heading out!
+[Starting a battle] It's a duel!
+[Skill activation] Hehe, you are one step late behind me!
+[Heavily damaged] Wah, sorry sorry. I got too relaxed and they got me
+[Retreat] Hmph, just see. I'll definitely win on next duel!
+[MVP] Hehe, perfect victory! Now bring the drink out!
+[Restoration] Aah~ Hot shower and cold cola are really legit.
+[Attack] Let's go!
+[Christmas] Merry Christmas, commander! There are too much cola and they're spilling out, put them on empty bottle over there!
+[New Year's Day] Happy New Year, Commander! Let's have a bonfire party tonight, and burn all the old clothes!
+[Valentine's day] It's valentine, Commander. I bought you lots of cola gummy. as much as I can today!
+[Tanabata] To think such as romantic day even exists. 「…」
+[Defense] Be careful!
+[Phrase] Yahoo!
+[Tip] Let me tell you something good!
+[Loading] Wait, let me drink my cola first!

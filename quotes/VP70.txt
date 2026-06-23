@@ -1,0 +1,25 @@
+[Acquisition] According to my scans, your programming is relatively stable, and the chance of a bug appearing is low. You are the best candidate to be my Commander.
+[Secretary] Although the commander is the best human being I have ever met, I always receive many urgent and difficult tasks, and it is full of unexpected accidents ... I find it rather disturbing.
+[Secretary (post OATH)] Commander, what is your mission for today? Actually, don't tell me. Sometimes it's nice to follow you without knowing anything...it's rather romantic, don't you think?
+[OATH] What...is this? It's so round and it has a stable structure. Huh? Is it...for me? Thank you so much! With this, I won't be afraid of the unknown anymore! This gift that the Commander has given me...as long as I can touch it, I feel safe and secure.
+[Greeting] May today be a peaceful and uneventful day.
+[T-Doll Produced] A new comrade, hopefully someone with a stable model number like me.
+[Joining an echelon] Commencing debug sequence on the incoming team member.
+[Enhancement] So this is what it feels like to increase your processing speed...not a bad feeling.
+[Dummy-linking] A perfect and stable doll like me has been reborn.
+[Logistics (start)] Am I...being sent out into the unknown world again? However, the Commander's teachings are firmly imprinted into my mind. Please wait for me.
+[Logistics (end)] I've returned. This was a most exciting expedition. Thankfully, nothing too serious happened along the way.
+[Autobattle] Of course, we'll clear this operation as well. Unless...something unexpected happens along the way. If something unexpected does indeed happen, please be sure reupload your digiminds.
+[Title] Girls' Frontline!
+[Starting a combat mission] Charge forth at full speed towards the uncertain future. This path and this sense of anxiety, is this what the Commander calls romance?
+[Starting a battle] Now, Bugs....it's time to disappear!
+[Skill activation] Bug detected. Defensive programs, commence.
+[Heavily damaged] The Bug counterattack is too strong!
+[Retreat] This was supposed to be day...that I fixed all the bugs...
+[MVP] This was to be expected. The Bugs have been repaired.
+[Restoration] Finally, I can take a break.
+[Halloween] Trick or treat! It's nice that there's a day that a single piece of candy can make you feel calm and peaceful.
+[Christmas] Merry Christmas, Commander. Eh? Are those socks hanging over there? That's because...um...t-that's it! That's because I wanted to fill them with items to help me combat my fear of the unknown. It's not because I believe in receiving gifts from Santa or anything like that...
+[New Year's Day] Happy New Year. Last year, I was given the chance to go out on a lot of unexpected missions with you. Now I no longer feel anxious whenever we are together. I look forward to working with you again this year.
+[Valentine's day] Today is Valentine's Day. In your case, Commander, that means you'll probably get piles of chocolate. In my opinion, giving something that can easily be melted by heat does not make for a good gift. Here, this is my handmade chocolate metal block. Please accept them with my everlasting feelings.
+[Tanabata] It looks like Valentine's Day in the Far East today. I heard that lovers can feel the celestial bodies coming together on this day. By the way, Commander...are you free this evening?

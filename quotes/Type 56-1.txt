@@ -1,0 +1,23 @@
+[Acquisition] Ni hao Commander, I;m the Type 56-1 assault rifle. I will annihilate all the enemies in your way!
+[Secretary] Just give me some rice dumplings for my field rations, they taste great even when cold!
+[OATH] Commander, is there any order? Eh, you're kidding right? Do you aim for my cooking skills? Or perhaps... Anyway, I don't care if you'll regret it later. I won't ever let you go!
+[T-Doll Produced] New girl is coming
+[Joining an echelon] Mission isn't it. I'll work hard!
+[Enhancement] Xie xie! I'll work harder during training!
+[Dummy-linking] The more people you have, the more food you'll need. Commander, I'll leave it to you.
+[Logistics (start)] Departing! I'll definitely carry out this mission!
+[Logistics (end)] I'm back, misison complete!
+[Title] Girls' Frontline!
+[Starting a combat mission] Commander, I'll definitely bring back victory!
+[Starting a battle] It's the enemy, go get them!
+[Skill activation] Fire!
+[Heavily damaged] M-my pants string... I won't forgive you!
+[Retreat] I'm hungry... I can't muster any strength...
+[MVP] It's a given! Because, I'm strong!
+[Restoration] Roger! By the way Commander, can you get me the rice from mess hall?
+[Halloween] What is Halloween celebrating for ? I don't quite understand.
+[Christmas] I don't know what's so different about christmas chicken and the normal one but... I want seconds!
+[New Year's Day] Hic...! It's new year Commander!
+[Valentine's day] In China, I'm the one who receive the chocolate. Give me some!
+[Tanabata] Commander, let's go to festival! The foods can't wait!
+[Title] Girls' Frontline!

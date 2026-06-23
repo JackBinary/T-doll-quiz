@@ -1,0 +1,22 @@
+[Acquisition] Hah, so you're my new Commander? I'm Minebea PM-9 Submachine gun, you better remember my name!
+[Secretary] Stop being such a picky eater, Commander. It's not very manly of you if you can't even handle something spicy.
+[Secretary (post OATH)] Hey Commander, how have you been able to parry my left jab but not my right? It doesn't have to anything to do with the ring I'm wearing, right?
+[OATH] Aha? Commander, you're not messing with me, right? Damn... I can't back down from this, can I... Heh, you're a sly one, aren't ya? Guess I better return the affection you've shown me from now on.
+[Greeting] Slacking off is prohibited, Commander!
+[T-Doll Produced] New recruit? First of all, show me your punch.
+[Joining an echelon] Come, give it your all, everyone!
+[Enhancement] That feels good! My punch is getting faster!
+[Dummy-linking] Hah, the current me could deliver a terrific punch!
+[Logistics (start)] I'm off then. You can expect me to bring you a souvenir!
+[Logistics (end)] Commander, take this!
+[Autobattle] Piece of cake. It's time to show the result of my training!
+[Title] Girls' Frontline!
+[Starting a combat mission] I'll show those amateurs what the real self-defense is!
+[Starting a battle] Just wait!
+[Skill activation] Hahaha, out of my way!
+[Heavily damaged] My hair... I won't forgive you!
+[Retreat] Nngh, retreating is a part of tactic too.
+[MVP] Haha, it's only natural!
+[Restoration] Let me out from here! I told you I can still fight!
+[Halloween] Hehe! I've prepared special gifts for those brats!
+[Valentine's day] You're late, Commander! You don't really care whether you're not receiving chocolate for me? Hmph! Then just for you, I'll give this special red hot chocolate cake! I put my burning and spicy feeling when I made this. Hurry up and eat it!

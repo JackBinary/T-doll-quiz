@@ -1,0 +1,26 @@
+[Acquisition] Arrived earlier than I expected, well then... in terms of formal addressing I can consider you barely passed, so let's get along from now, Commander~
+[Introduction] I, USAS-12 shotgun, designed by Gilbert Equipment Co and manufactured by Daewoo Precision Industries, used by many government agency and security organizations amongst Asia. But AFT classed me as "Destructive type weapon" and thus limited my civilian market potential... Even though Saiga-12's design concept was similar to mine but never received the same treatment, that's just so unfair!
+[Secretary] I'm a T-doll who received high level training, let show you how it's done~
+[Secretary (post OATH)] You want to help with the cooking again? Hmph, you definitely want to make fun of me again, don't you?
+[OATH] C-commander, what are you up to? Eh, if I wear this, I'll become happy? Please teach me properly, what is happiness in life really means.
+[Greeting] How do you do, commander. Let's start today's mission.
+[T-Doll Produced] A new comrade? Oh my, how rude of me. let me introduce myself first.
+[Joining an echelon] Teamwork is essential, don't you think?
+[Enhancement] Even though I get stronger, I shouldn't forget about my elegance.
+[Dummy-linking] I'll do my best as a support.
+[Logistics (start)] List confirmed, then, let's get going!
+[Logistics (end)] Expedition complete, let's sort the supplies immediately!
+[Autobattle] No matter what kind of battle, please leave it to me!
+[Title] Girls' Frontline!
+[Starting a combat mission] Have you prepared? I'll heading out first!
+[Starting a battle] Well then, please excuse me!
+[Skill activation] I should write this in the textbook.
+[Heavily damaged] I won't lose my mind!
+[Retreat] This shouldn't be happening... why.
+[MVP] So so I guess? We can continue just like this.
+[Restoration] Getting wounded during battle is inevitable. But doesn't mean I'm weak!
+[Halloween] A-amazing! I can't tell who's who!
+[Christmas] It's christmas. I'll take all of cup ramen I received from Saiga-12. Everyone, let's eat them together!
+[New Year's Day] Are you cleaning, commander? Please let me help you too. Umm... which one is soap again?
+[Valentine's day] Eeh, today is chocolate festival? I don't have anyone I want to give chocolate though...
+[Tanabata] I wish I could eat the most delicious cup ramen in the world. People will think this is a big dream.

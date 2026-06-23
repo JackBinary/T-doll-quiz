@@ -1,0 +1,26 @@
+[Acquisition] Remington R5... I was created with high expectations. As for whether I deserve them, you'll have to see what I'm worth with your own eyes.
+[Secretary] Once, on my way to the Cafe, I happened to hear some fairly unpopular heavy metal songs. But by the time I got there, all I found was a huge mess all over the ground. I wonder who was listening to it...
+[Secretary (post OATH)] Want to listen to a new tune? ...Yeah, I wrote it just for you. It's the first time I've made music while feeling so nervous. I'd be glad if you liked it.
+[OATH] You wish to place a fetter upon the fingers that I use to play a tune? You DO know what that means, right? Commander... yes, of course, I understand very well... So does this mean I've lived up to your expectations in the end?
+[Greeting] You came with a perfect timing when an inspiration strike! How about listen to my humming? Uh... before that, what's our schedule for today again?
+[T-Doll Produced] We've waited for a new member. The echo, does it reverberate in you ears?
+[Joining an echelon] A score can only be played when each and every note on it is in harmony. That being the case, I would be the most important chord.
+[Enhancement] My strings...are wound tighter now.
+[Dummy-linking] Are you on Drums? Bass? Keyboard? I won't give up my spot as lead vocal!
+[Logistics (start)] I'll leave the guitar with you for now. Help me look after it.
+[Logistics (end)] Hey! Where's my guitar? ...I really want to play it.
+[Autobattle] The audience is all here. Now enjoy our performance!
+[Title] Girls' Frontline!
+[Starting a combat mission] The live has started! Everyone, let them hear our song!
+[Starting a battle] Come, they're waiting for us!
+[Skill activation] Pulling-off!
+[Heavily damaged] (Groan) The rhythm's all messed up now...
+[Retreat] Our next performance will be more exciting...
+[MVP] Perfect! That was flawless performance!
+[Restoration] The G string pitch is a little abnormal...
+[Halloween] Every year I prepared sweets for this day... but nobody came. Why I wonder...?
+[Christmas] The same Christmas song keep playing outside. It's good, but it feels a little monotonous. Commander, don't you want to hear something different?
+[New Year's Day] Happy New Year! Commander, please take care of me again this y- Too serious? Of course I am!
+[Valentine's day] Chocolate? There's no way I'd make it. What will I do if my fingers got inju- Well, I bought candy earlier, I'll give you some.
+[Tanabata] I wrote new songs, would you listen to it a bit? It's just an album worth, it might take a whole day to play it all... Once it over, let's see the star together!
+[Loading] My strings aren't tuned yet...give me a while more, Commander.

@@ -1,0 +1,25 @@
+[Acquisition] I'm Franchi SPAS-12! Allow me to be your sturdy shield!
+[Secretary] I modified my shield. Not bad, huh?
+[Secretary (post OATH)] Commander! I promise this is the last snack I'll eat today! Please, give it back now!
+[OATH] What's that, Commander, a new snack? ...Oh!? D-Does this mean I'm not just pretending to be a heroine anymore? I've become a real one? ...No takebacks, okay?
+[Greeting] Let's go, Commander! I'll do my best today!
+[T-Doll Produced] I'm gonna share some of my snacks with the new recruit!
+[Joining an echelon] My turn!
+[Enhancement] I didn't gain weight... right?
+[Dummy-linking] This... doesn't count as having gained weight, right?
+[Logistics (start)] Can I bring some snacks?
+[Logistics (end)] I'm back! Any parts I can use for modding?
+[Autobattle] It's time for my cool debut!
+[Title] Girls' Frontline!
+[Starting a combat mission] I'm ready! Time for action!
+[Starting a battle] The show's just getting started!
+[Skill activation] Here's my surefire killer!
+[Heavily damaged] Hmm... this fight is tougher than I thought...
+[Retreat] Oh my... I'll need to reconsider my fighting form...
+[MVP] That was a cool battle! We put on a great show!
+[Restoration] I think I'll try a new modification plan this time!
+[Halloween] There's so much candy! Is this heaven? I'm done worrying about my weight!
+[Christmas] Would you care for some matches? ...Wait, I think I have the wrong script... where'd I put that other one?
+[New Year's Day] Commander, let's throw out all of the snacks now so I won't gain any weight this year!
+[Valentine's day] I, um, ended up eating half of the chocolates I was going to give to you, ahahah. ...Hmm? You don't mind? Oh, I'm glad!
+[Tanabata] I've prepared a whole lot of fireworks! You're going to see quite the show tonight!

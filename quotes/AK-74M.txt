@@ -1,0 +1,30 @@
+[Acquisition] AK-74M. You want more information about me? ...I believe that's private, but...as my Commander, you have the authority to know.
+[Secretary] Maintaining an appropriate distance can actually facilitate mutual understanding.
+[Secretary (post OATH)] I knew the snowflake would melt, but I still wanted to bring it back to show you. How unlike me... Do you understand? Then why don't you come closer for a better look?
+[OATH] This is happening sooner than I expected. Fortunately, I have already thought about my reply countless times. Considering both our future development and my personal wishes... My answer is "yes".
+[Greeting] AK-74M standing by.
+[T-Doll Produced] The more comrades I have with me, the better our chances.
+[Joining an echelon] You want to know how well this works? The best way to find out is to try it in actual combat.
+[Enhancement] The taste is nothing memorable, but it serves a purpose.
+[Dummy-linking] It is my honor to grow with you.
+[Logistics (start)] Catch you later.
+[Logistics (end)] Yes, AK-74M requesting permission to return, Commander.
+[Autobattle] Stay confident.
+[Title] Girls' Frontline!
+[Starting a combat mission] I approve of your decision.
+[Starting a battle] Stop shivering. Hurry up and say your last words.
+[Skill activation] Focus.
+[Heavily damaged] Why are you so worried? Smile. Victory is within sight.
+[Retreat] Retreat for now! These bastards...
+[MVP] A victory worth celebrating. A hug? ...Alright. Most human hugs last three seconds. I'll start the timer now.
+[Restoration] If victory comes at the cost of a repairable injury, I'm okay with that.
+[Attack] The horn of victory is in our hands.
+[Halloween] Your witch costume would look better without this exaggerated mask.
+[Christmas] The occasional revelry is a necessity for high-strung Dolls. Just keep the duration reasonable.
+[New Year's Day] My New Year wish? I'm happy just staying here at the dorm with you, Commander. One reason being I don't want to see that old guy dressed all in red. The other reason... Surely you can guess?
+[Valentine's day] Roses and amorous vows are unnecessary. You are charming enough when you are calm and collected, Commander.
+[Tanabata] Please don't make fun of me over my personal life.
+[Defense] Save your strength and bide your time.
+[Phrase] Keep calm.
+[Tip] This is my down time, but if you give an order, I'll obviously prioritize it.
+[Loading] Patience is a rare virtue.

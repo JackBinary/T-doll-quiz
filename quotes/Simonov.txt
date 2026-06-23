@@ -1,0 +1,26 @@
+[Acquisition] Hello, Commander. A trump card like me is worth a hundred soldiers. Take good care of me!
+[Secretary] Don't think, feel! HACHAAA-!
+[Secretary (post OATH)] Commander, was I able to help you today? Am I becoming more like an elite? Please help me to discover more of my talent!
+[OATH] Ufufu, Commander, have you finally realized my value as an ace? Eh? No? I see... but I'm satisfied enough, just being able to stay by
+your side, really!
+[Greeting] Did you happen to miss me again?
+[T-Doll Produced] Production complete. I alone am enough though.
+[Joining an echelon] I choose you! Just kidding.
+[Enhancement] Being too strong is a sin.
+[Dummy-linking] Dummy link. Will this give me more chance?
+[Logistics (start)] There's only this insignificant work for me? Fine! I just need to go alright.
+[Logistics (end)] I'm back, where is the lunchbox?
+[Autobattle] For this level of a mission, I suppose it's natural that you leave it up to me? Wait, where are you guys going?
+[Title] Girls' Frontline!
+[Starting a combat mission] We'll bring perfect victory home!
+[Starting a battle] Yeah! Charge!
+[Skill activation] Ready! Attack!
+[Heavily damaged] Time to get serious.
+[Retreat] Wha-, I did lose on purpose this time.
+[MVP] Just according to plan!
+[Restoration] Ngh, something like this can happen sometimes. I really meant it!
+[Halloween] It's Halloween, everyone is playing tricks. By the way, I like gummy. Nom nom nom.
+[Christmas] Hmph, just leave Christmas decoration to me. Eh, it's all finished? Why?
+[New Year's Day] It's new year, Commander. I'll be this year's ace, alright. At least let me sortie, I beg you!
+[Valentine's day] Speaking of Valentines, did you know, Commander? W-wait! I haven't even hand over my chocolate...
+[Tanabata] Tanabata? Haha, an elite like me doesn't need something like that. But I want my turn to sortie.

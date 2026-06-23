@@ -1,0 +1,21 @@
+[Acquisition] CR-21, falling in! Leave your security and daily training plans to me!
+[Secretary] You're not bad as it is, Commander, but you've got just a bit too much meat over here... Would you like me to draft up an exercise plan for you?
+[Secretary (post OATH)] I told you not to eat junk food, didn't I, Commander? What will I do with you... I'll make an exception for you just this once, but I'll be training you extra hard after work, okay?
+[OATH] Commander? Why did you come looking for me today.. .ah!? Are you serious? Then... you won't run away, even if you have to train with me every day? Well, since you're that determined, I'll do my best to live up to the trust you've placed in me!
+[Greeting] Oh, good morning! Are you running today?
+[T-Doll Produced] A new trainee has arriiived!
+[Joining an echelon] Hmm, hmm, not bad!
+[Enhancement] I've gotten stronger!
+[Dummy-linking] Hmm...yup! Now you can teach me more!
+[Logistics (start)] You shouldn't be doing any muscle training while I'm away!
+[Logistics (end)] Commander, I'm back! Have you done all of your squat jumps for today?
+[Title] Girls' Frontline!
+[Starting a combat mission] Alright! Let's warm up by running today!
+[Starting a battle] Outdoor training begins, now!
+[Skill activation] I need to get some vegetables!
+[Heavily damaged] Ahahaha, it seems that I was overtraining...
+[Retreat] I see, let's try that again...
+[MVP] What do you think, Commander? How's it feel to be stronger than yourself?
+[Restoration] Ugh...I wasn't ready for that...
+[Halloween] Don't panic if a ghost appears! Use your strength to repel everything in front of you! Oh, is that right? It wasn't real, and it was just a fancy outfit for my friends! Ahahaha, I forgot about that! Sorry, sorry!
+[Christmas] Because its a holy birth festival, we need to make our bodies perfect! Time to party at the afterparty! Right, Commander?

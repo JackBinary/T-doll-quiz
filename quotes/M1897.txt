@@ -1,0 +1,49 @@
+[Acquisition] Commander, I'm Winchester 1897. Whether it's cleaning or fighting, I'll do my best!
+[Secretary] Uuh... today, onee-san is not here right? Safe~
+[Secretary (post OATH)] Commander, would you like to eat first? Or perhaps taking a bath? Ah, how about taking a break first? No, you should do maintenance first, or maybe training, or cleaning?
+[OATH] C-commander... what's the matter? Bringing me here out of the blue... uwaa! I-is this... for me? Do you really mean it? I-I'm really happy! I will never forget this day!
+[Greeting] Ah, you've come, commander!
+[T-Doll Produced] Commander, the new doll production is complete.
+[Joining an echelon] In order to not disappointing you, I'll do my best!
+[Enhancement] A-amazing...
+[Dummy-linking] Uwaa! T-this is... another one of me...?
+[Logistics (start)] Is it this time's target? Well then, I'll be going.
+[Logistics (end)] I've returned safely, commander!
+[Autobattle] Everyone, let's do the major cleaning!
+[Title] Girls' Frontline!
+[Starting a combat mission] Everyone, arm yourselves, let's depart.
+[Starting a battle] Commencing cleaning!
+[Skill activation] From this point on, I won't let you pass even by one step!
+[Heavily damaged] Uwaa! Please don't look this way!
+[Retreat] Commander, I'm sorry, for disappointing you.
+[MVP] The cleaning was great success! Commander, is this enough?
+[Restoration] Uuh, what if onee-san see my state right now...
+[Halloween] Uwaaa... I-I'm scared! Please help me, commander! Quickly! Uwaaa!
+[Christmas] Mr. Turkey... I promise you you'll turn into a delicious dish. Please excuse me!
+[New Year's Day] Today I'll show you my ultimate cleaning technique. Please watch my new year great strategy.
+[Valentine's day] C-commander, please take this. I did it! I'm so happy.
+[Tanabata] M-make a wish. What should I do. I have a lot of it, which one should I choose...
+[Acquisition] M1897 reporting, Commander. Make sure you're conscious of your hygiene and cleanliness at all times!
+[Secretary] I've been providing social services on my own recently. Of course, it's all security work.
+[Secretary (post OATH)] Commander, as I thought. you actually... Wait, youyouyou, you're giving this to me?! It, it's too expensive! Ah, no, it really is a proof of our bond that belongs to the two of us. Don't worry, I'll take good care of it and keep it spotless!
+[Greeting] Commander, I've already cleaned out the Ops Room. Today's sure to be another bright and happy day!
+[T-Doll Produced] A new Doll has arrived, I guess I should help clean up her dorm room for her.
+[Joining an echelon] I need to properly prepare this time.
+[Enhancement] Yup, my movements are lighter and smoother now!
+[Dummy-linking] Wow! Is, is this another me?
+[Logistics (start)] Is this our objective? Then let's head out!
+[Logistics (end)] Successfully returned to unit, Commander!
+[Autobattle] Everyone! Let's go on this cleanup operation together!
+[Title] Girls' Frontline!
+[Starting a combat mission] Let's go, time to clean up all the dirty things in our way!
+[Starting a battle] Power cleaning mode, activate!
+[Skill activation] Now!
+[Heavily damaged] It's, it's so diiiirttyyyyyyy!
+[Retreat] I, I guess I should go prepare more before coming back...
+[MVP] That cleaning went well, hehe!
+[Restoration] (Sob) If Big Sis saw me like this...
+[Attack] You're pretty stubborn, but we won't lose!
+[Defense] Ugh, we need to keep our distance from dirty things!
+[Phrase] A-Alright, I understand.
+[Tip] Is...this the place?
+[Loading] Is Big Sis...here too?

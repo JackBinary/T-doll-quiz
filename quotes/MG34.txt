@@ -1,0 +1,26 @@
+[Acquisition] So you're the Commander, huh? I'm MG42's older sister, MG34! Let's get to know each other!
+[Introduction] MG-34, as one of the first general purpose machinegun in the world. Due to the treaty's restrictions, I was classified as a weapon for both light and heavy firing, used widely as the standard issue machinegun at that time. But due to rushed productions, have the issues of complex interior and over weighting. The improved MG42 could not completely replace me though. Commander, I will prove it to you.
+[Secretary] Commander, don't bully me.
+[Secretary (post OATH)] You've been working hard today, I will make a cup of tea for you later... This is a special treatment, mention nothing of this to 42 ok.
+[OATH] Since you have chosen me, that means my chosen path is a correct one. I had all kind of worries, but as long as you are with me, I will never lose my way again. Thank you Commander!
+[Greeting] Been waiting for you Commander.
+[T-Doll Produced] Commander, a new girl is here!
+[Joining an echelon] Emm, can't I go together... With my sister?
+[Enhancement] Firing accuracy improved!
+[Dummy-linking] Thank you! I wish to obtain more power.
+[Logistics (start)] I'm leaving now! MG42 are you in the squad too?
+[Logistics (end)] I'm back, MG42, sister bought some local products for you.
+[Autobattle] MG42, let me protect you this time!
+[Title] Girls' Frontline!
+[Starting a combat mission] Feels a bit lonely... Without my sister around.
+[Starting a battle] Enemy sighted! Prepare for attack!
+[Skill activation] Fire! Fire!
+[Heavily damaged] Uuuu... I can't face my sister like this...
+[Retreat] If only she was here...
+[MVP] Commander, I did it! Please tell my sister about this!
+[Restoration] Uuuu... MG42 doesn't know about this right?
+[Halloween] They sure work hard when candies are on the line... 42 is amongst them too... She's still a kid hehe.
+[Christmas] Today is the once in a year christmas! We've been busy preparing the party! Hey, MG42! No food snatching!
+[New Year's Day] MG42, say your new year greeting properly. Cease your rude behaviour. Well then, Happy New Year, Commander.
+[Valentine's day] Here, valentine chocolate. MG42, don't cry. There's your share.
+[Tanabata] Tanabata festival is so exciting. MG42, let's go to the festival

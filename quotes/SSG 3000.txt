@@ -1,0 +1,24 @@
+[Acquisition] SSG　3000 has arrived at the destination, now awaiting Commander's orders.
+[Secretary] Did you know, Commander? Other than a sniper's marksmanship, the patience to wait for the perfect time to fire is also very important.
+[Secretary (post OATH)] *stare*- Ah, Have you found me, Commander? I haven't been able to conceal my breathing lately, or did Commander's senses become sharper? Sometimes I feel that I can do nothing else and just observe you, Commander, and I'd be content... What? Do you want to thoroughly observe me too? Hehe... What am I gonna do with you?
+[OATH] Oh... What's this? I've imagined it countless times in my neural cloud, but I never thought I'd feel this way... Honestly, I've waited for this for a long time, Commander. What I'm most curious about, when did you let me shoot you through the heart? I really want to know the answer.
+[Greeting] Welcome home, Commander. Hm? 'Did I keep you waiting'? It's alright! No matter how long it takes, I'll always be waiting for you to return! Because I'm the best at being patient!
+[T-Doll Produced] A newcomer has arrived? I'll have to thoroughly observe her then...
+[Joining an echelon] This is where I come in.
+[Enhancement] I can see even farther now!
+[Dummy-linking] When our numbers increase, wouldn't it be easier to be seen by the enemy?
+[Logistics (start)] Which brand lens did you prepare this time? I'm looking forward to it.
+[Logistics (end)] It's been a while since we left the base. I feel at home.
+[Autobattle] Please leave it to us.
+[Title] Girls' Frontline!
+[Starting a combat mission] A combat mission? Not bad, it's been a while since I've had to look down the irons.
+[Starting a battle] Target sighted. Aiming as instructed.
+[Skill activation] Roger! Opening fire.
+[Heavily damaged] I was careless...I didn't even notice...
+[Retreat] Our equipment just isn't going to cut it at the moment! Everyone, please get down!
+[MVP] I will spare no amount of preparation for this moment.
+[Restoration] Such an unseemly figure...I don't want the others to see me. Commander, can we keep this private?
+[Halloween] By the way, there are some strange garbling noises coming from the kitchen that sound like dolls threatening people. Uwah, I've got a bad feeling about this, Commander.
+[New Year's Day] Commander, why don't you head out with me? If we set up a tent at the mountaintop, we'll be able to see the first daybreak of tomorrow.
+[Valentine's day] Oh, is that chocolate for me? Thank you very much, Commander! I'll be sure to have some during my missions. If you slowly put them in your mouth one by one, you won't get tired from eating all day.
+[Tanabata] What kind of did you make, Commander? I asked for a better optical sight. That way I can see things more clearly.

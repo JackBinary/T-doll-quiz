@@ -1,0 +1,26 @@
+[Acquisition] I will definitely find my true self here! ...I'm Cx4 Storm, Commander, look forward to your guidance.
+[Introduction] (ditto)
+[Secretary] Collecting tobacco labels here is pretty difficult, nobody really smokes here...
+[Secretary (post OATH)] Commander this tactic I'm still unfamiliar with, can you go through it with me again? With you here I can put up with it no matter how difficult it is.
+[OATH] Commander, thank you for guiding me here. I've always had doubt with myself, whether I'd be better off elsewhere... but you made me believe, the happiness I'm looking for... belong by your side!
+[Greeting] Commander, thank you for your hard work!
+[T-Doll Produced] Our number of friends have increased.
+[Joining an echelon] Since we're here, let's all try to get along.
+[Enhancement] I will continue to do my best!
+[Dummy-linking] As many times we grow stronger...we will repay it to the Commander!
+[Logistics (start)] I'll look for some new cigarette packages along the way.
+[Logistics (end)] Everyone, thank you for your hard work. Let's bring these supplies to the Commander.
+[Autobattle] I'm quite used to this, so there shouldn't be any problems.
+[Title] Girls' Frontline!
+[Starting a combat mission] We've arrived on scene. Awaiting orders.
+[Starting a battle] This is an all-out attack!
+[Skill activation] Don't stand out...
+[Heavily damaged] This is bad! W-What do we do...
+[Retreat] I don't want to die yet... Let's get out of here, quickly!
+[MVP] Phew, that was a close one. Somehow we made it through.
+[Restoration] I'm sorry, Commander. If only I was stronger...
+[Halloween] Com-man-der! Trick or Treat! Just for today. let's make a happy memories from scary things!
+[Christmas] Commander, Merry Christmas! I made a present from the cigarette pack I gather. Is there anyone who will want this?
+[New Year's Day] Commander, Happy New Year. Do you have any plan for today? Spending time at home isn't bad at all.
+[Valentine's day] I made it according to the recipe, but the taste is different than I thought. Uh no! It doesn't mean it'll taste bad!
+[Tanabata] To be honest, I don't need my wish to come true. However, I think it's a good thing to clarify your wishes this way.

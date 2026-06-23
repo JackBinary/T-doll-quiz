@@ -1,0 +1,24 @@
+[Acquisition] Are you... the Commander? Looks like I'm working with you from now on. As long as I'm here, "they" should not find me...
+[Secretary] I fled to this planet because "they" were chasing me... Commander, you shouldn't pry too much, it's not good for you.
+[Secretary (post OATH)] Just now in the dorm a cat came outta nowhere and scared the crap out of me... Commander, if "they" discover me, you must protect me.
+[OATH] Commander, is this really okay? Even though I'm still keeping a lot of secrets from you... but, even if Earth is invaded by my home world, you wouldn't mind being with me? ...Thank you, Commander. Then, with this oath, I'm willing to face any future with you!
+[Greeting] Commander, what are our orders for today?
+[T-Doll Produced] A funny doll came by.
+[Joining an echelon] Looks like these Earth dolls aren't so bad after all.
+[Enhancement] For you to go this far, I feel pretty good.
+[Dummy-linking] Listen up, unless I order otherwise, you absolutely must NOT remove your hood...
+[Logistics (end)] Phew...safe and sound...
+[Autobattle] Too easy! Leave it to me!
+[Title] Girls' Frontline!
+[Starting a combat mission] Let me show you the battle of this star.
+[Starting a battle] Are these guys also trying to get in our way?
+[Skill activation] Think you can make it back alive?
+[Heavily damaged] Shoot...if only I knew what they were...
+[Retreat] I'm scared...I wanna go home...
+[MVP] At this rate, you wouldn't stand a chance on my planet.
+[Restoration] It's possible that this Earth might be more dangerous than the homeworld.
+[Halloween] Commander, is the Earth receiving some sort of signal?! Why are there so many stars here and there?
+[Christmas] I don't really believe in Santa that much. Personally, I think it's a fake star.
+[New Year's Day] 365 days, that's one year on Earth. On my homeworld, a year seems to be much longer.
+[Valentine's day] Giving chocolate as tribute, Earth's customs really have changed. Are you perhaps a chocolate god or something?
+[Tanabata] Even on my homeworld you can see Orihime and Hikoboshi. However, they're not really any different from the other stars.

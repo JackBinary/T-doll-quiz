@@ -1,0 +1,26 @@
+[Acquisition] Ciao! M12 submachine gun will be following your orders from now on. Commander, do you want me to sortie immediately?
+[Introduction] M12 SMG, Used as a standardized weapon two years after released. Even though I don't have any innovative aspects, but I'm proud of my stable performance and reliability.
+[Secretary] Commander, do you have any orders for me? I'm ready to deploy any time.
+[Secretary (post OATH)] Commander, did you run into any trouble today? We've been through worse, so don't give up so easily~
+[OATH] C-Commander, is this for real? Even if you say so, how do I work hard on something like this? But...it's alright, as long as I'm with you, we can overcome any problems, right?
+[Greeting] Finally, my chance to shine, don't worry and leave everything to me.
+[T-Doll Produced] Another new companion, looks like I have to work harder now.
+[Joining an echelon] Understood!
+[Enhancement] Yeah!
+[Dummy-linking] Thank you, Commander, let's work hard together.
+[Logistics (start)] Understood, leaving right away.
+[Logistics (end)] Mission accomplished, rejoining ranks.
+[Autobattle] Let me help.
+[Title] Girls' Frontline!
+[Starting a combat mission] Nice opportunity, M12 moving out.
+[Starting a battle] Enemy contact, fire!
+[Skill activation] Come on!
+[Heavily damaged] I can't lose here!
+[Retreat] All of my hard work have been for nothing...?
+[MVP] Might not be that impressive, but I've done my best!
+[Restoration] Such a shameful display, I will have my retributions.
+[Halloween] Halloween? Is this an event where you work hard? Celebration? Well then, I'll prank you if you don't give me any sweets!
+[Christmas] Merry Christmas, Commander!
+[New Year's Day] Happy New Year, Commander. How was me last year? Really? Thank you. I will do my best this year.
+[Valentine's day] Commander, I did my best today. I made this! It looks bad but ... please get it!
+[Tanabata] My request? It is none other than. Do your best with everyone and win. It will never change.

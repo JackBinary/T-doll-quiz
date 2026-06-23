@@ -1,0 +1,31 @@
+[Acquisition] This is Ruger Mini-14 reporting. I hope you're capable enough to direct an elite Doll like me.
+[Introduction] This is Ruger Mini-14 reporting. I hope you're capable enough to direct an elite Doll like me.
+[Secretary] This Mini-14 might not be the most expensive rifle around, but it's lightweight and easy to maneuver, making it ideal for combat in difficult terrain... and more importantly, it'll only show its true power in my hands.
+[Secretary (post OATH)] If I had to say what kind of person would suit me... I'd have to say that there'd be no better choice than you.
+[OATH] Hmph... I have to admit, you ARE a cut above the rest. So far, you're the only one I've viewed in a different light from all the others. Very well then; from now on, prove your determination to me for the rest of your life!
+[Greeting] You must be really forgetful if you left an elite Doll like me here.
+[T-Doll Produced] A newcomer? I hope they don't hold me back.
+[Joining an echelon] A wise choice. You can truly call this echelon an elite force with me around.
+[Enhancement] Looks like you have good judgement. However, you'll need to put in more effort to catch up with me.
+[Dummy-linking] Have you finally realized my worth? Very well, I will show you what a proper elite squad looks like.
+[Logistics (start)] Just wait, I'll return in triumph soon.
+[Logistics (end)] Spare me the empty praise, missions like these are too easy for me.
+[Autobattle] I envy you, Commander. All you have to do is wait in the office for my good news.
+[Title] Girls' Frontline
+[Starting a combat mission] Let's go. Try to keep up.
+[Starting a battle] I'll take them all out in one minute. Watch me.
+[Skill activation] A perfect strike!
+[Heavily damaged] That's impossible... How could I lose...
+[Retreat] Dammit... I'll let you off for now!
+[MVP] A victory, as expected. You may praise me, Commander.
+[Restoration] It's just a scratch, hardly worth mentioning. Still, since you insist, I shall lower myself to going in for repairs.
+[Attack] Watch this!
+[Halloween] Someone I didn't know tried to scare me just now. I immediately took her down and pinned her on the ground before realizing she was one of the newcomers. Hmph... I suppose that counts as a free CQB lesson, then?
+[Christmas] Yeah, I don't believe in that Santa stuff, nobody could ever sneak into my room... What? You already put a present in my room? You-- When did you get in?!
+[New Year's Day] The wishing wall in the base is covered in wishes, and one of them says "I hope I can beat Ruger Mini-14 this year". I don't know who wrote it, but I admire her courage.
+[Valentine's day] I heard that chocolates received today must be returned, but after looking through my backpack, the only thing I can give you are backup magazines... Hey, why do you have that look on your face? Aren't bullets much more practical than chocolate?
+[Tanabata] So the Cowherd and the Weaver Girl can only meet once a year—doesn't anyone find that stupid? If it were me, I'd cross the galaxy or whatever to find you.
+[Defense] Cover me!
+[Phrase] Utter foolishness.
+[Tip] Hey, don't keep poking me. Even if you're my Commander, you need to know how to respect your subordinates' personal space.
+[Loading] Currently performing precision calibrations. Be patient, even elite operators need time to work.

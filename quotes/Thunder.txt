@@ -1,0 +1,45 @@
+[Acquisition] An unfamiliar face, are you new around here? ...I apologize, that was supposed be your line.
+[Secretary] I often substitute my expressions with gunshots, far more accurate that way.
+[Secretary (post OATH)] All the happy things and sad things... Commander, how were you able to see through my thoughts?
+[OATH] Commander, you must understand my feelings very well. Then you must know what I'm about to say... Please let an unpleasant person like me to forever stay by your side... Please, promise me.
+[Greeting] If you want to raise the work efficiency, shouldn't you come earlier?
+[T-Doll Produced] Does anyone who came here have no other choice?
+[Joining an echelon] Right here? Roger.
+[Enhancement] My current power is nowhere near enough. I want more.
+[Dummy-linking] Raising our powers at once, not bad.
+[Logistics (start)] If I don't manage to come back, please chase after my wings.
+[Logistics (end)] Is there any change in such a short notice?
+[Autobattle] Shall I bring upon a thunder here?
+[Title] Girls' Frontline!
+[Starting a combat mission] My piece of mind, I'll show them all I got.
+[Starting a battle] You can come to me one by one!
+[Skill activation] Get lost alongside the thunder!
+[Heavily damaged] The sound of the thunder has calmed down.
+[Retreat] Am I not needed here anymore?
+[MVP] We won. Let's celebrate by having a gun salute.
+[Restoration] Humanity's tears were made from blood. Then, how about doll's?
+[Halloween] It feels like a night of crows... Is someone violent coming?
+[Christmas] Commander, Merry Christmas. I don't think a regular present can express my feelings well. Would these bullets work? ...They don't?
+[New Year's Day] Do dolls like us age with each coming year? How old are you anyways, Commander?
+[Valentine's day] Please accept these Chocolates. If you think they're delicious, then I'm glad. If they make you happy then... I'm happy too.
+[Tanabata] I wish for more firepower. Don't you agree, Commander?
+[Acquisition] An unfamiliar face, are you new around here? ...I apologize, that was supposed be your line.
+[Secretary] ...Can we really be called "children" if we don't even have parents?
+[Secretary (post OATH)] These black wings are told to bring about misfortune, but I can still use them to fly. Commander, will you fly with me, at least until the day misfortune catches us?
+[OATH] Commander, you must understand my feelings very well. Then you must know what I'm about to say... Please let an unpleasant person like me to forever stay by your side... Please, promise me.
+[Greeting] If you want to raise the work efficiency, shouldn't you come earlier?
+[T-Doll Produced] Does anyone who came here have no other choice?
+[Joining an echelon] Right here? Roger.
+[Enhancement] My current power is nowhere near enough. I want more.
+[Dummy-linking] Raising our powers at once, not bad.
+[Logistics (start)] If I don't manage to come back, please chase after my wings.
+[Logistics (end)] Is there any change in such a short notice?
+[Autobattle] Shall I bring upon a thunder here?
+[Title] Girls' Frontline!
+[Starting a combat mission] My piece of mind, I'll show them all I got.
+[Starting a battle] You can come to me one by one!
+[Skill activation] Do you lot have any scar? Show me.
+[Heavily damaged] Won't you be with me?
+[Retreat] Am I not needed here anymore?
+[MVP] We won. Let's celebrate by having a gun salute.
+[Restoration] Humanity's tears were made from blood. Then, how about doll's?

@@ -1,0 +1,22 @@
+[Acquisition] My name is ADS, amphibious assault rifle. You better remember my name, got it? Whether it's on land or underwater, please remember to let me lead the assault!
+[Secretary] I can't swim today- Hey, is there no amphibious missions? Seriously, I really want to show you my abilities.
+[Secretary (post OATH)] Commander, what are we doing today? A drive to the beach? Or should we cook something at home? I just got a new recipe book, so I can't put off any practicing! When we move to a bigger place, the kitchen can become my new battleground!
+[OATH] What are you up to, sitting next to me so suddenly... Water fight! Ey? I'm.. I'm sorry! I didn't see you were holding a ring. There, I fished it out of the water for you... though now we're both soaking wet. Hehe, if you want to be by my side, Commander, you should train your swimming techniques some more, okay?
+[T-Doll Produced] A new comrade is hereee! Should I make sweets and bring it here?
+[Enhancement] I'll dive for ten more meters!
+[Dummy-linking] The newly joined ADS sure is cute~ Ufufu, as expected from me!
+[Logistics (start)] Although this container isn't waterproofed, I'll only this on land so no need to worry.
+[Logistics (end)] I'm hooome~ ehehe. You know, on my way back home, I fell into the sea! Hmm? Ah, all the goods are soaked...
+[Autobattle] No worries Commander. I'll lead everyone, and show you that we'll carry out the mission!
+[Title] Girls' Frontline!
+[Starting a combat mission] Rest assured. I brought along my lovely frogs. We'll shoot through enemies' hearts.
+[Starting a battle] Hmph, they're finally here.
+[Skill activation] With the power of ripple, take this!
+[Heavily damaged] Ugh... don't worry. It's just my leg that's sprained...
+[Retreat] No way... for the invincible amphibious of me to be defeated like this...
+[Restoration] Y-you don't have to repair me! It's just my leg that got sprained! Owowowowowow! Hey, don't touch me there!
+[Halloween] Kyaaah! Commander, save me! There's a weird doll who wears a big pumpkin on her head screaming and chasing me! She said she'll replace my head if I don't give her sweets!
+[Christmas] Christmas atmosphere sure is nice~ Don't you think so, Commander? It's warm and make you sleepy though. Feasting together with everyone, and serving... Ah! no good! Drinking is a no! Otherwise I couldn't swim later!
+[New Year's Day] Commander, Happy New Year! Heheh, it's not easy being a senpai. I know the feeling just recently. Eh, what is it? I should give my juniors their new year money? Eeh, that can't do! I'm currently saving up, so I can buy my own house someday!
+[Valentine's day] Commandeer! Where is he geez! Even though I put all my feelings into making this chocolate, why he doesn't want to take it... Hmm? What about the kitchen? I told you, I'm not the one who make the mess out of it! Aaah! Help meee!
+[Tanabata] Taking a dip on a sandy beach while gazing into a starry sky. I hope that day will come quickly. Commander, when that time come, could you help me searching for Orihime and Hikoboshi? Because I don't know who is who.

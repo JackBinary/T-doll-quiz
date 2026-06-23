@@ -1,0 +1,25 @@
+[Acquisition] Bonjour, Commander! AAT-52 machine gun, reporting for duty!
+[Secretary] Let's play together!
+[Secretary (post OATH)] Commander, I'm going to practice on the balance beam! I'll leave it to you to break my fall just like last time, hehe.
+[OATH] Have I finally become someone important to you, Commander? All the times I've stumbled and gotten back up have been for this day! Aha! I love you!
+[Greeting] Bonjour, Commander! Let's have a wonderful day!
+[T-Doll Produced] We have a new recruit! I wonder what kind of doll my junior will be?
+[Joining an echelon] I'll be a breath of fresh air!
+[Enhancement] It's done! Now I won't stumble anymore!
+[Dummy-linking] Thank you, Commander!
+[Logistics (start)] Understood! I'll be careful with my footwork!
+[Logistics (end)] I'm back safe and sound!
+[Autobattle] I'll cover you!
+[Title] Girls' Frontline!
+[Starting a combat mission] It's time for a real battle!
+[Starting a battle] Let's proceed calmly!
+[Skill activation] Let me try out the stuff I've learned!
+[Heavily damaged] Ugh, I tripped again... but I'm still okay!
+[Retreat] Grrgh... I couldn't live up to everyone's expectations... I'm sorry...
+[MVP] Our plan went off without a hitch! We're one step closer to our goal!
+[Restoration] This injury is nothing! How about checking up on the other girls?
+[Halloween] Today's the day I can get a ton of candy, so I don't even care about how scary everyone looks! And if I see a real monster, I'll just beat 'em up!
+[Christmas] Merry Christmas, Commander! It's nice and lively around here thanks to all the decorations everyone put up!
+[New Year's Day] Happy New Year, Commander! Have I grown any in the past year?
+[Valentine's day] Commander, take these! I made them just for you! Are you happy?
+[Tanabata] There are so many strips of paper fluttering upwards! I hope everyone's wishes reach the sky!

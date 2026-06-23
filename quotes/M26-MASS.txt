@@ -1,0 +1,30 @@
+[Acquisition] Hello, hello, hello! I'm M26-MASS! I'm officially a part of Griffin as of today! You're the Commander, right? If you need anything, just give me a shout. I'm always ready!
+[Secretary] I feel like I've seen you before... Oh, I'm not trying to chat you up! Look into my sincere eyes and pure heart! Look at my... Hey, don't go!
+[Secretary (post OATH)] I thought I saw a few fellow pizza enthusiasts here just a second ago. Why have they gone?
+[OATH] An oath? Haven't we been spending lots of time together already? Oh... So it will be an even more intimate relationship... I see... Commander, I totally understand what you're trying to get across! I'll save you the biggest slice next time I'm making fruit cocktail and seafood pizza!
+[Greeting] What are we eating today, Commander?
+[T-Doll Produced] Wow, lemme check out which new friend is here... Hey, I know I've seen you somewhere!
+[Joining an echelon] Everyone behind me! I'm full of energy now that my belly is full!
+[Enhancement] Hm, that felt satisfying – like eating two slices of pineapple and lobster pizza!
+[Dummy-linking] Come, my dear friends!
+[Logistics (start)] Wow, looks like we'll be traveling pretty far, but that's alright, I'll prepare food for everyone!
+[Logistics (end)] Commander, I've brought back everything you need!
+[Autobattle] Oh, so this is the strategy, yeah? I've got it down!
+[Title] Girls' Frontline!
+[Starting a combat mission] Don't worry, I've prepared plenty of rations!
+[Starting a battle] Let's see what kind of idiot is fighting on the other side.
+[Skill activation] Charge! I'm itching for a fight!
+[Heavily damaged] ...Just a bit longer... Dragonfruit pizza is waiting for me...
+[Retreat] Ugh... A tactical retreat isn't a failure!
+[MVP] Humph, that was easy! Dinner is on me!
+[Restoration] I think I could use a second stomach.
+[Attack] Heheh, this is my area of expertise!
+[Halloween] Jack-o'-lanterns... Candy corn... Hold on, I've got a brilliant idea! I'm gonna make a special Halloween pizza!
+[Christmas] How on earth does Santa Claus get inside people's homes? I could use that kind of skill. That way, I'll know what to do next time I get a door shut in my face!
+[New Year's Day] Huhhhhh? New Year? Will there be a celebration? There must be pizza at a celebration, right? I can help out in the kitchen— No, I won't sneak fruit in while it's baking in the oven, I swear!
+[Valentine's day] Valentine's Day, huh. Sounds like the perfect time to exchange presents! I'll start preparing 300 durian king crab pizza right away!
+[Tanabata] They only get to meet once a year? What do they eat to mark such an occasion?
+[Defense] Hm, we should proceed with more caution.
+[Phrase] Ehehehe!
+[Tip] Ack, you stepped on me! Humph, as punishment, you're having snacks with me! Don't be a picky eater!
+[Loading] Will it be too much of a rush to bake a pizza now?

@@ -1,0 +1,44 @@
+[Acquisition] Carcano M1891 Reporting in! Finally get to meet you Commander, your dreams and your justices, we will witness them, together.
+[Introduction] Carcano M1891, this name comes from my chief design engineer, but some people call me M91. I've endured the three of the most brutal wars in the history of mankind, I brought smiles to the victors and pains to the defeated... So Commander, have you thought of what I can bring for you?
+[Secretary] I designed both mine and my sister's outfits, do you like it?
+[Secretary (post OATH)] Commander. Please wear the clothes I made for our next date!
+[OATH] Commander, in my mind you're the person I trust more than anyone else. ...Eheh, sorry, I guess it's kind of silly for a doll to be talking about their mind. Still... if I'm that important to you, Commander, then that's all I could ask for!
+[Greeting] You're looking as lively as ever, Commander! I won't lose to you!
+[T-Doll Produced] The new recruit's waiting, Commander!
+[Joining an echelon] Yes, I think this is a pretty good position!
+[Enhancement] I've grown stronger thanks to you, Commander!
+[Dummy-linking] Wow, even my clothes have been perfectly copied... what incredible technology!
+[Logistics (start)] You need me to help gather supplies? Understood. I'll be right on my way.
+[Logistics (end)] Sorry for the wait, Commander. Let's hurry and get these supplies into the warehouse.
+[Autobattle] I've gone through simulations of this many times. I should be fine.
+[Title] Girls' Frontline!
+[Starting a combat mission] Let's come back with a major victory, everyone!
+[Starting a battle] So you all are our opponents.
+[Skill activation] I have to be a good example for my sister!
+[Heavily damaged] Eheh... seems like I've angered them a bit.
+[Retreat] Commander, we'll be in danger if we stay here like this.
+[MVP] What amazing tactical guidance! That's our Commander!
+[Restoration] I can repair my clothes on my own, at least.
+[Halloween] I put a lot of effort into the costumes this Halloween! Commander, can you tell which ones are mine?
+[Christmas] Merry Christmas, Commander! Let's eat a ton, drink a ton and blow all of our worries away today!
+[New Year's Day] Do you want some New Year's clothes, too, Commander? I'll design some for you!
+[Valentine's day] Ehehe... sorry, I'm not very good at making chocolates. It would make me happy if you'd accept them anyway!
+[Acquisition] Carcano M1891 Reporting in! Finally get to meet you Commander, your dreams and your justices, we will witness them, together.
+[Introduction] Carcano M1891, this name comes from my chief design engineer, but some people call me M91. I've endured the three of the most brutal wars in the history of mankind, I brought smiles to the victors and pains to the defeated... So Commander, have you thought of what I can bring for you?
+[OATH] Commander, in my mind you're the person I trust more than anyone else. ...Eheh, sorry, I guess it's kind of silly for a doll to be talking about their mind. Still... if I'm that important to you, Commander, then that's all I could ask for!
+[Greeting] You're looking as lively as ever, Commander! I won't lose to you!
+[T-Doll Produced] The new recruit's waiting, Commander!
+[Joining an echelon] Yes, I think this is a pretty good position!
+[Enhancement] I've grown stronger thanks to you, Commander!
+[Dummy-linking] Wow, even my clothes have been perfectly copied... what incredible technology!
+[Logistics (start)] You need me to help gather supplies? Understood. I'll be right on my way.
+[Logistics (end)] Sorry for the wait, Commander. Let's hurry and get these supplies into the warehouse.
+[Autobattle] I've gone through simulations of this many times. I should be fine.
+[Title] Girls' Frontline!
+[Starting a combat mission] Let's come back with a major victory, everyone!
+[Starting a battle] So you all are our opponents.
+[Skill activation] I have to be a good example for my sister!
+[Heavily damaged] Eheh... seems like I've angered them a bit.
+[Retreat] Commander, we'll be in danger if we stay here like this.
+[MVP] What amazing tactical guidance! That's our Commander!
+[Restoration] I can repair my clothes on my own, at least.

@@ -1,0 +1,30 @@
+[Acquisition] ELID Disaster Rescue Guard Doll – Fostech Origin-12! My name is too much of a mouthful? Then just call me FO-12! This is my comrade-in-arms, Lightning Jack! We'll be under your command from now on!
+[Secretary] My old job was all about searching and protecting. You can rest assured that I'm very experienced. Of course, I'm equally confident in my ability to complete whatever mission you give me!
+[Secretary (post OATH)] It's your turn to walk Jack today? Be careful and keep her away from my colleagues, or she'll bolt and drag you along.
+[OATH] It's kinda touching seeing you so sincere and solemn, but... To tell the truth, Jack also has feelings for you... Ahahaha, just kidding! Still, she seems happy to be our witness, which means...you have her approval!
+[Greeting] Commander, if you need a guard, just give me a holler! I'm a pro!
+[T-Doll Produced] More colleagues?! Jack, let's go!
+[Joining an echelon] Huh?! Jack doesn't get his own seat?! Can't be helped then, we'll have to share one... Alright! Stop whining!
+[Enhancement] Did Jack also get a power-up? Wonderful! Look forward to our performance from now on!
+[Dummy-linking] Jack also got duplicated... Hold on, which one is the real Jack?!
+[Logistics (start)] Search and investigate? That's right up my alley!
+[Logistics (end)] I found a lot of cool stuff! Can I keep a share?
+[Autobattle] I can do whatever I please throughout this operation? Heheh, don't blame me if anything bad happens!
+[Title] Girls' Frontline!
+[Starting a combat mission] Leave the scouting to me! Let's go, team!
+[Starting a battle] The enemy is ahead! Prepare to engage!
+[Skill activation] Now!
+[Heavily damaged] Ack! These guys are a pain...
+[Retreat] Pressing on is too risky! Retreat!
+[MVP] Alright! Time to think about what reward to ask for!
+[Restoration] I think some of my limbs have fallen off... Jack?! How dare you make fun of me in my sorry state?!
+[Attack] Heheh, getting bitten is gonna hurt!
+[Halloween] Hey! Wanna see a terrifying monster? Ta-daaa! This is "Cerberus Jack" with two additional heads! Ahem... I'm just pulling your leg.
+[Christmas] Hey, that's my present! Give! It! Back! ...Oh! Y-You totally shredded it... Jack! You're not getting away with this!
+[New Year's Day] Happy New Year, Commander! Do I get a bonus?
+[Valentine's day] Thanks for the chocolate, Commander... Hey! Jack! This isn't something you can eat... You're taking it by force?!
+[Tanabata] Jack may just be a bionic dog, but she still howls at the moon!
+[Defense] If you think you can get past us, think again!
+[Phrase] Jack did it!
+[Tip] You can't find your work computer? Don't worry, you stuffed it into your locker in the changing room... Huh? How do I know? Ahem... Jack saw it.
+[Loading] I'm bored... Jack, why don't we play Frisbee?

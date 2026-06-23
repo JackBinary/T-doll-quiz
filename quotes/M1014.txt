@@ -1,0 +1,25 @@
+[Acquisition] Excuse me, are you the Commander? I didn't expect you to be this young; I thought you'd be one of the older types... Ah, sorry, that was rude of me!
+[Secretary] I feel very anxious every time I use the elevator here... It makes me very uncomfortable if it moves higher than 3.54 meters.
+[Secretary (post OATH)] Commander, I've made plans for our next date based on the data from our previous one. Of course, I've also encrypted them... Hey! Why are you throwing it away!
+[OATH] This is what you called me out here for, Commander? Why didn't you tell me earlier? I would've made preparations first for something this important... Eh? I shouldn't overthink it?... You're right. Maybe it is better to be simpler like this...
+[Greeting] Commander, have you confirm todays assignment?
+[T-Doll Produced] There's a workplace that suited for newcomers. I'm looking into it, wait a minute.
+[Joining an echelon] Everyone, can you step aside? I want an extra space here.
+[Enhancement] Shall we undergo a full inspection?
+[Dummy-linking] Those girls are also me?
+[Logistics (start)] On this mission, I'll be sure to thoroughly inspect the goods.
+[Logistics (end)] Do you want to put it in the storehouse? I think you better check it for one more time.
+[Autobattle] New discoveries await me.
+[Title] Girls' Frontline!
+[Starting a combat mission] Advance and be careful of the enemy.
+[Starting a battle] It's possibly a decoy.
+[Skill activation] I won't let you do whatever you want!
+[Heavily damaged] M-my shield... can't take it anymore!
+[Retreat] So in the end...did we achieve the enemy's objective.
+[MVP] This victory can be a part of enemy plan. Don't let your guard off.
+[Restoration] Shall I restock the bandages?
+[Halloween] Do you want candies? Please fill your name in this application form. Also fill the amount you want. Next person please!
+[Christmas] Santa's job? I might be able to do it as well. Eh, I need to climb the rooftop? I'd rather have a normal job then.
+[New Year's Day] I checked several annual events in various places. I was surprised by how many varieties are out there. How about we try every single one of them?
+[Valentine's day] Commander, this chocolate's taste will be spoiled if the temperature rises. Please keep it in a proper place.
+[Tanabata] God won't be able to distinguish whose wishes are these, will he? That's why I should write my name, ah, what about people who share the same name. I should leave a photo as well.

@@ -1,0 +1,25 @@
+[Acquisition] It's an honor to meet you, Commander. I hope my efforts will further simplify your victories.
+[Secretary] You argued with Onee-san during the meeting again, didn't you, Commander... Next time, please be brief with your speeches.
+[Secretary (post OATH)] I've been thinking of ways to make you happy, Commander. But in the end as long as I'm by your side, everything will be fine, right?
+[OATH] Commander, if you're this serious, then I don't know what I'll... No, no matter. What you wish for is more important, I understand that. Though our relationship and my feelings for you have always been so simple, haven't they?
+[Greeting] Commander, regarding today's plan, I've already think about it in advance.
+[T-Doll Produced] Let's throw a simple welcome party.
+[Joining an echelon] Let's refrain from using a complex formation. Simple yet effective formation like this is the best.
+[Enhancement] Minor alteration like this, may eventually lead to major changes.
+[Dummy-linking] These girls are well-behaved. I've taken a liking on them.
+[Logistics (start)] Let's work in high efficiency.
+[Logistics (end)] Sudden raise of status isn't happening that easily right.
+[Autobattle] Let's take care of this quickly.
+[Title] Girls' Frontline!
+[Starting a combat mission] This minimum amount of preparation is enough. Let's go.
+[Starting a battle] Which tactic should we deploy?
+[Skill activation] I'll provide cover.
+[Heavily damaged] Ugh... a direct counterattack.
+[Retreat] There's no point in staying here any longer, let's withdraw.
+[MVP] We should be able to attain a victory more easily!
+[Restoration] This scratch isn’t a big deal. Treat this a little and there will be no problem.
+[Halloween] My sister, why is she wearing a pumpkin on her head? I totally don't get it.
+[Christmas] I indeed said that a simple present is enough. But if it cannot convey your feelings, then there is no meaning of it.
+[New Year's Day] New Year custom varies for place to place, but they still celebrate the same new year anyway. Should we go and look at custom from faraway place?
+[Valentine's day] My chocolate may look simple. But if you eat it, you'll know what I really meant.
+[Tanabata] In fact, the figure of Orihime that everyone have in mind is different. Perhaps, the God that everyone offers their prayer to is not the same person as well.

@@ -1,0 +1,44 @@
+[Acquisition] Oh? Why if it isn't the Commander. Grizzly MkV, I'll be tagging along from now on.
+[Introduction] L.A.R Grizzly .50, started off as a certain designer's plan, then he sold the copyright to L.A.R, then entered the market...to be able to take a ride out is not bad at all. Design wise, mostly referenced 1911, some parts are even interchangeable. but, thanks to the increased caliber, firepower is more impressive than ever.
+[Secretary] You can't just sit all day, Commander. Fancy a drive with me?
+[Secretary (post OATH)] Wanna drive me home after work, Commander? Your driving sure did impress me last time. Show me more tonight.
+[OATH] Oh? Do you want something from me, Commander? Huh? Are you kidding?! I think of you as a friend, but you...you wanna...Not that I hate it, but at least give me...some time to prepare...
+[Greeting] We meet again, Commander. What's with that long face? It hasn't been too long since the last time we meet.
+[T-Doll Produced] Looks like the new member is ready.
+[Joining an echelon] Roger. I'll look forward to the new challenge.
+[Enhancement] Oh? Ain't this cool. Thank you!
+[Dummy-linking] My power has increased.
+[Logistics (start)] Going out again? Okay.
+[Logistics (end)] We've returned.
+[Autobattle] Rest assured, Commander.
+[Title] Girls' Frontline!
+[Starting a combat mission] We're heading out.
+[Starting a battle] Enemy spotted, commencing operation!
+[Skill activation] Target identified, fire!
+[Heavily damaged] Tch, it won't be interesting without this!
+[Retreat] The situation is dire. Commander, let's withdraw.
+[MVP] Everyone, good work! You worked hard too, Commander!
+[Restoration] You're exaggerating...
+[Halloween] What's the plan tonight, Commander? ...Oh? Whose apple cider is this? I'm helping myself!
+[Christmas] Merry Christmas, Commander! On a day like this, let's play outside!
+[New Year's Day] Happy New Year! You've become cooler compared to back then, Commander!
+[Valentine's day] For today's present... M1911... do you got any good idea? Ugh... I'll think about it myself this time.
+[Tanabata] This year's wish? I want this peaceful day to continue, and be more exciting days than ever.
+[Acquisition] Oh? Why if it isn't the Commander. Grizzly MkV, I'll be tagging along from now on.
+[Introduction] L.A.R Grizzly .50, started off as a certain designer's plan, then he sold the copyright to L.A.R, then entered the market...to be able to take a ride out is not bad at all. Design wise, mostly referenced 1911, some parts are even interchangeable. but, thanks to the increased caliber, firepower is more impressive than ever.
+[Secretary (post OATH)] Seems like human children is holding onto teddy bear while they're asleep... Commander, do you want to do the same?
+[OATH] Oh? Do you want something from me, Commander? Huh? Are you kidding?! I think of you as a friend, but you...you wanna...Not that I hate it, but at least give me...some time to prepare...
+[Greeting] We meet again, Commander. What's with that long face? It hasn't been too long since the last time we meet.
+[T-Doll Produced] Looks like the new member is ready.
+[Joining an echelon] Roger. I'll look forward to the new challenge.
+[Enhancement] Ooh! Ain't this cool. Thank you!
+[Dummy-linking] My power has increased.
+[Logistics (start)] Going out again? Okay.
+[Logistics (end)] We've returned.
+[Autobattle] Rest assured, Commander.
+[Title] Girls' Frontline!
+[Starting a combat mission] We're heading out!
+[Starting a battle] Enemy spotted, commencing operation!
+[Retreat] The situation is dire. Commander, let's withdraw.
+[MVP] Everyone, good work! You worked hard too, Commander!
+[Restoration] You're exaggerating...

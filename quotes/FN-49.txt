@@ -1,0 +1,50 @@
+[Acquisition] P-p-p-p-pleased to to meet you...
+[Introduction] FN-49... Initial design stages were complete long ago, but the war started before production began, not wanting to work for the enemy, the designer escaped the country with the design schematics. My production finally began and received marketing chance after the war. For the sake of meeting everyone's expectation, I will do my best Commander!
+[Secretary] Don't touch me in strange places.
+[Secretary (post OATH)] Commander, how did I perform today? Even though there are so little I can do right now, but I will continue the hard work, until you are satisfied!
+[OATH] Eh?! What is this you are giving me! Is this really for me? But, since it's commander's choice, this time I won't let anyone else have it! Please let me stay by your side and grow stronger!
+[Greeting] W-welcome back.
+[T-Doll Produced] Ah, looks like the new girl has been completed.
+[Joining an echelon] Haa... is it my turn already?
+[Enhancement] This can do, I think.
+[Dummy-linking] An a-additional member? Will they be useful?
+[Logistics (start)] Then, I'll be going.
+[Logistics (end)] I've returned. There is plenty of loot this time.
+[Title] Girls' Frontline!
+[Starting a combat mission] I-I'm so nervous...　I think I'm about to collapse...
+[Starting a battle] I-if you come any closer, I'll shoot!
+[Skill activation] Alright, shoot!
+[Heavily damaged] P-please stop...
+[Retreat] My stupid, foolish...
+[MVP] S-sorry for winning. My apologies.
+[Restoration] Uuh, I'm getting bullied again. Why it's always me?
+[Halloween] Candies... For me? Thank you very much...
+[Christmas] M-M-M-M-M-Merry Christmas, Commander. The cake... it's delicious.
+[New Year's Day] Umm... Happy New Year!
+[Valentine's day] P-please take my chocolate...
+[Tanabata] T-the festival here is different from the countryside. T-there are a lot of people... It's exciting.
+[Acquisition] Commander, the current me... how do I look? As expected, this is a little embarrassing.
+[Introduction] FN-49... Initial design stages were complete long ago, but the war started before production began, not wanting to work for the enemy, the designer escaped the country with the design schematics. My production finally began and received marketing chance after the war. For the sake of meeting everyone's expectation, I will do my best Commander!
+[Secretary] Hmmm? What is it?
+[Secretary (post OATH)] Commander, how did I perform today? Even though there are so little I can do right now, but I will continue the hard work, until
+[OATH] Eh?! What is this you are giving me! Is this really for me? But, since it's commander's choice, this time I won't let anyone else have it! Please let me stay by your side and grow stronger!
+[Greeting] Good afternoon. I'll be under your care again today.
+[T-Doll Produced] Is it the new comrade? Let's get along.
+[Joining an echelon] Eh... me too? Roger that.
+[Enhancement] I'm getting stronger!
+[Dummy-linking] A-additional member? Are they useful?
+[Logistics (start)] Then, I'll be going.
+[Logistics (end)] I've returned. There is plenty of loot this time.
+[Autobattle] Be sure to remember about me.
+[Title] Girls' Frontline!
+[Starting a combat mission] Eh, I'm the leader? Everyone, please wait for me!
+[Skill activation] I'm not frightened anymore!
+[Heavily damaged] Uwaaa... I thought this team will make it through!
+[Retreat] Uuu... next time, definitely...
+[MVP] Eh, we won? Thank you. It's thanks to everyone!
+[Restoration] Uuh, I'm getting bullied again. Why it's always me?
+[Halloween] During a scary festival like this, let's give chocolate from home. Would be better if they don't scare me when I open the door.
+[Christmas] Merry Christmas. Commander. Me? I make some french fries here. This is my specialty.
+[New Year's Day] Happy New Year, Commander. Aah, that's it. If we meet small animals, let's greet them later.
+[Valentine's day] When it comes to valentine chocolate, I got some confidence. Would you eat my special chocolate?
+[Tanabata] My wish you ask? What should I wish for? I want to getting along even more with everyone... perhaps?

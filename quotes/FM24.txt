@@ -1,0 +1,20 @@
+[Acquisition] Greetings, Honored Boss. Here's my business card. Perhaps you'd be interested in partnering up with a soon-to-be business empire?
+[Secretary] Don't panic, this axe is specially for dealing with those in the base with questionable business reputations...if you've also got scammed by PX4, remember to notify me immediately, Boss.
+[Secretary (post OATH)] Chatting, strolling, and drinking tea together...were these also part of our contract for a permanent business partnership? Haha, you've misunderstood. I'm not objecting to them, but rather that I am willing to be by your side, even without a contract's obligations.
+[OATH] You do realize that this contract means much more than a simple "permanent business partnership", right? Truth be told, I haven't trusted a human in a long time, not since I went bankrupt...you are the sole exception. I hope that you'll never betray my trust- remember, "never".
+[Greeting] Welcome to the Griffin command room.
+[Joining an echelon] Honored guests, please follow me.
+[Enhancement] Didn't take long for you to notice my extraordinary value, huh?
+[Dummy-linking] Heh, another contender for the title of "gold salesperson".
+[Logistics (start)] I'll monitor the latest market trends with you.
+[Logistics (end)] These samples are fascinating. I'll report back to you personally later.
+[Autobattle] A contract renewal just like before? Gotcha, I'll take care of it.
+[Title] Girls' Frontline!
+[Starting a combat mission] Expanding Griffin's business scope? A wise decision.
+[Starting a battle] Looks like the bad guys are eyeing our assets.
+[Skill activation] Target, locked.
+[Heavily damaged] You dirty bastard, I'll remember you!
+[Retreat] It's a small loss, but we'll have to cover it nonetheless....
+[MVP] I have a feeling the Boss will be very pleased.
+[Restoration] Sorry for the hassle...
+[Loading] Are you putting together a business blueprint for the future?

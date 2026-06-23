@@ -1,0 +1,26 @@
+[Acquisition] So... You are that officer they rumoured. This is CZ75, hope you have something to keep me busy with.
+[Introduction] ditto
+[Secretary] Sir, how are you doing financially lately?... Ahh, nevermind, I'd better leave it alone.
+[Secretary (post OATH)] It was such an occasion that you weren't late for our date last time? I can consider rewarding you~
+[OATH] Huh? Commander, this order is...I got it.. I have been waiting for this order for a long time.. So you need to stay with me to make up for the time lost.
+[Greeting] Tch, you're finally here. I was getting sick of waiting!
+[T-Doll Produced] New girl? Keep following the rule okay.
+[Joining an echelon] Move aside! That's my seat.
+[Enhancement] Not bad! I want more!
+[Dummy-linking] Hehe, I'm so strong, nobody can afford it!
+[Logistics (start)] Let's go. We'll see what the outside looks like.
+[Logistics (end)] We've returned! Do you still want something else?
+[Autobattle] Just leave it to me later!
+[Title] Girls' Frontline!
+[Starting a combat mission] Stop dawdling around! We're heading out!
+[Starting a battle] Good job for coming here!
+[Skill activation] You're slow!
+[Heavily damaged] Hmph! Not so bad!
+[Retreat] Tch, I'll remember this. Don't think this is the end!
+[MVP] Good job! With this nobody will dare to meddle with me!
+[Restoration] Tch, this is not a big deal....
+[Halloween] Wha... this disguise is just disgusting. Try touching it, Commander.
+[Christmas] Look at this! I took Santa's beard! Ahahaha, I really did it!
+[New Year's Day] Commander, Happy New Year! Even for new year, don't you think you're wearing too many clothes? How weak you are.
+[Valentine's day] Commander, you haven't eaten chocolate on top of that table yet? Geez, you're making me impatient.
+[Tanabata] My wish? Then, accompany me for tonight! Will you be holding a party?

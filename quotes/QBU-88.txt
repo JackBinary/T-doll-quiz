@@ -1,0 +1,30 @@
+[Acquisition] Hello, Commander. QBU-88 sniper rifle, reporting! …Why is it so messy here? Don't worry, I'll help you clean up.
+[Secretary] Ah, that new seat cover? I embroidered it myself. Beautiful, isn't it? Let me know if you want me to make you anything, Commander!
+[Secretary (post OATH)] Commander, Commander? You'll catch a cold if you sleep at your desk. Ah…it's a mess here. Go to your room. I'll clean up here for you.
+[OATH] Commander, are you really sure about choosing me? You're taking advantage of me, aren't you... I am in fact a good homemaker…and I'm not bragging. You got a good deal out of choosing me, Commander. I-In any case, I'll be with you from now on, so don't regret it!
+[Greeting] Hello, Commander! I've tidied up your office.
+[T-Doll Produced] Oh, we've got a new arrival. Are they efficient workers?
+[Joining an echelon] Nobody in this echelon is clumsy, are they?
+[Enhancement] My body feels like it's full of energy... Which shops are offering discounts? I can go for ten more!
+[Dummy-linking] Now I'll be able to work more efficiently!
+[Logistics (start)] Hurry up or we'll not make it to the limited-time sale at the mall!
+[Logistics (end)] The loot's all here, Commander. I have something else to do so I'll make a move first!
+[Autobattle] I'm leading the team this time so there's no need to worry, Commander!
+[Title] Girls' Frontline!
+[Starting a combat mission] Commander, I'm heading out! Leave the others to me, I'll take good care of them.
+[Starting a battle] Hurry hurry hurry, switch your formation! Don't drag your feet!
+[Skill activation] Relax, it'll be over soon.
+[Heavily damaged] Tsk... I got careless...
+[Retreat] Dammit...have we lost...? Take everything you can. Don't let them profit at our expense!
+[MVP] The outcome was as I expected... Oh yes, don't forget to bag up the trophies!
+[Restoration] I only got hurt because I was busy warning the others...
+[Attack] Fire at will! Don't stinge on ammo now!
+[Halloween] What's the deal about this festival anyway? There are no discounts... Huh? There's free candy? C-count me in!
+[Christmas] I heard that the local markets have sales whenever Christmas comes around! Commander, you need to give me today off... What!? The sales ended yesterday!?
+[New Year's Day] The preparations for the new year celebrations were only just finished last night. Honestly... If I'd known they were so slow, I would have asked you to let me handle it instead.
+[Valentine's day] Although I always prioritize value for money when I go shopping, you can't be too stingy on a day like this. Commander, you feel the same way, don't you?
+[Tanabata] How about embroidering a couple of magpies on my scarf to commemorate this day?
+[Defense] Hey! Heeey! You, that Doll over there! Yes, you! Quickly, get behind cover!
+[Phrase] This looks pretty good...
+[Tip] Follow me!
+[Loading] Commander, if we don't hurry we'll miss the sale!

@@ -1,0 +1,31 @@
+[Acquisition] Commander, thank you so much for taking me in! If you suffer from sleep-related problems such as insomnia or night terrors, please allow me to help you resolve them.
+[Introduction] Commander, thank you so much for taking me in! If you suffer from sleep-related problems such as insomnia or night terrors, please allow me to help you resolve them.
+[Secretary] Relax, block out all stray thoughts, and focus on your own breathing. Inhale... exhale... Very good, just like that.
+[Secretary (post OATH)] Commander, you've been falling into deep sleep the moment your head touches the pillow lately. Have you been working too hard? Please take care. I'm always happy to help.
+[OATH] I've been wandering from place to place for so long, but only when I'm by your side do I feel this unprecedented sense of peace. It feels like a sweet dream that will make me smile when I finally wake up... No, I hope I'll never wake from such a lovely dream.
+[Greeting] How did you sleep last night?
+[T-Doll Produced] Did inspiration strike in my dreams?
+[Joining an echelon] Everyone seems well-rested!
+[Enhancement] I've formulated some new calming scented oils that are even more potent. Would you like to give them a try?
+[Dummy-linking] Has all the sleep addled my neural cloud? Why is there another me...?
+[Logistics (start)] I have to go on a trip? If only I could bring along my soft mattress at the dorm.
+[Logistics (end)] Hm, a warm and comfy room is the best place to chill and rest.
+[Autobattle] It makes me happy to help you with more things.
+[Title] Girls' Frontline
+[Starting a combat mission] I don't have much combat experience, but I'll do my best!
+[Starting a battle] D-don't come any closer!
+[Skill activation] I wish you terrible sleep!
+[Heavily damaged] I... still have a lot of things that I want to do...
+[Retreat] Once I'm all rested up, I won't fail again, I swear!
+[MVP] Yay! Now I can go home and chill!
+[Restoration] Just get some sleep. Everything will get better.
+[Attack] Can I even land a hit...?
+[Halloween] It doesn't feel very nice to be scared, does it? How about some calming music instead? Or a cup of warm milk?
+[Christmas] I hope Santa will give me some cedarwood-scented oil... Ack, don't eavesdrop on my wish, Commander.
+[New Year's Day] Staying up for the countdown will disrupt your rest, Commander. Please take care of your health.
+[Valentine's day] Commander, I've prepared some rose-scented oil. I hope it will cheer you up.
+[Tanabata] Commander, can we go back to the base? It is very romantic to watch the fireflies fly across the night sky and listen to mythical love stories, but there are so many mosquitoes!!!!
+[Defense] Danger! Hide!
+[Phrase] Something wrong with your sleeping habits? A top-notch sleep therapist, at your service.
+[Tip] If nobody has any sleep-related problems, what should I be doing? Will I still be needed...?
+[Loading] Let's take this brief moment of down time to meditate for a few minutes.

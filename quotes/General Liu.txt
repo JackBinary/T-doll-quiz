@@ -1,0 +1,30 @@
+[Acquisition] Hello, Commander, I'm the General Liu Self-Loading Rifle... Er, that's it for now. Sorry about that.
+[Secretary] C-Commander? I'm sorry, did I get in your way? Huh? "That's not what I meant"... What could that mean? Um, I'm terribly sorry about this!
+[Secretary (post OATH)] Commander, please let me know if there's something you'd like to eat. I've been learning how to cook recently, so maybe I might get a chance to practice... Hm? Anything will do?
+[OATH] I honestly didn't think I'd be able to come this far... Ah, that's not what I mean, I'm saying that I'm very happy! Although I'm not too good with words most of the time, I have always viewed you as a role model. Commander, it is an honor for me to take the next step as your companion!
+[Greeting] Hello, Commander... Should I begin patrolling the campgrounds now?
+[T-Doll Produced] Commander, we have a new arrival, want to go take a look?
+[Joining an echelon] E-excuse me, please make room...
+[Enhancement] I'm sorry, I'm not really feeling the effect of being "enhanced", but I'm very grateful for your kindness, Commander.
+[Dummy-linking] Commander... May I touch them?
+[Logistics (start)] Are these preparations alright? Then can we move out now?
+[Logistics (end)] Commander, are these results okay?
+[Autobattle] You'll let me decide? Th-then we'll go with this...
+[Title] Girls' Frontline!
+[Starting a combat mission] Since the Commander gave the order, then we have to win no matter what!
+[Starting a battle] The enemy is here, should we open fire now?
+[Skill activation] Come on!
+[Heavily damaged] H-how could this be?
+[Retreat] Oh no, oh no... No, I mustn't panic, I need to rally the team!
+[MVP] Did...did we win?
+[Restoration] Sorry to bother you...
+[Attack] Orders have come down from on top! This must be a good chance, now charge!
+[Halloween] Spirits and ghosts are all pretty scary, I think I'll pass... Just save me some candy.
+[Christmas] You want to know if there's something special I want? Hm, maybe a few extra bodies would be nice... I was just thinking out loud, you don't need to take it to heart.
+[New Year's Day] Happy New Year, Commander... I-I'm sorry, I can't think of anything auspicious to say...
+[Valentine's day] I'm sorry, but I don't really understand love or things like that... But these sweets taste really good. We should buy more.
+[Tanabata] I heard Hikoboshi and Orihime became stars in the sky, but I don't know which ones they are. If you're free later, could you take me to go see them?
+[Defense] Er, the enemy's really good. Everyone, be careful!
+[Phrase] Pardon me.
+[Tip] Commander, um...
+[Loading] I-I'm sorry! I'll come over right away!

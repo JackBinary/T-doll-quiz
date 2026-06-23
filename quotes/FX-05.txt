@@ -1,0 +1,29 @@
+[Acquisition] I am Xiuhcoatl, and I'm looking forward to receiving orders from the Griffin and Kryuger PMC! Now then, what's my first order?
+[Secretary] I write down many things in my notebook. That way I won't forget them. However, there's no time to read books on the battlefield, which is quite vexing...
+[Secretary (post OATH)] Honestly! There's got to be a limit to how kindhearted you are! Granted, it's a good thing, but I get bothered when you keep looking at other people! At the very least you should take me along to help out.
+[OATH] I don't think I've forgotten anything, right? My memory's been pretty good recently... An oath? With you? How wonderful! Of course I'd be willing to make an oath with someone like yourself!
+[Greeting] Ah, Commander! Welcome!
+[T-Doll Produced] Awesome! Is this a new friend or a familiar face?
+[Joining an echelon] Let's work together, everyone~
+[Enhancement] Very good, very good~ Is there more?
+[Dummy-linking] How lively, let's play a piece together~
+[Logistics (start)] Alright, I've finished making the list. See you later~
+[Logistics (end)] I've brought these things back, hopefully they'll come in useful.
+[Autobattle] Leave it to me, I've memorized it.
+[Title] Girls' Frontline!
+[Starting a combat mission] Move out! Where's the target?
+[Starting a battle] I don't think we were asked to leave anyone alive, right?
+[Skill activation] Everyone, charge!
+[Heavily damaged] Looks like all I can to is cheer you guys on...
+[Retreat] My notebook doesn't say anything about an operation like this...
+[MVP] What a wonderful battle! Commander, want to hear me sing a song?
+[Restoration] Is everyone alright? Does it hurt? I'm alright.
+[Attack] Nobody said anything about retreat! Fight!
+[Halloween] I know where all these monsters come from, don't you have a new challenge for me?
+[Christmas] Today's weather is lovely, but I still have a few friends who haven't received gifts yet. Now who did I just give presents to...
+[New Year's Day] This is a day for singing, listening to songs, and visiting friends! Commander, where are we going first?
+[Valentine's day] There ought to be lots of chocolates on the day commemorating St. Valentine... Commander, did you see the chocolate recipe that I left here just now?
+[Defense] They told us to defend...right?
+[Phrase] Oh dear!
+[Tip] I think writing these down should be helpful...
+[Loading] Wait a minute, Commander, now where are the instructions for opening the door...

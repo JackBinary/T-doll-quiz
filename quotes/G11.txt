@@ -1,0 +1,57 @@
+[Acquisition] G11... Commander, you got a bed around here?
+[Introduction] Ohh... Self introduction? What a hassle... I'm G11, one of those caseless ammo rifles. A technology many country failed to achieve, in the end a three way conglomerate managed it and used in my development. Many years were spent on the work, but due to a set of events I wasn't even needed to be in service in the end. How are the humans not tired from all that...
+[Secretary] Commander, what did you say?
+[Secretary (post OATH)] Ah...Commander where's the body pillow that I wanted? ...You don't have it? ...Then, are you busy right now?
+[OATH] Commander, what did you wake me up so late for? Eh? Could this be...that so-called..."confession"? Seeing that wholehearted expression on your face, I wouldn't be able to sleep properly if I don't accept your feelings. Alright...just this once.
+[Greeting] Commander, today's not too busy, right? Can I go nap for a bit...
+[T-Doll Produced] A quiet gal would be nice...
+[Joining an echelon] Can I not go?
+[Enhancement] Thank you, this should be enough, I think...
+[Dummy-linking] Wow~ Does this mean I can slack off now?
+[Logistics (start)] Ehhh? But I don't wanna go outside...
+[Logistics (end)] I'm back... Can I eat yet?
+[Autobattle] I'll make a miracle!
+[Title] Girls' Frontline!
+[Starting a combat mission] Mm... Let's go then, do your best~
+[Starting a battle] Did you wait long?
+[Skill activation] You're too noisy.
+[Heavily damaged] You're so damn annoying, just die already!
+[Retreat] Is it no good? Then let's head home...
+[MVP] Mission complete. (Yawns) Can I get some rest now...
+[Restoration] I'll just take a nap and it'll all be over soon.
+[Attack] Let's go.
+[Halloween] I would maybe join for a bit if we could get some candy.. Eh? Under a condition? Nevermind..
+[Christmas] Merry Christmas. Is dinner ready?
+[New Year's Day] Today is holiday, for the first time in a long while. Can I go sleep?
+[Valentine's day] Commander, It's the holiday. I need rest... are you treating me dinner?  That would be good really nice~
+[Tanabata] Makin' wish at the night sky? Well, doesn't matter for me. have a good night~
+[Defense] Stop here.
+[Phrase] Aa... sleepy...
+[Tip] Please know this.
+[Loading] Mm, let me sleep a little longer~
+[Acquisition] Commander, is there anything you need help with?   No, I don't have a fever! Really... Well, if there's nothing, I'll go take a nap...
+[Secretary] I wonder if I forgot anything? Let me try to remember... Hm... Uh... Zzzzz...
+[Secretary (post OATH)] 416 didn't ask me about the past ever since that incident... And I never brought it up with her... Perhaps it's because we have a tacit understanding. I like my current life very much, and no matter how things were like in the past, I'm really enjoying my days here... So Commander... I'm counting on you...to be my body pillow.
+[OATH] Commander, what did you wake me up so late for? Eh? Could this be...that so-called "confession"? Seeing that wholehearted expression on your face, I wouldn't be able to sleep properly if I don't accept your feelings. Alright...just this once.
+[Greeting] Commander, I helped tidy up your desk, so can I go get some sleep before you assign me something else to do?
+[T-Doll Produced] I hope she'll be a quiet girl... I mean, noisy people aren't very popular, right?
+[Joining an echelon] So I need to plug in again, huh... Ow! Okay! Let's go!
+[Enhancement] Do you STILL need to enhance me? If I end up like before... 416 is going to get mad.
+[Dummy-linking] Wow~ Does this mean I can slack off now?
+[Logistics (start)] Ehhh? But I don't wanna go outside...
+[Logistics (end)] I'm back... Can I eat yet?
+[Autobattle] I'll make a miracle!
+[Title] Girls' Frontline!
+[Starting a combat mission] Alright! Let's go! I'm at my strongest right now!
+[Starting a battle] My remaining battery is... Oh no! We need to get this done quickly!
+[Skill activation] Look at my eyes.
+[Heavily damaged] It's all because this box slowed me down...
+[Retreat] I'm out of battery for today...
+[MVP] Thank goodness, I made it in time... Let me sleep a little...
+[Restoration] I'll just take a nap and it'll all be over soon.
+[Attack] Charge!
+[Defense] Fall back, fall back!
+[Phrase] (Yawns) So sleepy...
+[Tip] Here... Read up on this.
+[Loading] Mm, let me sleep a little longer~
+[Title] Girls' Frontline!

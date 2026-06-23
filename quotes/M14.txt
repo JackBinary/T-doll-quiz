@@ -1,0 +1,51 @@
+[Acquisition] Commander, I will not let you down!
+[Introduction] Developed and improved on Miss M1 Garand design, it's me, M14 rifle! With selective fire capability, we can be used as a semi-automatic or fully-automatic weapon~ After succeeding Miss Garand, I was also replaced by the M16... But my spiritual successor, the M21 , soon returned to the battlefield! The Wheel of Time sure keeps turning! Hehe...
+[Secretary] You... touched me just now, didn't you! You totally did!
+[Secretary (post OATH)] Commander, Commander! Wanna hear a joke? It's a bit embarrassing, but... you're used to it, right? Heheh...
+[OATH] This day is finally here, Commander. I've always wondered when you would notice me... This is the happiest of my entire life!
+[Greeting] Feeling good, commander? I've been waiting for you.
+[T-Doll Produced] Construction is finished.
+[Joining an echelon] M14 here, I'll do my best.
+[Enhancement] Somehow, I'm feeling warmer.
+[Dummy-linking] O--kay! From this everyone will become even stronger.
+[Logistics (start)] Understood, commander.  Please wait for good news.
+[Logistics (end)] I just got back, commander.
+[Autobattle] Please leave it to M14 to backup everyone.
+[Title] Girls' Frontline!
+[Starting a combat mission] Finally it's time to sortie, I was tired of waiting.
+[Starting a battle] It's the enemy, be careful.
+[Skill activation] Aiming... attack!
+[Retreat] Kuu... Kuu... next time, I will definitely...
+[MVP] Commander, do you hear that? The victory bell is ringing.
+[Restoration] Oh, I can take a quiet break now, fufu~
+[Halloween] I'm going to cause some trouble! Hey! Hey! ...There'll be no trouble if you give me the candy early~
+[Christmas] Merry Christmas! Santa Claus is coming, right? Right?
+[New Year's Day] Com-man-der~! Happy New Year!
+[Valentine's day] The chocolates are all mine! None for you, Commander!
+[Tanabata] Orihime and Hikoboshi... how romantic! I'm gonna cry!
+[Acquisition] Commander, don't you think we've become a little more mature? Right now, we feel like we can do anything~
+[Introduction] Developed and improved on Miss M1 Garand design, it's me, M14 rifle! With selective fire capability, we can be used as a semi-automatic or fully-automatic weapon~ After succeeding Miss Garand, I was also replaced by the M16... But my spiritual successor, the M21 , soon returned to the battlefield! The Wheel of Time sure keeps turning! Hehe...
+[Secretary] Commander, we went on many exciting adventures again. Would you like to hear about them?
+[Secretary (post OATH)] So sleepy... You should let us have a little more sleep, Commander! The logistic operations are so exhausting... Yes, yes, that's a present for you... Hey! Wait! You can't open it now! Give that back to us!
+[OATH] This day is finally here, Commander. I've always wondered when you would notice me... This is the happiest of my entire life!
+[Greeting] Good morning. I've been waiting.
+[T-Doll Produced] Let me see the new kid!
+[Joining an echelon] Hmm, I want to try out a new formation sometime.
+[Enhancement] Ehehe, I've gotten stronger again! Thank you!
+[Dummy-linking] O--kay! From this everyone will become even stronger.
+[Logistics (start)] Understood, commander.  Please wait for good news.
+[Logistics (end)] I just got back, commander.
+[Autobattle] Please leave it to M14 to backup everyone.
+[Title] Girls' Frontline!
+[Starting a combat mission] It's time to sortie. Here I go!
+[Starting a battle] I'll never lose!
+[Skill activation] Well then, time to show you what I've prepared!
+[Heavily damaged] Oops, how much longer do we have?
+[Retreat] Looks like I don't have a choice...but next time, I won't lose!
+[MVP] Heh! This is the power of M14! The day that my victory will be recognized is sure to come!
+[Restoration] Oh, I can take a quiet break now, fufu~
+[Halloween] I'm going to cause some trouble! Hey! Hey! ...There'll be no trouble if you give me the candy early~
+[Christmas] Merry Christmas! Commander, Santa surely will come right ? Right ?
+[New Year's Day] Com-man-der~! Happy New Year!
+[Valentine's day] The chocolates are all mine! None for you, Commander!
+[Tanabata] Orihime and Hikoboshi... how romantic! I'm gonna cry!

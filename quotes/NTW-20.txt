@@ -1,0 +1,31 @@
+[Acquisition] Commander, I'm the anti-materiel rifle NTW-20. Fortified steel wall or not, I will show you I can pierce through it all.
+[Secretary] Could you not stand behind me?
+[Secretary (post OATH)] Commander, let's go hunting again on our next vacation! Don't worry, I'll give you a head start, hehe!
+[OATH] I've always obtained my strength from you ever since the beginning, and I've always kept that thought close to my heart. Now, I've finally found a chance to repay you. Thank you, Commander.
+[Greeting] Are you back at last? I've been waiting a long time for you, Commander.
+[T-Doll Produced] It seems that a new girl has been completed. Is she a sniper like me?
+[Joining an echelon] It's finally the sniper's turn huh.
+[Enhancement] My firing range is extended further, many thanks.
+[Dummy-linking] Expansion complete, am I going to become too strong?
+[Logistics (start)] The action's started? Leave it to me.
+[Logistics (end)] Mission complete. Wasn't that too easy?
+[Autobattle] If it's cover fire, just leave it all to me.
+[Title] Girls' Frontline!
+[Starting a combat mission] A sortie isn't it, roger!
+[Starting a battle] Destroy the enemies, commencing attack.
+[Skill activation] Taking aim... fire!
+[Heavily damaged] Gaah...! I'm...
+[Retreat] Sorry, I'm withdrawing.
+[MVP] Well, let's go home. Mission clear!
+[Restoration] There are times when even I'm like this, huh? Sorry, I'll leave it to you.
+[Halloween] Speaking of Halloween, there's a costume party. Are you going participate? I'll look forward to it.
+[Christmas] Will it snow on Christmas? I've never seen snow before...so I really look forward to it.
+[New Year's Day] Commander, I'll be counting on you again this year.
+[Valentine's day] Do you dislike heart-shaped chocolate?
+[Tanabata] Sniping is my specialty. Commander, is there anything you want? I'll get it for you, no matter what it is.
+[Title] Girls' Frontline!
+[Halloween] Speaking of Halloween, there's a costume party. Are you going participate? I'll look forward to it.
+[Christmas] Will it snow on Christmas? I've never seen snow before...so I really look forward to it.
+[New Year's Day] Commander, I'll be counting on you again this year.
+[Valentine's day] Do you dislike heart-shaped chocolate?
+[Tanabata] Sniping is my specialty. Commander, is there anything you want? I'll get it for you, no matter what it is.

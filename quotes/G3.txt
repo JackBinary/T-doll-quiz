@@ -1,0 +1,52 @@
+[Acquisition] Greetings Commander, from now on please address me as G3.
+[Introduction] G3 auto rifle, one of the early prototype weapon systems during the war. After the war, the designer went to many countries and eventually I have the chance to show myself. After exporting to many countries with many positive feed backs, I've also gained many different variants, something I can be proud of myself about...
+[Secretary] I guess you can say I have no self-confidence... In any case, I don't know how to explain it...
+[Secretary (post OATH)] Commander, is there anything else that I can do for you? I can't repay your trust and kindness with how little I'm doing for you...
+[OATH] Commander, will you accept me regardless of how I look?Is that so...? Then please let me stay by your side and grow from your guidance.
+[Greeting] Welcome back, commander.
+[T-Doll Produced] Is it a new comrade? Nice to meet you, I'm looking forward to working together.
+[Joining an echelon] The preparation for sortie is completed. I'll ready anytime.
+[Enhancement] This will be enough.
+[Dummy-linking] Dummy linking? Is there more additional stuff?
+[Logistics (start)] Everyone, let's depart.
+[Logistics (end)] Yes, everyone has come back safely.
+[Autobattle] Can I help everyone this time? I'm glad...
+[Title] Girls' Frontline!
+[Starting a combat mission] Well then, let's head out for war!
+[Starting a battle] Enemy troops position confirmed.
+[Skill activation] Ready, fire!
+[Heavily damaged] I can... still fight
+[Retreat] W-why?
+[MVP] This is my long-awaited victory. Commander, thank you very much.
+[Restoration] You're increasing the number of personnel? Umm, what about making a few more modifications?
+[Halloween] Pranks and candies... If it's you, which do you prefer, commander?
+[Christmas] I'm decorating the christmas tree, you want to help as well?
+[New Year's Day] Commander, Happy New Year.
+[Valentine's day] Here, your valentine chocolate.
+[Tanabata] I'll hang your tanzaku, commander.
+[Acquisition] Commander, I've been renewed. Please call me with the name I use until now.
+[Introduction] G3 auto rifle, one of the early prototype weapon systems during the war. After the war, the designer went to many countries and eventually I have the chance to show myself. After exporting to many countries with many positive feed backs, I've also gained many different variants, something I can be proud of myself about...
+[Secretary] Commander, what do you want me to do?
+[Secretary (post OATH)] Commander, what can I do for you? I still can't repay you back.
+[OATH] Commander, you would accept me regardless of how I look? Very well...please let me stay at your side. I'll listen to your lessons and continue improving.
+[Greeting] Good morning, Commander. I will help you work today.
+[T-Doll Produced] Is it the new comrade? Nice to meet you, we will work together.
+[Joining an echelon] Orders confirmed, in short order, I'll be sure to see it through to the end.
+[Enhancement] The new modification is nice. I've taken a liking to it.
+[Dummy-linking] Dummy linking? Is there more additional stuff?
+[Logistics (start)] Everyone, let's depart.
+[Logistics (end)] Yes, everyone has come back safely.
+[Autobattle] Can I help everyone this time? I'm glad...
+[Title] Girls' Frontline!
+[Starting a combat mission] Mission start, Everyone, let's work together.
+[Starting a battle] It's the enemy. Intercept immediately.
+[Skill activation] I'll support my comrade.
+[Heavily damaged] To be defeated here...
+[Retreat] Is this how far I can go? I still want to fight for everyone .
+[MVP] Everyone, how about this result? I'm glad.
+[Restoration] You're increasing the number of personnel? Umm, what about making a few more modifications?
+[Halloween] Halloween is a good time for storytelling. It's a war story though, do you want to hear it?
+[Christmas] Merry Christmas, commander. Let's call everyone and exchange presents.
+[New Year's Day] Happy New Year, commander. In the new year I want to grow together with everyone. Please take care of me.
+[Valentine's day] For today's valentine... I didn't know how to convey my feelings, so I made this card. Will you please accept it?
+[Tanabata] How do you want to celebrate Tanabata? Eh? By having a dinner... with me?

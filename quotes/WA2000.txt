@@ -1,0 +1,29 @@
+[Acquisition] My name is WA2000. Commander, stand aside and don't get in my way. (JP)My name is WA2000. Commander, I won't let you off if you get in my way!
+[Introduction] WA2000 sniper rifle here. Pay attention, I’m not some hunting-rifle-modified-sniper-rifle, I'm designed exclusively for sniper. Aiming for the apex of sniping art, I had highest fire accuracy at that time, which resulted in high manufacturing cost… Of course, I was born to be elite!
+[Secretary] (CN)Idiot... If I really hated you, then I wouldn't be speaking to you. (JP)Idiot... If I really hated you, then I wouldn't be listening to you.
+[Secretary (post OATH)] What else needs to be done? Having valuable me busying all day, shouldn’t you repay me well after work?
+[OATH] I'm a tool created solely for the purpose of killing, and I've never thought about anything else besides that. Commander, are you sure you want me by your side? Hmm...with this, maybe I can become more perfect(CN)/more honest(JP)...
+[Greeting] Hey, where did you go!? Do you really dislike seeing my face that much!?
+[T-Doll Produced] Hmm? There's a face I don't recognize. A newcomer?
+[Joining an echelon] I'd sortie even if you didn't tell me to. You should be thankful.
+[Enhancement] I, of all people, am giving you my gratitude. So you better accept it from the bottom of your heart.
+[Dummy-linking] Squad reinforcement? Well, I guess one more wouldn't hurt.
+[Logistics (start)] Hmph, fine then, I'll do it.
+[Logistics (end)] We came back safe. Wasn't it natural?
+[Autobattle] I shall slaughter the enemies here!
+[Title] Girls' Frontline!
+[Starting a combat mission] Hmm? A sortie? Well, that's fine.
+[Starting a battle] I think I was reminded of an irritating face...
+[Skill activation] Get out of the way!
+[Heavily damaged] Idiot, I don't want you to be worried over me...
+[Retreat] Um... I'm sorry...
+[MVP] See? You'd better be thankful.
+[Restoration] Tch, even someone honest like me gets looked down on...
+[Attack] Die! Die! Die already!
+[Halloween] Hyiii!! It-it's not like I'm scared! Hyaaahh!! Don't even bring that Jack O' Lantern near me!
+[Christmas] You're free now anyway, it's pitiful seeing you all alone, so I shall accompany you for a bit...
+[New Year's Day] I'll at least give you my New Year's greetings. H-Happy New Years! ...What? Do you have something against that?
+[Valentine's day] I just happen to have some extra chocolate! I won't forgive you if you turn it down!
+[Tanabata] Hey, aren't you free? I'll at least accompany you for Tanabata.
+[Defense] Geez, we just have to defend right?
+[Loading] I wasn't waiting just for your sake!

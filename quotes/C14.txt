@@ -1,0 +1,30 @@
+[Acquisition] Eliminating your targets in silence. C14 "Timberwolf" reporting for duty!
+[Secretary] Oh, I'm so glad you're here, Commander. Can we have a few more Dolls stand over here? I find it kinda hard to concentrate with too few people around.
+[Secretary (post OATH)] Hmm? How does it feel to hold my waist? I'm pretty proud of it, you know.
+[OATH] Ah, Commander, I'm still busy at the moment. Is something the matter? Oh, this... I see, so you want to make me your personal Doll with this? I'm not against it. Come on then. As of today, I am yours, forever.
+[Greeting] You're quite punctual, Commander.
+[T-Doll Produced] If new arrivals are joining us, they have to pass the test.
+[Joining an echelon] Everyone, don't panic, listen to my analysis of the battle plan.
+[Enhancement] Huaah — feels as comfortable as an outdoors breeze blowing by.
+[Dummy-linking] Is this a one-man forest?
+[Logistics (start)] Objective data summary complete, just wait for my good news.
+[Logistics (end)] I'm back, these are the items you wanted, right? Not a single thing is missing.
+[Autobattle] Come, tonight C-14 "Timberwolf joins the hunt.
+[Title] Girls' Frontline!
+[Starting a combat mission] Let's go tear the enemy to shreds!
+[Starting a battle] We mustn't fear the enemy if they are many or underestimate them if they are few.
+[Skill activation] Welcome the fangs of the hunter.
+[Heavily damaged] It can't be helped. Hurry up and retreat.
+[Retreat] This can't be helped either. We'll kill them next time.
+[MVP] Everyone, well done!
+[Restoration] Next time, I'll rip the enemy who hurt me to shreds!
+[Attack] Time to close the net!
+[Halloween] This is my field of expertise! Laying patient ambushes in the night, then catching and eating cute little kiddies one by one... haha, I'm just kidding.
+[Christmas] Merry Christmas~ Do you have a wish, Commander? If it's within my capabilities, I can be your personal Santa just this once.
+[New Year's Day] Many Dolls have come back today. I like this peaceful and lively environment. Commander, have you prepared the red packets for your juniors?
+[Valentine's day] What a shame, I didn't make any chocolate for you, Commander. Things that we eat together should be made together, don't you think?
+[Tanabata] I knew it, I can only focus on making a wish when everyone's together... So what shall I write? I might as well draw a griffin to be a guardian spirit for us.
+[Defense] The trap is set. Come.
+[Phrase] How lively.
+[Tip] This looks interesting.
+[Loading] Coming, coming, I'm running to get the door!

@@ -1,0 +1,69 @@
+[Acquisition] I, Lee-Enfield, will be your subordinate from now on and follow your lead always.
+[Introduction] Lee-Enfield No.4 had been in mass production in early last century and became the standard equipment in our country. I was modified into sniper rifle to continue my service in the coming war. I have lasted the long war history and won supreme glory for my homeland. Commander, please entrust me with your mission.
+[Secretary] As you command…
+[Secretary (post OATH)] Commander, have you finished reading the book I recommend last time? I happen to finish it one more time, so let’s share some insight, shall we?
+[OATH] Thank you for your continued care commander, but am I really a suitable choice? No, I'd be glad to! Please allow me to watch over you from now on, it would be the honour of my life!
+[Greeting] Reporting in! There is no abnormalities!
+[T-Doll Produced] The production of new girl has completed!
+[Joining an echelon] Yes sir!
+[Enhancement] Looks like my firepower has increased.
+[Dummy-linking] Dummy-linking, was it? ...How are the medals distributed?
+[Logistics (start)] We'll depart soon, commander as well, please take care of yourself.
+[Logistics (end)] We've come back, everything is alright. Rest assured.
+[Autobattle] Even as a support, the chance earn glory remains the same!
+[Title] Girls' Frontline!
+[Starting a combat mission] Let's go!
+[Starting a battle] Let's fight fair and square!
+[Skill activation] Ready! Fire!
+[Heavily damaged] Ugh! My uniform... the wound!
+[Retreat] My power...wasn't enough...
+[MVP] What a disappointing victory
+[Restoration] Commander, I'll definitely take back my honour in the next battle!
+[Halloween] I heard it’s masquerade tonight, and I have prepared costume!
+[Christmas] The cake isn't too bad. Merry Christmas!
+[New Year's Day] Happy New Year, commander! Let's continue to complete missions elegantly this year.
+[Valentine's day] Valentine's day isn't a special day! Please focus on our missions!
+[Tanabata] A festival... I'm not looking forward to it! You've got it all wrong!
+[Acquisition] I, Lee-Enfield, will be your subordinate from now on and follow your lead always.
+[Introduction] Lee-Enfield No.4 had been in mass production in early last century and became the standard equipment in our country. I was modified into sniper rifle to continue my service in the coming war. I have lasted the long war history and won supreme glory for my homeland. Commander, please entrust me with your mission.
+[Secretary] Ehh? Why I turned into this... P-please rest assured, Even in this state I still can fight properly! ...Perhaps.
+[Secretary (post OATH)] Commander, it's okay if you eat alone...When we're together...something...well, you know...
+[OATH] Thank you for your continued care commander, but am I really a suitable choice? No, I'd be glad to! Please allow me to watch over you from now on, it would be the honour of my life!
+[Greeting] Reporting in! There is no abnormalities!
+[T-Doll Produced] The production of new girl has completed!
+[Joining an echelon] Yes sir!
+[Enhancement] Looks like my firepower has increased.
+[Logistics (start)] We'll depart soon, commander as well, please take care of yourself.
+[Logistics (end)] We've come back, everything is alright. Rest assured.
+[Title] Girls' Frontline!
+[Starting a combat mission] Let's go!
+[Starting a battle] Let's fight fair and square!
+[Skill activation] Ready! Fire!
+[Heavily damaged] Ugh! My uniform... the wound!
+[MVP] What a disappointing victory
+[Restoration] Commander, I'll definitely take back my honour in the next battle!
+[Acquisition] This is Lee Enfield, reporting for duty. Once again, I pledge my loyalty to you. I will be your arms and legs, and your rifle.
+[Secretary] There is a fire burning in my heart now... It was extinguished for a time, but in this place, I can feel its embers smoldering beneath the ashes of the past because of you, Commander. I won't let it go out again.
+[Secretary (post OATH)] Good evening, Commander, you're just in time. May I interest you in a walk with me through the courtyard? The moon tonight is lovely, and I've made some warming ginger tea... You look very tired, so I think it'll help.
+[OATH] Thank you for taking care of me all this time, but am I really the best choice for you, Commander? No, I'd be delighted to! From now on, please let me protect you all your life! There is no greater honor than this!
+[Greeting] Hello, Commander... Would you like some hot ginger tea?
+[T-Doll Produced] So this is our new recruit—Welcome to Griffin.
+[Joining an echelon] I will stand here, together with my friends.
+[Enhancement] How really kind of you to show such interest in an old Doll like myself, Commander.
+[Dummy-linking] My medals... How should I distribute them?
+[Logistics (start)] I'm heading out. Please take care, Commander.
+[Logistics (end)] I'm back. All went well, so please don't worry.
+[Autobattle] There's a chance to gain glory even when supporting others!
+[Title] Girls' Frontline!
+[Starting a combat mission] Let me finish this cup of tea... Yes, it's about time.
+[Starting a battle] However stupid a person might be, there is always a bigger idiot out there.
+[Skill activation] Death comes for all.
+[Heavily damaged] ...This day comes for all of us.
+[Retreat] It's not time yet... I will return.
+[MVP] This is just the basics, Commander.
+[Restoration] Commander... I promise I'll win you glory next time...
+[Attack] Witness my glory.
+[Defense] Return to formation!
+[Phrase] Trash.
+[Tip] Allow me to explain.
+[Loading] Mind holding on a little?

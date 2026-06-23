@@ -1,0 +1,26 @@
+[Acquisition] NZ75, responding to your summons, let us perform our duty together.
+[Introduction] Domestically produced service pistol NZ75 for police agency, combining all the famous firearm designs aspects from all over the world, comfortable ergonomics and reliable performance, because of I have... Emm... Ok fine, a copy of CZ75! But still looks slightly different on the exterior right? And have a much better price... Hmmm, but my performance is still undeniable.
+[Secretary] What? Don't even think about slacking off on my watch.
+[Secretary (post OATH)] Are you free next weekend Sir? Wanna come clothes shopping with me? Been with you for a while now, been thinking about changing my outfit a little, just for you...
+[OATH] Why did you take me out here Sir, if you're slacking off don't get me involved... Whaa! No wonder you've been acting so strange lately, you're actually thinking about this kind of things! Though... Maybe it isn't bad... If we continue like this. I'll have that...
+[Greeting] You've finally arrived Commander? Hurry up and start working, we're relaxed for long enough now.
+[T-Doll Produced] Salute to the new comrades!
+[Joining an echelon] Is it my turn at last...?
+[Enhancement] Hahaha! This how it feels to gain power!
+[Dummy-linking] Ahh, thank you... Commander you are so kind.
+[Logistics (start)] Should I fetch something back on the way?
+[Logistics (end)] All done now, where is my reward?
+[Autobattle] I've told you, my existence is needed.
+[Title] Girls' Frontline!
+[Starting a combat mission] The chance is finally here... Move out!
+[Starting a battle] Don't think about running...!
+[Skill activation] Take this!
+[Heavily damaged] Damn it! Time to get serious...!
+[Retreat] How... Even though I am here, how did this happen...
+[MVP] Huhuhu, this is how victory feels.
+[Restoration] Ehh... So unlucky today...
+[Halloween] Hmm, not so bad. Darkness is a perfect match for me. By the way Commander... is there any sweets left?
+[Christmas] That Hawk... what did she call me out here in the snow for? Ah...in the meantime, Merry Christmas, Commander.
+[New Year's Day] Haah? A quick skit? There's no way I would do it! What should I do... Alright, I'll do, b... but just a little! H-hey, don't laugh!
+[Valentine's day] This brand is pretty good for its price range. If you don't believe it, why don't try it?
+[Tanabata] Human's wish, will it reach the starry sky? Or will it swallowed by darkness?

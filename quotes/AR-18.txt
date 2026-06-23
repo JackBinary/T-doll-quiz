@@ -1,0 +1,30 @@
+[Acquisition] I am a tactical instructor Doll. My current designation is AR-18. Thank you for your support, Commander. Your orders, please.
+[Secretary] As a commander, you leadership is most exceptional, but it's easy to see that your knowledge of foundational tactical theory is somewhat deficient. There is no doubt that this will end up causing problems in the future... As such, I will take responsibility for making up this shortfall in your theoretical knowledge. Prepare yourself.
+[Secretary (post OATH)] I now understand why so many Dolls are willing to stand here and fight by your side... Because it is only here that we truly have the right to choose and possess unimaginable freedom.
+[OATH] If this is a joke, then I have to question your sense of humor. If it is not... Alright then, this is quite a surprise. I've lost many opportunities in the past, and for most of my life, people have made the decisions for me. You are the first person who's given me the right to choose instead. And yes, I've made my choice.
+[Greeting] You're late, Commander. Today's training schedule is as packed as ever.
+[T-Doll Produced] We have new troops? Leave them to me. I will turn them into satisfactory soldiers.
+[Joining an echelon] Reporting—Attention! At ease, now sound off.
+[Enhancement] Thank you for your aid... This will become my nourishment for my journey to the frontlines.
+[Dummy-linking] And here I thought I could use this method to delegate out my tasks... Looks like that's not going to work out.
+[Logistics (start)] Accumulating more experience will help in future battles.
+[Logistics (end)] I did better than I expected. If only this chance had come sooner.
+[Autobattle] Leave it to me. The plan is largely complete.
+[Title] Girls' Frontline!
+[Starting a combat mission] I'm very glad—At least, I won't need to lead from behind now.
+[Starting a battle] Fan out and prepare to engage the enemy.
+[Skill activation] Listen to my commands.
+[Heavily damaged] Not enough experience, huh...
+[Retreat] Fall back and regroup.
+[MVP] An expected outcome.
+[Restoration] ...Sorry for the bother.
+[Attack] Let's go, Lyudmila.
+[Halloween] I would never take part in such a rowdy activity. Once a military unit loses its discipline, regaining it is extremely difficult. While I am not totally opposed to this, I urge you as a superior officer to at least maintain your own dignity—Did you just say I can go out like this without any issues? Are you mocking me?
+[Christmas] For humans and Dolls, the faithful among them are often able to bring forth a kind of mysterious power... However, my beliefs most likely have nothing to do with religions. For me, the most important part of this occasion is the friends who celebrate it with me.
+[New Year's Day] I've never experienced the feeling of celebrating New Year's. In my previous workplace, even the liveliest celebration was nothing more than having a few drinks with my students... Which is why I'm glad you're willing to lead me. Being a student every so often is a new and refreshing experience.
+[Valentine's day] ...Do you think this day has any connection with me? I find it hard to imagine. Still, I don't mind consuming small quantities of sweets as a form of enjoyment. I got this dark chocolate from the warehouse; you can have half of it.
+[Tanabata] So, my wish will come true when I tie it onto the bamboo tree? If everything were this easy... then there wouldn't be so many problems in this world.
+[Defense] ...You're up, Instructor.
+[Phrase] Be quiet, I'm thinking.
+[Tip] ...Are they called "DEFY" now? That's certainly a more respectable codename than before.
+[Loading] Wait for the assembly whistle.

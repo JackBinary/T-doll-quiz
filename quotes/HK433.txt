@@ -1,0 +1,30 @@
+[Acquisition] I am HK433. Nice to meet you, Commander. I'll make sure you remember me.
+[Secretary] Commander, I know you've authorized Miss Kalina to make all combat reports. However, it is not my way to sit back and wait... This is my own summary combat report, for your perusal.
+[Secretary (post OATH)] A kitty ornament?! Ah, it's not like I don't like them, but if I carried one on me, my teammates would question my professional competence, would they not? ...What? It's a sign of your favor? ...Ahem, that is quite a cunning tactic. Oh well, since you've said so, I shall gladly accept.
+[OATH] I have been waiting for this moment for too long... After tens of thousands of hours of effort, I finally understand now that rather than hearing things like "I need your strength", I'd rather receive your pure affections. Thank you. Even though I didn't say anything, you still managed to see through what I wanted, In that case, will you take care of the real me in between battles, for all the days to come?
+[Greeting] The next time you accept combat reports, please make an extra copy for me.
+[T-Doll Produced] Weak rookies are not worthy of my gaze.
+[Joining an echelon] Everyone, eyes on me.
+[Enhancement] My performance is increasing... Which means I'm not perfect enough.
+[Dummy-linking] I will slot her into the adjutant's duty roster.
+[Logistics (start)] An operation like this is little more than a walk in the park.
+[Logistics (end)] Now that the walk is over, can I get back to work?
+[Autobattle] Thank you for your faith. I will train them harshly.
+[Title] Girls' Frontline!
+[Starting a combat mission] Battle is the best way to test one's strength.
+[Starting a battle] Say your prayers, trash.
+[Skill activation] There is a gap even between elites.
+[Heavily damaged] Next time... there won't be a mistake next time!
+[Retreat] This is a wise gesture to preserve one's strength.
+[MVP] Piece of cake.
+[Restoration] I am worth the effort of being restored to 100%.
+[Attack] Victory goes to the elite.
+[Halloween] A test of courage? Sorry, but I have no interest in things outside of work.. Oh? A moment please... "The winner will receive unmatched praise and the absolute respect of the other Dolls on the base?" Alright, I'm in.
+[Christmas] Strange, why are all these Dolls wearing reindeer horns? ...They seem quite well-made, I'm sure nobody will notice if I touch them— Aieee! C-Commander?! I wasn't doing anything!
+[New Year's Day] Happy new year, Commander. Rather than celebrate with other, slack Dolls, why not set off fireworks with me? As your perfect elite Doll, I have already familiarized myself with the base's fire safety regulations. Your safety is guaranteed.
+[Valentine's day] You want to know who put chocolates in the combat reports? Indeed, that was my doing. According to research, 75% dark chocolate is not only the best way to showcase the taste of cacao beans, but it also lifts your spirits and invigorates the body... However, it was merely a trivial gesture in keeping with the spirit of the occasion, so please pay it no heed.
+[Tanabata] If the Weaver Girl was a Tactical Doll, surely she would be incredibly, skilled, no? Otherwise I find it hard to imagine how the Cowherd could only meet her for one day but still pine for her for the rest of the year...
+[Defense] Everyone, avoid their attacks!
+[Phrase] The perfect me is worthy of your trust.
+[Tip] You're saying my hair tie is very familiar? ...I once heard someone say that this design was made in honor of an outstanding senior who also understood others well. But I have nothing in common with her apart from this hair tie. I will prove that to you through my own unique performance.
+[Loading] Would you moonlight with the perfect me by your side?

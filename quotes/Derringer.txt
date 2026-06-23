@@ -1,0 +1,30 @@
+[Acquisition] Hi! Derringer reporting! Want some candy, Commander? I've got a lot here, you know?
+[Secretary] I have advanced electronic components in me, but that doesn't mean I need to be the best at electronic warfare... Why do you look so down, Commander?
+[Secretary (post OATH)] Huh? I can't make candy my main diet? Then... Then I'll treat it as an after-meal snack. How about that?
+[OATH] Commander, were you paying attention to me all this time? Actually, I've also been spacing out while looking at your back... How about this... From now on, half of my sweets will be yours forever!
+[Greeting] Eh? Didn't you see me, Commander? I may have taken a nap just now, but I was here all the time! Uh, yeah... I was the "blob" you saw in the corner this morning...
+[T-Doll Produced] We've got a new friend? I can share my sweets with them!
+[Joining an echelon] When it comes to formations, you can put me anywhere as long as it's a place where I won't get lost easily.
+[Enhancement] I'm actually pretty okay with my current state. After all, it's not like doing this will make me grow taller.
+[Dummy-linking] Will my candy be multiplied too?
+[Logistics (start)] Relax, Commander, I'll bring back all the loot I see!
+[Logistics (end)] How's that? A nice haul, huh? Ah, those sweets are from my personal stash!
+[Autobattle] Leave it to Derringer!
+[Title] Girls' Frontline!
+[Starting a combat mission] I won't get lost if you let me stand in front of the group, right?
+[Starting a battle] Let me handle electronic warfare! Do your best, everyone~
+[Skill activation] Don't look down on me!
+[Heavily damaged] (Whimper) Now I've got to spend time gathering them all again... H-Hey, wait, that's mine!
+[Retreat] Owowow... Time for a tactical break while nobody's looking!
+[MVP] If I can win like this, then I won't need to work hard for the time being, hehe.
+[Restoration] This is why I said I don't want to fight intense battles...
+[Attack] So we're attacking... ehhh, where did everyone go?
+[Halloween] I collected tons of candy outside and stored them all in my sleeves! See, these are gummies, these are fruit drops... Huh? This is one of Miss Kolibri's drones, what's it doing in here?
+[Christmas] Hm? The candy canes for decorating the Christmas tree are gone? Well, I didn't hide them... Look! It's Santa Claus! Why aren't you looking?!
+[New Year's Day] Happy New Year, Commander! Ehhh?! You don't have any red packets? This has nothing to do with working hard, I was going to use it to buy a new flavor of candy!
+[Valentine's day] Commander, this is my chocolate, it tastes really good! Huh, how come there are still so many up my sleeve... Er, shall we eat them together?
+[Tanabata] If I had a pair of nimble hands, I'd like to make my sleeves a little bigger, so that maybe I could put you inside them too, Commander!
+[Defense] In, in any case, let's just hide for now.
+[Phrase] Got candy?
+[Tip] My sleeves have no maximum capacity!
+[Loading] This is taking a long time, let's find a place to sleep.

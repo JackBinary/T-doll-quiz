@@ -1,0 +1,30 @@
+[Acquisition] Hello, Commander, PPD-40 reporting. Let me get this out of the way first, the one thing I hate most in the world is people dumping last-minute overtime on me. You're not that sort of boss, are you?
+[Secretary] Do you like my cherry dangle? Here, I'll give you one. Don't worry, it's just a synthetic gemstone. I gave Papasha a few so she'd take off that plastic stuff of hers, but she said she couldn't bear to wear them...
+[Secretary (post OATH)] Commander, did you duck in here to slack off again? I'm sorry, I didn't mean to scold you! I just... I think that perhaps I have a lot to learn when it comes to honestly expressing my concern.
+[OATH] Although this ring does fit me very well, I hear that the ring has a very deep-rooted meaning behind it. Have you really thought this through, Commander? It looks like our answers are the same. That being the case, I will take responsibility for your future until the very end.
+[Greeting] One should begin a lovely day with a spoonful of black caviar and a glass of vodka.
+[T-Doll Produced] I hope this one has a touch of class.
+[Joining an echelon] You'd better listen to me if you want to come back in one piece,.
+[Enhancement] Ah, it feels great to set money on fire.
+[Dummy-linking] Looks like my clothing expenses are going up, huh...
+[Logistics (start)] I wonder if I'll find a chef who can make minced chicken cakes during this outing?
+[Logistics (end)] Unfortunately, I didn't get my wish, but I did get a lot of special acquisitions...
+[Autobattle] You're letting me handle everything? Truly a wise choice.
+[Title] Girls' Frontline!
+[Starting a combat mission] The sooner we call it a day, the sooner we get to go back and enjoy life.
+[Starting a battle] Let's take care of this ASAP so it doesn't delay my quitting time.
+[Skill activation] You bastards keeping me from knocking off can all go to hell!
+[Heavily damaged] ...This, this is impossible!
+[Retreat] We just met the enemy at the wrong time.
+[MVP] Perfect, we finished just before knocking off from work.
+[Restoration] The more intricate the Doll, the more carefully you need to — hey! Quit messing up my hair!
+[Attack] Let the enemy witness our firepower!
+[Halloween] Please close the door, Commander. It took me a lot of effort to find a place where I could drink in peace. If those troublemakers outside found out, my last bastion of solace would be gone too.
+[Christmas] Ah, it's you, Commander. Merry Christmas. I'm preparing gifts for those two. We're sisters, after all, so I need to discharge my sisterly obligations even if I dislike them, don't I?
+[New Year's Day] Happy New Year, Commander. My new year's wish is a higher salary and less work, have you thought about helping to make it come true?
+[Valentine's day] Here, this is black truffle chocolate, my favorite. Is it handmade? Of course not. While I understand the feelings that go into making handmade items, I feel that personally buying expensive gifts better expresses one's emotions.
+[Tanabata] Orihime sure is amazing, I can't believe she can endure crossing that stinky bridge of magpies... If it were me, I'd break up with Hikoboshi on the spot.
+[Defense] Humph, that's all there is to them.
+[Phrase] Girls Frontline.
+[Tip] You think I'm too stern at work? Humph, how else could I motivate this bunch of slackers?
+[Loading] Be patient, you will gain something of equal value to the time you spent waiting.

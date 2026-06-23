@@ -1,0 +1,25 @@
+[Acquisition] I am Izhmash Saiga-12. Allow me to clean up any trash we come across on our path.
+[Secretary] Commander, do you think you could give back that photo book I lent you a while back?
+[Secretary (post OATH)] Oh, Commander! Are you through with your training? Good work! I already have a hot bath ready and waiting for you!
+[OATH] Um, Commander... is it really alright for me to have this kind of pristine joy for myself? ...Oh, good! I'm glad I was able to get my feelings through to you. Let's work together to make sure our happiness stays pure!
+[Greeting] Welcome back, Commander. Before jumping right into strategizing, how about a nice bath first?
+[T-Doll Produced] New girl, huh? Let me examine their body real quick!
+[Joining an echelon] Keep grouping me up with lots of cute girls!
+[Enhancement] Now I'll be able to clean more easily!
+[Dummy-linking] Ugh... now I'm going to have even less time to myself in the bath...
+[Logistics (start)] I'm leaving now. Have a fresh set of clothes ready for me, okay?
+[Logistics (end)] I'm back! Better get in the bath first.
+[Autobattle] Leave it to me! I'll definitely clean everything up!
+[Title] Girls' Frontline!
+[Starting a combat mission] Alright, time to take out the trash!
+[Starting a battle] Such filth!
+[Skill activation] You're an eyesore!
+[Heavily damaged] I can't believe you've driven me this far back... I won't forgive you!
+[Retreat] Urgh... I'll retry this after a change of clothes...
+[MVP] That was refreshing! What a splendid victory!
+[Restoration] I need to stay on top of the laundry...
+[Halloween] Ooh, look at that little witch in her skimpy outfit! If only she had some white stockings... she'd be right up my alley!
+[Christmas] Merry Christmas, Commander! I'll handle the cleanup after the party's over. You just enjoy yourself today!
+[New Year's Day] A new year means it's time for a big cleanup! I'll start with 47's room!
+[Valentine's day] Here, Commander. These are my Valentine's chocolates. Don't forget to wash your hands before eating them!
+[Tanabata] The fireworks are pretty, but it seems like all that smoke is going to pollute the air... it has me worried...

@@ -1,0 +1,24 @@
+[Acquisition] Greetings, you must be my Commander, would you mind shaking hands? ...Thank you for your cooperation.
+[Introduction] (ditto)
+[Secretary] Commander, can I have a look at your combat plans? ...I see, so this is the difference between us...
+[Secretary (post OATH)] Today is going to be super busy... Whatever, after we rest up Commander, you should relax and accompany me.
+[OATH] Commander, as a T-Doll, a lot of humans relied on me before... But only you, you are the only one I wish to rely on. Now, can you lend me your shoulder for a bit? ...Thank you for your cooperation.
+[Greeting] Commander, is there any good news?
+[T-Doll Produced] Commander, the doll you want has been completed.
+[Joining an echelon] For this mission, I have no complaint from being paired with anyone.
+[Enhancement] This power, everything is for you Commander.
+[Dummy-linking] Let's envelope everyone with this muffler!
+[Logistics (start)] Then, let's do it as always!
+[Logistics (end)] I've returned. Just a little, can I play?
+[Autobattle] Even though you're not asking me, if it's just this, I too can do it.
+[Title] Girls' Frontline!
+[Starting a battle] Enemy! Prepare counter attack!
+[Skill activation] This will make it easier!
+[Heavily damaged] Eh...! W-what did you do to me?!
+[Retreat] There's nothing I can do in this kind of situation.
+[MVP] Everything is according to your expectation, Commander. It's really reassuring!
+[Restoration] I can't work nor play, how boring...
+[Christmas] Merry Christmas, Commander! It's still cold outside, you better take care of your body. If you're fine with it... I could lend you my muffler.
+[New Year's Day] Commander, do you have any plan for new year? Like going out somewhere. It's fine to take me somewhere.
+[Valentine's day] Rather than making chocolate, I could make pudding better. It's more exciting.
+[Tanabata] Ugh... i feel gloomy. Even though the outside is brimming with excitement, I can't leave my work...! Ugh...

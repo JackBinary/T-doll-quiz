@@ -1,0 +1,26 @@
+[Acquisition] Yoohoo! The brand new and outstanding CZ-805A1 is at your service from now on! Look forward to my performance!
+[Introduction] The CZ 805A1 assault rifle, as a standard weapon of the new era, I have received much attention. Combining the advantages of a large number of weapons, and after many improvements, this advanced assault rifle was finalized. Although there is not much practical experience, I can deal with it because of its modular design and various operational environments.
+[Secretary] What's the matter, commander? I'm right here.
+[Secretary (post OATH)] Yes, that's it, use this chance before we attack to admire me! Don't forget to record my heroicness in battle this time.
+[OATH] You chose me out of all the amazing weapons out here.... Okay! I'll be right here by your side from now on!
+[Greeting] Good morning commander! Are you happy to meet me?
+[T-Doll Produced] Rookie-chan? Show me ~
+[Joining an echelon] Alright! Let's take a good look at it!
+[Enhancement] Hey, who is this design similar to?
+[Dummy-linking] This will change the formation.
+[Logistics (start)] Sometimes it's not so bad outside.
+[Logistics (end)] I'm home, I had a good harvest.
+[Autobattle] Don't give up, seniors!
+[Title] Girls' Frontline!
+[Starting a combat mission] There is no reason to lose!
+[Starting a battle] Do it properly!
+[Skill activation] Leave it to me!
+[Heavily damaged] Oh my God! It's not my fault! ... what ... what do you mean?
+[Retreat] Yeah ... uh ... I can't aim well because the weather is bad today ...
+[MVP] This is natural!
+[Restoration] This is ... that ... I'm sorry ... I was careless ...
+[Halloween] It ’s really busy tonight. It's hard to give children sweets. that? There's something I remember from the child who came to Shantou yesterday.
+[Christmas] Merry Christmas commander! Excited for a long time and enjoy this event!
+[New Year's Day] Happy new commander! That was my “…” Expect this year too.
+[Valentine's day] How does the commander spend today? Do you spend time with someone? For example ... Hey ...
+[Tanabata] What is the commander's wish? Could that be the case for me?

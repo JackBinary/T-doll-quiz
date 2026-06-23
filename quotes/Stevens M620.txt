@@ -1,0 +1,20 @@
+[Acquisition] You issue the orders, and I push the frontline forward. May we reach a seamless cooperation - Stevens 620, at your service, sir.
+[Secretary] T-Dolls are soldiers. Weapons. Hence, it's imperative for you to be decisive when issuing orders; excessive compassion and concern will only to [sic] unnecessary harm. I hope we can both reach such consensus.
+[Secretary (post OATH)] Please refrain from pouncing at me like that, unless you want to accidentally pull out a grenade pin.
+[OATH] Are you testing my allegiance? There's no need for that. Ever since the day I came under your command, everything I've done was for the sole purpose of realizing your ambitions. This remains unchanging. Of course, if this oath is to make the bond between us even stronger, I'll gladly accept it...
+[Greeting] Good morning, sir. If you can keep your eyes open, let's have a look at the combat report, shall we?
+[Joining an echelon] A new battle coming up? Stop slacking off then. Let's head out now.
+[Enhancement] As to how useful these enhancements are, we'll find out on the battlefield.
+[Dummy-linking] ...would it have been any different, if it was "you" at the time?
+[Logistics (start)] To scale those mountains and conquer unseen landscapes...is indeed a journey to be reckoned with.
+[Logistics (end)] You've been waiting for a long time, haven't you? In that case, let me present you results worthy of your patience.
+[Autobattle] No need to worry for me, the breezes on the battlefield will guide me towards my destination.
+[Title] Girls' Frontline!
+[Starting a combat mission] Formation complete, marching towards the battlefield!
+[Starting a battle] Let the enemies know that we shall know no fear. Advance!
+[Skill activation] Destroy everything.
+[Heavily damaged] ...this is but a scratch.
+[Retreat] Wait for the right opportunity. We must take the front back...!
+[MVP] An unremarkable outcome, but certainly worth celebrating.
+[Restoration] As a soldier, this level of damage is nothing to fret over...
+[Loading] We don't have the lifespan of mayflies, so let's wait patiently.

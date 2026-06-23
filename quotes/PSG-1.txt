@@ -1,0 +1,27 @@
+[Acquisition] Nice to meet you, I am GR PSG-1. Thank you for placing your trust in me, and I'll be sure to make the most out of this opportunity you've given me.
+[Introduction] In order to protect hostages more quickly during counter-terrorism missions, HK has developed a high-precision police semi-automatic rifle-- this is me, PSG-1. It was considered to be one of the most accurate rifles at the time, but the expensive construction costs made circulation scarce and it even became a collectible. It's all...a bit upside down...
+[Secretary] Commander, please leave the next mission to me as well.
+[Secretary (post OATH)] Commander, will you come visit my room tonight? I tidied it up, so it won't be all messy like last time...
+[OATH] Thank you very much for looking after me all this time, as I've always inconvenienced you in battle and in daily life. Yet, regardless of all the trouble I've caused you, you were always there to encourage me...Thank you, commander, the time to repay you is drawing near.
+[Greeting] Commander, welcome... I've been waiting for you.
+[T-Doll Produced] I've been waiting for new comrade to joining in.
+[Joining an echelon] PSG-1, heading to battlefield!
+[Enhancement] Thank you for making up for the missing part.
+[Dummy-linking] Such a flashy display was quite difficult, wasn't it...?
+[Logistics (start)] Eh? Wait, I'm still packing my goods...
+[Logistics (end)] Aah, so tired.
+[Autobattle] I won't let you hurt my comrade!
+[Title] Girls' Frontline!
+[Starting a combat mission] PSG-1, arriving on the battlefield!
+[Starting a battle] Enemy spotted, commencing counter-attack!
+[Skill activation] Disappear!
+[Heavily damaged] Situation critical! Requesting aid!
+[Retreat] I'm sorry, the situation must be dire.
+[MVP] It was a tough victory, thanks everyone!
+[Restoration] Understood. I'll be sure to do better.
+[Halloween] I prefer a quiet place... But enjoying this kind of lively atmosphere once in a while isn't half bad.
+[Christmas] Merry Christmas, Commander. Are you going to wrap these presents tonight? I'll lend a hand.
+[New Year's Day] Happy New Year. Commander... are you doing cleaning? Umm... can I do it next time... Ah, looks like I can't run away.
+[Valentine's day] Commander, I bought this chocolate... please eat it. It's delicious.
+[Tanabata] Are you going to the festival tonight? I know a good spot.
+[Title] Girls' Frontline!

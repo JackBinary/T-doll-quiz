@@ -1,0 +1,18 @@
+[Acquisition] Oh... You're the Commander? If all the idiots on the highway drives like you, I'd rather die in a car crash~
+[Introduction] (Same as above)
+[Secretary] Stop embarrassing yourself~ If I had your productivity, my bullets won't even reach 300km/hr~
+[Secretary (post OATH)] I gotta keep my eyes on you today, Commander. I won't miss anything that can happen to an idiot like you, not even a moment. Behave yourself, okay?
+[OATH] Tsk.. Commander, is this your way of weaseling out a ticket? Since you're trying so hard, I'll let you off with a verbal warning this time~ But don't think you're getting off so easily the next time I catch you. Hehe~
+[Greeting] Did your toy car gett in an accident with a turtle?
+[T-Doll Produced] New recruit, show me your driving license.
+[Joining an echelon] Little girls, wearing seatbelt is a must in my echelon.
+[Enhancement] If you're going to bribe, give me at least one bottle of carbonated drink.
+[Dummy-linking] It's the first time I'm looking at my lovely face~!
+[Logistics (start)] If you want me to drive safely, prepare me a faster truck.
+[Logistics (end)] Looking for something? There's no way I'd give you my cosmetics.
+[Title] Girls' Frontline!
+[Starting a combat mission] Idiots, it's time for patrol.
+[Skill activation] Do those eye sockets hollow? This is a dead end.
+[Heavily damaged] Eh, what?! What's the meaning of this? I'm in a mess!
+[Halloween] There's no way I'll give you brats these sweets. If you want it that bad, trade it with carbonated drink.
+[Valentine's day] You want my chocolate? Ufufu, adorable Commander, today is not April Fools you know?

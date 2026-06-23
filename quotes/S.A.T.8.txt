@@ -1,0 +1,21 @@
+[Acquisition] We've finally met, Commander! I'm fully prepared to fight alongside you, are you prepared as well?
+[Introduction] I am S.A.T.-8 Semi-Automatic Shotgun, Even though the name says "Semi-Automatic Tactical, 8 shots"... But it's actually just 7 in underbarrel tube magazine plus one inside the chamber under the naming convention, so don't judge a book by its cover alright?
+[Secretary] You want to try this pizza commander? ...Oh, it's not ordered from outside, you know?
+[Secretary (post OATH)] Commander, eating pizza all the time is no good either, how about some Aspic I made just now?
+[OATH] Commander, if you ask me whether I'm prepared for this, I really haven't still...  But such a thing isn't important anymore. Because as long as you're by my side, for the parts of me that are unprepared, I leave them to you~❤
+[Greeting] You finally here! Let's start by confirming advanced preparation.
+[T-Doll Produced] Newcomer, have you prepared your self-introduction?
+[Joining an echelon] Not a bad spot~
+[Enhancement] You like this of me? I'm glad!
+[Dummy-linking] You want to link me up? Let's do it~!
+[Logistics (start)] Back up for an operation is indispensable!
+[Logistics (end)] Commander, please make use of the supplies properly!
+[Autobattle] This battle's victory is already settled!
+[Title] Girls' Frontline!
+[Starting a combat mission] Everyone, let's go as planned!
+[Starting a battle] They really come!
+[Skill activation] Yup, this is perfect!
+[Heavily damaged] Oh my, I'm tattered~ I've been defeated~
+[Retreat] It seems that our preparation wasn't enough, let's pull back.
+[MVP] Such a magnificent victory! Thanks for everyone's effort!
+[Restoration] Where did it go wrong? I don't get it...

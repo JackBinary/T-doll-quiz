@@ -1,0 +1,25 @@
+[Acquisition] M1A1, reporting in. Let's overcome these trials together.
+[Secretary] Commander, have you seen Garand?
+[Secretary (post OATH)] Commander, today's goal will also be successfully achieved, right? No matter the outcome, I will no longer be scared again as long as you're here.
+[OATH] Commander, why did you choose me and not Garand... Eh? Garand, why are you here? ......Mhm, I will work hard for the sake of Garand too. Commander, please watch me.
+[Greeting] Good morning, Commander. What are your plans for today? Is there...anything I can do?
+[T-Doll Produced] A new friend...has arrived.
+[Joining an echelon] M1A1, remodeling completed, now joining the unit.
+[Enhancement] Thank you very much. With this...I can be more helpful to Garand.
+[Dummy-linking] Good...if this is the case, can I become an assault rifle?
+[Logistics (start)] Understood...I'll give it a try.
+[Logistics (end)] I'm home...umm...
+[Autobattle] Do we have enough ammo?
+[Title] Girls' Frontline!
+[Starting a combat mission] Uh, um...departing!
+[Starting a battle] Stay calm...stay calm...
+[Skill activation] Get closer...shoot!
+[Heavily damaged] Uwaaa! No good! If they keep this up, we'll be done for...
+[Retreat] I'm sorry...we'll get them next time...
+[MVP] Eh? We won? Hooray! Garand, did you see me?
+[Restoration] I wonder if Garand is okay?
+[Halloween] Garand is being surrounded by many people tonight. I have no idea what they're doing... I think I'm going to take a look.
+[Christmas] Merry Christmas, Commander. Have you seen Garand? I was supposed to be celebrating today with her. Commander, want to help me look for her?
+[New Year's Day] Happy New Year, Commander. It's great to enter the new year with you, me, and Garand.
+[Valentine's day] It's Valentine's Day today. Garand seems to be running late so it's just me for now. Here, please have this.
+[Tanabata] Today is Tanabata. What did Garand wish for? As for my wish...that's a secret.

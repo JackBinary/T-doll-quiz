@@ -1,0 +1,71 @@
+[Acquisition] Type 56 semi-automatic carbine, officially enlisting. Commander, everyone, it's nice to meet you!
+[Secretary] Commander, you're working hard!
+[Secretary (post OATH)] Commander, please have some water. I put in a special ingredient, do you know what it is? Ufufu, you'll get a reward if you figure it out.
+[OATH] What is it, Commander. Eh? What is this? For the time being, put it over there, I need to help prepare dinner. If we put it aside will it be too late? Just what on earth. Eh? You're lying!? Really!?
+[Greeting] Type 56, standing by. Commander, give me instructions!
+[T-Doll Produced] A new comrade has arrived, let's go welcome them.
+[Joining an echelon] Type 56 semi-automatic, please review!
+[Enhancement] Thanks to you, Commander, I can still do more.
+[Dummy-linking] Thanks to you, Commander, I've gained more power.
+[Logistics (start)] Type 56, roger! I'm coming!
+[Logistics (end)] Type 56, returning home, please check the results!
+[Autobattle] Fellow comrades, we've taken another step forward!
+[Title] Girls' Frontline!
+[Starting a combat mission] Let's proceed towards victory!
+[Starting a battle] Now, let us go!
+[Skill activation] Aim and shoot!
+[Heavily damaged] Ah, no, everyone, please don't mind me.
+[Retreat] I'm sorry, commander... Next time I will certainly accomplish my mission!
+[MVP] Type 56, I have completed my mission! Commander, please check the battle results soon!
+[Restoration] Haaaa, I'm fine, please fix the others first.
+[Halloween] What will you do tonight? Dance? I'm proud in my steps!
+[Christmas] Christmas? I don't really understand, but we should eat meat.
+[New Year's Day] Happy New Years, Commander! If you have any excess gifts, you should give them to the organization.
+[Tanabata] My wish is to greet the dawn with my comrades, Commander
+[Acquisition] Type 56R reporting! Mm, this IS a nice outfit, isn't it?
+[Secretary] The biggest change that I can feel is that I can truly mix with my comrades now. I've gotten a lot closer to them as a result!
+[Secretary (post OATH)] Ah, sorry, but this letter is for me... Are you curious about the contents? Hehe, well, if I tell you, you have to promise not to get jealous, okay?
+[OATH] What is it, Commander? Eh? What is this? Please hold on until later, as I need to prepare some food first... Eh? This can't wait? What is it even... Eh? ...Seriously?!
+[Greeting] What instructions do you have for me, Commander?
+[T-Doll Produced] So, a new trooper has arrived? I'm sure she's a reliable comrade too!
+[Joining an echelon] Reporting! I have joined the ranks!
+[Enhancement] Thank you! I really want to try this out at the firing range!
+[Title] Girls' Frontline!
+[Starting a combat mission] Looks like preparations are complete. Squad, march!
+[Starting a battle] Delta formation, disperse!
+[Skill activation] There's no escape!
+[Heavily damaged] Ugh! I'm not going to retreat from the firing line over a small wound like this!
+[Retreat] I need to protect myself...
+[MVP] Such is the fate of all enemies who dare to strike back!
+[Attack] Advance in bounds, follow me!
+[Defense] Team, cover each other! Hold this position!
+[Acquisition] This is Type 56R reporting! Mm, this outfit looks nice, doesn't it?
+[Secretary] Miss Kalina's giving treats to everyone? Thank you! This box should be mine, right? Then don't mind if I do... Huh? How come it's filled with bamboo? C-Commander, did you swap out the contents?!
+[Secretary (post OATH)] Commander, I made lots of animal masks this time, could you try them on for me~ Aw, don't be shy!
+[OATH] Commander, I didn't think you'd wear panda ears on this occasion... Ahahahaha, I'm sorry, but it really does stand out. Still, they're adorable and suit you very well~ Yup! In that case, I'll make more accessories from you for now on. Look forward to them!
+[Greeting] Commander, do you have any instructions?
+[T-Doll Produced] Do we have a new recruit? I'm sure she'll be a reliable comrade!
+[Joining an echelon] I wish I could ride a panda into formation...
+[Enhancement] Thank you! I'd like to test out my improvement at the range!
+[Dummy-linking] Thank you, Commander! Many hands make light work!
+[Logistics (start)] Type 56R, setting out as ordered!
+[Logistics (end)] Type 56R, returning to unit! Come see what I got!
+[Autobattle] Strive harder, comrades!
+[Title] Girls' Frontline!
+[Starting a combat mission] Looks like everything's ready. Squad, attack!
+[Starting a battle] Delta formation, move!
+[Skill activation] Taste my full power!
+[Heavily damaged] (Whimper) Stuff made of paper breaks so easily...
+[Retreat] I need to take care of myself...
+[MVP] This is the price you pay for fighting back!
+[Restoration] Let's use this opportunity to make a few more paper accessories.
+[Attack] Bounding advance, with me!
+[Halloween] What's happening tonight? ...A dance? I'm good at that.
+[Christmas] Christmas? ...I don't quite get it, but it's good as long as I can eat meat!
+[New Year's Day] Happy new year, Commander! If you received extra red packets, remember to turn them over to the company.
+[Valentine's day] Today is chocolate submission day, right? Here, Commander! Please have a look!
+[Tanabata] Commander, my wish is to greet the final dawn with my comrades!
+[Defense] Cover each other and hold the line!
+[Phrase] To serve the people.
+[Tip] I'm only going to tell you, Commander!
+[Loading] Commander, wait for me! I, I'm not good at running...

@@ -1,0 +1,36 @@
+[Acquisition] Let's see who this is-- Commander of G&K! I'm K11, the emergency encounters specialist, please allow me to show you my talents!
+[Introduction] (ditto)
+[Secretary] This reagent color doesn't seem right... Commander?! No no no, you saw nothing!
+[Secretary (post OATH)] How about playing real battle royale for this time's break? Don't worry, I'll teach you by hand.
+[OATH] Calling me out at this hour, I haven't even finished my lab notes. Commander...you really have a knack for saying these things. Looks like I'll have to find some space in my cloud-map aside from experiments and missions to store our new memories together.
+[Greeting] Too slow, Commander! You've finally returned.
+[T-Doll Produced] Is she a combat pro, or a doll looking for appreciation? I'm looking forward to finding out.
+[Joining an echelon] Hmm...are you willing to help me out in a pinch?
+[Enhancement] This'll be useful in any situation!
+[Dummy-linking] The more we can rely on, the better our chances at winning!
+[Logistics (start)] Here we go! Onward to a new adventure!
+[Logistics (end)] Hey, Commander! I've brought some interesting stuff!
+[Autobattle] What an interesting place! Let's inspect it carefully!
+[Title] Girls' Frontline!
+[Starting a combat mission] Commencing operation. The planned hunting time is...huh? Guess I forgot!
+[Starting a battle] Come! I'll show you the difference between us!
+[Skill activation] Bang~! Fireworks!!!
+[Heavily damaged] This...is bad, I forgot to calculate the explosion's blast radius!
+[Retreat] Where did I go wrong? Welp, time to pull out...
+[MVP] Hah, how's that? Now do you believe me when I said I was special?
+[Restoration] When we meet them in the next battle...they're really gonna be in for it...
+[Halloween] Such a wonderful festival! What do you think, Commander, pulling a prank on IOP? I don't need any sweets or ice cream!
+[Christmas] I hung up some stockings. Santa's gonna help me with a costlier remodel. *Yawn* I'm getting sleepy...
+[New Year's Day] We're greeting the new year but, don't you want to see something special? I've prepared rainbow-coloured fireworks!
+[Valentine's day] Hey Commander, a chocolate for you! I have a feeling that I mixed gunpowder into it... Well, how about tasting it first?
+[Acquisition] Let's see who this is-- Commander of G&K! I'm K11, the emergency encounters specialist, please allow me to show you my talents!
+[Introduction] (ditto)
+[Secretary] Commander! Wanna try this new energy drink I made? Drink it like this, and you'll be going for hours! *gulp* *gulp* *gulp* Kya!
+[Secretary (post OATH)] My classmates all think I'm a loner, I don't want to waste time with idiots like them. But Commander's different, since you actually understand me... So I'll work hard, only for you.
+[OATH] Hey hey, got a new research project you need help with? You're so helpless, lemme take a look. Uh, does an Oath even count as research? I think I can make this decision only when I grow up... But I'll accept this present. I know that even if I'm older, I won't regret the choice I've made today.
+[Title] Girls' Frontline!
+[Halloween] But I don't want to go outside, Commander...
+[Christmas] I'm hooome! Now I can take a break right?! Then I'll return to my lab!
+[New Year's Day] Explosion Number 15, launch!
+[Valentine's day] It's your mistake for laying your hands on a laborant!
+[Tanabata] Take this! Although I haven't decide a name!
