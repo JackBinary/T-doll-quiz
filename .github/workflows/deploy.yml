@@ -1,0 +1,56 @@
+name: Deploy quiz to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+# Permissions the deploy-pages action needs.
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Never run two deploys at once; let an in-flight one finish.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Regenerate quiz_data.js from the committed answers/descriptions so the
+      # live site always matches the repo. Dolls without a complete vector or
+      # image are skipped, so unfinished entries simply don't appear yet.
+      - name: Build quiz data
+        run: python build_site_data.py
+
+      # The site/doll_images symlink points outside site/, which Pages won't
+      # follow. Replace it with the real files so the artifact is self-contained.
+      - name: Stage doll images
+        run: |
+          rm -f site/doll_images
+          cp -r doll_images site/doll_images
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
